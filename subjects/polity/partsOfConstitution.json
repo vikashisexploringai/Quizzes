@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which Part of the Indian Constitution deals with 'The Union and its Territory'?",
+    "choices": ["Articles 1–4", "Articles 5–11", "Articles 12–35", "Articles 36–51"],
+    "answer": "Articles 1–4",
+    "explanation": "Part I (Articles 1–4) defines India as a Union of States and allows Parliament to reorganize states."
+  },
+  {
+    "question": "Which Part of the Indian Constitution deals with 'Citizenship'?",
+    "choices": ["Articles 1–4", "Articles 5–11", "Articles 12–35", "Articles 36–51"],
+    "answer": "Articles 5–11",
+    "explanation": "Part II (Articles 5–11) covers citizenship rights at the commencement of the Constitution and related laws."
+  },
+  {
+    "question": "Which Part of the Indian Constitution contains 'Fundamental Rights'?",
+    "choices": ["Articles 5–11", "Articles 12–35", "Articles 36–51", "Articles 52–151"],
+    "answer": "Articles 12–35",
+    "explanation": "Part III (Articles 12–35) guarantees Fundamental Rights, including equality, freedom, and constitutional remedies."
+  },
+  {
+    "question": "Which Part of the Indian Constitution contains 'Directive Principles of State Policy'?",
+    "choices": ["Articles 12–35", "Articles 36–51", "Articles 52–151", "Articles 152–237"],
+    "answer": "Articles 36–51",
+    "explanation": "Part IV (Articles 36–51) lists Directive Principles, which are non-justiciable guidelines for governance."
+  },
+  {
+    "question": "Which Part of the Indian Constitution includes 'Fundamental Duties'?",
+    "choices": ["Article 51A", "Articles 243–243O", "Articles 244–244A", "Articles 245–263"],
+    "answer": "Article 51A",
+    "explanation": "Part IVA (Article 51A) was added by the 42nd Amendment (1976) and lists 11 Fundamental Duties for citizens."
+  },
+  {
+    "question": "Which Part of the Indian Constitution deals with 'The Union Government'?",
+    "choices": ["Articles 52–151", "Articles 152–237", "Articles 239–242", "Articles 245–263"],
+    "answer": "Articles 52–151",
+    "explanation": "Part V (Articles 52–151) covers the President, Parliament, Supreme Court, and Union Executive."
+  },
+  {
+    "question": "Which Part of the Indian Constitution deals with 'The State Governments'?",
+    "choices": ["Articles 52–151", "Articles 152–237", "Articles 239–242", "Articles 245–263"],
+    "answer": "Articles 152–237",
+    "explanation": "Part VI (Articles 152–237) defines the structure of State Governments, including Governors and State Legislatures. Part VII containing Artcile 238 dealing with part B states was repeled by 7th amendment, 1956"
+  },
+  {
+    "question": "Which Part of the Indian Constitution deals with 'The Union Territories'?",
+    "choices": ["Articles 152–237", "Articles 239–242", "Articles 244–244A", "Articles 245–263"],
+    "answer": "Articles 239–242",
+    "explanation": "Part VIII (Articles 239–242) governs the administration of Union Territories."
+  },
+  {
+    "question": "Which Part of the Indian Constitution deals with 'The Panchayats'?",
+    "choices": ["Articles 243–243O", "Articles 244–244A", "Articles 245–263", "Articles 264–300A"],
+    "answer": "Articles 243–243O",
+    "explanation": "Part IX (Articles 243–243O) establishes the system of Panchayati Raj (local self-government in villages)."
+  },
+  {
+    "question": "Which Part of the Indian Constitution deals with 'Emergency Provisions'?",
+    "choices": ["Articles 343–351", "Articles 352–360", "Articles 361–367", "Articles 368"],
+    "answer": "Articles 352–360",
+    "explanation": "Part XVIII (Articles 352–360) covers National Emergency, President's Rule, and Financial Emergency."
+  }
+]
