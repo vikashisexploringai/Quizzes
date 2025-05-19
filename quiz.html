@@ -28,11 +28,38 @@
                 <p id="explanation-text"></p>
                 <button id="next-button">Next Question</button>
             </div>
+            
+            <!-- Enhanced Result Container -->
             <div class="result-container" id="result-container" style="display: none;">
-                <h2>Quiz Completed!</h2>
-                <p>Your score: <span id="score">0</span>/<span id="total">0</span></p>
-                <button onclick="location.reload()">Take Another Quiz</button>
-                <button onclick="window.location.href='index.html'">Choose Different Subject</button>
+                <div class="result-card">
+                    <h2>Quiz Completed! 🎉</h2>
+                    
+                    <div class="score-display">
+                        <div class="score-circle">
+                            <span id="score-percentage">0</span>%
+                        </div>
+                        <p>You scored <span id="score">0</span> out of <span id="total">0</span></p>
+                    </div>
+                    
+                    <div class="performance-feedback">
+                        <p id="performance-message">Keep practicing to improve!</p>
+                        <div class="progress-meter">
+                            <div class="progress-fill" id="progress-fill"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="action-buttons">
+                        <button onclick="restartQuiz()" class="btn-restart">
+                            ↻ Restart Same Quiz
+                        </button>
+                        <button onclick="window.location.href='theme.html'" class="btn-new-theme">
+                            🏛️ Choose Different Theme
+                        </button>
+                        <button onclick="window.location.href='index.html'" class="btn-new-subject">
+                            📚 Choose Different Subject
+                        </button>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
