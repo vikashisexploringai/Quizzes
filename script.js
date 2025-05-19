@@ -21,7 +21,7 @@ const subjects = {
     'polity': {
         displayName: 'Polity',
         themes: {
-            'x': { displayName: 'Polity Basics' }
+            'partsOfConstitution': { displayName: 'Parts of Constitution' }
         }
     }
     // Add more subjects as needed
