@@ -6,49 +6,69 @@ let currentQuestionIndex = 0;
 let score = 0;
 let selectedQuestions = [];
 
-// Subject selection from index.html
-function selectSubject(subject) {
-    currentSubject = subject;
-    localStorage.setItem('selectedSubject', subject);
-    window.location.href = 'themes.html';
-}
+// Available subjects and their themes
+const subjects = {
+    'history': ['battles', 'contemporaryHistory', 'modernHistory'],
+    'science': ['physics', 'chemistry'],
+    'geography': ['physical', 'human', 'environmental']
+    // Add more subjects and their themes as needed
+};
 
-// Theme page functionality
+// Initialize the appropriate page
 document.addEventListener('DOMContentLoaded', function() {
-    if (window.location.pathname.endsWith('themes.html')) {
-        initializeThemePage();
-    } else if (window.location.pathname.endsWith('quiz.html')) {
+    const path = window.location.pathname;
+    
+    if (path.endsWith('index.html') || path === '/') {
+        setupSubjectSelection();
+    } else if (path.endsWith('theme.html')) {
+        setupThemeSelection();
+    } else if (path.endsWith('quiz.html')) {
         initializeQuizPage();
     }
 });
 
-function initializeThemePage() {
+// SUBJECT SELECTION PAGE FUNCTIONS
+function setupSubjectSelection() {
+    const subjectButtonsContainer = document.getElementById('subject-buttons');
+    
+    // Clear any existing buttons
+    subjectButtonsContainer.innerHTML = '';
+    
+    // Create buttons for each subject
+    Object.keys(subjects).forEach(subject => {
+        const button = document.createElement('button');
+        button.textContent = formatDisplayName(subject);
+        button.onclick = () => selectSubject(subject);
+        subjectButtonsContainer.appendChild(button);
+    });
+}
+
+function selectSubject(subject) {
+    currentSubject = subject;
+    localStorage.setItem('selectedSubject', subject);
+    window.location.href = 'theme.html';
+}
+
+// THEME SELECTION PAGE FUNCTIONS
+function setupThemeSelection() {
     const subject = localStorage.getItem('selectedSubject');
-    if (!subject) {
+    if (!subject || !subjects[subject]) {
         window.location.href = 'index.html';
         return;
     }
     
     currentSubject = subject;
-    const subjectTitle = document.getElementById('subject-title');
-    subjectTitle.textContent = subject.charAt(0).toUpperCase() + subject.slice(1) + ' Quiz';
+    document.getElementById('subject-title').textContent = formatDisplayName(subject);
     
-    // Load available themes for this subject
-    const themeButtons = document.getElementById('theme-buttons');
+    const themeButtonsContainer = document.getElementById('theme-buttons');
+    themeButtonsContainer.innerHTML = '';
     
-    // For this example, we'll hardcode the themes for history
-    // In a real app, you might want to fetch this from a config file
-    const themes = {
-        history: ['battles', 'contemporaryHistory', 'modernHistory'],
-        science: ['physics', 'chemistry']
-    };
-    
-    themes[subject].forEach(theme => {
+    // Create buttons for each theme in the selected subject
+    subjects[subject].forEach(theme => {
         const button = document.createElement('button');
-        button.textContent = theme.charAt(0).toUpperCase() + 
-                            theme.slice(1).replace(/([A-Z])/g, ' $1');
+        button.textContent = formatDisplayName(theme);
         button.onclick = () => selectTheme(theme);
-        themeButtons.appendChild(button);
+        themeButtonsContainer.appendChild(button);
     });
 }
 
@@ -58,7 +78,7 @@ function selectTheme(theme) {
     window.location.href = 'quiz.html';
 }
 
-// Quiz page functionality remains the same except for the JSON path
+// QUIZ PAGE FUNCTIONS
 function initializeQuizPage() {
     const subject = localStorage.getItem('selectedSubject');
     const theme = localStorage.getItem('selectedTheme');
@@ -71,21 +91,160 @@ function initializeQuizPage() {
     currentSubject = subject;
     currentTheme = theme;
     
+    // Set the quiz title
     document.getElementById('theme-title').textContent = 
-        `${subject.charAt(0).toUpperCase() + subject.slice(1)}: ${theme.charAt(0).toUpperCase() + theme.slice(1).replace(/([A-Z])/g, ' $1')}`;
+        `${formatDisplayName(subject)}: ${formatDisplayName(theme)}`;
     
     // Load questions for the selected subject and theme
-    fetch(`subjects/${subject}/themes/${theme}.json`)
-        .then(response => response.json())
+    fetch(`subjects/${subject}/${theme}.json`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Failed to load questions');
+            }
+            return response.json();
+        })
         .then(data => {
+            if (!Array.isArray(data) || data.length === 0) {
+                throw new Error('No questions available');
+            }
             questions = data;
             setupQuestionCountSelection();
         })
         .catch(error => {
             console.error('Error loading questions:', error);
             alert('Failed to load questions. Please try again.');
+            window.location.href = 'theme.html';
         });
 }
 
-// Rest of the quiz functions remain the same as before
-// (setupQuestionCountSelection, startQuiz, displayQuestion, checkAnswer, nextQuestion, showResults, shuffleArray)
+function setupQuestionCountSelection() {
+    const countButtonsContainer = document.getElementById('count-buttons');
+    countButtonsContainer.innerHTML = '';
+    
+    const counts = [10, 20, 30];
+    let validCounts = 0;
+    
+    // Add buttons for 10, 20, 30 if there are enough questions
+    counts.forEach(count => {
+        if (questions.length >= count) {
+            const button = document.createElement('button');
+            button.textContent = count;
+            button.onclick = () => startQuiz(count);
+            countButtonsContainer.appendChild(button);
+            validCounts++;
+        }
+    });
+    
+    // Only show "All" button if there are questions and it's different from the other options
+    if (questions.length > 0 && (validCounts === 0 || questions.length > counts[validCounts - 1])) {
+        const allButton = document.createElement('button');
+        allButton.textContent = `All (${questions.length})`;
+        allButton.onclick = () => startQuiz(questions.length);
+        countButtonsContainer.appendChild(allButton);
+    }
+}
+
+function startQuiz(questionCount) {
+    document.getElementById('question-count-selection').style.display = 'none';
+    document.getElementById('quiz-container').style.display = 'block';
+    
+    // Shuffle questions and select the requested number
+    selectedQuestions = shuffleArray([...questions]).slice(0, questionCount);
+    currentQuestionIndex = 0;
+    score = 0;
+    
+    displayQuestion();
+}
+
+function displayQuestion() {
+    if (currentQuestionIndex >= selectedQuestions.length) {
+        showResults();
+        return;
+    }
+    
+    const question = selectedQuestions[currentQuestionIndex];
+    const questionText = document.getElementById('question-text');
+    const optionsContainer = document.getElementById('options-container');
+    const explanationContainer = document.getElementById('explanation-container');
+    
+    // Update progress bar
+    const progress = ((currentQuestionIndex) / selectedQuestions.length) * 100;
+    document.getElementById('progress-bar').style.width = `${progress}%`;
+    
+    // Hide explanation and show question
+    explanationContainer.style.display = 'none';
+    questionText.textContent = question.question;
+    
+    // Clear previous options
+    optionsContainer.innerHTML = '';
+    
+    // Shuffle options and create buttons
+    const shuffledOptions = shuffleArray([...question.choices]);
+    shuffledOptions.forEach(option => {
+        const button = document.createElement('button');
+        button.textContent = option;
+        button.onclick = () => checkAnswer(option, question.answer);
+        optionsContainer.appendChild(button);
+    });
+}
+
+function checkAnswer(selectedOption, correctAnswer) {
+    const options = document.querySelectorAll('#options-container button');
+    const explanationContainer = document.getElementById('explanation-container');
+    const explanationText = document.getElementById('explanation-text');
+    const question = selectedQuestions[currentQuestionIndex];
+    
+    // Disable all options
+    options.forEach(option => {
+        option.disabled = true;
+        if (option.textContent === correctAnswer) {
+            option.classList.add('correct');
+        } else if (option.textContent === selectedOption && selectedOption !== correctAnswer) {
+            option.classList.add('incorrect');
+        }
+    });
+    
+    // Update score if correct
+    if (selectedOption === correctAnswer) {
+        score++;
+    }
+    
+    // Show explanation
+    explanationText.textContent = question.explanation || 'No explanation available.';
+    explanationContainer.style.display = 'block';
+    
+    // Set up next question button
+    document.getElementById('next-button').onclick = nextQuestion;
+}
+
+function nextQuestion() {
+    currentQuestionIndex++;
+    displayQuestion();
+}
+
+function showResults() {
+    const quizContainer = document.getElementById('quiz-container');
+    const resultContainer = document.getElementById('result-container');
+    
+    quizContainer.style.display = 'none';
+    resultContainer.style.display = 'block';
+    
+    document.getElementById('score').textContent = score;
+    document.getElementById('total').textContent = selectedQuestions.length;
+}
+
+// UTILITY FUNCTIONS
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
+function formatDisplayName(name) {
+    return name
+        .replace(/([A-Z])/g, ' $1') // Add space before capital letters
+        .replace(/^./, str => str.toUpperCase()) // Capitalize first letter
+        .trim();
+}
