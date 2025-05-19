@@ -244,14 +244,55 @@ function nextQuestion() {
 function showResults() {
     const quizContainer = document.getElementById('quiz-container');
     const resultContainer = document.getElementById('result-container');
+    const totalQuestions = selectedQuestions.length;
+    const percentage = Math.round((score / totalQuestions) * 100);
     
     quizContainer.style.display = 'none';
     resultContainer.style.display = 'block';
     
+    // Update score display
     document.getElementById('score').textContent = score;
-    document.getElementById('total').textContent = selectedQuestions.length;
+    document.getElementById('total').textContent = totalQuestions;
+    document.getElementById('score-percentage').textContent = percentage;
+    
+    // Animate progress meter
+    const progressFill = document.getElementById('progress-fill');
+    progressFill.style.width = `${percentage}%`;
+    
+    // Set performance message
+    const performanceMessage = document.getElementById('performance-message');
+    performanceMessage.className = ''; // Clear previous classes
+    
+    if (percentage >= 90) {
+        performanceMessage.textContent = "Outstanding performance! 👑";
+        performanceMessage.classList.add('great-score');
+    } else if (percentage >= 70) {
+        performanceMessage.textContent = "Great job! You're doing well. 👍";
+        performanceMessage.classList.add('good-score');
+    } else if (percentage >= 50) {
+        performanceMessage.textContent = "Good effort! Keep practicing. 💪";
+        performanceMessage.classList.add('average-score');
+    } else {
+        performanceMessage.textContent = "Keep learning! You'll improve. 📚";
+        performanceMessage.classList.add('poor-score');
+    }
+    
+    // Add animation to score circle
+    const scoreCircle = document.querySelector('.score-circle');
+    scoreCircle.style.background = `conic-gradient(
+        var(--accent-color) ${percentage}%, 
+        transparent ${percentage}%
+    )`;
 }
 
+function restartQuiz() {
+    currentQuestionIndex = 0;
+    score = 0;
+    selectedQuestions = shuffleArray([...questions]).slice(0, selectedQuestions.length);
+    document.getElementById('result-container').style.display = 'none';
+    document.getElementById('quiz-container').style.display = 'block';
+    displayQuestion();
+}
 // UTILITY FUNCTIONS
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
