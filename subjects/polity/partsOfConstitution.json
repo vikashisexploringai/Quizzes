@@ -103,9 +103,9 @@
   },
   {
     "question": "Which Part deals with 'Elections'?",
-    "choices": ["Articles 308–323", "Articles 324–329A", "Articles 330–342A", "Articles 343–351"],
-    "answer": "Articles 324–329A",
-    "explanation": "Part XV (Articles 324–329A) governs the Election Commission and electoral processes."
+    "choices": ["Articles 308–323", "Articles 324–329", "Articles 330–342A", "Articles 343–351"],
+    "answer": "Articles 324–329",
+    "explanation": "Part XV. Art 329A inserted during emergency prevented enquiry into election of PM and speaker"
   },
   {
     "question": "Which Part deals with 'Special Provisions for SCs/STs'?",
