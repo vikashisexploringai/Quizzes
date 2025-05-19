@@ -10,11 +10,11 @@ let selectedQuestions = [];
 const subjects = {
     'history': {
         displayName: 'History',
-        themes: ['battles', 'contemporaryHistory', 'modernHistory']
+        themes: ['battles', 'birthAndDeath', 'modernHistory', 'contemporaryHistory','indianRulers']
     },
-    'science': {
-        displayName: 'Science',
-        themes: ['physics', 'chemistry']
+    'polity': {
+        displayName: 'Polity',
+        themes: ['x']
     }
     // Add more subjects as needed
 };
