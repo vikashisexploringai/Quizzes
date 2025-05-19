@@ -6,15 +6,23 @@ let currentQuestionIndex = 0;
 let score = 0;
 let selectedQuestions = [];
 
-// Available subjects and their themes
+// Available subjects and their themes (updated structure)
 const subjects = {
     'history': {
         displayName: 'History',
-        themes: ['battles', 'birthAndDeath', 'modernHistory', 'contemporaryHistory','indianRulers']
+        themes: {
+            'battles': { displayName: 'Battles' },
+            'birthAndDeath': { displayName: 'Birth and Death' },
+            'modernHistory': { displayName: 'Modern History' },
+            'contemporaryHistory': { displayName: 'Contemporary History' },
+            'indianRulers': { displayName: 'Indian Rulers' }
+        }
     },
     'polity': {
         displayName: 'Polity',
-        themes: ['x']
+        themes: {
+            'x': { displayName: 'Polity Basics' }
+        }
     }
     // Add more subjects as needed
 };
@@ -73,19 +81,14 @@ function setupThemeSelection() {
     const themeButtonsContainer = document.getElementById('theme-buttons');
     themeButtonsContainer.innerHTML = '';
     
-    // Create buttons for each theme in the selected subject
-    subjects[subject].themes.forEach(theme => {
+    // Updated to work with new structure
+    Object.entries(subjects[subject].themes).forEach(([themeId, themeData]) => {
         const button = document.createElement('button');
-        button.textContent = formatDisplayName(theme);
-        button.onclick = () => selectTheme(theme);
+        button.textContent = themeData.displayName;
+        button.onclick = () => selectTheme(themeId);
         themeButtonsContainer.appendChild(button);
     });
 }
-
-// Rest of your existing JavaScript remains the same...
-// (selectTheme, initializeQuizPage, setupQuestionCountSelection, 
-// startQuiz, displayQuestion, checkAnswer, nextQuestion, 
-// showResults, shuffleArray, formatDisplayName)
 
 function selectTheme(theme) {
     currentTheme = theme;
@@ -106,9 +109,10 @@ function initializeQuizPage() {
     currentSubject = subject;
     currentTheme = theme;
     
-    // Set the quiz title
-    document.getElementById('theme-title').textContent = 
-        `${formatDisplayName(subject)}: ${formatDisplayName(theme)}`;
+    // Set the quiz title using the display names
+    const subjectName = subjects[subject].displayName;
+    const themeName = subjects[subject].themes[theme].displayName;
+    document.getElementById('theme-title').textContent = `${subjectName}: ${themeName}`;
     
     // Load questions for the selected subject and theme
     fetch(`subjects/${subject}/${theme}.json`)
