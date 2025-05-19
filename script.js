@@ -8,21 +8,26 @@ let selectedQuestions = [];
 
 // Available subjects and their themes
 const subjects = {
-    'history': ['battles', 'contemporaryHistory', 'modernHistory'],
-    'science': ['physics', 'chemistry'],
-    'geography': ['physical', 'human', 'environmental']
-    // Add more subjects and their themes as needed
+    'history': {
+        displayName: 'History',
+        themes: ['battles', 'contemporaryHistory', 'modernHistory']
+    },
+    'science': {
+        displayName: 'Science',
+        themes: ['physics', 'chemistry']
+    }
+    // Add more subjects as needed
 };
 
 // Initialize the appropriate page
 document.addEventListener('DOMContentLoaded', function() {
-    const path = window.location.pathname;
+    const path = window.location.pathname.split('/').pop();
     
-    if (path.endsWith('index.html') || path === '/') {
+    if (path === 'index.html' || path === '') {
         setupSubjectSelection();
-    } else if (path.endsWith('theme.html')) {
+    } else if (path === 'theme.html') {
         setupThemeSelection();
-    } else if (path.endsWith('quiz.html')) {
+    } else if (path === 'quiz.html') {
         initializeQuizPage();
     }
 });
@@ -35,15 +40,20 @@ function setupSubjectSelection() {
     subjectButtonsContainer.innerHTML = '';
     
     // Create buttons for each subject
-    Object.keys(subjects).forEach(subject => {
+    Object.entries(subjects).forEach(([subjectId, subjectData]) => {
         const button = document.createElement('button');
-        button.textContent = formatDisplayName(subject);
-        button.onclick = () => selectSubject(subject);
+        button.textContent = subjectData.displayName;
+        button.onclick = () => selectSubject(subjectId);
         subjectButtonsContainer.appendChild(button);
     });
 }
 
 function selectSubject(subject) {
+    if (!subjects[subject]) {
+        console.error('Invalid subject selected');
+        return;
+    }
+    
     currentSubject = subject;
     localStorage.setItem('selectedSubject', subject);
     window.location.href = 'theme.html';
@@ -58,19 +68,24 @@ function setupThemeSelection() {
     }
     
     currentSubject = subject;
-    document.getElementById('subject-title').textContent = formatDisplayName(subject);
+    document.getElementById('subject-title').textContent = subjects[subject].displayName;
     
     const themeButtonsContainer = document.getElementById('theme-buttons');
     themeButtonsContainer.innerHTML = '';
     
     // Create buttons for each theme in the selected subject
-    subjects[subject].forEach(theme => {
+    subjects[subject].themes.forEach(theme => {
         const button = document.createElement('button');
         button.textContent = formatDisplayName(theme);
         button.onclick = () => selectTheme(theme);
         themeButtonsContainer.appendChild(button);
     });
 }
+
+// Rest of your existing JavaScript remains the same...
+// (selectTheme, initializeQuizPage, setupQuestionCountSelection, 
+// startQuiz, displayQuestion, checkAnswer, nextQuestion, 
+// showResults, shuffleArray, formatDisplayName)
 
 function selectTheme(theme) {
     currentTheme = theme;
