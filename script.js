@@ -11,11 +11,11 @@ const subjects = {
     'history': {
         displayName: 'History',
         themes: {
-            'battles': { displayName: 'Battles' },
-            'birthAndDeath': { displayName: 'Birth and Death' },
+            'battles': { displayName: 'Battles Treaties Revolts' },
+            'birthAndDeath': { displayName: 'Personalities Birth and Death' },
             'modernHistory': { displayName: 'Modern History' },
             'contemporaryHistory': { displayName: 'Contemporary History' },
-            'indianRulers': { displayName: 'Indian Rulers' }
+            'indianRulers': { displayName: 'Indian Rulers Timeline' }
         }
     },
     'polity': {
