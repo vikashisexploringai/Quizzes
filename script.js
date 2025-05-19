@@ -244,43 +244,14 @@ function nextQuestion() {
 function showResults() {
     const quizContainer = document.getElementById('quiz-container');
     const resultContainer = document.getElementById('result-container');
-    const totalQuestions = selectedQuestions.length;
-    const percentage = Math.round((score / totalQuestions) * 100);
     
     quizContainer.style.display = 'none';
     resultContainer.style.display = 'block';
     
-    // Update score display
     document.getElementById('score').textContent = score;
-    document.getElementById('total').textContent = totalQuestions;
-    
-    // Set performance rating
-    const performanceRating = document.getElementById('performance-rating");
-    performanceRating.className = "performance-rating";
-    
-    if (percentage >= 90) {
-        performanceRating.textContent = "Outstanding! 🌟";
-        performanceRating.classList.add('great');
-    } else if (percentage >= 70) {
-        performanceRating.textContent = "Great job! 👍";
-        performanceRating.classList.add('good');
-    } else if (percentage >= 50) {
-        performanceRating.textContent = "Good effort! 💪";
-        performanceRating.classList.add('average');
-    } else {
-        performanceRating.textContent = "Keep practicing! 📚";
-        performanceRating.classList.add('poor');
-    }
+    document.getElementById('total').textContent = selectedQuestions.length;
 }
 
-function restartQuiz() {
-    currentQuestionIndex = 0;
-    score = 0;
-    selectedQuestions = shuffleArray([...questions]).slice(0, selectedQuestions.length);
-    document.getElementById('result-container').style.display = 'none';
-    document.getElementById('quiz-container').style.display = 'block';
-    displayQuestion();
-}
 // UTILITY FUNCTIONS
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
