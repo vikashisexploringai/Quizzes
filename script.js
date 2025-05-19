@@ -243,13 +243,30 @@ function nextQuestion() {
 
 function showResults() {
     const quizContainer = document.getElementById('quiz-container');
+    const questionContainer = document.querySelector('.question-container');
+    const explanationContainer = document.getElementById('explanation-container');
     const resultContainer = document.getElementById('result-container');
     
-    quizContainer.style.display = 'none';
+    // Hide quiz elements
+    quizContainer.style.display = 'block'; // Keep container visible
+    questionContainer.style.display = 'none';
+    explanationContainer.style.display = 'none';
+    
+    // Show result container
     resultContainer.style.display = 'block';
     
+    // Update score display
     document.getElementById('score').textContent = score;
     document.getElementById('total').textContent = selectedQuestions.length;
+    
+    // Add event listeners to buttons (more reliable than inline onclick)
+    document.querySelector('#result-container button:nth-child(3)').onclick = function() {
+        location.reload();
+    };
+    
+    document.querySelector('#result-container button:nth-child(4)').onclick = function() {
+        window.location.href = 'index.html';
+    };
 }
 
 // UTILITY FUNCTIONS
