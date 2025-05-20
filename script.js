@@ -15,7 +15,8 @@ const subjects = {
             'birthAndDeath': { displayName: 'Personalities Birth and Death' },
             'modernHistory': { displayName: 'Modern History' },
             'contemporaryHistory': { displayName: 'Contemporary History' },
-            'indianRulers': { displayName: 'Indian Rulers Timeline' }
+            'indianRulers': { displayName: 'Indian Rulers Timeline' },
+            'britishGovernors': { displayName: 'Governor Generals and Viceroys' }
         }
     },
     'polity': {
