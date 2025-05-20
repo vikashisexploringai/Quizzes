@@ -1,6 +1,6 @@
 [
   {
-    "question": "When did Alexander the Great interact with the Indian subcontinent?",
+    "question": "What was Alexander reign period ?",
     "choices": ["336 - 323 BC", "322 - 297 BC", "268 - 232 BC", "185 - 45 BC"],
     "answer": "336 - 323 BC",
     "explanation": "Alexander reached India in 326 BC during his conquests, battling Porus at the Hydaspes River before his troops mutinied."
@@ -42,7 +42,7 @@
     "explanation": "Patron of Gandhara art and Mahayana Buddhism, convened the 4th Buddhist Council."
   },
   {
-    "question": "When did Rudradaman I of the Western Kshatrapas rule?",
+    "question": "When did Rudradaman I of the Western Kshatrapas(bramch of Shakas) rule?",
     "choices": ["130 - 50 AD", "127 - 50 AD", "106 - 30 AD", "380 - 412 AD"],
     "answer": "130 - 50 AD",
     "explanation": "Known for repairing Sudarshana Lake and his Sanskrit Junagadh inscription."
@@ -60,7 +60,7 @@
     "explanation": "Last major Hindu ruler of unified North India, documented by Xuanzang and Banabhatta."
   },
   {
-    "question": "What was Pulakeshin II's reign period of the Chalukyas?",
+    "question": "What was Pulakeshin II's reign period of the Vatapi Chalukyas?",
     "choices": ["609 - 42 AD", "606 - 47 AD", "630 - 68 AD", "770 - 810 AD"],
     "answer": "609 - 42 AD",
     "explanation": "Defeated Harsha at Narmada, with his victories documented in the Aihole inscription."
@@ -102,13 +102,13 @@
     "explanation": "Conducted 17 raids into India, famously destroying the Somnath Temple in 1025."
   },
   {
-    "question": "When did Bhima I of the Chalukyas rule?",
+    "question": "When did Bhima I of the Chalukyas(Solanki) rule?",
     "choices": ["1022 - 1064 AD", "998 - 1030 AD", "1076 - 1126 AD", "1397 - 1422 AD"],
     "answer": "1022 - 1064 AD",
     "explanation": "Rebuilt the Somnath Temple after Mahmud's raid and resisted further Ghaznavid attacks."
   },
   {
-    "question": "What was Vikramaditya VI's reign period of the Western Chalukyas?",
+    "question": "What was Vikramaditya VI's reign period of the Western/Later/Kalyani Chalukyas?",
     "choices": ["1076 - 1126 AD", "1022 - 1064 AD", "1397 - 1422 AD", "1420 - 70 AD"],
     "answer": "1076 - 1126 AD",
     "explanation": "Introduced the Chalukya-Vikrama era, patronized Bilhana who wrote Vikramankadevacharita."
@@ -117,7 +117,7 @@
     "question": "When did Firuz Shah Bahmani rule the Bahmani Sultanate?",
     "choices": ["1397 - 1422 AD", "1420 - 70 AD", "1433 - 68 AD", "1436 - 69 AD"],
     "answer": "1397 - 1422 AD",
-    "explanation": "Founded the city of Firuzabad and established the Taraf system in the Deccan."
+    "explanation": "Established the Taraf system in the Deccan."
   },
   {
     "question": "What was Zain-ul-Abidin's reign period in Kashmir?",
@@ -171,7 +171,7 @@
     "question": "What was Marthanda Varma's reign period of Travancore?",
     "choices": ["1729 - 1758 AD", "1699 - 1743 AD", "1801 - 39 AD", "1497 - 1540 AD"],
     "answer": "1729 - 1758 AD",
-    "explanation": "Defeated Dutch at Colachel battle, established centralized administration in Kerala."
+    "explanation": "Defeated Dutch at Colachel battle(1741), established centralized administration in Kerala."
   },
   {
     "question": "When did Maharaja Ranjit Singh rule the Sikh Empire?",
