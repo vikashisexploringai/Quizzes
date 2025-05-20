@@ -24,6 +24,12 @@ const subjects = {
         themes: {
             'partsOfConstitution': { displayName: 'Parts of Constitution' }
         }
+    },
+    'geography': {
+        displayName: 'Geography',
+        themes: {
+            'citiesLatitude': { displayName: 'Latitude of Important Cities' }
+        }
     }
     // Add more subjects as needed
 };
