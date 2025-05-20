@@ -198,6 +198,18 @@
     "explanation": "The First Anglo-Burmese War (1824-26) resulted in British gains in northeast India and coastal Burma."
   },
   {
+  "question": "When did the Barrackpore Mutiny take place?",
+  "choices": ["1824", "1857", "1842", "1838"],
+  "answer": "1824",
+  "explanation": "Against insensitivity towards Indian cultural sentiments, combined with negligence and poor supply arrangements in wake of Anglo-Burmese War"
+},
+  {
+    "question": "When was the Treaty of Yandabo signed, marking the end of the First Anglo-Burmese War?",
+    "choices": ["1824", "1826", "1832", "1819"],
+    "answer": "1826",
+    "explanation": "Burma ceded Assam(ending Ahom rule), Manipur, Arakan, and Tenasserim to the British, paid a large indemnity, and accepted a British resident at Ava. Earlier Burma invaded and captured Assam in 1817"
+  },
+  {
     "question": "Timeline of First Anglo-Afghan War wherein the British invaded Afghanistan to depose Emir Dost Mohammad Khan and install a pro-British puppet, deposed Shah Shujah, to counter Russian influence.?",
     "choices": ["1837-39", "1839-42", "1841-43", "1843-45"],
     "answer": "1839-42",
