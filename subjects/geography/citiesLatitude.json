@@ -1,0 +1,87 @@
+[
+  {
+    "question": "What is the latitude of New Delhi?",
+    "choices": ["25.4°", "28.6°", "30.2°", "32.8°"],
+    "answer": "28.6°"
+  },
+  {
+    "question": "What is the latitude of Mumbai?",
+    "choices": ["15.7°", "19.0°", "21.3°", "23.6°"],
+    "answer": "19.0°"
+  },
+  {
+    "question": "What is the latitude of Kolkata?",
+    "choices": ["20.5°", "22.7°", "24.9°", "27.1°"],
+    "answer": "22.7°"
+  },
+  {
+    "question": "What is the latitude of Chennai?",
+    "choices": ["10.2°", "13.06°", "15.9°", "18.3°"],
+    "answer": "13.06°"
+  },
+  {
+    "question": "What is the latitude of Bengaluru?",
+    "choices": ["10.5°", "12.97°", "15.4°", "17.8°"],
+    "answer": "12.97°"
+  },
+  {
+    "question": "What is the latitude of New York?",
+    "choices": ["38.5°", "40.7°", "42.9°", "45.1°"],
+    "answer": "40.7°"
+  },
+  {
+    "question": "What is the latitude of London?",
+    "choices": ["48.7°", "51.5°", "54.3°", "57.1°"],
+    "answer": "51.5°"
+  },
+  {
+    "question": "What is the latitude of Tokyo?",
+    "choices": ["33.5°", "35.7°", "37.9°", "40.1°"],
+    "answer": "35.7°"
+  },
+  {
+    "question": "What is the latitude of Beijing?",
+    "choices": ["37.7°", "39.9°", "42.1°", "44.3°"],
+    "answer": "39.9°"
+  },
+  {
+    "question": "What is the latitude of Paris?",
+    "choices": ["46.7°", "48.9°", "51.1°", "53.3°"],
+    "answer": "48.9°"
+  },
+  {
+    "question": "What is the latitude of Berlin?",
+    "choices": ["50.3°", "52.5°", "54.7°", "56.9°"],
+    "answer": "52.5°"
+  },
+  {
+    "question": "What is the latitude of Rome?",
+    "choices": ["39.7°", "41.9°", "44.1°", "46.3°"],
+    "answer": "41.9°"
+  },
+  {
+    "question": "What is the latitude of Moscow?",
+    "choices": ["53.6°", "55.8°", "58.0°", "60.2°"],
+    "answer": "55.8°"
+  },
+  {
+    "question": "What is the latitude of Sydney?",
+    "choices": ["31.7°", "33.9°", "36.1°", "38.3°"],
+    "answer": "33.9°"
+  },
+  {
+    "question": "What is the latitude of Cairo?",
+    "choices": ["28.8°", "30.0°", "32.2°", "34.4°"],
+    "answer": "30.0°"
+  },
+  {
+    "question": "What is the latitude of Rio de Janeiro?",
+    "choices": ["20.7°", "22.9°", "25.1°", "27.3°"],
+    "answer": "22.9°"
+  },
+  {
+    "question": "What is the latitude of Mexico City?",
+    "choices": ["17.2°", "19.4°", "21.6°", "23.8°"],
+    "answer": "19.4°"
+  }
+]
