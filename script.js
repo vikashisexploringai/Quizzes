@@ -36,6 +36,7 @@ const subjects = {
         themes: {
             'letterRecognition': { displayName: 'Letter Recognition' }
         }
+    }
     // Add more subjects as needed
 };
 
