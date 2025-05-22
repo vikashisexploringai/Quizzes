@@ -1,5 +1,4 @@
 [
-  // Exact Birth Dates
   {
     "question": "When was Keshub Chandra Sen born?",
     "choices": ["1836", "1838", "1840", "1842"],
@@ -67,7 +66,6 @@
     "explanation": "India's first female Prime Minister was born in 1917 in Prayagraj."
   },
 
-  // Birth Decades
   {
     "question": "Which decade were these personalities born in: Ram Mohan Roy, Bahadur Shah Zafar, Kunwar Singh?",
     "choices": ["1760s", "1770s", "1780s", "1790s"],
@@ -129,7 +127,6 @@
     "explanation": "These young martyrs of the independence movement were all born in the first decade of the 20th century."
   },
 
-  // Death Dates
   {
     "question": "When and where did Raja Ram Mohan Roy die?",
     "choices": ["1831, London", "1833, Bristol", "1835, Paris", "1837, Calcutta"],
