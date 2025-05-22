@@ -30,7 +30,13 @@ const subjects = {
         themes: {
             'citiesLatitude': { displayName: 'Latitude of Important Cities' }
         }
-    }
+    },
+    ,
+    'Bengali': {
+        displayName: 'Bengali',
+        themes: {
+            'letterRecognition': { displayName: 'Letter Recognition' }
+        }
     // Add more subjects as needed
 };
 
