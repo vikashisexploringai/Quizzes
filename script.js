@@ -31,7 +31,7 @@ const subjects = {
             'citiesLatitude': { displayName: 'Latitude of Important Cities' }
         }
     },
-    'Bengali': {
+    'bengali': {
         displayName: 'Bengali',
         themes: {
             'letterRecognition': { displayName: 'Letter Recognition' }
