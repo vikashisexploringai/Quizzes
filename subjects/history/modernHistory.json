@@ -264,6 +264,17 @@
     "explanation": "The 1846 Treaty of Amritsar between Gulab Singh and the EIC created the princely state of Jammu and Kashmir."
   },
   {
+  "question": "Who was Charles Wood in relation to the 1854 education reforms in India, and what was a major outcome?",
+  "choices": [
+    "Governor-General of India; introduced English as the sole medium of instruction",
+    "President of the Board of Control; established universities in Calcutta, Bombay, and Madras",
+    "Viceroy of India; abolished vernacular education",
+    "British Prime Minister; banned missionary schools"
+  ],
+  "answer": "President of the Board of Control; established universities in Calcutta, Bombay, and Madras",
+  "explanation": "Authored Wood’s Dispatch sent to  Dalhousie which laid the foundation for modern education in India. 3 Univ, hierarchical edu system, vernacular primary education and English higher education, teacher training, women education, grants-in-aid for pvt institution, dept of education in each province, vocational training."
+},
+  {
     "question": "When was Darwin's 'On the Origin of Species' published?",
     "choices": ["November 1859", "July 1858", "March 1860", "September 1861"],
     "answer": "November 1859",
