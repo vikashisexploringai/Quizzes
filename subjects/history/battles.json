@@ -264,6 +264,12 @@
     "explanation": "The Second Anglo-Afghan War (1878-80) established British control over Afghan foreign policy."
   },
   {
+  "question": "During which years was the First Boer War fought?",
+  "choices": ["1877–1879", "1880–1881", "1884–1885", "1899–1902"],
+  "answer": "1880–1881",
+  "explanation": "Fought between the Boers (Dutch-descended settlers) and the British. Earlier, Britain had annexed the Transvaal in 1877 after the 1867 diamond discovery in Kimberley. The Boers rebelled, defeated the British at Majuba Hill (1881), and won self-government for the Transvaal under British oversight."
+  },
+  {
     "question": "When did the Third Anglo-Burmese War occur?",
     "choices": ["1883", "1885", "1887", "1889"],
     "answer": "1885",
@@ -280,6 +286,12 @@
     "choices": ["1893", "1895", "1897", "1899"],
     "answer": "1895",
     "explanation": "The Treaty of Shimonoseki in 1895 ended the First Sino-Japanese War, forcing China to cede Taiwan to Japan."
+  },
+  {
+  "question": "During which years was the Second Boer War fought?",
+  "choices": ["1879–1881", "1889–1891", "1899–1902", "1904–1906"],
+  "answer": "1899–1902",
+  "explanation": "The Second Boer War erupted after gold was discovered in the Transvaal in 1886 leading to Gold Rush, intensifying British imperial ambitions. The British, led by Kitchener, used scorched-earth tactics and concentration camps to crush Boer resistance. The war ended with the Boer republics (Transvaal and Orange Free State) becoming British colonies under the Treaty of Vereeniging (1902)."
   },
   {
     "question": "When did the Third Anglo-Afghan War occur?",
