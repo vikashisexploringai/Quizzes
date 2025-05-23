@@ -246,6 +246,12 @@
     "explanation": "The Asiatic Society of Great Britain was established in London in 1823."
   },
   {
+  "question": "In which year was the Coinage Act of 1835 passed by the British Parliament?",
+  "choices": ["1818", "1833", "1835", "1857"],
+  "answer": "1835",
+  "explanation": "Introduced one standard currency for all of British India(Earlier 3 presidencies issued their own coins)."
+  },
+  {
     "question": "When did Denmark sell its Indian settlements to Britain?",
     "choices": ["1845", "1816", "1835", "1857"],
     "answer": "1845",
