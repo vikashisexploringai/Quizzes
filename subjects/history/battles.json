@@ -288,6 +288,12 @@
     "explanation": "The Treaty of Shimonoseki in 1895 ended the First Sino-Japanese War, forcing China to cede Taiwan to Japan."
   },
   {
+  "question": "During which years did the Boxer Rebellion take place?",
+  "choices": ["1856–1860", "1899–1901", "1900–1901", "1911–1912"],
+  "answer": "1899–1901",
+  "explanation": "It was an anti-foreign uprising in China led by a chinese group known as 'Boxers' in English. A multinational force (including Britain, the US, and Japan) crushed the revolt, leading to the punitive Boxer Protocol (1901), which weakened China further."
+  },
+  {
   "question": "During which years was the Second Boer War fought?",
   "choices": ["1879–1881", "1889–1891", "1899–1902", "1904–1906"],
   "answer": "1899–1902",
