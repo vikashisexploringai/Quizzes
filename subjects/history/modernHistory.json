@@ -1438,6 +1438,12 @@
     "explanation": "Japan formally surrendered on 2 September 1945 aboard the USS Missouri, marking the official end of World War II."
   },
   {
+  "question": "When were the last general elections in British India held under the 1919 Government of India Act?",
+  "choices": ["February 1934", "December 1945", "January 1946", "March 1937"],
+  "answer": "December 1945",
+  "explanation": "1935 Act's federation failed (Princely States refused), reducing seats from 375 to 102, forcing election to be held under 1919 Act (results: INC 59, ML 30, Others 13)"
+  },
+  {
     "question": "When did the Royal Indian Navy (RIN) ratings go on strike in Bombay?",
     "choices": ["18 February 1945", "18 February 1946", "18 August 1946", "16 August 1947"],
     "answer": "18 February 1946",
