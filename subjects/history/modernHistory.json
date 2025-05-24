@@ -1341,6 +1341,17 @@
     "explanation": "In January 1943, Japan invited Subhas Chandra Bose to lead the Indian nationalist movement in East Asia after he had sought Axis help from Germany earlier."
   },
   {
+  "question": "Why did Gandhi started fast for 21 days on 10th Feb 1943?",
+  "choices": [
+    "To protest violent British repression of Quit India activists",
+    "To demand the release of Indian National Army prisoners",
+    "To oppose the Partition of Bengal",
+    "To support Allied forces in WWII"
+  ],
+  "answer": "To protest violent British repression of Quit India activists",
+  "explanation": "Protested mass arrests, shootings, and his detention without trial. British refused his release despite failing health."
+  },
+  {
     "question": "When did Bose assume leadership of Indian Independence League and INA?",
     "choices": [
       "4 July 1942",
