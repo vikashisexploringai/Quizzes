@@ -178,5 +178,101 @@
     "choices": ["26 December 1989", "26 December 1990", "26 December 1991", "26 December 1992"],
     "answer": "26 December 1991",
     "explanation": "The Union of Soviet Socialist Republics (USSR) officially ceased to exist on 26 December 1991, marking the end of the Cold War era."
+  },
+  {
+    "question": "When did the 2nd general elections happen?",
+    "choices": ["January 1957", "February - March 1957", "April 1957", "December 1956"],
+    "answer": "February - March 1957",
+    "explanation": "The 2nd general elections of India were held between February and March 1957."
+  },
+  {
+    "question": "When did the 3rd general elections happen?",
+    "choices": ["January 1962", "February 1962", "March 1962", "December 1961"],
+    "answer": "February 1962",
+    "explanation": "The 3rd general elections of India were held in February 1962."
+  },
+  {
+    "question": "When did the 4th general elections happen?",
+    "choices": ["January 1967", "February 1967", "March 1967", "December 1966"],
+    "answer": "February 1967",
+    "explanation": "The 4th general elections of India were held in February 1967."
+  },
+  {
+    "question": "When did the 5th general elections happen?",
+    "choices": ["January 1971", "February 1971", "March 1971", "December 1970"],
+    "answer": "March 1971",
+    "explanation": "The 5th general elections of India were held in March 1971."
+  },
+  {
+    "question": "When did the 1st Pokhran Test happen?",
+    "choices": ["March 1974", "April 1974", "May 1974", "June 1974"],
+    "answer": "May 1974",
+    "explanation": "The 1st Pokhran Test, codenamed 'Smiling Buddha', was conducted in May 1974."
+  },
+  {
+    "question": "When did the 6th general elections happen?",
+    "choices": ["January 1977", "February 1977", "March 1977", "December 1976"],
+    "answer": "March 1977",
+    "explanation": "The 6th general elections were held in March 1977, immediately after the Emergency period expired."
+  },
+  {
+    "question": "When did the 7th general elections happen?",
+    "choices": ["December 1979", "January 1980", "February 1980", "March 1980"],
+    "answer": "January 1980",
+    "explanation": "The 7th general elections of India were held in January 1980."
+  },
+  {
+    "question": "When did the 8th general elections happen?",
+    "choices": ["November 1984", "December 1984", "January 1985", "February 1985"],
+    "answer": "December 1984",
+    "explanation": "The 8th general elections were held in December 1984 following Indira Gandhi's assassination."
+  },
+  {
+    "question": "When did the 9th general elections happen?",
+    "choices": ["October 1989", "November 1989", "December 1989", "January 1990"],
+    "answer": "November 1989",
+    "explanation": "The 9th general elections of India were held in November 1989."
+  },
+  {
+    "question": "When did the 10th general elections happen?",
+    "choices": ["April-May 1991", "May-June 1991", "June-July 1991", "March-April 1991"],
+    "answer": "May - June 1991",
+    "explanation": "The 10th general elections were held between May-June 1991, during which Rajiv Gandhi was assassinated."
+  },
+  {
+    "question": "When did the 11th general elections happen?",
+    "choices": ["March-April 1996", "April-May 1996", "May-June 1996", "June-July 1996"],
+    "answer": "April - May 1996",
+    "explanation": "The 11th general elections were held in April-May 1996, leading to short-lived governments including Atal Bihari Vajpayee's 13-day government."
+  },
+  {
+    "question": "When did the 12th general elections happen?",
+    "choices": ["January 1998", "February 1998", "March 1998", "April 1998"],
+    "answer": "February 1998",
+    "explanation": "The 12th general elections were held in February 1998."
+  },
+  {
+    "question": "When did the 2nd Pokhran Test happen?",
+    "choices": ["April 1998", "May 1998", "June 1998", "July 1998"],
+    "answer": "May 1998",
+    "explanation": "The 2nd Pokhran nuclear tests (Operation Shakti) were conducted in May 1998."
+  },
+  {
+    "question": "When did the Kargil conflict happen?",
+    "choices": ["April-June 1999", "May-July 1999", "June-August 1999", "March-May 1999"],
+    "answer": "May - July 1999",
+    "explanation": "The Kargil War between India and Pakistan occurred from May to July 1999."
+  },
+  {
+    "question": "When did the 13th general elections happen?",
+    "choices": ["August-September 1999", "September-October 1999", "October-November 1999", "November-December 1999"],
+    "answer": "Sept - Oct 1999",
+    "explanation": "The 13th general elections were held between September-October 1999."
+  },
+  {
+    "question": "When did the 14th to 18th general elections happen?",
+    "choices": ["2004-2024 (April-May)", "2004-2024 (May-June)", "2003-2023 (April-May)", "2005-2025 (May-June)"],
+    "answer": "April -May - 14th(2004) to 18th(2024)",
+    "explanation": "The 14th to 18th general elections were consistently held in April-May between 2004 and 2024."
   }
 ]
