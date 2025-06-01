@@ -138,6 +138,17 @@
     "explanation": "On 21 January 1972, Meghalaya, Manipur, Tripura and Mizoram (as Union Territory) were created after reorganizing Northeast India following the Indo-Pak War to ensure effective control."
   },
   {
+  "question": "When was the Treaty of Peace, Friendship and Cooperation signed between India and USSR?",
+  "choices": [
+    "July 1969",
+    "August 1971", 
+    "December 1971",
+    "January 1972"
+  ],
+  "answer": "August 1971",
+  "explanation": "Signed August 9, 1971. Guaranteed Soviet military support if attacked, crucial during December 1971 India-Pakistan war."
+  },
+  {
     "question": "When was the General Insurance Corporation (GIC) Act passed to nationalize general insurance companies?",
     "choices": ["1970", "1972", "1974", "1976"],
     "answer": "1972",
