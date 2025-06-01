@@ -1,0 +1,89 @@
+[
+  
+  {
+    "question": "Which century did Panini, the Sanskrit grammarian, belong to?",
+    "choices": ["4th BCE", "2nd BCE", "1st CE", "3rd CE"],
+    "answer": "4th BCE",
+    "explanation": "4th BCE. Wrote Ashtadhyayi (foundation of Sanskrit grammar). Patron: Likely Nanda Empire."
+  },
+  
+  {
+    "question": "Which century did Aryabhata belong to?",
+    "choices": ["3rd-4th", "4th-5th", "5th-6th", "6th-7th"],
+    "answer": "5th-6th",
+    "explanation": "5th-6th century Gupta era. Wrote Aryabhatiya."
+  },
+    {
+    "question": "Which century did Varahamihira belong to?",
+    "choices": ["3rd", "6th", "9th", "12th"],
+    "answer": "6th",
+    "explanation": "6th century. Wrote Brihat Samhita (astronomy). Patron: Malwa king Yashodharman who defeated Huna king Mihirkula around 528 BC."
+  },
+  {
+    "question": "Which century did Brahmagupta belong to?",
+    "choices": ["5th", "7th", "9th", "11th"],
+    "answer": "7th",
+    "explanation": "7th century. Defined zero's rules in Brahmasphutasiddhanta. Patron: Gurjara-Pratiharas."
+  },
+    {
+  "question": "Which century did Bhaskara I (mathematician) belong to?",
+  "choices": ["5th", "7th", "9th", "11th"],
+  "answer": "7th",
+  "explanation": "7th century. Commentary on Aryabhata's work, Authored 'Mahabhaskariya', refined Hindu decimal system with early use of zero. Developed sine approximation formula. Patron: Chalukya dynasty."
+},
+  
+  {
+    "question": "Which century did Adi Shankaracharya belong to?",
+    "choices": ["6th", "8th", "10th", "12th"],
+    "answer": "8th",
+    "explanation": "8th century. Founded Advaita Vedanta, Commentaries(Brahmasutra bhasya, BhagvadGita bhasya, Upanishad bhasy), Vivekchudamani, Upadeshasahasri"
+  },
+  {
+    "question": "Which century did Andal (the Alvar saint) belong to?",
+    "choices": ["7th", "9th", "11th", "13th"],
+    "answer": "9th",
+    "explanation": "9th century. Composed Thiruppavai (Tamil devotional hymns). Part of 12 Alvar saints."
+  },
+  {
+    "question": "Which century did Ramanujacharya belong to?",
+    "choices": ["9th", "11th", "13th", "15th"],
+    "answer": "11th",
+    "explanation": "11th century. Founded Vishishtadvaita. Commentaries(Sri Bhasya- Brahmasutra, Gita Bhasya), Gadyatraya(3 poetic work of Saranagati Gadya, Sriranga Gadya, Vaikuntha Gadya)."
+  },
+  {
+  "question": "Which century did Basavanna belong to?",
+  "choices": ["10th", "12th", "14th", "16th"],
+  "answer": "12th",
+  "explanation": "12th century. Founder of Lingayat movement. Patron: Kalachuri king Bijjala (short-lived dynasty during Kalyani Chalukya interregnum). Composed Vachanas (Kannada spiritual poetry)."
+},
+  {
+    "question": "Which century did Madhvacharya and Dnyaneshwar belong to?",
+    "choices": ["10th", "12th", "13th", "14th"],
+    "answer": "13th",
+    "explanation": "13th century. Madhva: Dvaita philosophy. Dnyaneshwar: Wrote Dnyaneshwari (Marathi commentary on Gita)."
+  },
+  {
+    "question": "Which century did Sant Namdev belong to?",
+    "choices": ["12th-13th", "13th-14th", "14th-15th", "15th-16th"],
+    "answer": "13th-14th",
+    "explanation": "13th-14th century. Bhakti saint, wrote abhangs. Influenced Sikhism (hymns in Guru Granth Sahib)."
+  },
+  {
+    "question": "Which century did Kabir, Vallabhacharya, Chaitanya Mahaprabhu, Guru Nanak, and Shankardev belong to?",
+    "choices": ["13th-14th", "14th-15th", "15th-16th", "16th-17th"],
+    "answer": "15th-16th",
+    "explanation": "15th-16th century. Vallabhacharya: Shuddhadvaita. Chaitanya: Gaudiya Vaishnavism. Shankardev: Assamese Bhakti."
+  },
+  {
+    "question": "Which century did Tulsidas, Meerabai, Dadu, and Eknath belong to?",
+    "choices": ["14th", "15th", "16th", "17th"],
+    "answer": "16th",
+    "explanation": "16th century. Tulsidas: Ramcharitmanas. Meerabai: Rajput princess-saint. Dadu: Dadupanth. Eknath: Marathi abhangs."
+  },
+  {
+    "question": "Which century did Sant Tukaram belong to?",
+    "choices": ["15th", "16th", "17th", "18th"],
+    "answer": "17th",
+    "explanation": "17th century. Wrote Abhanga poetry. Patron: Shivaji's father Shahaji Bhosle."
+  }
+]
