@@ -247,13 +247,13 @@
   {
     "question": "When did the 10th general elections happen?",
     "choices": ["April-May 1991", "May-June 1991", "June-July 1991", "March-April 1991"],
-    "answer": "May - June 1991",
+    "answer": "May-June 1991",
     "explanation": "The 10th general elections were held between May-June 1991, during which Rajiv Gandhi was assassinated."
   },
   {
     "question": "When did the 11th general elections happen?",
     "choices": ["March-April 1996", "April-May 1996", "May-June 1996", "June-July 1996"],
-    "answer": "April - May 1996",
+    "answer": "April-May 1996",
     "explanation": "The 11th general elections were held in April-May 1996, leading to short-lived governments including Atal Bihari Vajpayee's 13-day government."
   },
   {
@@ -271,19 +271,19 @@
   {
     "question": "When did the Kargil conflict happen?",
     "choices": ["April-June 1999", "May-July 1999", "June-August 1999", "March-May 1999"],
-    "answer": "May - July 1999",
+    "answer": "May-July 1999",
     "explanation": "The Kargil War (May–July 1999) began months after PM Vajpayee's peace bus to Lahore (Feb 1999), when Pakistani troops infiltrated Indian-held Kargil"
   },
   {
     "question": "When did the 13th general elections happen?",
     "choices": ["August-September 1999", "September-October 1999", "October-November 1999", "November-December 1999"],
-    "answer": "Sept - Oct 1999",
+    "answer": "September-October 1999",
     "explanation": "The 13th general elections were held between September-October 1999."
   },
   {
     "question": "When did the 14th to 18th general elections happen?",
     "choices": ["2004-2024 (April-May)", "2004-2024 (May-June)", "2003-2023 (April-May)", "2005-2025 (May-June)"],
-    "answer": "April -May - 14th(2004) to 18th(2024)",
+    "answer": "2004-2024 (April-May)",
     "explanation": "The 14th to 18th general elections were consistently held in April-May between 2004 and 2024."
   }
 ]
