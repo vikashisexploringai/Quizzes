@@ -143,12 +143,12 @@
     "answer": "1639",
     "explanation": "The British EIC acquired a 3-mile coastal strip (Madras) from the Pudukkottai Nayaka in 1639."
   },
-  {
-    "question": "How did the British acquire Bombay in 1661?",
-    "choices": ["Conquest", "Purchase", "Dowry", "Treaty"],
-    "answer": "Dowry",
-    "explanation": "Bombay was given to the British monarch Charles II as part of Catherine of Braganza's dowry in 1661."
-  },
+ {
+  "question": "In which year did the British acquire Bombay as part of Catherine of Braganza's dowry?",
+  "choices": ["1498", "1600", "1661", "1707"],
+  "answer": "1661",
+  "explanation": "Acquired in 1661 when Portugal transferred Bombay to Charles II as dowry for his marriage to Catherine. Later leased to the East India Company (1668)."
+},
   {
     "question": "When did Charles II lease Bombay to the EIC?",
     "choices": ["1661", "1668", "1674", "1687"],
