@@ -167,12 +167,6 @@
     "explanation": "The Emergency was declared by President Fakhruddin Ali Ahmed on 25 June 1975 on the advice of Prime Minister Indira Gandhi, lasting until 21 March 1977."
   },
   {
-    "question": "When did Indira Gandhi return to power after the Emergency?",
-    "choices": ["January 1978", "January 1979", "January 1980", "January 1981"],
-    "answer": "January 1980",
-    "explanation": "Indira Gandhi returned to power in January 1980 after the Janata Party government collapsed."
-  },
-  {
     "question": "When were 6 more banks with deposits >200 Cr nationalized?",
     "choices": ["April 1978", "April 1979", "April 1980", "April 1981"],
     "answer": "April 1980",
@@ -209,10 +203,10 @@
     "explanation": "The 4th general elections of India were held in February 1967."
   },
   {
-    "question": "When did the 5th general elections happen?",
+    "question": "When did the 5th general elections happen - an early election called by Indira to consolidate her power after split in congress in 1969?",
     "choices": ["January 1971", "February 1971", "March 1971", "December 1970"],
     "answer": "March 1971",
-    "explanation": "The 5th general elections of India were held in March 1971."
+    "explanation": "Earlier she nationalised banks and took legislative and executive actions to abolish privy purses - overturned by court but implemented after election by 26th CAA, Dec 1971"
   },
   {
     "question": "When did the 1st Pokhran Test happen?",
