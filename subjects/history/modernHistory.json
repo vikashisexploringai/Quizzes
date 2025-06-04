@@ -155,12 +155,12 @@
     "answer": "1668",
     "explanation": "Charles II leased Bombay to the East India Company in 1668 for £10 per year."
   },
-  {
-    "question": "Where did the French establish their first factory in India?",
-    "choices": ["Pondicherry", "Surat", "Chandernagore", "Masulipatnam"],
-    "answer": "Surat",
-    "explanation": "The French established their first factory at Surat in 1668."
-  },
+ {
+  "question": "In which year did the French establish their first factory in India at Surat?",
+  "choices": ["1616", "1664", "1668", "1673"],
+  "answer": "1668",
+  "explanation": "1668. Pondicherry (1674) became their later stronghold."
+},
   {
     "question": "When did Pondicherry become the French headquarters in India?",
     "choices": ["1674", "1668", "1690", "1700"],
@@ -173,24 +173,24 @@
     "answer": "1687",
     "explanation": "Isaac Newton's groundbreaking 'Philosophiæ Naturalis Principia Mathematica' was published in 1687."
   },
+ {
+  "question": "In which year did Job Charnock establish the factory at Sutanuti (later Calcutta)?",
+  "choices": ["1680", "1690", "1700", "1757"],
+  "answer": "1690",
+  "explanation": "1690: Job Charnock founded Sutanuti factory (August 24), merging with Kalikata/Gobindapur in 1698 to form Calcutta. Controversially regarded as the city's founder."
+},
   {
-    "question": "Who established the factory at Sutanuti in 1690?",
-    "choices": ["Thomas Roe", "Job Charnock", "Robert Clive", "Warren Hastings"],
-    "answer": "Job Charnock",
-    "explanation": "Job Charnock established a factory at Sutanuti in 1690, which later became part of Calcutta."
-  },
+  "question": "In which year did the East India Company acquire zamindari rights for Sutanuti, Kalikata, and Gobindpur villages, leading to Calcutta's foundation?",
+  "choices": ["1686", "1690", "1698", "1702"],
+  "answer": "1698",
+  "explanation": "1698: EIC secured zamindari rights from Mughal Emperor Aurangzeb for these villages (₹1300 annual rent)."
+},
   {
-    "question": "What did the EIC acquire in 1698 that led to Calcutta's foundation?",
-    "choices": ["Fort William", "Zamindari rights for 3 villages", "Trade monopoly", "Naval base"],
-    "answer": "Zamindari rights for 3 villages",
-    "explanation": "The EIC acquired zamindari rights for Sutanuti, Kalikata, and Gobindpur in 1698, forming Calcutta's core."
-  },
-  {
-    "question": "What significant privilege did Farrukhsiyar grant in 1717?",
-    "choices": ["Golden Farman", "Diwani rights", "Trade monopoly", "Military alliance"],
-    "answer": "Golden Farman",
-    "explanation": "Farrukhsiyar's Golden Farman (1717) granted the EIC extensive trade privileges in Bengal."
-  },
+  "question": "In which year did Emperor Farrukhsiyar grant the Golden Farman to the East India Company?",
+  "choices": ["1707", "1717", "1739", "1757"],
+  "answer": "1717",
+  "explanation": "1717: Farrukhsiyar issued the Golden Farman (royal decree), granting EIC duty-free trade in Bengal, minting rights, and village acquisitions. Marked a major Mughal concession to European traders."
+},
   {
     "question": "When did Warren Hastings shift Bengal's capital to Calcutta?",
     "choices": ["1772", "1757", "1765", "1784"],
