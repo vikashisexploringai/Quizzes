@@ -246,6 +246,12 @@
     "explanation": "The Asiatic Society of Great Britain was established in London in 1823."
   },
   {
+  "question": "In which year did Raja Ram Mohan Roy and Dwarkanath Tagore found the Brahmo Samaj?",
+  "choices": ["1815", "1828", "1835", "1857"],
+  "answer": "1828",
+  "explanation": "1828. Dwarkanath son - Debendranath joined in 1842, Keshub joined in 1858. 1865 - schism into Adi Brahmo & Brahmo Samaj of India(later Sadharan Brahmo in 1878 by Keshub followers)"
+  },
+  {
   "question": "In which year was the Coinage Act of 1835 passed by the British Parliament?",
   "choices": ["1818", "1833", "1835", "1857"],
   "answer": "1835",
@@ -256,12 +262,6 @@
     "choices": ["1845", "1816", "1835", "1857"],
     "answer": "1845",
     "explanation": "Denmark sold all its Indian settlements (Tranquebar, Serampore, etc.) to Britain in 1845."
-  },
-  {
-    "question": "Who founded Brahmo Samaj in 1828?",
-    "choices": ["Dayanand Saraswati", "Raja Ram Mohan Roy & Dwarkanath Tagore", "Swami Vivekananda", "Keshab Chandra Sen"],
-    "answer": "Raja Ram Mohan Roy & Dwarkanath Tagore",
-    "explanation": "Raja Ram Mohan Roy and Dwarkanath Tagore founded Brahmo Samaj in 1828 as a reformist movement."
   },
   {
     "question": "What treaty in 1846 established Gulab Singh as ruler of Kashmir?",
