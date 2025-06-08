@@ -1,5 +1,11 @@
 [
   {
+  "question": "In which year did Henry Louis Vivian Derozio, the radical educator and poet of Bengal Renaissance, pass away?",
+  "choices": ["1826", "1831", "1836", "1841"],
+  "answer": "1831",
+  "explanation": "1831: Derozio died of cholera at age 22. His Young Bengal movement continued influencing Indian reformists despite his early death."
+  },
+  {
     "question": "When was Keshub Chandra Sen born?",
     "choices": ["1836", "1838", "1840", "1842"],
     "answer": "1838",
@@ -173,7 +179,7 @@
     "question": "When and where did Rabindranath Tagore die?",
     "choices": ["1936", "1941", "1946", "1951"],
     "answer": "1941",
-    "explanation": "The Nobel laureate died on 7 August 1941 in Kolkata at age 80."
+    "explanation": "7th Aug 1941 at 80. Elder - Satyendra, Father - Debendra, Grandfather - Dwarkanath, Cousin's son - Abanindranath, Sarala Devi - Own niece"
   },
   {
     "question": "When and where did Mahatma Gandhi die?",
