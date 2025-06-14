@@ -1,0 +1,308 @@
+[
+  {
+    "question": "अ ?",
+    "choices": ["অ", "ই", "ঋ", "ঔ"],
+    "answer": "অ",
+    "explanation": "অক্ষর (letter), অন্ধ (blind), অলস (lazy), অন্ন (rice)"
+  },
+  {
+    "question": "आ ?",
+    "choices": ["আ", "ঈ", "এ", "ও"],
+    "answer": "আ",
+    "explanation": "আম (mango), আকাশ (sky), আঙুল (finger), আলু (potato)"
+  },
+  {
+    "question": "इ ?",
+    "choices": ["ই", "উ", "ঐ", "ঊ"],
+    "answer": "ই",
+    "explanation": "ইঁদুর (rat), ইচ্ছা (wish), ইতিহাস (history), ইংরেজ (English)"
+  },
+  {
+    "question": "ई ?",
+    "choices": ["ঈ", "অ", "ও", "ঐ"],
+    "answer": "ঈ",
+    "explanation": "ঈগল (eagle), ঈশ্বর (god), ঈর্ষা (jealousy), ঈদ (Eid)"
+  },
+  {
+    "question": "उ ?",
+    "choices": ["উ", "ঊ", "এ", "ঔ"],
+    "answer": "উ",
+    "explanation": "উঁচু (tall), উট (camel), উল্কি (tattoo), উত্তর (answer)"
+  },
+  {
+    "question": "ऊ ?",
+    "choices": ["ঊ", "ও", "ঐ", "আ"],
+    "answer": "ঊ",
+    "explanation": "ঊর্ণা (wool), ঊষা (dawn), ঊর্মি (wave), ঊন (less)"
+  },
+  {
+    "question": "ऋ ?",
+    "choices": ["ঋ", "এ", "ঐ", "ও"],
+    "answer": "ঋ",
+    "explanation": "ঋষি (sage), ঋণ (debt), ঋতু (season), ঋদ্ধ (prosperous)"
+  },
+  {
+    "question": "ए ?",
+    "choices": ["এ", "ঐ", "ও", "আ"],
+    "answer": "এ",
+    "explanation": "এক (one), এই (this), এলাচ (cardamom), এপ্রিল (April)"
+  },
+  {
+    "question": "ऐ ?",
+    "choices": ["ঐ", "ঔ", "উ", "ই"],
+    "answer": "ঐ",
+    "explanation": "ঐক্য (unity), ঐশ্বর্য (wealth), ঐতিহ্য (heritage), ঐন্দ্রজালিক (magical)"
+  },
+  {
+    "question": "ओ ?",
+    "choices": ["ও", "ঔ", "আ", "ঈ"],
+    "answer": "ও",
+    "explanation": "ওজন (weight), ওষুধ (medicine), ওলকপি (kohlrabi), ওড়না (scarf)"
+  },
+  {
+    "question": "औ ?",
+    "choices": ["ঔ", "ও", "ঐ", "ঋ"],
+    "answer": "ঔ",
+    "explanation": "ঔষধ (medicine), ঔদার্য (generosity), ঔচিত্য (propriety), ঔরস (legitimate)"
+  },
+  {
+    "question": "क ?",
+    "choices": ["ক", "খ", "গ", "ঙ"],
+    "answer": "ক",
+    "explanation": "কলা (banana), বই (book), কাল (time), কান (ear)"
+  },
+  {
+    "question": "ख ?",
+    "choices": ["খ", "ঘ", "ছ", "ঠ"],
+    "answer": "খ",
+    "explanation": "খেলা (game), খোকা (kid), খুশি (happy), খাবার (food)"
+  },
+  {
+    "question": "ग ?",
+    "choices": ["গ", "জ", "দ", "ধ"],
+    "answer": "গ",
+    "explanation": "গান (song), গরু (cow), গাছ (tree), গল্প (story)"
+  },
+  {
+    "question": "घ ?",
+    "choices": ["ঘ", "ভ", "ম", "ষ"],
+    "answer": "ঘ",
+    "explanation": "ঘর (house), ঘুম (sleep), ঘোড়া (horse), ঘড়ি (clock)"
+  },
+  {
+    "question": "ङ ?",
+    "choices": ["ঙ", "ঞ", "ণ", "ন"],
+    "answer": "ঙ",
+    "explanation": "অঙ (limb), ডাঙা (land), রঙ (color), শঙ্খ (conch)"
+  },
+  {
+    "question": "च ?",
+    "choices": ["চ", "ছ", "জ", "ঝ"],
+    "answer": "চ",
+    "explanation": "চাল (rice), চশমা (glasses), চাঁদ (moon), চিন্তা (thought)"
+  },
+  {
+    "question": "छ ?",
+    "choices": ["ছ", "ট", "ঠ", "ড"],
+    "answer": "ছ",
+    "explanation": "ছাতা (umbrella), ছেলে (boy), ছোট (small), ছাগল (goat)"
+  },
+  {
+    "question": "ज ?",
+    "choices": ["জ", "ঝ", "য", "ঞ"],
+    "answer": "জ",
+    "explanation": "জল (water), জ্বর (fever), জুতো (shoe), জঙ্গল (jungle)"
+  },
+  {
+    "question": "झ ?",
+    "choices": ["ঝ", "ঞ", "ঠ", "ড"],
+    "answer": "ঝ",
+    "explanation": "ঝড় (storm), ঝুলি (bag), ঝিনুক (shell), ঝকঝক (sparkling)"
+  },
+  {
+    "question": "ञ ?",
+    "choices": ["ঞ", "ণ", "ন", "ম"],
+    "answer": "ঞ",
+    "explanation": "পঞ (five), অঞ (sign), বঞ (arrow), মঞ (opinion)"
+  },
+  {
+    "question": "ट ?",
+    "choices": ["ট", "ঠ", "ড", "ঢ"],
+    "answer": "ট",
+    "explanation": "টাকা (money), টমেটো (tomato), টেবিল (table), টেলিফোন (telephone)"
+  },
+  {
+    "question": "ठ ?",
+    "choices": ["ঠ", "ড", "ঢ", "ণ"],
+    "answer": "ঠ",
+    "explanation": "ঠাকুর (priest), ঠাণ্ডা (cold), ঠিকানা (address), ঠোঁট (lip)"
+  },
+  {
+    "question": "ड ?",
+    "choices": ["ড", "ঢ", "ণ", "ত"],
+    "answer": "ড",
+    "explanation": "ডাক্তার (doctor), ডাল (lentils), ডুমুর (fig), ডান (right)"
+  },
+  {
+    "question": "ढ ?",
+    "choices": ["ঢ", "ড", "ণ", "থ"],
+    "answer": "ঢ",
+    "explanation": "ঢাক (drum), ঢাল (shield), ঢেউ (wave), ঢোকা (to swallow)"
+  },
+  {
+    "question": "ण ?",
+    "choices": ["ণ", "ন", "ত", "থ"],
+    "answer": "ণ",
+    "explanation": "প্রাণ (life), ক্ষণ (moment), রণ (battle), গণ (group)"
+  },
+  {
+    "question": "त ?",
+    "choices": ["ত", "থ", "দ", "ধ"],
+    "answer": "ত",
+    "explanation": "তুমি (you), তারা (star), তালা (lock), তোয়ালে (towel)"
+  },
+  {
+    "question": "थ ?",
+    "choices": ["থ", "দ", "ধ", "ন"],
+    "answer": "থ",
+    "explanation": "থালা (plate), থাম (pillar), থেকো (stay), থুতু (spit)"
+  },
+  {
+    "question": "द ?",
+    "choices": ["দ", "ধ", "ন", "প"],
+    "answer": "দ",
+    "explanation": "দুধ (milk), দাম (price), দোকান (shop), দাঁত (tooth)"
+  },
+  {
+    "question": "ध ?",
+    "choices": ["ধ", "ন", "ভ", "ম"],
+    "answer": "ধ",
+    "explanation": "ধন (wealth), ধরা (to catch), ধুম (smoke), ধান (paddy)"
+  },
+  {
+    "question": "न ?",
+    "choices": ["ন", "প", "ফ", "ব"],
+    "answer": "ন",
+    "explanation": "নদী (river), নাম (name), নীল (blue), নাচ (dance)"
+  },
+  {
+    "question": "प ?",
+    "choices": ["প", "ফ", "ব", "ভ"],
+    "answer": "প",
+    "explanation": "পান (betel leaf), পাখি (bird), পুতুল (doll), পাগল (mad)"
+  },
+  {
+    "question": "फ ?",
+    "choices": ["ফ", "ব", "ভ", "ম"],
+    "answer": "ফ",
+    "explanation": "ফল (fruit), ফুল (flower), ফাঁক (gap), ফিরে (return)"
+  },
+  {
+    "question": "ब ?",
+    "choices": ["ব", "ভ", "ম", "য"],
+    "answer": "ব",
+    "explanation": "বাবা (father), বই (book), বাড়ি (home), বৃষ্টি (rain)"
+  },
+  {
+    "question": "भ ?",
+    "choices": ["ভ", "ম", "য", "র"],
+    "answer": "ভ",
+    "explanation": "ভাত (rice), ভাই (brother), ভয় (fear), ভুল (mistake)"
+  },
+  {
+    "question": "म ?",
+    "choices": ["ম", "য", "র", "ল"],
+    "answer": "ম",
+    "explanation": "মা (mother), মাছ (fish), মুখ (face), মেঘ (cloud)"
+  },
+  {
+    "question": "य ?",
+    "choices": ["য", "র", "ল", "শ"],
+    "answer": "য",
+    "explanation": "যাওয়া (to go), যুদ্ধ (war), যমুনা (Yamuna), যন্ত্র (machine)"
+  },
+  {
+    "question": "र ?",
+    "choices": ["র", "ল", "শ", "ষ"],
+    "answer": "র",
+    "explanation": "রাত (night), রাস্তা (road), রান্না (cooking), রাগ (anger)"
+  },
+  {
+    "question": "ल ?",
+    "choices": ["ল", "শ", "ষ", "স"],
+    "answer": "ল",
+    "explanation": "লেবু (lemon), লাল (red), লাঠি (stick), লজ্জা (shame)"
+  },
+  {
+    "question": "श ?",
+    "choices": ["শ", "ষ", "স", "ह"],
+    "answer": "শ",
+    "explanation": "শব্দ (sound), শীত (winter), শেখা (to learn), শক্তি (power)"
+  },
+  {
+    "question": "ष ?",
+    "choices": ["ষ", "স", "ह", "ক্ষ"],
+    "answer": "ষ",
+    "explanation": "ষড়যন্ত্র (conspiracy), ষাঁড় (bull), ষাট (sixty), ষোল (sixteen)"
+  },
+  {
+    "question": "स ?",
+    "choices": ["স", "ह", "ক্ষ", "ড়"],
+    "answer": "স",
+    "explanation": "সাপ (snake), সূর্য (sun), সত্য (truth), সব (all)"
+  },
+  {
+    "question": "ह ?",
+    "choices": ["হ", "ক্ষ", "ড়", "ঢ়"],
+    "answer": "হ",
+    "explanation": "হাত (hand), হাসি (laughter), হলুদ (turmeric), হৃদয় (heart)"
+  },
+  {
+    "question": "क्ष ?",
+    "choices": ["ক্ষ", "ড়", "ঢ়", "য়"],
+    "answer": "ক্ষ",
+    "explanation": "ক্ষুধা (hunger), ক্ষমতা (power), ক্ষতি (loss), ক্ষেত্র (field)"
+  },
+  {
+    "question": "ड़ ?",
+    "choices": ["ড়", "ঢ়", "য়", "ৎ"],
+    "answer": "ড়",
+    "explanation": "গাড়ি (car), দড়ি (rope), বড় (big), ছেড়ে (leaving)"
+  },
+  {
+    "question": "ढ़ ?",
+    "choices": ["ঢ়", "য়", "ৎ", "ং"],
+    "answer": "ঢ়",
+    "explanation": "গাঢ় (dark), আঢ় (embarrassed), পঢ়া (to read), লঢ় (to fight)"
+  },
+  {
+    "question": "য় ?",
+    "choices": ["য়", "ৎ", "ং", "ঃ"],
+    "answer": "য়",
+    "explanation": "খায় (eats), যায় (goes), হয় (is), লয় (takes)"
+  },
+  {
+    "question": "ৎ ?",
+    "choices": ["ৎ", "ং", "ঃ", "ঁ"],
+    "answer": "ৎ",
+    "explanation": "উৎ (prefix), কৎ (cut), গৎ (rhythm), ভৎ (sound)"
+  },
+  {
+    "question": "ं ?",
+    "choices": ["ং", "ঃ", "ঁ", "অ"],
+    "answer": "ং",
+    "explanation": "সিংহ (lion), রং (color), ভাং (broken), ঝং (sound)"
+  },
+  {
+    "question": "ः ?",
+    "choices": ["ঃ", "ঁ", "অ", "আ"],
+    "answer": "ঃ",
+    "explanation": "দুঃখ (sorrow), পুনঃ (again), স্বঃ (self), অঃ (sun)"
+  },
+  {
+    "question": "ँ ?",
+    "choices": ["ঁ", "অ", "আ", "ই"],
+    "answer": "ঁ",
+    "explanation": "চাঁদ (moon), গাঁ (village), তেঁতুল (tamarind), খাঁটি (pure)"
+  }
+]
