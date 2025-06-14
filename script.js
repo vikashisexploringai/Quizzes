@@ -32,11 +32,14 @@ const subjects = {
             'citiesLatitude': { displayName: 'Latitude of Important Cities' }
         }
     },
-    'bengali': {
-        displayName: 'Bengali',
+    'languages': {
+        displayName: 'Languages',
         themes: {
-            'letterRecognition': { displayName: 'Letter Recognition' }
-        }
+            'bengaliLetterRecognition': { displayName: 'Bengali Letter Recognition' }
+        },
+        themes: {
+            'englishVocabulary': { displayName: 'English Vocabulary' }
+}
     }
     // Add more subjects as needed
 };
