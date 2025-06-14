@@ -35,11 +35,9 @@ const subjects = {
     'languages': {
         displayName: 'Languages',
         themes: {
-            'bengaliLetterRecognition': { displayName: 'Bengali Letter Recognition' }
-        },
-        themes: {
-            'englishVocabulary': { displayName: 'English Vocabulary' }
-}
+            'bengaliLetterRecognition': { displayName: 'Bengali Letter Recognition' },
+             'englishVocabulary': { displayName: 'English Vocabulary' }
+        }
     }
     // Add more subjects as needed
 };
