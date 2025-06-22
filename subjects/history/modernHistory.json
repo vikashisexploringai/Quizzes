@@ -204,10 +204,10 @@
     "explanation": "The American Revolutionary War lasted from 1775 to 1783, resulting in American independence."
   },
   {
-    "question": "Who invented the improved steam engine in 1776?",
-    "choices": ["Thomas Newcomen", "James Watt", "Richard Trevithick", "George Stephenson"],
-    "answer": "James Watt",
-    "explanation": "Scottish engineer James Watt patented his improved steam engine design in 1776."
+  "question": "In which year did James Watt patent his improved steam engine design?",
+  "choices": ["1698", "1769", "1776", "1781"],
+  "answer": "1776",
+  "explanation": "1776. Revolutionized steam engine efficiency."
   },
   {
     "question": "When was the Asiatic Society of Bengal founded?",
@@ -221,23 +221,23 @@
     "answer": "1804",
     "explanation": "The Bombay Asiatic Society was established in 1804."
   },
+ {
+  "question": "In which year was the Treaty of Amritsar signed between Maharaja Ranjit Singh and the British East India Company?",
+  "choices": ["1799", "1806", "1809", "1815"],
+  "answer": "1809",
+  "explanation": "Signed in 1809. The treaty recognized the Sutlej River as the boundary between the Sikh Empire and British territories, ensuring non-interference for 30+ years."
+ },
   {
-    "question": "What significant treaty was signed in 1809 between Ranjit Singh and the EIC?",
-    "choices": ["Treaty of Amritsar", "Treaty of Lahore", "Treaty of Bassein", "Treaty of Sugauli"],
-    "answer": "Treaty of Amritsar",
-    "explanation": "The 1809 Treaty of Amritsar fixed the Sutlej as the boundary between Sikh and British territories."
+  "question": "In which year was Napoleon exiled to St. Helena after his defeat at Waterloo?",
+  "choices": ["1814", "1815", "1816", "1821"],
+  "answer": "1815",
+  "explanation": "1815: Exiled to St. Helena (remote South Atlantic island) to prevent the repeat of Elba escape. Died there in 1821."
   },
   {
-    "question": "Where was Napoleon exiled in 1815 after Waterloo?",
-    "choices": ["Elba", "St. Helena", "Corsica", "Malta"],
-    "answer": "St. Helena",
-    "explanation": "After his final defeat, Napoleon was exiled to the remote island of St. Helena in 1815."
-  },
-  {
-    "question": "What treaty ended the Anglo-Nepalese War in 1816?",
-    "choices": ["Treaty of Sugauli", "Treaty of Amritsar", "Treaty of Bassein", "Treaty of Lahore"],
-    "answer": "Treaty of Sugauli",
-    "explanation": "The Treaty of Sugauli (1816) ended the Anglo-Nepalese War, establishing British influence over Nepal."
+  "question": "In which year was the Treaty of Sugauli signed, ending the Anglo-Nepalese War?",
+  "choices": ["1806", "1814", "1816", "1818"],
+  "answer": "1816",
+  "explanation": "Signed in March 1816. The treaty forced Nepal to cede territories (Kumaon-Garhwal) to the British and accept a resident, but preserved Gorkha sovereignty."
   },
   {
     "question": "When was the Asiatic Society of Great Britain founded in London?",
@@ -263,13 +263,13 @@
     "answer": "1845",
     "explanation": "Denmark sold all its Indian settlements (Tranquebar, Serampore, etc.) to Britain in 1845."
   },
-  {
-    "question": "What treaty in 1846 established Gulab Singh as ruler of Kashmir?",
-    "choices": ["Treaty of Amritsar", "Treaty of Lahore", "Treaty of Bassein", "Treaty of Sugauli"],
-    "answer": "Treaty of Amritsar",
-    "explanation": "The 1846 Treaty of Amritsar between Gulab Singh and the EIC created the princely state of Jammu and Kashmir."
-  },
-  {
+{
+  "question": "In which year was the Treaty of Amritsar signed, establishing Gulab Singh as ruler of Jammu and Kashmir?",
+  "choices": ["1842", "1846", "1848", "1850"],
+  "answer": "1846",
+"explanation": "1846: Transferred Kashmir from Sikh to Dogra rule. Defined borders along Chenab-Ravi rivers, establishing British supremacy while granting Gulab Singh internal autonomy."
+},
+{
   "question": "Who was Charles Wood in relation to the 1854 education reforms in India, and what was a major outcome?",
   "choices": [
     "Governor-General of India; introduced English as the sole medium of instruction",
@@ -287,52 +287,52 @@
     "explanation": "Charles Darwin's revolutionary work 'On the Origin of Species' was published in November 1859."
   },
   {
-    "question": "Who founded the Muhammadan Literary Society in 1863?",
-    "choices": ["Sir Syed Ahmed Khan", "Abdul Latif", "Badruddin Tyabji", "Aga Khan"],
-    "answer": "Abdul Latif",
-    "explanation": "Nawab Abdul Latif founded the Muhammadan Literary Society in Calcutta in 1863."
+  "question": "In which year did Nawab Abdul Latif found the Muhammadan Literary Society in Calcutta?",
+  "choices": ["1857", "1863", "1875", "1885"],
+  "answer": "1863",
+  "explanation": "1863: Nawab Abdul Latif established this pioneering Muslim reformist society to promote modern education among Bengal's Muslims under British rule."
   },
   {
-    "question": "Who founded Prarthana Samaj in 1867?",
-    "choices": ["Dayanand Saraswati", "Atmaram Pandurang", "MG Ranade", "Keshab Chandra Sen"],
-    "answer": "Atmaram Pandurang",
-    "explanation": "Atmaram Pandurang founded Prarthana Samaj in Bombay in 1867 as a reformist movement."
+  "question": "In which year was the Prarthana Samaj founded in Bombay by Atmaram Pandurang?",
+  "choices": ["1857", "1863", "1867", "1875"],
+  "answer": "1867",
+  "explanation": "1867: Founded as a Hindu reformist society advocating monotheism, women's education, and caste equality. Later joined by M.G. Ranade and R.G. Bhandarkar."
   },
   {
-    "question": "What major Japanese event occurred in 1868?",
-    "choices": ["Meiji Restoration", "Sino-Japanese War", "Russo-Japanese War", "Treaty of Kanagawa"],
-    "answer": "Meiji Restoration",
-    "explanation": "The Meiji Restoration in 1868 marked Japan's modernization and opening to Western influence."
+  "question": "In which year did the Meiji Restoration begin, marking Japan's transition to modernity?",
+  "choices": ["1853", "1868", "1895", "1905"],
+  "answer": "1868",
+  "explanation": "1868: Overthrew the Tokugawa shogunate, restored imperial rule under Emperor Meiji, and initiated rapid industrialization and westernization policies."
+  },
+{
+  "question": "In which year did Jyotiba Phule found the Satyashodhak Samaj in Pune?",
+  "choices": ["1857", "1867", "1873", "1885"],
+  "answer": "1873",
+"explanation": "1873: Challenged Brahmanical dominance through radical acts like inter-caste marriages and Satyashodhak weddings (replacing Brahmin priests)."
+},
+  {
+  "question": "In which year was the Muhammadan Anglo-Oriental College established in Aligarh by Sir Syed Ahmed Khan?",
+  "choices": ["1857", "1863", "1875", "1887"],
+  "answer": "1875",
+  "explanation": "1875: Founded as a Muslim-led institution blending Western education with Islamic values, later becoming Aligarh Muslim University (1920)."
   },
   {
-    "question": "Who founded Satyashodhak Samaj in 1873?",
-    "choices": ["Jyotiba Phule", "Gopal Krishna Gokhale", "Bal Gangadhar Tilak", "MG Ranade"],
-    "answer": "Jyotiba Phule",
-    "explanation": "Jyotiba Phule founded Satyashodhak Samaj in Pune in 1873 to promote education and rights for lower castes."
+  "question": "In which year did Dayanand Saraswati found the Arya Samaj?",
+  "choices": ["1828", "1867", "1875", "1893"],
+  "answer": "1875",
+  "explanation": "1875: Launched with 'Back to the Vedas' slogan, later known for shuddhi (reconversion) movements and establishing DAV schools nationwide."
+},
+  {
+  "question": "In which year was the Vernacular Press Act passed to censor Indian language newspapers?",
+  "choices": ["1857", "1878", "1885", "1898"],
+  "answer": "1878",
+  "explanation": "1878: Lord Lytton's 'Gagging Act' allowed seizure of printing presses and censorship of vernacular papers, sparking nationalist outrage."
   },
   {
-    "question": "What institution was established in Aligarh in 1875?",
-    "choices": ["Muhammadan Anglo-Oriental College", "Banaras Hindu University", "Aligarh Muslim University", "Darul Uloom Deoband"],
-    "answer": "Muhammadan Anglo-Oriental College",
-    "explanation": "Sir Syed Ahmed Khan established the Muhammadan Anglo-Oriental College in Aligarh in 1875."
-  },
-  {
-    "question": "Who founded Arya Samaj in 1875?",
-    "choices": ["Dayanand Saraswati", "Raja Ram Mohan Roy", "Swami Vivekananda", "Keshab Chandra Sen"],
-    "answer": "Dayanand Saraswati",
-    "explanation": "Dayanand Saraswati founded Arya Samaj in Bombay in 1875 as a Hindu reform movement."
-  },
-  {
-    "question": "What restrictive act was passed in 1878 regarding Indian language newspapers?",
-    "choices": ["Vernacular Press Act", "Rowlatt Act", "Press Act", "Gagging Act"],
-    "answer": "Vernacular Press Act",
-    "explanation": "The Vernacular Press Act of 1878 gave the government power to censor Indian language newspapers."
-  },
-  {
-    "question": "Which English newspaper was founded by G.S. Iyer in 1878?",
-    "choices": ["The Hindu", "Amrita Bazar Patrika", "Kesari", "Young India"],
-    "answer": "The Hindu",
-    "explanation": "G.S. Iyer founded 'The Hindu' newspaper in 1878 as a voice of Indian nationalism."
+  "question": "In which year was 'The Hindu' newspaper founded by G.S. Iyer?",
+  "choices": ["1857", "1878", "1885", "1890"],
+  "answer": "1878",
+  "explanation": "1878: Founded in Madras as a weekly by G.S. Iyer and six young nationalists to counter British propaganda during the Viceroyalty of Lord Lytton."
   },
   {
     "question": "When did Gandhi first visit South Africa?",
@@ -353,16 +353,16 @@
     "explanation": "The First Sino-Japanese War (1894-95) established Japan as a major regional power."
   },
   {
-    "question": "Who murdered Rand and Ayerst on 22 June 1897?",
-    "choices": ["Bhagat Singh", "Chapekar brothers", "Khudiram Bose", "Udham Singh"],
-    "answer": "Chapekar brothers",
-    "explanation": "The Chapekar brothers assassinated British officials Rand and Ayerst in Pune on 22 June 1897."
+  "question": "In which year did the Chapekar brothers assassinate British officials Rand and Ayerst in Pune?",
+  "choices": ["1885", "1897", "1905", "1911"],
+  "answer": "1897",
+  "explanation": "22 June 1897: Targeted plague commissioner Rand in retaliation for oppressive measures during Pune's epidemic, marking India's first revolutionary nationalist assassination."
   },
   {
-    "question": "Who founded Ramakrishna Mission in 1897?",
-    "choices": ["Ramakrishna Paramahamsa", "Swami Vivekananda", "Dayanand Saraswati", "Aurobindo Ghosh"],
-    "answer": "Swami Vivekananda",
-    "explanation": "Swami Vivekananda founded Ramakrishna Mission in 1897 to promote social service and Vedanta philosophy."
+  "question": "In which year did Swami Vivekananda found the Ramakrishna Mission?",
+  "choices": ["1886", "1893", "1897", "1902"],
+  "answer": "1897",
+  "explanation": "1897: Established at Belur Math to combine spiritual development with social service, inspired by Ramakrishna's teachings after Vivekananda's Parliament of Religions address (1893)."
   },
   {
     "question": "When was the Boxer Rebellion in China?",
@@ -370,17 +370,17 @@
     "answer": "1899-1901",
     "explanation": "The Boxer Rebellion against foreign influence in China occurred from 1899 to 1901."
   },
+{
+  "question": "In which year did Rabindranath Tagore establish Shantiniketan?",
+  "choices": ["1895", "1901", "1905", "1913"],
+  "answer": "1901",
+  "explanation": "1901: Founded as an experimental school in rural Bengal combining Indian/Western pedagogy, later expanding into Visva-Bharati University (1921)."
+},
   {
-    "question": "What did Rabindranath Tagore establish in 1901?",
-    "choices": ["Shantiniketan", "Visva-Bharati", "Brahmo Samaj", "Arya Samaj"],
-    "answer": "Shantiniketan",
-    "explanation": "Tagore established Shantiniketan in 1901 as an experimental school, later developing into Visva-Bharati University."
-  },
-  {
-    "question": "What secret society did Savarkar found in 1904?",
-    "choices": ["Abhinav Bharat", "Anushilan Samiti", "Ghadar Party", "Hindustan Socialist Republican Association"],
-    "answer": "Abhinav Bharat",
-    "explanation": "Vinayak Damodar Savarkar founded the revolutionary Abhinav Bharat secret society in 1904."
+  "question": "In which year did V.D. Savarkar found the Abhinav Bharat secret society?",
+  "choices": ["1897", "1904", "1909", "1912"],
+  "answer": "1904",
+  "explanation": "1904: Created while studying in Pune as a revolutionary nationalist group, inspired by Mazzini's Young Italy, with branches across India and London."
   },
   {
     "question": "When was the Russo-Japanese War fought?",
@@ -389,11 +389,11 @@
     "explanation": "The Russo-Japanese War (Feb 1904-Sept 1905) was the first major victory of an Asian power over a European one."
   },
   {
-    "question": "Who founded India House in London in 1905?",
-    "choices": ["Shyamji Krishna Varma", "Lala Lajpat Rai", "Madan Lal Dhingra", "Bhikaji Cama"],
-    "answer": "Shyamji Krishna Varma",
-    "explanation": "Shyamji Krishna Varma founded India House in London in 1905 as a center for Indian nationalist activities."
-  },
+  "question": "In which year did Shyamji Krishna Varma establish India House in London?",
+  "choices": ["1902", "1905", "1907", "1909"],
+  "answer": "1905",
+  "explanation": "1905: Founded as a radical nationalist hub offering scholarships, publishing 'The Indian Sociologist', and mentoring revolutionaries like Savarkar and Dhingra."
+},
   {
     "question": "When was the Partition of Bengal announced?",
     "choices": ["19 July 1905", "16 October 1905", "7 August 1905", "1 November 1905"],
@@ -430,12 +430,12 @@
     "answer": "Swaraj as goal",
     "explanation": "The 1906 Calcutta Congress, presided by Dadabhai Naoroji, declared Swaraj (self-rule) as its goal."
   },
-  {
-    "question": "What revolutionary event occurred in Muzaffarpur in 1908?",
-    "choices": ["Kakori Conspiracy", "Alipore Bomb Case", "Kingsford assassination attempt", "Chauri Chaura"],
-    "answer": "Kingsford assassination attempt",
-    "explanation": "In April 1908, revolutionaries attempted to assassinate Judge Kingsford in Muzaffarpur, killing two British women instead."
-  },
+{
+  "question": "In which month and year did revolutionaries attempt to assassinate Judge Kingsford in Muzaffarpur?",
+  "choices": ["February 1907", "April 1908", "August 1909", "December 1911"],
+  "answer": "April 1908",
+  "explanation": "April 1908: Prafulla Chaki and Khudiram Bose bombed a carriage (mistaking it for Judge Kingsford's), killing two British women. The subsequent Alipore Bomb Case trial exposed Anushilan Samiti networks, acquitted Aurobindo Ghosh, and led to Bose's execution (age 18) - making him the youngest martyr of the revolutionary movement and a nationalist icon."
+},
   {
     "question": "How long was Tilak imprisoned after the 1908 sedition trial?",
     "choices": ["6 years (1908-1914)", "2 years", "Life imprisonment", "10 years"],
