@@ -6,7 +6,7 @@
     "explanation": "The Fall of Constantinople occurred in 1453 when the Ottoman Empire conquered the capital of the Byzantine Empire."
   },
   {
-    "question": "Around what year did Gutenberg print the Bible?",
+    "question": "In which year did Johannes Gutenberg print the Bible using movable-type?",
     "choices": ["1440", "1455", "1465", "1435"],
     "answer": "1455",
     "explanation": "Johannes Gutenberg printed the Bible around 1455 using his revolutionary movable-type printing system."
@@ -18,9 +18,9 @@
     "explanation": "Portuguese explorer Bartholomew Dias reached the Cape of Good Hope in 1488, opening the sea route to Asia."
   },
   {
-    "question": "What significant event occurred in 1494 regarding Portugal and Spain?",
-    "choices": ["Discovery of America", "Treaty of Tordesillas", "First circumnavigation", "Conquest of Granada"],
-    "answer": "Treaty of Tordesillas",
+    "question": "In which year was the Treaty of Tordesillas signed between Portugal and Spain?",
+    "choices": ["1492", "1494", "1498", "1500"],
+    "answer": "1494",
     "explanation": "The Treaty of Tordesillas (1494) divided the non-Christian world between Portugal and Spain along a meridian."
   },
   {
@@ -30,15 +30,15 @@
     "explanation": "Vasco da Gama reached Calicut on 21 May 1498, establishing the first sea route from Europe to India."
   },
   {
-    "question": "Who bombarded Calicut in 1500 while en route to discovering Brazil?",
-    "choices": ["Vasco da Gama", "Francisco de Almeida", "Pedro Alvares Cabral", "Alfonso de Albuquerque"],
-    "answer": "Pedro Alvares Cabral",
+    "question": "In which year did Pedro Alvares Cabral bombard Calicut while en route to discovering Brazil?",
+    "choices": ["1498", "1500", "1502", "1505"],
+    "answer": "1500",
     "explanation": "Pedro Alvares Cabral, the discoverer of Brazil, reached India and bombarded Calicut in 1500."
   },
   {
-    "question": "Who was the Portuguese governor from 1505 to 1509?",
-    "choices": ["Alfonso de Albuquerque", "Francisco de Almeida", "Nino da Cunha", "Vasco da Gama"],
-    "answer": "Francisco de Almeida",
+    "question": "During which years did Francisco de Almeida serve as Portuguese governor in India?",
+    "choices": ["1498-1505", "1505-1509", "1509-1515", "1515-1520"],
+    "answer": "1505-1509",
     "explanation": "Francisco de Almeida served as Portuguese governor in India from 1505 to 1509."
   },
   {
@@ -54,15 +54,15 @@
     "explanation": "The Portuguese captured Goa from the Bijapur Sultanate in 1510 under Alfonso de Albuquerque."
   },
   {
-    "question": "Who is considered the real founder of Portuguese rule in India (1509-1515)?",
-    "choices": ["Francisco de Almeida", "Vasco da Gama", "Alfonso de Albuquerque", "Nino da Cunha"],
-    "answer": "Alfonso de Albuquerque",
+    "question": "During which years did Alfonso de Albuquerque establish Portuguese dominance in India?",
+    "choices": ["1505-1509", "1509-1515", "1515-1520", "1520-1525"],
+    "answer": "1509-1515",
     "explanation": "Alfonso de Albuquerque, governor from 1509-1515, established Portuguese dominance in India."
   },
   {
-    "question": "What significant religious event occurred in 1517?",
-    "choices": ["Council of Trent", "Ninety-Five Theses", "Spanish Inquisition", "Diet of Worms"],
-    "answer": "Ninety-Five Theses",
+    "question": "In which year did Martin Luther post his Ninety-Five Theses?",
+    "choices": ["1515", "1517", "1520", "1525"],
+    "answer": "1517",
     "explanation": "Martin Luther posted his Ninety-Five Theses in 1517, sparking the Protestant Reformation."
   },
   {
@@ -72,9 +72,9 @@
     "explanation": "Goa replaced Cochin as the capital of Portuguese India in 1530."
   },
   {
-    "question": "Who was the Portuguese governor from 1529 to 1538?",
-    "choices": ["Alfonso de Albuquerque", "Francisco de Almeida", "Nino da Cunha", "Pedro Alvares Cabral"],
-    "answer": "Nino da Cunha",
+    "question": "During which years did Nino da Cunha serve as Portuguese governor in India?",
+    "choices": ["1510-1515", "1520-1525", "1529-1538", "1540-1545"],
+    "answer": "1529-1538",
     "explanation": "Nino da Cunha served as Portuguese governor in India from 1529 to 1538."
   },
   {
@@ -90,9 +90,9 @@
     "explanation": "The Dutch East India Company (Verenigde Oostindische Compagnie) was founded in 1602."
   },
   {
-    "question": "Where did the Dutch establish their first factory in India (1605)?",
-    "choices": ["Surat", "Pulicat", "Masulipatnam", "Cochin"],
-    "answer": "Masulipatnam",
+    "question": "In which year did the Dutch establish their first factory in India at Masulipatnam?",
+    "choices": ["1600", "1605", "1610", "1615"],
+    "answer": "1605",
     "explanation": "The Dutch established their first factory at Masulipatnam in 1605."
   },
   {
@@ -102,39 +102,39 @@
     "explanation": "William Hawkins arrived at Surat on the Hector in 1608, impressing Jahangir but failing to secure formal trade rights."
   },
   {
-    "question": "Where did the Dutch establish a factory in 1610?",
-    "choices": ["Surat", "Pulicat", "Masulipatnam", "Cochin"],
-    "answer": "Pulicat",
+    "question": "In which year did the Dutch establish a factory at Pulicat?",
+    "choices": ["1605", "1610", "1615", "1620"],
+    "answer": "1610",
     "explanation": "The Dutch established a factory at Pulicat in 1610, which became their main base in India."
   },
   {
-    "question": "Who won the Battle of Swally (Suvali) in 1612?",
-    "choices": ["Portuguese", "Dutch", "English (Thomas Best)", "French"],
-    "answer": "English (Thomas Best)",
+    "question": "In which year did the English under Thomas Best defeat the Portuguese at the Battle of Swally?",
+    "choices": ["1608", "1612", "1615", "1620"],
+    "answer": "1612",
     "explanation": "The English under Thomas Best defeated the Portuguese at the Battle of Swally (Suvali) in 1612."
   },
   {
-    "question": "When did the English East India Company establish a permanent factory at Surat?",
-    "choices": ["1613", "1612", "1615", "1608"],
+    "question": "In which year did the EIC establish a permanent factory at Surat?",
+    "choices": ["1611", "1613", "1615", "1618"],
     "answer": "1613",
     "explanation": "After their victory at Swally, the EIC established a permanent factory at Surat in 1613."
   },
   {
-    "question": "When did Galileo champion Copernicus's heliocentric model?",
-    "choices": ["1613", "1609", "1620", "1633"],
+    "question": "In which year did Galileo begin championing the heliocentric model?",
+    "choices": ["1609", "1613", "1620", "1633"],
     "answer": "1613",
     "explanation": "Galileo began championing the heliocentric model in 1613, leading to his later conflict with the Church."
   },
   {
-    "question": "What did Thomas Roe secure from Jahangir in 1615?",
-    "choices": ["Right to trade in Bengal", "Farman for Surat trade", "Control of Bombay", "Monopoly on spice trade"],
-    "answer": "Farman for Surat trade",
+    "question": "In which year did Thomas Roe secure a farman from Jahangir for Surat trade?",
+    "choices": ["1611", "1615", "1620", "1625"],
+    "answer": "1615",
     "explanation": "Thomas Roe secured a farman in 1615 granting trade rights in Surat, lower duties, and protection from harassment."
   },
   {
-    "question": "Where did the Danes establish their first settlement in India (1616)?",
-    "choices": ["Tranquebar", "Serampore", "Calcutta", "Madras"],
-    "answer": "Tranquebar",
+    "question": "In which year did the Danes establish their first settlement at Tranquebar?",
+    "choices": ["1610", "1616", "1620", "1625"],
+    "answer": "1616",
     "explanation": "The Danes established their first settlement at Tranquebar, Tamil Nadu in 1616."
   },
   {
@@ -143,24 +143,24 @@
     "answer": "1639",
     "explanation": "The British EIC acquired a 3-mile coastal strip (Madras) from the Pudukkottai Nayaka in 1639."
   },
- {
-  "question": "In which year did the British acquire Bombay as part of Catherine of Braganza's dowry?",
-  "choices": ["1498", "1600", "1661", "1707"],
-  "answer": "1661",
-  "explanation": "Acquired in 1661 when Portugal transferred Bombay to Charles II as dowry for his marriage to Catherine. Later leased to the East India Company (1668)."
-},
+  {
+    "question": "In which year did the British acquire Bombay as part of Catherine of Braganza's dowry?",
+    "choices": ["1498", "1600", "1661", "1707"],
+    "answer": "1661",
+    "explanation": "Acquired in 1661 when Portugal transferred Bombay to Charles II as dowry for his marriage to Catherine. Later leased to the East India Company (1668)."
+  },
   {
     "question": "When did Charles II lease Bombay to the EIC?",
     "choices": ["1661", "1668", "1674", "1687"],
     "answer": "1668",
     "explanation": "Charles II leased Bombay to the East India Company in 1668 for £10 per year."
   },
- {
-  "question": "In which year did the French establish their first factory in India at Surat?",
-  "choices": ["1616", "1664", "1668", "1673"],
-  "answer": "1668",
-  "explanation": "1668. Pondicherry (1674) became their later stronghold."
-},
+  {
+    "question": "In which year did the French establish their first factory in India at Surat?",
+    "choices": ["1616", "1664", "1668", "1673"],
+    "answer": "1668",
+    "explanation": "1668. Pondicherry (1674) became their later stronghold."
+  },
   {
     "question": "When did Pondicherry become the French headquarters in India?",
     "choices": ["1674", "1668", "1690", "1700"],
@@ -173,24 +173,24 @@
     "answer": "1687",
     "explanation": "Isaac Newton's groundbreaking 'Philosophiæ Naturalis Principia Mathematica' was published in 1687."
   },
- {
-  "question": "In which year did Job Charnock establish the factory at Sutanuti (later Calcutta)?",
-  "choices": ["1680", "1690", "1700", "1757"],
-  "answer": "1690",
-  "explanation": "1690: Job Charnock founded Sutanuti factory (August 24), merging with Kalikata/Gobindapur in 1698 to form Calcutta. Controversially regarded as the city's founder."
-},
   {
-  "question": "In which year did the East India Company acquire zamindari rights for Sutanuti, Kalikata, and Gobindpur villages, leading to Calcutta's foundation?",
-  "choices": ["1686", "1690", "1698", "1702"],
-  "answer": "1698",
-  "explanation": "1698: EIC secured zamindari rights from Mughal Emperor Aurangzeb for these villages (₹1300 annual rent)."
-},
+    "question": "In which year did Job Charnock establish the factory at Sutanuti (later Calcutta)?",
+    "choices": ["1680", "1690", "1700", "1757"],
+    "answer": "1690",
+    "explanation": "1690: Job Charnock founded Sutanuti factory (August 24), merging with Kalikata/Gobindapur in 1698 to form Calcutta. Controversially regarded as the city's founder."
+  },
   {
-  "question": "In which year did Emperor Farrukhsiyar grant the Golden Farman to the East India Company?",
-  "choices": ["1707", "1717", "1739", "1757"],
-  "answer": "1717",
-  "explanation": "1717: Farrukhsiyar issued the Golden Farman (royal decree), granting EIC duty-free trade in Bengal, minting rights, and village acquisitions. Marked a major Mughal concession to European traders."
-},
+    "question": "In which year did the East India Company acquire zamindari rights for Sutanuti, Kalikata, and Gobindpur villages?",
+    "choices": ["1686", "1690", "1698", "1702"],
+    "answer": "1698",
+    "explanation": "1698: EIC secured zamindari rights from Mughal Emperor Aurangzeb for these villages (₹1300 annual rent)."
+  },
+  {
+    "question": "In which year did Emperor Farrukhsiyar grant the Golden Farman to the East India Company?",
+    "choices": ["1707", "1717", "1739", "1757"],
+    "answer": "1717",
+    "explanation": "1717: Farrukhsiyar issued the Golden Farman (royal decree), granting EIC duty-free trade in Bengal, minting rights, and village acquisitions. Marked a major Mughal concession to European traders."
+  },
   {
     "question": "When did Warren Hastings shift Bengal's capital to Calcutta?",
     "choices": ["1772", "1757", "1765", "1784"],
@@ -204,10 +204,10 @@
     "explanation": "The American Revolutionary War lasted from 1775 to 1783, resulting in American independence."
   },
   {
-  "question": "In which year did James Watt patent his improved steam engine design?",
-  "choices": ["1698", "1769", "1776", "1781"],
-  "answer": "1776",
-  "explanation": "1776. Revolutionized steam engine efficiency."
+    "question": "In which year did James Watt patent his improved steam engine design?",
+    "choices": ["1698", "1769", "1776", "1781"],
+    "answer": "1776",
+    "explanation": "1776. Revolutionized steam engine efficiency."
   },
   {
     "question": "When was the Asiatic Society of Bengal founded?",
@@ -221,23 +221,23 @@
     "answer": "1804",
     "explanation": "The Bombay Asiatic Society was established in 1804."
   },
- {
-  "question": "In which year was the Treaty of Amritsar signed between Maharaja Ranjit Singh and the British East India Company?",
-  "choices": ["1799", "1806", "1809", "1815"],
-  "answer": "1809",
-  "explanation": "Signed in 1809. The treaty recognized the Sutlej River as the boundary between the Sikh Empire and British territories, ensuring non-interference for 30+ years."
- },
   {
-  "question": "In which year was Napoleon exiled to St. Helena after his defeat at Waterloo?",
-  "choices": ["1814", "1815", "1816", "1821"],
-  "answer": "1815",
-  "explanation": "1815: Exiled to St. Helena (remote South Atlantic island) to prevent the repeat of Elba escape. Died there in 1821."
+    "question": "In which year was the Treaty of Amritsar signed between Maharaja Ranjit Singh and the British East India Company?",
+    "choices": ["1799", "1806", "1809", "1815"],
+    "answer": "1809",
+    "explanation": "Signed in 1809. The treaty recognized the Sutlej River as the boundary between the Sikh Empire and British territories, ensuring non-interference for 30+ years."
   },
   {
-  "question": "In which year was the Treaty of Sugauli signed, ending the Anglo-Nepalese War?",
-  "choices": ["1806", "1814", "1816", "1818"],
-  "answer": "1816",
-  "explanation": "Signed in March 1816. The treaty forced Nepal to cede territories (Kumaon-Garhwal) to the British and accept a resident, but preserved Gorkha sovereignty."
+    "question": "In which year was Napoleon exiled to St. Helena after his defeat at Waterloo?",
+    "choices": ["1814", "1815", "1816", "1821"],
+    "answer": "1815",
+    "explanation": "1815: Exiled to St. Helena (remote South Atlantic island) to prevent the repeat of Elba escape. Died there in 1821."
+  },
+  {
+    "question": "In which year was the Treaty of Sugauli signed, ending the Anglo-Nepalese War?",
+    "choices": ["1806", "1814", "1816", "1818"],
+    "answer": "1816",
+    "explanation": "Signed in March 1816. The treaty forced Nepal to cede territories (Kumaon-Garhwal) to the British and accept a resident, but preserved Gorkha sovereignty."
   },
   {
     "question": "When was the Asiatic Society of Great Britain founded in London?",
@@ -246,16 +246,16 @@
     "explanation": "The Asiatic Society of Great Britain was established in London in 1823."
   },
   {
-  "question": "In which year did Raja Ram Mohan Roy and Dwarkanath Tagore found the Brahmo Samaj?",
-  "choices": ["1815", "1828", "1835", "1857"],
-  "answer": "1828",
-  "explanation": "1828. Dwarkanath son - Debendranath joined in 1842, Keshub joined in 1858. 1865 - schism into Adi Brahmo & Brahmo Samaj of India(later Sadharan Brahmo in 1878 by Keshub followers)"
+    "question": "In which year did Raja Ram Mohan Roy and Dwarkanath Tagore found the Brahmo Samaj?",
+    "choices": ["1815", "1828", "1835", "1857"],
+    "answer": "1828",
+    "explanation": "1828. Dwarkanath son - Debendranath joined in 1842, Keshub joined in 1858. 1865 - schism into Adi Brahmo & Brahmo Samaj of India(later Sadharan Brahmo in 1878 by Keshub followers)"
   },
   {
-  "question": "In which year was the Coinage Act of 1835 passed by the British Parliament?",
-  "choices": ["1818", "1833", "1835", "1857"],
-  "answer": "1835",
-  "explanation": "Introduced one standard currency for all of British India(Earlier 3 presidencies issued their own coins)."
+    "question": "In which year was the Coinage Act of 1835 passed by the British Parliament?",
+    "choices": ["1818", "1833", "1835", "1857"],
+    "answer": "1835",
+    "explanation": "Introduced one standard currency for all of British India(Earlier 3 presidencies issued their own coins)."
   },
   {
     "question": "When did Denmark sell its Indian settlements to Britain?",
@@ -263,76 +263,65 @@
     "answer": "1845",
     "explanation": "Denmark sold all its Indian settlements (Tranquebar, Serampore, etc.) to Britain in 1845."
   },
-{
-  "question": "In which year was the Treaty of Amritsar signed, establishing Gulab Singh as ruler of Jammu and Kashmir?",
-  "choices": ["1842", "1846", "1848", "1850"],
-  "answer": "1846",
-"explanation": "1846: Transferred Kashmir from Sikh to Dogra rule. Defined borders along Chenab-Ravi rivers, establishing British supremacy while granting Gulab Singh internal autonomy."
-},
-{
-  "question": "Who was Charles Wood in relation to the 1854 education reforms in India, and what was a major outcome?",
-  "choices": [
-    "Governor-General of India; introduced English as the sole medium of instruction",
-    "President of the Board of Control; established universities in Calcutta, Bombay, and Madras",
-    "Viceroy of India; abolished vernacular education",
-    "British Prime Minister; banned missionary schools"
-  ],
-  "answer": "President of the Board of Control; established universities in Calcutta, Bombay, and Madras",
-  "explanation": "Authored Wood’s Dispatch sent to  Dalhousie which laid the foundation for modern education in India. 3 Univ, hierarchical edu system, vernacular primary education and English higher education, teacher training, women education, grants-in-aid for pvt institution, dept of education in each province, vocational training."
-},
   {
-    "question": "When was Darwin's 'On the Origin of Species' published?",
+    "question": "In which year was the Treaty of Amritsar signed, establishing Gulab Singh as ruler of Jammu and Kashmir?",
+    "choices": ["1842", "1846", "1848", "1850"],
+    "answer": "1846",
+    "explanation": "1846: Transferred Kashmir from Sikh to Dogra rule. Defined borders along Chenab-Ravi rivers, establishing British supremacy while granting Gulab Singh internal autonomy."
+  },
+  {
+    "question": "In which year was Darwin's 'On the Origin of Species' published?",
     "choices": ["November 1859", "July 1858", "March 1860", "September 1861"],
     "answer": "November 1859",
     "explanation": "Charles Darwin's revolutionary work 'On the Origin of Species' was published in November 1859."
   },
   {
-  "question": "In which year did Nawab Abdul Latif found the Muhammadan Literary Society in Calcutta?",
-  "choices": ["1857", "1863", "1875", "1885"],
-  "answer": "1863",
-  "explanation": "1863: Nawab Abdul Latif established this pioneering Muslim reformist society to promote modern education among Bengal's Muslims under British rule."
+    "question": "In which year did Nawab Abdul Latif found the Muhammadan Literary Society in Calcutta?",
+    "choices": ["1857", "1863", "1875", "1885"],
+    "answer": "1863",
+    "explanation": "1863: Nawab Abdul Latif established this pioneering Muslim reformist society to promote modern education among Bengal's Muslims under British rule."
   },
   {
-  "question": "In which year was the Prarthana Samaj founded in Bombay by Atmaram Pandurang?",
-  "choices": ["1857", "1863", "1867", "1875"],
-  "answer": "1867",
-  "explanation": "1867: Founded as a Hindu reformist society advocating monotheism, women's education, and caste equality. Later joined by M.G. Ranade and R.G. Bhandarkar."
+    "question": "In which year was the Prarthana Samaj founded in Bombay by Atmaram Pandurang?",
+    "choices": ["1857", "1863", "1867", "1875"],
+    "answer": "1867",
+    "explanation": "1867: Founded as a Hindu reformist society advocating monotheism, women's education, and caste equality. Later joined by M.G. Ranade and R.G. Bhandarkar."
   },
   {
-  "question": "In which year did the Meiji Restoration begin, marking Japan's transition to modernity?",
-  "choices": ["1853", "1868", "1895", "1905"],
-  "answer": "1868",
-  "explanation": "1868: Overthrew the Tokugawa shogunate, restored imperial rule under Emperor Meiji, and initiated rapid industrialization and westernization policies."
-  },
-{
-  "question": "In which year did Jyotiba Phule found the Satyashodhak Samaj in Pune?",
-  "choices": ["1857", "1867", "1873", "1885"],
-  "answer": "1873",
-"explanation": "1873: Challenged Brahmanical dominance through radical acts like inter-caste marriages and Satyashodhak weddings (replacing Brahmin priests)."
-},
-  {
-  "question": "In which year was the Muhammadan Anglo-Oriental College established in Aligarh by Sir Syed Ahmed Khan?",
-  "choices": ["1857", "1863", "1875", "1887"],
-  "answer": "1875",
-  "explanation": "1875: Founded as a Muslim-led institution blending Western education with Islamic values, later becoming Aligarh Muslim University (1920)."
+    "question": "In which year did the Meiji Restoration begin, marking Japan's transition to modernity?",
+    "choices": ["1853", "1868", "1895", "1905"],
+    "answer": "1868",
+    "explanation": "1868: Overthrew the Tokugawa shogunate, restored imperial rule under Emperor Meiji, and initiated rapid industrialization and westernization policies."
   },
   {
-  "question": "In which year did Dayanand Saraswati found the Arya Samaj?",
-  "choices": ["1828", "1867", "1875", "1893"],
-  "answer": "1875",
-  "explanation": "1875: Launched with 'Back to the Vedas' slogan, later known for shuddhi (reconversion) movements and establishing DAV schools nationwide."
-},
-  {
-  "question": "In which year was the Vernacular Press Act passed to censor Indian language newspapers?",
-  "choices": ["1857", "1878", "1885", "1898"],
-  "answer": "1878",
-  "explanation": "1878: Lord Lytton's 'Gagging Act' allowed seizure of printing presses and censorship of vernacular papers, sparking nationalist outrage."
+    "question": "In which year did Jyotiba Phule found the Satyashodhak Samaj in Pune?",
+    "choices": ["1857", "1867", "1873", "1885"],
+    "answer": "1873",
+    "explanation": "1873: Challenged Brahmanical dominance through radical acts like inter-caste marriages and Satyashodhak weddings (replacing Brahmin priests)."
   },
   {
-  "question": "In which year was 'The Hindu' newspaper founded by G.S. Iyer?",
-  "choices": ["1857", "1878", "1885", "1890"],
-  "answer": "1878",
-  "explanation": "1878: Founded in Madras as a weekly by G.S. Iyer and six young nationalists to counter British propaganda during the Viceroyalty of Lord Lytton."
+    "question": "In which year was the Muhammadan Anglo-Oriental College established in Aligarh by Sir Syed Ahmed Khan?",
+    "choices": ["1857", "1863", "1875", "1887"],
+    "answer": "1875",
+    "explanation": "1875: Founded as a Muslim-led institution blending Western education with Islamic values, later becoming Aligarh Muslim University (1920)."
+  },
+  {
+    "question": "In which year did Dayanand Saraswati found the Arya Samaj?",
+    "choices": ["1828", "1867", "1875", "1893"],
+    "answer": "1875",
+    "explanation": "1875: Launched with 'Back to the Vedas' slogan, later known for shuddhi (reconversion) movements and establishing DAV schools nationwide."
+  },
+  {
+    "question": "In which year was the Vernacular Press Act passed to censor Indian language newspapers?",
+    "choices": ["1857", "1878", "1885", "1898"],
+    "answer": "1878",
+    "explanation": "1878: Lord Lytton's 'Gagging Act' allowed seizure of printing presses and censorship of vernacular papers, sparking nationalist outrage."
+  },
+  {
+    "question": "In which year was 'The Hindu' newspaper founded by G.S. Iyer?",
+    "choices": ["1857", "1878", "1885", "1890"],
+    "answer": "1878",
+    "explanation": "1878: Founded in Madras as a weekly by G.S. Iyer and six young nationalists to counter British propaganda during the Viceroyalty of Lord Lytton."
   },
   {
     "question": "When did Gandhi first visit South Africa?",
@@ -353,16 +342,16 @@
     "explanation": "The First Sino-Japanese War (1894-95) established Japan as a major regional power."
   },
   {
-  "question": "In which year did the Chapekar brothers assassinate British officials Rand and Ayerst in Pune?",
-  "choices": ["1885", "1897", "1905", "1911"],
-  "answer": "1897",
-  "explanation": "22 June 1897: Targeted plague commissioner Rand in retaliation for oppressive measures during Pune's epidemic, marking India's first revolutionary nationalist assassination."
+    "question": "In which year did the Chapekar brothers assassinate British officials Rand and Ayerst in Pune?",
+    "choices": ["1885", "1897", "1905", "1911"],
+    "answer": "1897",
+    "explanation": "22 June 1897: Targeted plague commissioner Rand in retaliation for oppressive measures during Pune's epidemic, marking India's first revolutionary nationalist assassination."
   },
   {
-  "question": "In which year did Swami Vivekananda found the Ramakrishna Mission?",
-  "choices": ["1886", "1893", "1897", "1902"],
-  "answer": "1897",
-  "explanation": "1897: Established at Belur Math to combine spiritual development with social service, inspired by Ramakrishna's teachings after Vivekananda's Parliament of Religions address (1893)."
+    "question": "In which year did Swami Vivekananda found the Ramakrishna Mission?",
+    "choices": ["1886", "1893", "1897", "1902"],
+    "answer": "1897",
+    "explanation": "1897: Established at Belur Math to combine spiritual development with social service, inspired by Ramakrishna's teachings after Vivekananda's Parliament of Religions address (1893)."
   },
   {
     "question": "When was the Boxer Rebellion in China?",
@@ -370,17 +359,17 @@
     "answer": "1899-1901",
     "explanation": "The Boxer Rebellion against foreign influence in China occurred from 1899 to 1901."
   },
-{
-  "question": "In which year did Rabindranath Tagore establish Shantiniketan?",
-  "choices": ["1895", "1901", "1905", "1913"],
-  "answer": "1901",
-  "explanation": "1901: Founded as an experimental school in rural Bengal combining Indian/Western pedagogy, later expanding into Visva-Bharati University (1921)."
-},
   {
-  "question": "In which year did V.D. Savarkar found the Abhinav Bharat secret society?",
-  "choices": ["1897", "1904", "1909", "1912"],
-  "answer": "1904",
-  "explanation": "1904: Created while studying in Pune as a revolutionary nationalist group, inspired by Mazzini's Young Italy, with branches across India and London."
+    "question": "In which year did Rabindranath Tagore establish Shantiniketan?",
+    "choices": ["1895", "1901", "1905", "1913"],
+    "answer": "1901",
+    "explanation": "1901: Founded as an experimental school in rural Bengal combining Indian/Western pedagogy, later expanding into Visva-Bharati University (1921)."
+  },
+  {
+    "question": "In which year did V.D. Savarkar found the Abhinav Bharat secret society?",
+    "choices": ["1897", "1904", "1909", "1912"],
+    "answer": "1904",
+    "explanation": "1904: Created while studying in Pune as a revolutionary nationalist group, inspired by Mazzini's Young Italy, with branches across India and London."
   },
   {
     "question": "When was the Russo-Japanese War fought?",
@@ -389,11 +378,11 @@
     "explanation": "The Russo-Japanese War (Feb 1904-Sept 1905) was the first major victory of an Asian power over a European one."
   },
   {
-  "question": "In which year did Shyamji Krishna Varma establish India House in London?",
-  "choices": ["1902", "1905", "1907", "1909"],
-  "answer": "1905",
-  "explanation": "1905: Founded as a radical nationalist hub offering scholarships, publishing 'The Indian Sociologist', and mentoring revolutionaries like Savarkar and Dhingra."
-},
+    "question": "In which year did Shyamji Krishna Varma establish India House in London?",
+    "choices": ["1902", "1905", "1907", "1909"],
+    "answer": "1905",
+    "explanation": "1905: Founded as a radical nationalist hub offering scholarships, publishing 'The Indian Sociologist', and mentoring revolutionaries like Savarkar and Dhingra."
+  },
   {
     "question": "When was the Partition of Bengal announced?",
     "choices": ["19 July 1905", "16 October 1905", "7 August 1905", "1 November 1905"],
@@ -413,9 +402,9 @@
     "explanation": "The Partition of Bengal took effect on 16 October 1905, sparking widespread protests."
   },
   {
-    "question": "Who presided over the 1905 Benaras Congress session?",
-    "choices": ["Gopal Krishna Gokhale", "Dadabhai Naoroji", "Bal Gangadhar Tilak", "Lala Lajpat Rai"],
-    "answer": "Gopal Krishna Gokhale",
+    "question": "In which year did Gopal Krishna Gokhale preside over the Benaras Congress session?",
+    "choices": ["1904", "1905", "1906", "1907"],
+    "answer": "1905",
     "explanation": "Gopal Krishna Gokhale presided over the Benaras Congress session in December 1905."
   },
   {
@@ -425,39 +414,39 @@
     "explanation": "The All India Muslim League was formed in 1906 to protect Muslim political rights."
   },
   {
-    "question": "What historic declaration did the 1906 Calcutta Congress make?",
-    "choices": ["Purna Swaraj", "Swaraj as goal", "Non-Cooperation", "Civil Disobedience"],
-    "answer": "Swaraj as goal",
+    "question": "In which year did the Calcutta Congress declare Swaraj as its goal?",
+    "choices": ["1905", "1906", "1907", "1908"],
+    "answer": "1906",
     "explanation": "The 1906 Calcutta Congress, presided by Dadabhai Naoroji, declared Swaraj (self-rule) as its goal."
   },
-{
-  "question": "In which month and year did revolutionaries attempt to assassinate Judge Kingsford in Muzaffarpur?",
-  "choices": ["February 1907", "April 1908", "August 1909", "December 1911"],
-  "answer": "April 1908",
-  "explanation": "April 1908: Prafulla Chaki and Khudiram Bose bombed a carriage (mistaking it for Judge Kingsford's), killing two British women. The subsequent Alipore Bomb Case trial exposed Anushilan Samiti networks, acquitted Aurobindo Ghosh, and led to Bose's execution (age 18) - making him the youngest martyr of the revolutionary movement and a nationalist icon."
-},
   {
-    "question": "How long was Tilak imprisoned after the 1908 sedition trial?",
-    "choices": ["6 years (1908-1914)", "2 years", "Life imprisonment", "10 years"],
-    "answer": "6 years (1908-1914)",
+    "question": "In which month and year did revolutionaries attempt to assassinate Judge Kingsford in Muzaffarpur?",
+    "choices": ["February 1907", "April 1908", "August 1909", "December 1911"],
+    "answer": "April 1908",
+    "explanation": "April 1908: Prafulla Chaki and Khudiram Bose bombed a carriage (mistaking it for Judge Kingsford's), killing two British women. The subsequent Alipore Bomb Case trial exposed Anushilan Samiti networks, acquitted Aurobindo Ghosh, and led to Bose's execution (age 18) - making him the youngest martyr of the revolutionary movement and a nationalist icon."
+  },
+  {
+    "question": "For how many years was Tilak imprisoned after the 1908 sedition trial?",
+    "choices": ["2 years", "4 years", "6 years", "8 years"],
+    "answer": "6 years",
     "explanation": "Bal Gangadhar Tilak was sentenced to 6 years in Mandalay Jail (1908-1914) for sedition."
   },
   {
-    "question": "What did the 1909 Indian Councils Act introduce?",
-    "choices": ["Separate electorates for Muslims", "Diarchy", "Responsible government", "Direct elections"],
-    "answer": "Separate electorates for Muslims",
+    "question": "In which year did the Indian Councils Act introduce separate electorates for Muslims?",
+    "choices": ["1907", "1909", "1911", "1913"],
+    "answer": "1909",
     "explanation": "The 1909 Act introduced separate electorates for Muslims and an Indian member in the Viceroy's Executive Council."
   },
   {
-    "question": "Who assassinated Curzon Wyllie in London in 1909?",
-    "choices": ["Madan Lal Dhingra", "Udham Singh", "Bhagat Singh", "Khudiram Bose"],
-    "answer": "Madan Lal Dhingra",
+    "question": "In which year did Madan Lal Dhingra assassinate Curzon Wyllie in London?",
+    "choices": ["1907", "1909", "1911", "1913"],
+    "answer": "1909",
     "explanation": "Madan Lal Dhingra assassinated British official Curzon Wyllie in London in July 1909."
   },
   {
-    "question": "What significant event did George V hold in Delhi in 1911?",
-    "choices": ["Delhi Durbar", "Partition reversal", "Capital shift announcement", "All of the above"],
-    "answer": "All of the above",
+    "question": "In which year did George V hold the Delhi Durbar announcing capital shift and partition reversal?",
+    "choices": ["1909", "1911", "1913", "1915"],
+    "answer": "1911",
     "explanation": "At the 1911 Delhi Durbar, George V announced the reversal of Bengal's partition and the capital's shift from Calcutta to Delhi."
   },
   {
@@ -491,9 +480,9 @@
     "explanation": "World War I began on 28 July 1914 with Austria-Hungary's declaration of war on Serbia."
   },
   {
-    "question": "What revolutionary organization was formed in Berlin in 1914?",
-    "choices": ["Ghadar Party", "Indian Independence Committee", "Anushilan Samiti", "Abhinav Bharat"],
-    "answer": "Indian Independence Committee",
+    "question": "In which year was the Indian Independence Committee formed in Berlin?",
+    "choices": ["1912", "1914", "1916", "1918"],
+    "answer": "1914",
     "explanation": "The Indian Independence Committee (Berlin Committee) was formed in 1914 by Indian nationalists in Germany."
   },
   {
@@ -509,911 +498,547 @@
     "explanation": "Madan Mohan Malviya formed Hindu Mahasabha within Congress in 1915 to protect Hindu interests."
   },
   {
-    "question": "What areas did Tilak's Home Rule League cover from April 1916?",
-    "choices": ["All India", "Maharashtra, Karnataka, CP & Berar", "Bengal and Bihar", "Punjab and NWFP"],
-    "answer": "Maharashtra, Karnataka, CP & Berar",
+    "question": "In which year did Tilak's Home Rule League cover Maharashtra, Karnataka, CP & Berar?",
+    "choices": ["1914", "1916", "1918", "1920"],
+    "answer": "1916",
     "explanation": "Tilak's Home Rule League (April 1916) covered Maharashtra (except Bombay), Karnataka, and Central Provinces & Berar."
   },
   {
-    "question": "Who led the other Home Rule League from September 1916?",
-    "choices": ["Annie Besant", "Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Lala Lajpat Rai"],
-    "answer": "Annie Besant",
+    "question": "In which year did Annie Besant lead the second Home Rule League?",
+    "choices": ["1914", "1916", "1918", "1920"],
+    "answer": "1916",
     "explanation": "Annie Besant led the second Home Rule League from September 1916 covering the rest of India."
   },
   {
-    "question": "What significant agreement was reached at the 1916 Lucknow session?",
-    "choices": ["Lucknow Pact", "Purna Swaraj", "Non-Cooperation", "Quit India"],
-    "answer": "Lucknow Pact",
+    "question": "In which year was the Lucknow Pact signed between Congress and Muslim League?",
+    "choices": ["1914", "1916", "1918", "1920"],
+    "answer": "1916",
     "explanation": "The 1916 Lucknow Pact saw Congress-Muslim League cooperation and agreement on constitutional reforms."
   },
   {
-    "question": "When did Gandhi launch his first satyagraha in India?",
-    "choices": ["April-May 1917", "1918", "1919", "1920"],
-    "answer": "April-May 1917",
+    "question": "When did Gandhi launch his first satyagraha in India (Champaran)?",
+    "choices": ["1915", "1917", "1919", "1921"],
+    "answer": "1917",
     "explanation": "Gandhi's first satyagraha in India was the Champaran movement (April-May 1917) for indigo farmers."
   },
   {
-    "question": "Who was Congress's first female president in 1917?",
-    "choices": ["Annie Besant", "Sarojini Naidu", "Vijaya Lakshmi Pandit", "Kamala Nehru"],
-    "answer": "Annie Besant",
+    "question": "In which year did Annie Besant become Congress's first female president?",
+    "choices": ["1915", "1917", "1919", "1921"],
+    "answer": "1917",
     "explanation": "Annie Besant became Congress's first female president in December 1917 at the height of her popularity."
   },
   {
     "question": "When did Gandhi lead the Ahmedabad Mill Strike?",
-    "choices": ["February-March 1918", "1917", "1919", "1920"],
-    "answer": "February-March 1918",
+    "choices": ["1916", "1918", "1920", "1922"],
+    "answer": "1918",
     "explanation": "Gandhi led the Ahmedabad Mill Strike in February-March 1918, his first hunger strike."
   },
   {
     "question": "When was the Kheda Satyagraha?",
-    "choices": ["March 1918", "1917", "1919", "1920"],
-    "answer": "March 1918",
+    "choices": ["1916", "1918", "1920", "1922"],
+    "answer": "1918",
     "explanation": "The Kheda Satyagraha in March 1918 supported peasants affected by crop failure and high taxes."
   },
   {
     "question": "When did World War I end?",
-    "choices": ["11 November 1918", "1917", "1919", "1920"],
-    "answer": "11 November 1918",
+    "choices": ["1917", "1918", "1919", "1920"],
+    "answer": "1918",
     "explanation": "World War I ended with the Armistice on 11 November 1918."
   },
   {
     "question": "When was the deadly Spanish flu pandemic?",
-    "choices": ["1918-20", "1914-18", "1920-22", "1916-18"],
+    "choices": ["1916-18", "1918-20", "1920-22", "1922-24"],
     "answer": "1918-20",
     "explanation": "The Spanish flu pandemic killed millions worldwide from 1918 to 1920."
   },
   {
     "question": "When did the Rowlatt Satyagraha begin?",
-    "choices": ["6 April 1919", "13 April 1919", "1 March 1919", "18 April 1919"],
+    "choices": ["6 April 1918", "6 April 1919", "6 April 1920", "6 April 1921"],
     "answer": "6 April 1919",
     "explanation": "Gandhi launched the Rowlatt Satyagraha on 6 April 1919 against repressive laws."
   },
   {
     "question": "When did the Jallianwala Bagh massacre occur?",
-    "choices": ["13 April 1919", "6 April 1919", "1 March 1919", "18 April 1919"],
+    "choices": ["13 April 1918", "13 April 1919", "13 April 1920", "13 April 1921"],
     "answer": "13 April 1919",
     "explanation": "General Dyer's troops massacred hundreds at Jallianwala Bagh, Amritsar on 13 April 1919 (Baisakhi day)."
   },
   {
     "question": "When did Gandhi withdraw the Rowlatt Satyagraha?",
-    "choices": ["18 April 1919", "13 April 1919", "6 April 1919", "1 May 1919"],
+    "choices": ["18 April 1918", "18 April 1919", "18 April 1920", "18 April 1921"],
     "answer": "18 April 1919",
     "explanation": "Gandhi withdrew the Rowlatt Satyagraha on 18 April 1919 following violence."
   },
   {
-    "question": "What political group formed in 1919 as a moderate alternative?",
-    "choices": ["Indian National Liberal Federation", "Swaraj Party", "Justice Party", "Hindu Mahasabha"],
-    "answer": "Indian National Liberal Federation",
+    "question": "In which year was the Indian National Liberal Federation formed?",
+    "choices": ["1917", "1919", "1921", "1923"],
+    "answer": "1919",
     "explanation": "Moderates like S.N. Banerjee formed the Indian National Liberal Federation in 1919."
   },
   {
     "question": "When did the Non-Cooperation Movement launch?",
-    "choices": ["1 August 1920", "1919", "1921", "1922"],
+    "choices": ["1 August 1919", "1 August 1920", "1 August 1921", "1 August 1922"],
     "answer": "1 August 1920",
     "explanation": "The Non-Cooperation Movement launched on 1 August 1920, the day Tilak died."
   },
   {
     "question": "When were the first general elections held under the 1919 Act?",
-    "choices": ["November 1920", "1923", "1926", "1930"],
+    "choices": ["November 1919", "November 1920", "November 1921", "November 1922"],
     "answer": "November 1920",
     "explanation": "The first general elections under the Montagu-Chelmsford reforms were held in November 1920."
   },
   {
     "question": "When was the Shiromani Gurdwara Parbandhak Committee (SGPC) formed?",
-    "choices": ["December 1920", "1921", "1919", "1925"],
+    "choices": ["December 1919", "December 1920", "December 1921", "December 1922"],
     "answer": "December 1920",
     "explanation": "The SGPC was formed in December 1920 to manage Sikh gurdwaras, preceding the Akali Dal."
   },
   {
-    "question": "What significant changes were made in the Congress constitution during the Nagpur session in December 1920?",
-    "choices": [
-      "Introduction of CWC and PCC on linguistic basis",
-      "Adoption of complete independence as goal",
-      "Establishment of socialist principles",
-      "Creation of youth wing"
-    ],
-    "answer": "Introduction of CWC and PCC on linguistic basis",
+    "question": "In which year were significant changes made to the Congress constitution at Nagpur session?",
+    "choices": ["1918", "1920", "1922", "1924"],
+    "answer": "1920",
     "explanation": "The Nagpur session in December 1920 introduced a new Congress constitution with the creation of Congress Working Committee (CWC) and Provincial Congress Committees (PCC) on linguistic basis."
   },
   {
     "question": "When did the Nankana Massacre occur?",
-    "choices": [
-      "20 February 1920",
-      "20 February 1921",
-      "20 February 1922",
-      "20 February 1923"
-    ],
+    "choices": ["20 February 1920", "20 February 1921", "20 February 1922", "20 February 1923"],
     "answer": "20 February 1921",
     "explanation": "The Nankana Massacre occurred on 20 February 1921 when Sikh protesters were fired upon by British-backed managers of gurdwaras."
   },
   {
-    "question": "What happened to the three presidency banks in 1921?",
-    "choices": [
-      "They were nationalized",
-      "They were combined into Imperial Bank of India",
-      "They were dissolved",
-      "They became state banks"
-    ],
-    "answer": "They were combined into Imperial Bank of India",
+    "question": "In which year were the three presidency banks combined into Imperial Bank of India?",
+    "choices": ["1919", "1921", "1923", "1925"],
+    "answer": "1921",
     "explanation": "In 1921, the three presidency banks (Bank of Bengal, Bank of Bombay and Bank of Madras) were combined to form the Imperial Bank of India, which later became State Bank of India."
   },
   {
-    "question": "What incident occurred in Chauri Chaura on 4 February 1922?",
-    "choices": [
-      "Salt Satyagraha",
-      "Police station burning leading to deaths",
-      "First non-cooperation movement",
-      "Gandhi's arrest"
-    ],
-    "answer": "Police station burning leading to deaths",
+    "question": "When did the Chauri Chaura incident occur?",
+    "choices": ["4 February 1920", "4 February 1921", "4 February 1922", "4 February 1923"],
+    "answer": "4 February 1922",
     "explanation": "The Chauri Chaura incident on 4 February 1922 involved protesters setting fire to a police station, killing 22 policemen, which led Gandhi to call off the Non-Cooperation Movement."
   },
   {
     "question": "When was Gandhiji arrested after the Chauri Chaura incident?",
-    "choices": [
-      "January 1922",
-      "March 1922",
-      "May 1922",
-      "July 1922"
-    ],
+    "choices": ["March 1920", "March 1921", "March 1922", "March 1923"],
     "answer": "March 1922",
     "explanation": "Gandhiji was arrested in March 1922 following the Chauri Chaura incident and sentenced to six years imprisonment."
   },
   {
-    "question": "Where was the Congress session held in December 1922?",
-    "choices": [
-      "Gaya",
-      "Nagpur",
-      "Belgaum",
-      "Karachi"
-    ],
-    "answer": "Gaya",
+    "question": "In which year was the Congress session held in Gaya?",
+    "choices": ["1920", "1921", "1922", "1923"],
+    "answer": "1922",
     "explanation": "The Congress session in December 1922 was held in Gaya, where differences emerged between the no-changers and pro-changers factions."
   },
   {
-    "question": "When and where was the Swaraj Party formed?",
-    "choices": [
-      "1 January 1923 in Allahabad",
-      "1 January 1923 in Delhi",
-      "1 January 1924 in Bombay",
-      "1 January 1924 in Calcutta"
-    ],
-    "answer": "1 January 1923 in Allahabad",
+    "question": "When was the Swaraj Party formed?",
+    "choices": ["1 January 1922", "1 January 1923", "1 January 1924", "1 January 1925"],
+    "answer": "1 January 1923",
     "explanation": "The Swaraj Party was formed on 1 January 1923 in Allahabad by Motilal Nehru and Chittaranjan Das to contest elections and oppose British rule from within legislatures."
   },
   {
     "question": "When were 2nd elections held for central and provincial legislatures after the Montagu-Chelmsford reforms?",
-    "choices": [
-      "1920",
-      "1921",
-      "1923",
-      "1925"
-    ],
+    "choices": ["1920", "1921", "1923", "1925"],
     "answer": "1923",
     "explanation": "November 1923 under the Government of India Act 1919. New Swaraj Party - max sear at centre, significant seats in states"
   },
   {
     "question": "When was Gandhiji released from prison on health grounds?",
-    "choices": [
-      "5 February 1923",
-      "5 February 1924",
-      "5 February 1925",
-      "5 February 1926"
-    ],
+    "choices": ["5 February 1922", "5 February 1923", "5 February 1924", "5 February 1925"],
     "answer": "5 February 1924",
     "explanation": "Gandhiji was released from prison on 5 February 1924 on health grounds after serving about two years of his six-year sentence."
   },
   {
-    "question": "What was the Kanpur Bolshevik Conspiracy case of March 1924 about?",
-    "choices": [
-      "Communist activities",
-      "Swaraj Party activities",
-      "Gandhian movement",
-      "Revolutionary activities"
-    ],
-    "answer": "Communist activities",
+    "question": "In which year was the Kanpur Bolshevik Conspiracy case filed?",
+    "choices": ["1922", "1923", "1924", "1925"],
+    "answer": "1924",
     "explanation": "The Kanpur Bolshevik Conspiracy case in March 1924 targeted Indian communists including M.N. Roy, S.A. Dange and others for their alleged Bolshevik conspiracy against British rule."
   },
   {
-    "question": "Who formed the Hindustan Republican Association (HRA) in October 1924?",
-    "choices": [
-      "Bhagat Singh and Chandrashekhar Azad",
-      "Sachindra Nath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee",
-      "Subhas Chandra Bose and Rash Behari Bose",
-      "Lala Lajpat Rai and Bipin Chandra Pal"
-    ],
-    "answer": "Sachindra Nath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee",
+    "question": "When was the Hindustan Republican Association (HRA) formed?",
+    "choices": ["1922", "1923", "1924", "1925"],
+    "answer": "1924",
     "explanation": "The Hindustan Republican Association (HRA) was formed in October 1924 by Sachindra Nath Sanyal, Ram Prasad Bismil and Jogesh Chatterjee to organize armed revolution against British rule."
   },
   {
-    "question": "Where was the Congress session held in December 1924?",
-    "choices": [
-      "Gaya",
-      "Nagpur",
-      "Belgaum",
-      "Karachi"
-    ],
-    "answer": "Belgaum",
+    "question": "In which year was the Congress session held in Belgaum?",
+    "choices": ["1922", "1923", "1924", "1925"],
+    "answer": "1924",
     "explanation": "The Congress session in December 1924 was held in Belgaum and was the only session presided over by Mahatma Gandhi."
   },
   {
-    "question": "What was the Kakori Train Action of 9 August 1925?",
-    "choices": [
-      "Congress protest against train fares",
-      "HRA's robbery of government money from train",
-      "British crackdown on revolutionaries",
-      "Train accident during freedom struggle"
-    ],
-    "answer": "HRA's robbery of government money from train",
+    "question": "When did the Kakori Train Action take place?",
+    "choices": ["9 August 1923", "9 August 1924", "9 August 1925", "9 August 1926"],
+    "answer": "9 August 1925",
     "explanation": "The Kakori Train Action on 9 August 1925 was executed by HRA members including Ram Prasad Bismil and Ashfaqullah Khan who looted government money from a train near Kakori to fund revolutionary activities."
   },
   {
-    "question": "Who founded the Rashtriya Swayamsevak Sangh (RSS) and when?",
-    "choices": [
-      "K.B. Hedgewar on 27 September 1925",
-      "M.S. Golwalkar on 27 September 1925",
-      "K.B. Hedgewar on 27 September 1926",
-      "M.S. Golwalkar on 27 September 1926"
-    ],
-    "answer": "K.B. Hedgewar on 27 September 1925",
+    "question": "When was the Rashtriya Swayamsevak Sangh (RSS) founded?",
+    "choices": ["27 September 1923", "27 September 1924", "27 September 1925", "27 September 1926"],
+    "answer": "27 September 1925",
     "explanation": "The Rashtriya Swayamsevak Sangh (RSS) was founded by K.B. Hedgewar on 27 September 1925 in Nagpur as a Hindu nationalist organization."
   },
   {
     "question": "When was the Communist Party of India (CPI) formed?",
-    "choices": [
-      "December 1924",
-      "December 1925",
-      "December 1926",
-      "December 1927"
-    ],
+    "choices": ["December 1923", "December 1924", "December 1925", "December 1926"],
     "answer": "December 1925",
     "explanation": "The Communist Party of India (CPI) was formed in December 1925 at Kanpur, with S.V. Ghate as its first general secretary."
   },
   {
     "question": "When were the next elections held after 1923 for central and provincial legislatures?",
-    "choices": [
-      "1925",
-      "1926",
-      "1927",
-      "1928"
-    ],
+    "choices": ["1924", "1925", "1926", "1927"],
     "answer": "1926",
     "explanation": "Elections for central and provincial legislatures were held again in November 1926 under the Government of India Act 1919."
   },
   {
-    "question": "What was inaugurated by Lord Irwin on 18 January 1927?",
-    "choices": [
-      "Viceroy's House",
-      "Council House (now Parliament House)",
-      "Imperial Bank of India",
-      "Delhi University"
-    ],
-    "answer": "Council House (now Parliament House)",
+    "question": "When was the Council House (now Parliament House) inaugurated in New Delhi?",
+    "choices": ["18 January 1925", "18 January 1926", "18 January 1927", "18 January 1928"],
+    "answer": "18 January 1927",
     "explanation": "Lord Irwin inaugurated the Council House (now Parliament House) in New Delhi on 18 January 1927, which housed the Imperial Legislative Council."
   },
   {
     "question": "When was the Federation of Indian Chambers of Commerce and Industry (FICCI) formed?",
-    "choices": [
-      "1925",
-      "1926",
-      "1927",
-      "1928"
-    ],
+    "choices": ["1925", "1926", "1927", "1928"],
     "answer": "1927",
     "explanation": "FICCI was formed in 1927 as an association of Indian business organizations to promote economic interests during the freedom struggle."
   },
   {
-    "question": "What was the Bardoli Satyagraha of 1928?",
-    "choices": [
-      "Salt tax protest",
-      "No-tax campaign against increased land revenue",
-      "Mill workers strike",
-      "Protest against Simon Commission"
-    ],
-    "answer": "No-tax campaign against increased land revenue",
+    "question": "When did the Bardoli Satyagraha take place?",
+    "choices": ["1926", "1927", "1928", "1929"],
+    "answer": "1928",
     "explanation": "The Bardoli Satyagraha in 1928 was a no-tax campaign led by Sardar Patel against the British government's decision to increase land revenue by 22% in Bardoli taluka of Gujarat."
   },
   {
-    "question": "How did the Hindustan Republican Association (HRA) transform in September 1928?",
-    "choices": [
-      "Became Hindustan Socialist Republican Association (HSRA)",
-      "Merged with Congress",
-      "Dissolved itself",
-      "Became Communist Party"
-    ],
-    "answer": "Became Hindustan Socialist Republican Association (HSRA)",
+    "question": "When was the Hindustan Republican Association (HRA) reorganized as HSRA?",
+    "choices": ["1926", "1927", "1928", "1929"],
+    "answer": "1928",
     "explanation": "In September 1928, the HRA was reorganized as the Hindustan Socialist Republican Association (HSRA) under the leadership of Bhagat Singh, Chandra Shekhar Azad and others, with a more socialist orientation."
   },
   {
-    "question": "Who was killed in the Saunders Murder of December 1928?",
-    "choices": [
-      "A British judge",
-      "A police officer mistaken for Saunders",
-      "Assistant Superintendent of Police J.P. Saunders",
-      "A British businessman"
-    ],
-    "answer": "Assistant Superintendent of Police J.P. Saunders",
+    "question": "When did the Saunders Murder occur?",
+    "choices": ["December 1927", "December 1928", "December 1929", "December 1930"],
+    "answer": "December 1928",
     "explanation": "In December 1928, HSRA members Bhagat Singh, Rajguru and Sukhdev assassinated Assistant Superintendent of Police J.P. Saunders in Lahore, mistaking him for the police official responsible for Lala Lajpat Rai's death."
   },
   {
-    "question": "What happened in the Central Legislative Assembly on 8 April 1929?",
-    "choices": [
-      "First meeting of Indian members",
-      "Bombing by Bhagat Singh and Batukeshwar Dutt",
-      "Declaration of Purna Swaraj",
-      "Passage of Government of India Act"
-    ],
-    "answer": "Bombing by Bhagat Singh and Batukeshwar Dutt",
+    "question": "When did Bhagat Singh and Batukeshwar Dutt bomb the Central Legislative Assembly?",
+    "choices": ["8 April 1927", "8 April 1928", "8 April 1929", "8 April 1930"],
+    "answer": "8 April 1929",
     "explanation": "On 8 April 1929, Bhagat Singh and Batukeshwar Dutt threw harmless smoke bombs in the Central Legislative Assembly to protest against repressive laws, and courted arrest."
   },
   {
-    "question": "Who attempted to blow up the viceregal train on 23 December 1929?",
-    "choices": [
-      "Bhagat Singh and Rajguru",
-      "Chandra Shekhar Azad",
-      "Yashpal and Vohra",
-      "Surya Sen"
-    ],
-    "answer": "Yashpal and Vohra",
+    "question": "When did Yashpal and Vohra attempt to blow up the viceregal train?",
+    "choices": ["23 December 1927", "23 December 1928", "23 December 1929", "23 December 1930"],
+    "answer": "23 December 1929",
     "explanation": "On 23 December 1929, HSRA members Yashpal and Vohra attempted to blow up the viceregal train carrying Lord Irwin near Delhi, but failed."
   },
   {
     "question": "When did Gandhi break the salt law during the Civil Disobedience Movement?",
-    "choices": [
-      "6 April 1930",
-      "12 March 1930",
-      "26 January 1930",
-      "1 May 1930"
-    ],
+    "choices": ["6 April 1928", "6 April 1929", "6 April 1930", "6 April 1931"],
     "answer": "6 April 1930",
     "explanation": "Gandhi broke the salt law on 6 April 1930 at Dandi by picking up a lump of natural salt, marking the beginning of the Civil Disobedience Movement against the British salt monopoly."
   },
   {
-    "question": "What was the Chittagong Armoury raid of 18 April 1930?",
-    "choices": [
-      "Congress protest against arms act",
-      "British seizure of Indian arms",
-      "Revolutionary attack on British armory",
-      "Police action against revolutionaries"
-    ],
-    "answer": "Revolutionary attack on British armory",
+    "question": "When did the Chittagong Armoury raid take place?",
+    "choices": ["18 April 1928", "18 April 1929", "18 April 1930", "18 April 1931"],
+    "answer": "18 April 1930",
     "explanation": "On 18 April 1930, Surya Sen led a group of revolutionaries in raiding the British armory in Chittagong (now in Bangladesh) to seize arms and ammunition for armed struggle."
   },
   {
     "question": "When was the first Round Table Conference held?",
-    "choices": [
-      "November 1930 to January 1931",
-      "January to March 1931",
-      "March to May 1931",
-      "September to November 1931"
-    ],
+    "choices": ["November 1929 to January 1930", "November 1930 to January 1931", "November 1931 to January 1932", "November 1932 to January 1933"],
     "answer": "November 1930 to January 1931",
     "explanation": "The first Round Table Conference was held in London from November 1930 to January 1931 to discuss constitutional reforms, but without Congress participation as most leaders were in jail."
   },
   {
     "question": "When did Chandra Shekhar Azad die?",
-    "choices": [
-      "27 February 1930",
-      "27 February 1931",
-      "27 February 1932",
-      "27 February 1933"
-    ],
+    "choices": ["27 February 1930", "27 February 1931", "27 February 1932", "27 February 1933"],
     "answer": "27 February 1931",
     "explanation": "Chandra Shekhar Azad died on 27 February 1931 in Alfred Park, Allahabad after a shootout with police, where he shot himself to avoid capture."
   },
   {
-    "question": "What agreement was signed on 5 March 1931 between Gandhi and Irwin?",
-    "choices": [
-      "Poona Pact",
-      "Gandhi-Irwin Pact",
-      "Lucknow Pact",
-      "Karachi Agreement"
-    ],
-    "answer": "Gandhi-Irwin Pact",
+    "question": "When was the Gandhi-Irwin Pact signed?",
+    "choices": ["5 March 1930", "5 March 1931", "5 March 1932", "5 March 1933"],
+    "answer": "5 March 1931",
     "explanation": "The Gandhi-Irwin Pact was signed on 5 March 1931, where the government agreed to release political prisoners and Congress agreed to suspend Civil Disobedience Movement and participate in second RTC."
   },
   {
-    "question": "Who were executed on 23 March 1931?",
-    "choices": [
-      "Bhagat Singh, Sukhdev and Rajguru",
-      "Surya Sen and his associates",
-      "Ram Prasad Bismil and Ashfaqullah Khan",
-      "Khudiram Bose and Prafulla Chaki"
-    ],
-    "answer": "Bhagat Singh, Sukhdev and Rajguru",
+    "question": "When were Bhagat Singh, Sukhdev and Rajguru executed?",
+    "choices": ["23 March 1930", "23 March 1931", "23 March 1932", "23 March 1933"],
+    "answer": "23 March 1931",
     "explanation": "Bhagat Singh, Sukhdev and Rajguru were hanged on 23 March 1931 in Lahore Central Jail for their revolutionary activities, becoming martyrs of the freedom struggle."
-  },{
-    "question": "What significant resolutions were passed at the Karachi Congress session in March 1931?",
-    "choices": [
-      "Only endorsement of Delhi Pact",
-      "Only resolution on Fundamental Rights",
-      "Endorsement of Delhi Pact and resolution on Fundamental Rights & National Economic Program",
-      "Declaration of complete independence"
-    ],
-    "answer": "Endorsement of Delhi Pact and resolution on Fundamental Rights & National Economic Program",
+  },
+  {
+    "question": "In which year were the Karachi Congress resolutions on Fundamental Rights passed?",
+    "choices": ["1929", "1930", "1931", "1932"],
+    "answer": "1931",
     "explanation": "The Karachi Congress session on 29 March 1931 endorsed the Gandhi-Irwin Pact and passed resolutions on Fundamental Rights and National Economic Program, reflecting Congress's social and economic agenda."
   },
   {
     "question": "When was the second Round Table Conference held?",
-    "choices": [
-      "March to May 1931",
-      "June to August 1931",
-      "September to November 1931",
-      "December 1931 to January 1932"
-    ],
+    "choices": ["September to November 1930", "September to November 1931", "September to November 1932", "September to November 1933"],
     "answer": "September to November 1931",
     "explanation": "The second Round Table Conference was held in London from September to November 1931 where Gandhi participated as sole Congress representative but failed to reach agreement due to British intransigence on communal issues."
   },
   {
     "question": "When was the Communal Award announced by British PM MacDonald?",
-    "choices": [
-      "16 August 1931",
-      "16 August 1932",
-      "16 August 1933",
-      "16 August 1934"
-    ],
+    "choices": ["16 August 1931", "16 August 1932", "16 August 1933", "16 August 1934"],
     "answer": "16 August 1932",
     "explanation": "The Communal Award was announced by British PM Ramsay MacDonald on 16 August 1932, extending separate electorates to depressed classes (Dalits), which Gandhi opposed."
   },
   {
-    "question": "What agreement was reached in the Poona Pact of 24 September 1932?",
-    "choices": [
-      "Between Congress and Muslim League",
-      "Between Gandhi and Ambedkar on Dalit representation",
-      "Between British and Congress on constitutional reforms",
-      "Between revolutionaries and British"
-    ],
-    "answer": "Between Gandhi and Ambedkar on Dalit representation",
+    "question": "When was the Poona Pact signed?",
+    "choices": ["24 September 1931", "24 September 1932", "24 September 1933", "24 September 1934"],
+    "answer": "24 September 1932",
     "explanation": "The Poona Pact was signed on 24 September 1932 between Gandhi and Ambedkar, replacing separate electorates for Dalits with reserved seats in general constituencies."
   },
   {
     "question": "When did Gandhi undertake his Harijan tour?",
-    "choices": [
-      "November 1932 to January 1933",
-      "November 1933 to July 1934",
-      "November 1934 to January 1935",
-      "November 1935 to July 1936"
-    ],
-    "answer": "November 1933 to July 1934",
+    "choices": ["1931-32", "1932-33", "1933-34", "1934-35"],
+    "answer": "1933-34",
     "explanation": "Gandhi undertook an all-India Harijan tour from November 1933 to July 1934 to campaign against untouchability and promote Dalit welfare, following his work on the Poona Pact."
   },
   {
     "question": "When did Gandhi resign from Congress?",
-    "choices": [
-      "October 1933",
-      "October 1934",
-      "October 1935",
-      "October 1936"
-    ],
+    "choices": ["October 1932", "October 1933", "October 1934", "October 1935"],
     "answer": "October 1934",
     "explanation": "Gandhi resigned from Congress in October 1934 to devote himself to constructive work like village industries, Harijan welfare and education, though he remained its spiritual guide."
   },
   {
     "question": "When was the Congress Socialist Party formed within Congress?",
-    "choices": [
-      "October 1932",
-      "October 1933",
-      "October 1934",
-      "October 1935"
-    ],
+    "choices": ["October 1932", "October 1933", "October 1934", "October 1935"],
     "answer": "October 1934",
     "explanation": "The Congress Socialist Party was formed within Congress in October 1934 by Jayaprakash Narayan, Acharya Narendra Dev and others to push socialist agenda within the national movement."
   },
   {
-    "question": "What was the outcome of November 1934 elections to Central Legislative Assembly?",
-    "choices": [
-      "Congress boycotted elections",
-      "Congress emerged as largest party",
-      "Muslim League won majority",
-      "British formed coalition government"
-    ],
-    "answer": "Congress emerged as largest party",
+    "question": "When were the November 1934 elections to Central Legislative Assembly held?",
+    "choices": ["1932", "1933", "1934", "1935"],
+    "answer": "1934",
     "explanation": "In November 1934 elections to Central Legislative Assembly, Congress emerged as the largest party, demonstrating its political strength despite being out of power."
   },
   {
     "question": "When was the Reserve Bank of India (RBI) established?",
-    "choices": [
-      "1 April 1934",
-      "1 April 1935",
-      "1 April 1936",
-      "1 April 1937"
-    ],
+    "choices": ["1 April 1934", "1 April 1935", "1 April 1936", "1 April 1937"],
     "answer": "1 April 1935",
     "explanation": "The Reserve Bank of India was established on 1 April 1935 under the RBI Act 1934, initially as a private shareholders' bank before being nationalized in 1949."
   },
   {
     "question": "When was the Government of India Act 1935 passed?",
-    "choices": [
-      "August 1934",
-      "August 1935",
-      "August 1936",
-      "August 1937"
-    ],
+    "choices": ["August 1934", "August 1935", "August 1936", "August 1937"],
     "answer": "August 1935",
     "explanation": "The Government of India Act 1935 was passed in August 1935, providing for provincial autonomy and federation, becoming the basis for much of India's later constitution."
   },
   {
-    "question": "What administrative changes occurred on 1 April 1936?",
-    "choices": [
-      "Bihar & Orissa separated, Bombay & Sind separated",
-      "Bengal partitioned",
-      "Punjab divided",
-      "Madras presidency reorganized"
-    ],
-    "answer": "Bihar & Orissa separated, Bombay & Sind separated",
+    "question": "When were Bihar & Orissa separated and Sind separated from Bombay presidency?",
+    "choices": ["1 April 1935", "1 April 1936", "1 April 1937", "1 April 1938"],
+    "answer": "1 April 1936",
     "explanation": "On 1 April 1936, Bihar and Orissa were separated as distinct provinces, and Sind was separated from Bombay presidency under the Government of India Act 1935."
   },
   {
-    "question": "When was the All India Kisan Congress (later All India Kisan Sabha) formed?",
-    "choices": [
-      "April 1935",
-      "April 1936",
-      "April 1937",
-      "April 1938"
-    ],
+    "question": "When was the All India Kisan Sabha formed?",
+    "choices": ["April 1935", "April 1936", "April 1937", "April 1938"],
     "answer": "April 1936",
     "explanation": "The All India Kisan Congress (later renamed All India Kisan Sabha) was formed in April 1936 under Swami Sahajanand Saraswati to champion peasant rights and welfare."
   },
   {
-    "question": "Where was the Congress session held in June 1936?",
-    "choices": [
-      "Lucknow",
-      "Faizpur",
-      "Haripura",
-      "Tripuri"
-    ],
-    "answer": "Lucknow",
+    "question": "In which year was the Congress session held in Lucknow with Nehru as president?",
+    "choices": ["1934", "1935", "1936", "1937"],
+    "answer": "1936",
     "explanation": "The Congress session in June 1936 was held in Lucknow where Jawaharlal Nehru was president and socialist ideas gained prominence."
   },
   {
-    "question": "Where was the Congress session held in December 1936?",
-    "choices": [
-      "Lucknow",
-      "Faizpur",
-      "Haripura",
-      "Tripuri"
-    ],
-    "answer": "Faizpur",
+    "question": "In which year was the Congress session held in Faizpur?",
+    "choices": ["1934", "1935", "1936", "1937"],
+    "answer": "1936",
     "explanation": "The Congress session in December 1936 was held in Faizpur, Maharashtra - the first rural setting for a Congress session, reflecting its mass base."
   },
   {
     "question": "When were provincial assembly elections held under Government of India Act 1935?",
-    "choices": [
-      "February 1936",
-      "February 1937",
-      "February 1938",
-      "February 1939"
-    ],
+    "choices": ["February 1936", "February 1937", "February 1938", "February 1939"],
     "answer": "February 1937",
     "explanation": "Provincial assembly elections were held in February 1937 under the Government of India Act 1935, which Congress contested after initial hesitation."
   },
   {
-    "question": "What happened on 1 April 1937 regarding Burma?",
-    "choices": [
-      "Burma was annexed by Britain",
-      "Burma was separated from British India",
-      "Burma got independence",
-      "Burma was occupied by Japan"
-    ],
-    "answer": "Burma was separated from British India",
+    "question": "When was Burma separated from British India?",
+    "choices": ["1 April 1936", "1 April 1937", "1 April 1938", "1 April 1939"],
+    "answer": "1 April 1937",
     "explanation": "On 1 April 1937, Burma was formally separated from British India and became a separate British colony under the Government of India Act 1935 provisions."
   },
   {
     "question": "When did Congress form ministries in provinces after 1937 elections?",
-    "choices": [
-      "March 1937",
-      "May 1937",
-      "July 1937",
-      "September 1937"
-    ],
+    "choices": ["March 1937", "May 1937", "July 1937", "September 1937"],
     "answer": "July 1937",
     "explanation": "After initial reluctance, Congress formed ministries in 6 provinces (Madras, Bombay, Central Provinces, Bihar, Orissa, United Provinces) in July 1937, later in others except Punjab and Bengal."
   },
   {
-    "question": "Where was the Congress session held in February 1938?",
-    "choices": [
-      "Lucknow",
-      "Faizpur",
-      "Haripura",
-      "Tripuri"
-    ],
-    "answer": "Haripura",
+    "question": "In which year was the Congress session held in Haripura with Subhas Bose as president?",
+    "choices": ["1936", "1937", "1938", "1939"],
+    "answer": "1938",
     "explanation": "The Congress session in February 1938 was held in Haripura, Gujarat with Subhas Chandra Bose as president, advocating complete independence and planning."
   },
   {
-    "question": "What European event occurred in March 1938?",
-    "choices": [
-      "Germany annexed Austria",
-      "Italy invaded Ethiopia",
-      "Spanish Civil War ended",
-      "Hitler came to power"
-    ],
-    "answer": "Germany annexed Austria",
+    "question": "When did Germany annex Austria (Anschluss)?",
+    "choices": ["March 1937", "March 1938", "March 1939", "March 1940"],
+    "answer": "March 1938",
     "explanation": "In March 1938, Nazi Germany annexed Austria (Anschluss), expanding Hitler's territory and demonstrating British/French appeasement policy's failure."
   },
   {
-    "question": "What agreement was signed on 30 September 1938?",
-    "choices": [
-      "Munich Agreement",
-      "Pact of Steel",
-      "Molotov-Ribbentrop Pact",
-      "Versailles Treaty"
-    ],
-    "answer": "Munich Agreement",
+    "question": "When was the Munich Agreement signed?",
+    "choices": ["30 September 1937", "30 September 1938", "30 September 1939", "30 September 1940"],
+    "answer": "30 September 1938",
     "explanation": "The Munich Agreement on 30 September 1938 allowed Nazi Germany to annex Sudetenland from Czechoslovakia, with Britain and France agreeing to avoid war (appeasement)."
   },
   {
-    "question": "Where was the Congress session held in March 1939?",
-    "choices": [
-      "Lucknow",
-      "Faizpur",
-      "Haripura",
-      "Tripuri"
-    ],
-    "answer": "Tripuri",
+    "question": "In which year was the Congress session held in Tripuri?",
+    "choices": ["1937", "1938", "1939", "1940"],
+    "answer": "1939",
     "explanation": "The Congress session in March 1939 was held in Tripuri where Subhas Chandra Bose was re-elected president against Gandhi's preference, leading to his resignation."
   },
   {
-    "question": "What European event occurred in March 1939 after Sudetenland was already annexed?",
-    "choices": [
-      "Germany annexed rest of Czech lands",
-      "Italy invaded Albania",
-      "Soviet Union invaded Poland",
-      "Germany invaded Poland"
-    ],
-    "answer": "Germany annexed rest of Czech lands",
+    "question": "When did Germany annex the remaining Czech lands?",
+    "choices": ["March 1938", "March 1939", "March 1940", "March 1941"],
+    "answer": "March 1939",
     "explanation": "In March 1939, Germany annexed the remaining Czech lands (Bohemia and Moravia) after having taken Sudetenland in 1938, violating the Munich Agreement."
   },
   {
     "question": "When did World War II begin with Hitler's invasion of Poland?",
-    "choices": [
-      "1 September 1938",
-      "1 September 1939",
-      "1 September 1940",
-      "1 September 1941"
-    ],
+    "choices": ["1 September 1938", "1 September 1939", "1 September 1940", "1 September 1941"],
     "answer": "1 September 1939",
     "explanation": "World War II began on 1 September 1939 when Nazi Germany invaded Poland, leading Britain and France to declare war on Germany on 3 September."
   },
   {
     "question": "When did Congress ministries resign in protest against British war policy?",
-    "choices": [
-      "October 1938",
-      "October 1939",
-      "October 1940",
-      "October 1941"
-    ],
+    "choices": ["October 1938", "October 1939", "October 1940", "October 1941"],
     "answer": "October 1939",
     "explanation": "Congress ministries resigned in October 1939 protesting Britain's unilateral decision to involve India in World War II without consulting Indian leaders."
   },
   {
-    "question": "Where was the Congress session held in March 1940?",
-    "choices": [
-      "Ramgarh",
-      "Tripuri",
-      "Haripura",
-      "Faizpur"
-    ],
-    "answer": "Ramgarh",
+    "question": "In which year was the Congress session held in Ramgarh?",
+    "choices": ["1938", "1939", "1940", "1941"],
+    "answer": "1940",
     "explanation": "The Congress session in March 1940 was held in Ramgarh where Maulana Abul Kalam Azad became president and the British war policy was condemned."
   },
   {
-    "question": "Which European countries were annexed by Germany on 9 April 1940?",
-    "choices": [
-      "Denmark and Norway",
-      "Belgium and Netherlands",
-      "France and Luxembourg",
-      "Poland and Czechoslovakia"
-    ],
-    "answer": "Denmark and Norway",
+    "question": "When did Germany invade Denmark and Norway?",
+    "choices": ["9 April 1939", "9 April 1940", "9 April 1941", "9 April 1942"],
+    "answer": "9 April 1940",
     "explanation": "On 9 April 1940, Germany invaded and quickly occupied Denmark and Norway to secure iron ore supplies and naval bases for Atlantic operations."
   },
   {
-    "question": "Which countries did Germany invade on 10 May 1940 and who became British PM?",
-    "choices": [
-      "France, Belgium, Netherlands, Luxembourg - Churchill became PM",
-      "Poland, Czechoslovakia - Chamberlain became PM",
-      "Norway, Denmark - Attlee became PM",
-      "Soviet Union, Finland - Eden became PM"
-    ],
-    "answer": "France, Belgium, Netherlands, Luxembourg - Churchill became PM",
+    "question": "When did Germany invade France, Belgium, Netherlands and Luxembourg (and Churchill became PM)?",
+    "choices": ["10 May 1939", "10 May 1940", "10 May 1941", "10 May 1942"],
+    "answer": "10 May 1940",
     "explanation": "On 10 May 1940, Germany invaded France, Belgium, Netherlands and Luxembourg (Blitzkrieg), and the same day Winston Churchill became British Prime Minister replacing Chamberlain."
   },
   {
-    "question": "What was the August Offer of 1940?",
-    "choices": [
-      "British promise of dominion status after war",
-      "British promise of complete independence",
-      "Japanese offer to help Indian independence",
-      "American offer to mediate"
-    ],
-    "answer": "British promise of dominion status after war",
+    "question": "When was the August Offer made by Viceroy Linlithgow?",
+    "choices": ["8 August 1939", "8 August 1940", "8 August 1941", "8 August 1942"],
+    "answer": "8 August 1940",
     "explanation": "The August Offer of 8 August 1940 by Viceroy Linlithgow promised dominion status after war and expansion of Viceroy's Executive Council, but was rejected as insufficient."
   },
   {
-    "question": "Who conducted the first individual Satyagraha on 17 October 1940?",
-    "choices": [
-      "Jawaharlal Nehru",
-      "Vinoba Bhave",
-      "Vallabhbhai Patel",
-      "Rajagopalachari"
-    ],
-    "answer": "Vinoba Bhave",
+    "question": "When did Vinoba Bhave begin the first individual Satyagraha?",
+    "choices": ["17 October 1939", "17 October 1940", "17 October 1941", "17 October 1942"],
+    "answer": "17 October 1940",
     "explanation": "Vinoba Bhave was the first individual Satyagrahi on 17 October 1940, followed by Nehru and others, to protest against British war policy without mass movement."
   },
   {
     "question": "When did Subhas Chandra Bose escape house arrest?",
-    "choices": [
-      "16 January 1940",
-      "16 January 1941",
-      "16 January 1942",
-      "16 January 1943"
-    ],
+    "choices": ["16 January 1940", "16 January 1941", "16 January 1942", "16 January 1943"],
     "answer": "16 January 1941",
     "explanation": "Subhas Chandra Bose escaped house arrest in Calcutta on 16 January 1941, eventually reaching Germany via Afghanistan and Soviet Union to seek Axis help for India's freedom."
   },
   {
     "question": "When did Germany invade the Soviet Union?",
-    "choices": [
-      "22 June 1940",
-      "22 June 1941",
-      "22 June 1942",
-      "22 June 1943"
-    ],
+    "choices": ["22 June 1940", "22 June 1941", "22 June 1942", "22 June 1943"],
     "answer": "22 June 1941",
     "explanation": "Germany invaded the Soviet Union on 22 June 1941 (Operation Barbarossa), breaking the Nazi-Soviet pact and bringing USSR into war against Axis."
   },
   {
-    "question": "What happened at Pearl Harbor on 7 December 1941?",
-    "choices": [
-      "US declared war on Germany",
-      "Japan attacked US naval base",
-      "Britain surrendered to Germany",
-      "Soviet Union joined Allies"
-    ],
-    "answer": "Japan attacked US naval base",
+    "question": "When did Japan attack Pearl Harbor?",
+    "choices": ["7 December 1940", "7 December 1941", "7 December 1942", "7 December 1943"],
+    "answer": "7 December 1941",
     "explanation": "On 7 December 1941, Japan attacked the US naval base at Pearl Harbor, bringing America into World War II against Axis powers."
   },
   {
-    "question": "Why were Satyagrahis released in December 1941?",
-    "choices": [
-      "British wanted to gain Indian support for war",
-      "Congress agreed to support British war effort",
-      "Gandhi called off movement",
-      "Japanese threatened to invade India"
-    ],
-    "answer": "British wanted to gain Indian support for war",
+    "question": "When were Satyagrahis released by the British?",
+    "choices": ["December 1940", "December 1941", "December 1942", "December 1943"],
+    "answer": "December 1941",
     "explanation": "In December 1941, British released Satyagrahis to gain Indian support for war after Japanese victories in Southeast Asia and US entry into war changed global dynamics."
   },
   {
     "question": "When did Japan capture Burma during World War II?",
-    "choices": [
-      "January to May 1941",
-      "January to May 1942",
-      "January to May 1943",
-      "January to May 1944"
-    ],
+    "choices": ["January to May 1941", "January to May 1942", "January to May 1943", "January to May 1944"],
     "answer": "January to May 1942",
     "explanation": "Japan captured Burma from British between January to May 1942, bringing war closer to India's eastern borders and cutting China's supply route."
   },
   {
     "question": "When did the Cripps Mission come to India?",
-    "choices": [
-      "March-April 1941",
-      "March-April 1942",
-      "March-April 1943",
-      "March-April 1944"
-    ],
+    "choices": ["March-April 1941", "March-April 1942", "March-April 1943", "March-April 1944"],
     "answer": "March-April 1942",
     "explanation": "The Cripps Mission came to India in March-April 1942 offering dominion status after war, but failed as Congress wanted immediate power transfer and defense control."
   },
   {
-    "question": "What was the significance of the Battle of Midway in June 1942?",
-    "choices": [
-      "Japan defeated US navy",
-      "Turning point in Pacific war favoring US",
-      "Germany invaded North Africa",
-      "Soviet Union defeated Germany"
-    ],
-    "answer": "Turning point in Pacific war favoring US",
+    "question": "When was the Battle of Midway?",
+    "choices": ["June 1941", "June 1942", "June 1943", "June 1944"],
+    "answer": "June 1942",
     "explanation": "The Battle of Midway in June 1942 was a decisive US victory over Japan, marking the turning point in Pacific theater of World War II."
   },
   {
-    "question": "When was the Quit India Movement launched at Gowalia Tank (August Kranti Maidan)?",
-    "choices": [
-      "8 August 1940",
-      "8 August 1941",
-      "8 August 1942",
-      "8 August 1943"
-    ],
+    "question": "When was the Quit India Movement launched?",
+    "choices": ["8 August 1940", "8 August 1941", "8 August 1942", "8 August 1943"],
     "answer": "8 August 1942",
     "explanation": "The Quit India Movement was launched on 8 August 1942 at Gowalia Tank in Bombay (now August Kranti Maidan) with Gandhi's 'Do or Die' call for immediate British withdrawal."
   },
   {
     "question": "When did Japan invite Bose to lead Indian nationalist movement in East Asia?",
-    "choices": [
-      "January 1942",
-      "January 1943",
-      "January 1944",
-      "January 1945"
-    ],
+    "choices": ["January 1942", "January 1943", "January 1944", "January 1945"],
     "answer": "January 1943",
     "explanation": "In January 1943, Japan invited Subhas Chandra Bose to lead the Indian nationalist movement in East Asia after he had sought Axis help from Germany earlier."
   },
   {
-  "question": "Why did Gandhi started fast for 21 days on 10th Feb 1943?",
-  "choices": [
-    "To protest violent British repression of Quit India activists",
-    "To demand the release of Indian National Army prisoners",
-    "To oppose the Partition of Bengal",
-    "To support Allied forces in WWII"
-  ],
-  "answer": "To protest violent British repression of Quit India activists",
-  "explanation": "Protested mass arrests, shootings, and his detention without trial. British refused his release despite failing health."
+    "question": "In which year did Gandhi undertake a 21-day fast protesting British repression?",
+    "choices": ["1941", "1942", "1943", "1944"],
+    "answer": "1943",
+    "explanation": "Protested mass arrests, shootings, and his detention without trial. British refused his release despite failing health."
   },
   {
     "question": "When did Bose assume leadership of Indian Independence League and INA?",
-    "choices": [
-      "4 July 1942",
-      "4 July 1943",
-      "4 July 1944",
-      "4 July 1945"
-    ],
+    "choices": ["4 July 1942", "4 July 1943", "4 July 1944", "4 July 1945"],
     "answer": "4 July 1943",
     "explanation": "Subhas Chandra Bose assumed leadership of Indian Independence League and Indian National Army (INA) on 4 July 1943 in Singapore to fight British with Japanese support."
   },
   {
-    "question": "What was significant about Allied invasion of Sicily in July 1943?",
-    "choices": [
-      "Italy surrendered",
-      "Germany invaded Soviet Union",
-      "Japan attacked Pearl Harbor",
-      "Britain lost Burma"
-    ],
-    "answer": "Italy surrendered",
+    "question": "When did Allied invasion of Sicily lead to Italy's surrender?",
+    "choices": ["July 1942", "July 1943", "July 1944", "July 1945"],
+    "answer": "July 1943",
     "explanation": "The Allied invasion of Sicily in July 1943 led to Mussolini's fall and Italy's surrender, marking a major turning point in European theater of World War II."
   },
   {
     "question": "When did Wavell become Viceroy of India?",
-    "choices": [
-      "1 October 1942",
-      "1 October 1943",
-      "1 October 1944",
-      "1 October 1945"
-    ],
+    "choices": ["1 October 1942", "1 October 1943", "1 October 1944", "1 October 1945"],
     "answer": "1 October 1943",
     "explanation": "Field Marshal Archibald Wavell became Viceroy of India on 1 October 1943 replacing Linlithgow, during critical war years and growing independence demands."
   },
   {
     "question": "When was the Provisional Government of Free India formed in Singapore?",
-    "choices": [
-      "21 October 1942",
-      "21 October 1943",
-      "21 October 1944",
-      "21 October 1945"
-    ],
+    "choices": ["21 October 1942", "21 October 1943", "21 October 1944", "21 October 1945"],
     "answer": "21 October 1943",
     "explanation": "Subhas Chandra Bose proclaimed the Arzi Hukumat-e-Azad Hind (Provisional Government of Free India) in Singapore on 21 October 1943 with Japanese support during World War II."
   },
   {
-    "question": "What was D-Day/Normandy landings of 6 June 1944?",
-    "choices": [
-      "Allied invasion of Germany",
-      "Allied invasion of France",
-      "Soviet invasion of Germany",
-      "US invasion of Japan"
-    ],
-    "answer": "Allied invasion of France",
+    "question": "When did D-Day/Normandy landings occur?",
+    "choices": ["6 June 1943", "6 June 1944", "6 June 1945", "6 June 1946"],
+    "answer": "6 June 1944",
     "explanation": "On 6 June 1944 (D-Day), Allied forces landed in Normandy, France, opening the Western Front against Germany and beginning Europe's liberation from Nazi occupation."
   },
   {
-    "question": "When did the Battle of Imphal & Kohima take place?",
-    "choices": ["March to May 1944", "March to July 1944", "April to June 1944", "May to August 1944"],
+    "question": "When was the Battle of Imphal & Kohima fought?",
+    "choices": ["March to May 1943", "March to July 1944", "April to June 1945", "May to August 1946"],
     "answer": "March to July 1944",
     "explanation": "The Battle of Imphal and Kohima was fought between March and July 1944, marking a turning point in the Burma Campaign during World War II."
   },
   {
-    "question": "When was Rangoon recaptured by the Allies during World War II?",
+    "question": "When was Rangoon recaptured by the Allies?",
     "choices": ["3 May 1944", "3 May 1945", "7 May 1945", "15 August 1945"],
     "answer": "3 May 1945",
     "explanation": "Rangoon (now Yangon) was recaptured by Allied forces on 3 May 1945 from Japanese occupation during World War II."
@@ -1425,8 +1050,8 @@
     "explanation": "Germany surrendered unconditionally to the Allies on 7 May 1945, marking the end of World War II in Europe."
   },
   {
-    "question": "When was the Shimla Conference held after the release of Congress leaders?",
-    "choices": ["25 June to 14 July 1945", "15 July to 30 July 1945", "1 August to 15 August 1945", "September 1945"],
+    "question": "When was the Shimla Conference held?",
+    "choices": ["25 June to 14 July 1944", "25 June to 14 July 1945", "25 June to 14 July 1946", "25 June to 14 July 1947"],
     "answer": "25 June to 14 July 1945",
     "explanation": "The Shimla Conference was held from 25 June to 14 July 1945 between the British and Indian political leaders to discuss the Wavell Plan for Indian self-government."
   },
@@ -1437,22 +1062,22 @@
     "explanation": "Clement Attlee became Prime Minister of Britain on 26 July 1945 after the Labour Party won the general election, replacing Winston Churchill."
   },
   {
-    "question": "When did Subhas Chandra Bose die?",
+    "question": "When did Subhas Chandra Bose reportedly die?",
     "choices": ["15 August 1945", "18 August 1945", "2 September 1945", "18 February 1946"],
     "answer": "18 August 1945",
     "explanation": "Subhas Chandra Bose reportedly died in a plane crash in Taiwan on 18 August 1945, though the circumstances remain controversial."
   },
   {
-    "question": "When did Japan sign the surrender document ending World War II?",
-    "choices": ["15 August 1945", "2 September 1945", "18 August 1945", "26 July 1945"],
+    "question": "When did Japan formally surrender in World War II?",
+    "choices": ["15 August 1945", "18 August 1945", "2 September 1945", "26 July 1945"],
     "answer": "2 September 1945",
     "explanation": "Japan formally surrendered on 2 September 1945 aboard the USS Missouri, marking the official end of World War II."
   },
   {
-  "question": "When were the last general elections in British India held under the 1919 Government of India Act?",
-  "choices": ["February 1934", "December 1945", "January 1946", "March 1937"],
-  "answer": "December 1945",
-  "explanation": "1935 Act's federation failed (Princely States refused), reducing seats from 375 to 102, forcing election to be held under 1919 Act (results: INC 59, ML 30, Others 13)"
+    "question": "When were the last general elections in British India held under the 1919 Government of India Act?",
+    "choices": ["February 1934", "December 1945", "January 1946", "March 1937"],
+    "answer": "December 1945",
+    "explanation": "1935 Act's federation failed (Princely States refused), reducing seats from 375 to 102, forcing election to be held under 1919 Act (results: INC 59, ML 30, Others 13)"
   },
   {
     "question": "When did the Royal Indian Navy (RIN) ratings go on strike in Bombay?",
