@@ -996,11 +996,11 @@
     "explanation": "In January 1943, Japan invited Subhas Chandra Bose to lead the Indian nationalist movement in East Asia after he had sought Axis help from Germany earlier."
   },
   {
-    "question": "In which year did Gandhi undertake a 21-day fast protesting British repression?",
-    "choices": ["1941", "1942", "1943", "1944"],
-    "answer": "1943",
-    "explanation": "Protested mass arrests, shootings, and his detention without trial. British refused his release despite failing health."
-  },
+  "question": "On which date in 1943 did Mahatma Gandhi begin his 21-day fast protesting British repression?",
+  "choices": ["10 February 1943", "12 March 1943", "9 August 1943", "2 October 1943"],
+  "answer": "10 February 1943",
+  "explanation": "10 February 1943: Began fast at Aga Khan Palace prison protesting violent suppression of Quit India Movement. British rejected demands for his release despite health risks, ending fast on 2 March."
+},
   {
     "question": "When did Bose assume leadership of Indian Independence League and INA?",
     "choices": ["4 July 1942", "4 July 1943", "4 July 1944", "4 July 1945"],
