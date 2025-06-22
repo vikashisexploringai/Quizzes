@@ -672,11 +672,11 @@
     "explanation": "The Kakori Train Action on 9 August 1925 was executed by HRA members including Ram Prasad Bismil and Ashfaqullah Khan who looted government money from a train near Kakori to fund revolutionary activities."
   },
   {
-    "question": "When was the Rashtriya Swayamsevak Sangh (RSS) founded?",
-    "choices": ["27 September 1923", "27 September 1924", "27 September 1925", "27 September 1926"],
-    "answer": "27 September 1925",
-    "explanation": "The Rashtriya Swayamsevak Sangh (RSS) was founded by K.B. Hedgewar on 27 September 1925 in Nagpur as a Hindu nationalist organization."
-  },
+  "question": "In which year was the Rashtriya Swayamsevak Sangh (RSS) founded?",
+  "choices": ["1923", "1924", "1925", "1926"],
+  "answer": "1925",
+  "explanation": "1925: Founded by Dr. K.B. Hedgewar on 27 September in Nagpur as a Hindu nationalist organization. Combined cultural revival with paramilitary training through shakhas (daily gatherings), emphasizing Hindu unity during British rule. Later became the ideological nucleus of India's nationalist right-wing movement."
+},
   {
     "question": "When was the Communist Party of India (CPI) formed?",
     "choices": ["December 1923", "December 1924", "December 1925", "December 1926"],
