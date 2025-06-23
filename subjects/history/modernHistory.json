@@ -373,8 +373,8 @@
   },
   {
     "question": "When was the Russo-Japanese War fought?",
-    "choices": ["February 1904 - September 1905", "1899-1901", "1914-1918", "1900-1901"],
-    "answer": "February 1904 - September 1905",
+    "choices": ["1904-1905", "1899-1901", "1914-1918", "1900-1901"],
+    "answer": "1904-1905",
     "explanation": "The Russo-Japanese War (Feb 1904-Sept 1905) was the first major victory of an Asian power over a European one."
   },
   {
