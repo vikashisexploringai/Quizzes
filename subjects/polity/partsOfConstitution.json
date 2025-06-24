@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which Part of the Indian Constitution deals with 'The Union and its Territory'?",
+    "question": "Which articles deal with 'The Union and its Territory'?",
     "choices": ["Articles 1–4", "Articles 5–11", "Articles 12–35", "Articles 36–51"],
     "answer": "Articles 1–4",
     "explanation": "Part I (Articles 1–4) defines India as a Union of States and allows Parliament to reorganize states."
   },
   {
-    "question": "Which Part of the Indian Constitution deals with 'Citizenship'?",
+    "question": "Which articles deal with 'Citizenship'?",
     "choices": ["Articles 1–4", "Articles 5–11", "Articles 12–35", "Articles 36–51"],
     "answer": "Articles 5–11",
-    "explanation": "Part II (Articles 5–11) covers citizenship rights at the commencement of the Constitution."
+    "explanation": "Part II (Articles 5–11) covers citizenship at the Constitution's commencement."
   },
   {
-    "question": "Which Part contains 'Fundamental Rights'?",
+    "question": "Which articles contain 'Fundamental Rights'?",
     "choices": ["Articles 5–11", "Articles 12–35", "Articles 36–51", "Articles 52–151"],
     "answer": "Articles 12–35",
-    "explanation": "Part III (Articles 12–35) guarantees Fundamental Rights like equality, freedom, and constitutional remedies."
+    "explanation": "Part III (Articles 12–35) guarantees rights like equality, freedom, and constitutional remedies."
   },
   {
-    "question": "Which Part contains 'Directive Principles of State Policy'?",
+    "question": "Which articles contain 'Directive Principles of State Policy'?",
     "choices": ["Articles 12–35", "Articles 36–51", "Articles 52–151", "Articles 152–237"],
     "answer": "Articles 36–51",
-    "explanation": "Part IV (Articles 36–51) lists non-justiciable guidelines for governance (e.g., equal pay, environmental protection)."
+    "explanation": "Part IV (Articles 36–51) lists governance principles (e.g., equal pay, environmental protection)."
   },
   {
-    "question": "Which Part contains 'Fundamental Duties'?",
+    "question": "Which article contains 'Fundamental Duties'?",
     "choices": ["Article 51A", "Articles 243–243O", "Articles 244–244A", "Articles 245–263"],
     "answer": "Article 51A",
-    "explanation": "Part IVA (Article 51A) was added by the 42nd Amendment (1976) and lists 11 duties of citizens."
+    "explanation": "Part IVA (Article 51A) lists 11 duties of citizens (added by 42nd Amendment)."
   },
   {
-    "question": "Which Part deals with 'The Union Government'?",
+    "question": "Which articles deal with 'The Union Government'?",
     "choices": ["Articles 52–151", "Articles 152–237", "Articles 239–242", "Articles 245–263"],
     "answer": "Articles 52–151",
-    "explanation": "Part V (Articles 52–151) covers the President, Prime Minister, Parliament, and Supreme Court."
+    "explanation": "Part V (Articles 52–151) covers the President, PM, Parliament, and Supreme Court."
   },
   {
-    "question": "Which Part deals with 'The State Governments'?",
+    "question": "Which articles deal with 'The State Governments'?",
     "choices": ["Articles 52–151", "Articles 152–237", "Articles 239–242", "Articles 245–263"],
     "answer": "Articles 152–237",
-    "explanation": "Part VI (Articles 152–237) defines Governors, State Legislatures, and High Courts.Part VII containing Artcile 238 dealing with part B states was repeled by 7th amendment, 1956"
+    "explanation": "Part VI (Articles 152–237) defines Governors, State Legislatures, and High Courts."
   },
   {
-    "question": "Which Part deals with 'The Union Territories'?",
+    "question": "Which articles deal with 'Union Territories'?",
     "choices": ["Articles 152–237", "Articles 239–242", "Articles 244–244A", "Articles 245–263"],
     "answer": "Articles 239–242",
-    "explanation": "Part VIII (Articles 239–242) governs administration of Union Territories like Delhi and Puducherry."
+    "explanation": "Part VIII (Articles 239–242) governs UTs like Delhi and Puducherry."
   },
   {
-    "question": "Which Part deals with 'Panchayats'?",
+    "question": "Which articles deal with 'Panchayats'?",
     "choices": ["Articles 243–243O", "Articles 244–244A", "Articles 245–263", "Articles 264–300A"],
     "answer": "Articles 243–243O",
-    "explanation": "Part IX (Articles 243–243O) establishes the Panchayati Raj system for rural local governance."
+    "explanation": "Part IX (Articles 243–243O) establishes the Panchayati Raj system."
   },
   {
-    "question": "Which Part deals with 'Municipalities'?",
+    "question": "Which articles deal with 'Municipalities'?",
     "choices": ["Articles 243P–243ZG", "Articles 244–244A", "Articles 245–263", "Articles 264–300A"],
     "answer": "Articles 243P–243ZG",
-    "explanation": "Part IXA (Articles 243P–243ZG) governs urban local bodies like municipal corporations."
+    "explanation": "Part IXA (Articles 243P–243ZG) governs urban local bodies."
   },
   {
-    "question": "Which Part deals with 'Co-operative Societies'?",
+    "question": "Which articles deal with 'Co-operative Societies'?",
     "choices": ["Articles 243ZH–243ZT", "Articles 244–244A", "Articles 245–263", "Articles 264–300A"],
     "answer": "Articles 243ZH–243ZT",
-    "explanation": "Part IXB (Articles 243ZH–243ZT) was added by the 97th Amendment (2011) to regulate co-operatives."
+    "explanation": "Part IXB (Articles 243ZH–243ZT) regulates co-operatives (added by 97th Amendment)."
   },
   {
-    "question": "Which Part deals with 'Scheduled and Tribal Areas'?",
+    "question": "Which articles deal with 'Scheduled and Tribal Areas'?",
     "choices": ["Articles 239–242", "Articles 244–244A", "Articles 245–263", "Articles 264–300A"],
     "answer": "Articles 244–244A",
-    "explanation": "Part X (Articles 244–244A) provides special administration for Scheduled Areas and Tribal Areas."
+    "explanation": "Part X (Articles 244–244A) provides special administration for these areas."
   },
   {
-    "question": "Which Part deals with 'Union-State Relations'?",
+    "question": "Which articles deal with 'Union-State Relations'?",
     "choices": ["Articles 244–244A", "Articles 245–263", "Articles 264–300A", "Articles 301–307"],
     "answer": "Articles 245–263",
-    "explanation": "Part XI (Articles 245–263) governs legislative, administrative, and financial relations between Union and States."
+    "explanation": "Part XI (Articles 245–263) governs legislative and financial relations."
   },
   {
-    "question": "Which Part deals with 'Finance, Property, Contracts'?",
+    "question": "Which articles deal with 'Finance, Property, Contracts'?",
     "choices": ["Articles 245–263", "Articles 264–300A", "Articles 301–307", "Articles 308–323"],
     "answer": "Articles 264–300A",
-    "explanation": "Part XII (Articles 264–300A) covers taxes, borrowing, property rights, and government contracts."
+    "explanation": "Part XII (Articles 264–300A) covers taxes, borrowing, and government contracts."
   },
   {
-    "question": "Which Part deals with 'Trade and Commerce'?",
-    "choices": ["Articles 264–300A", "Articles 301–307", "Articles 308–323", "Articles 324–329A"],
+    "question": "Which articles deal with 'Trade and Commerce'?",
+    "choices": ["Articles 264–300A", "Articles 301–307", "Articles 308–323", "Articles 324–329"],
     "answer": "Articles 301–307",
-    "explanation": "Part XIII (Articles 301–307) ensures freedom of trade across India with some restrictions."
+    "explanation": "Part XIII (Articles 301–307) ensures freedom of trade across India."
   },
   {
-    "question": "Which Part deals with 'Services under Union and States'?",
-    "choices": ["Articles 301–307", "Articles 308–323", "Articles 324–329A", "Articles 330–342A"],
+    "question": "Which articles deal with 'Services under Union and States'?",
+    "choices": ["Articles 301–307", "Articles 308–323", "Articles 324–329", "Articles 330–342"],
     "answer": "Articles 308–323",
-    "explanation": "Part XIV (Articles 308–323) governs public services like IAS, IPS, and Public Service Commissions."
+    "explanation": "Part XIV (Articles 308–323) governs public services like IAS and IPS."
   },
   {
-    "question": "Which Part deals with 'Tribunals'?",
-    "choices": ["Articles 323A–323B", "Articles 324–329A", "Articles 330–342A", "Articles 343–351"],
+    "question": "Which articles deal with 'Tribunals'?",
+    "choices": ["Articles 323A–323B", "Articles 324–329", "Articles 330–342", "Articles 343–351"],
     "answer": "Articles 323A–323B",
-    "explanation": "Part XIVA (Articles 323A–323B) establishes administrative and other tribunals."
+    "explanation": "Part XIVA (Articles 323A–323B) establishes administrative tribunals."
   },
   {
-    "question": "Which Part deals with 'Elections'?",
-    "choices": ["Articles 308–323", "Articles 324–329", "Articles 330–342A", "Articles 343–351"],
+    "question": "Which articles deal with 'Elections'?",
+    "choices": ["Articles 308–323", "Articles 324–329", "Articles 330–342", "Articles 343–351"],
     "answer": "Articles 324–329",
-    "explanation": "Part XV. Art 329A inserted during emergency prevented enquiry into election of PM and speaker"
+    "explanation": "Part XV (Articles 324–329) governs the Election Commission and electoral processes."
   },
   {
-    "question": "Which Part deals with 'Special Provisions for SCs/STs'?",
-    "choices": ["Articles 324–329A", "Articles 330–342A", "Articles 343–351", "Articles 352–360"],
-    "answer": "Articles 330–342A",
-    "explanation": "Part XVI (Articles 330–342A) provides reservations and special protections for Scheduled Castes/Tribes."
+    "question": "Which articles deal with 'Special Provisions Relating to Certain Classes'?",
+    "choices": ["Articles 324–329", "Articles 330–342", "Articles 343–351", "Articles 352–360"],
+    "answer": "Articles 330–342",
+    "explanation": "Part XVI (Articles 330–342) provides reservations for SCs/STs."
   },
   {
-    "question": "Which Part deals with 'Official Language'?",
-    "choices": ["Articles 330–342A", "Articles 343–351", "Articles 352–360", "Articles 361–367"],
+    "question": "Which articles deal with 'Official Language'?",
+    "choices": ["Articles 330–342", "Articles 343–351", "Articles 352–360", "Articles 361–367"],
     "answer": "Articles 343–351",
-    "explanation": "Part XVII (Articles 343–351) designates Hindi as the official language with safeguards for English."
+    "explanation": "Part XVII (Articles 343–351) designates Hindi as the official language."
   },
   {
-    "question": "Which Part deals with 'Emergency Provisions'?",
-    "choices": ["Articles 343–351", "Articles 352–360", "Articles 361–367", "Articles 368"],
+    "question": "Which articles deal with 'Emergency Provisions'?",
+    "choices": ["Articles 343–351", "Articles 352–360", "Articles 361–367", "Article 368"],
     "answer": "Articles 352–360",
-    "explanation": "Part XVIII (Articles 352–360) covers National Emergency, President's Rule, and Financial Emergency."
+    "explanation": "Part XVIII (Articles 352–360) covers National Emergency and President's Rule."
   },
   {
-    "question": "Which Part deals with 'Miscellaneous Provisions'?",
-    "choices": ["Articles 352–360", "Articles 361–367", "Articles 368", "Articles 369–392"],
+    "question": "Which articles deal with 'Miscellaneous Provisions'?",
+    "choices": ["Articles 352–360", "Articles 361–367", "Article 368", "Articles 369–392"],
     "answer": "Articles 361–367",
-    "explanation": "Part XIX (Articles 361–367) includes immunity for President/Governors and special provisions for some states."
+    "explanation": "Part XIX (Articles 361–367) includes immunity for President/Governors."
   },
   {
-    "question": "Which Part deals with 'Constitutional Amendments'?",
-    "choices": ["Articles 361–367", "Articles 368", "Articles 369–392", "Articles 393–395"],
-    "answer": "Articles 368",
-    "explanation": "Part XX (Article 368) defines the procedure to amend the Constitution."
+    "question": "Which article deals with 'Amendment of the Constitution'?",
+    "choices": ["Articles 361–367", "Article 368", "Articles 369–392", "Articles 393–395"],
+    "answer": "Article 368",
+    "explanation": "Part XX (Article 368) defines the amendment procedure."
   },
   {
-    "question": "Which Part contains 'Temporary and Transitional Provisions'?",
-    "choices": ["Articles 368", "Articles 369–392", "Articles 393–395", "Article 51A"],
+    "question": "Which articles deal with 'Temporary and Transitional Provisions'?",
+    "choices": ["Article 368", "Articles 369–392", "Articles 393–395", "Article 51A"],
     "answer": "Articles 369–392",
-    "explanation": "Part XXI (Articles 369–392) includes temporary provisions like special status for Jammu & Kashmir (now repealed)."
+    "explanation": "Part XXI (Articles 369–392) included temporary provisions like Article 370 (now repealed)."
   },
   {
-    "question": "Which Part deals with 'Short Title and Commencement'?",
+    "question": "Which articles deal with 'Short Title and Commencement'?",
     "choices": ["Articles 369–392", "Articles 393–395", "Article 51A", "Articles 1–4"],
     "answer": "Articles 393–395",
-    "explanation": "Part XXII (Articles 393–395) declares the Constitution's adoption date (26 January 1950) and authoritative texts."
+    "explanation": "Part XXII (Articles 393–395) declares the Constitution's adoption date (26 January 1950)."
   }
 ]
