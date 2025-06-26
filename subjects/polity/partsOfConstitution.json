@@ -78,13 +78,13 @@
     "explanation": "Part XI (Articles 245–263) governs legislative and financial relations."
   },
   {
-    "question": "Which articles deal with 'Finance, Property, Contracts'?",
+    "question": "Which articles deal with 'Finance, Property, Contracts and Suits'?",
     "choices": ["Articles 245–263", "Articles 264–300A", "Articles 301–307", "Articles 308–323"],
     "answer": "Articles 264–300A",
     "explanation": "Part XII (Articles 264–300A) covers taxes, borrowing, and government contracts."
   },
   {
-    "question": "Which articles deal with 'Trade and Commerce'?",
+    "question": "Which articles deal with 'Trade, Commerce and Intercourse within territory of India'?",
     "choices": ["Articles 264–300A", "Articles 301–307", "Articles 308–323", "Articles 324–329"],
     "answer": "Articles 301–307",
     "explanation": "Part XIII (Articles 301–307) ensures freedom of trade across India."
