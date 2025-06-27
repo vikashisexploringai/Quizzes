@@ -1,0 +1,308 @@
+[
+  {
+    "question": "अ ?",
+    "choices": ["ଅ", "ଇ", "ଋ", "ଔ"],
+    "answer": "ଅ",
+    "explanation": "ଅକ୍ଷର (letter), ଅନ୍ଧ (blind), ଅଳସ (lazy), ଅନ୍ନ (rice)"
+  },
+  {
+    "question": "आ ?",
+    "choices": ["ଆ", "ଈ", "ଏ", "ଓ"],
+    "answer": "ଆ",
+    "explanation": "ଆମ (mango), ଆକାଶ (sky), ଆଙ୍ଗୁଳି (finger), ଆଳୁ (potato)"
+  },
+  {
+    "question": "इ ?",
+    "choices": ["ଇ", "ଉ", "ଐ", "ଊ"],
+    "answer": "ଇ",
+    "explanation": "ଇନ୍ଦୁର (rat), ଇଚ୍ଛା (wish), ଇତିହାସ (history), ଇଂରାଜୀ (English)"
+  },
+  {
+    "question": "ई ?",
+    "choices": ["ଈ", "ଅ", "ଓ", "ଐ"],
+    "answer": "ଈ",
+    "explanation": "ଈଗଳ (eagle), ଈଶ୍ୱର (god), ଈର୍ଷା (jealousy), ଈଦ (Eid)"
+  },
+  {
+    "question": "उ ?",
+    "choices": ["ଉ", "ଊ", "ଏ", "ଔ"],
+    "answer": "ଉ",
+    "explanation": "ଉଚ୍ଚ (tall), ଉଠ (camel), ଉଲ୍କା (meteor), ଉତ୍ତର (answer)"
+  },
+  {
+    "question": "ऊ ?",
+    "choices": ["ଊ", "ଓ", "ଐ", "ଆ"],
+    "answer": "ଊ",
+    "explanation": "ଊର୍ଣ୍ଣା (wool), ଊଷା (dawn), ଊର୍ମି (wave), ଊନ (less)"
+  },
+  {
+    "question": "ऋ ?",
+    "choices": ["ଋ", "ଏ", "ଐ", "ଓ"],
+    "answer": "ଋ",
+    "explanation": "ଋଷି (sage), ଋଣ (debt), ଋତୁ (season), ଋଦ୍ଧ (prosperous)"
+  },
+  {
+    "question": "ए ?",
+    "choices": ["ଏ", "ଐ", "ଓ", "ଆ"],
+    "answer": "ଏ",
+    "explanation": "ଏକ (one), ଏହି (this), ଏଲାଇଚ (cardamom), ଏପ୍ରିଲ (April)"
+  },
+  {
+    "question": "ऐ ?",
+    "choices": ["ଐ", "ଔ", "ଉ", "ଇ"],
+    "answer": "ଐ",
+    "explanation": "ଐକ୍ୟ (unity), ଐଶ୍ୱର୍ଯ୍ୟ (wealth), ଐତିହ୍ୟ (heritage), ଐନ୍ଦ୍ରଜାଲିକ (magical)"
+  },
+  {
+    "question": "ओ ?",
+    "choices": ["ଓ", "ଔ", "ଆ", "ଈ"],
+    "answer": "ଓ",
+    "explanation": "ଓଜନ (weight), ଔଷଧ (medicine), ଓଲ (kohlrabi), ଓଢ଼ଣୀ (scarf)"
+  },
+  {
+    "question": "औ ?",
+    "choices": ["ଔ", "ଓ", "ଐ", "ଋ"],
+    "answer": "ଔ",
+    "explanation": "ଔଷଧ (medicine), ଔଦାର୍ଯ୍ୟ (generosity), ଔଚିତ୍ୟ (propriety), ଔରସ (legitimate)"
+  },
+  {
+    "question": "क ?",
+    "choices": ["କ", "ଖ", "ଗ", "ଙ"],
+    "answer": "କ",
+    "explanation": "କଳା (banana), ବହି (book), କାଳ (time), କାନ (ear)"
+  },
+  {
+    "question": "ख ?",
+    "choices": ["ଖ", "ଘ", "ଛ", "ଠ"],
+    "answer": "ଖ",
+    "explanation": "ଖେଳ (game), ଖୁସି (happy), ଖାଦ୍ୟ (food), ଖଜୁରୀ (date)"
+  },
+  {
+    "question": "ग ?",
+    "choices": ["ଗ", "ଜ", "ଦ", "ଧ"],
+    "answer": "ଗ",
+    "explanation": "ଗୀତ (song), ଗୋରୁ (cow), ଗଛ (tree), ଗପ (story)"
+  },
+  {
+    "question": "घ ?",
+    "choices": ["ଘ", "ଭ", "ମ", "ଷ"],
+    "answer": "ଘ",
+    "explanation": "ଘର (house), ଘୁମ (sleep), ଘୋଡ଼ା (horse), ଘଣ୍ଟା (clock)"
+  },
+  {
+    "question": "ङ ?",
+    "choices": ["ଙ", "ଞ", "ଣ", "ନ"],
+    "answer": "ଙ",
+    "explanation": "ଅଙ୍ଗ (limb), ରଙ୍ଗ (color), ଶଙ୍ଖ (conch), ପଙ୍ଖା (fan)"
+  },
+  {
+    "question": "च ?",
+    "choices": ["ଚ", "ଛ", "ଜ", "ଝ"],
+    "answer": "ଚ",
+    "explanation": "ଚାଉଳ (rice), ଚଷମା (glasses), ଚନ୍ଦ୍ର (moon), ଚିନ୍ତା (thought)"
+  },
+  {
+    "question": "छ ?",
+    "choices": ["ଛ", "ଟ", "ଠ", "ଡ"],
+    "answer": "ଛ",
+    "explanation": "ଛତା (umbrella), ଛୁଆ (child), ଛୋଟ (small), ଛାଗଲ (goat)"
+  },
+  {
+    "question": "ज ?",
+    "choices": ["ଜ", "ଝ", "ଯ", "ଞ"],
+    "answer": "ଜ",
+    "explanation": "ଜଳ (water), ଜ୍ୱର (fever), ଜୋତା (shoe), ଜଙ୍ଗଲ (jungle)"
+  },
+  {
+    "question": "झ ?",
+    "choices": ["ଝ", "ଞ", "ଠ", "ଡ"],
+    "answer": "ଝ",
+    "explanation": "ଝଡ଼ (storm), ଝୋଳି (bag), ଝିଙ୍କ (owl), ଝଟକ (sparkle)"
+  },
+  {
+    "question": "ञ ?",
+    "choices": ["ଞ", "ଣ", "ନ", "ମ"],
+    "answer": "ଞ",
+    "explanation": "ପଞ୍ଚ (five), ବଞ୍ଚ (arrow), ମଞ୍ଚ (stage), ଅଞ୍ଚଳ (region)"
+  },
+  {
+    "question": "ट ?",
+    "choices": ["ଟ", "ଠ", "ଡ", "ଢ"],
+    "answer": "ଟ",
+    "explanation": "ଟଙ୍କା (money), ଟମାଟର (tomato), ଟେବୁଲ (table), ଟେଲିଫୋନ (telephone)"
+  },
+  {
+    "question": "ठ ?",
+    "choices": ["ଠ", "ଡ", "ଢ", "ଣ"],
+    "answer": "ଠ",
+    "explanation": "ଠାକୁର (deity), ଠଣ୍ଡା (cold), ଠିକଣା (address), ଠୋଡ଼ି (chin)"
+  },
+  {
+    "question": "ड ?",
+    "choices": ["ଡ", "ଢ", "ଣ", "ତ"],
+    "answer": "ଡ",
+    "explanation": "ଡାକ୍ତର (doctor), ଡାଲି (lentils), ଡିମ୍ବ (egg), ଡାହାଣ (right)"
+  },
+  {
+    "question": "ढ ?",
+    "choices": ["ଢ", "ଡ", "ଣ", "ଥ"],
+    "answer": "ଢ",
+    "explanation": "ଢୋଲ (drum), ଢାଲ (shield), ଢେଙ୍କା (wave), ଢୋକା (to swallow)"
+  },
+  {
+    "question": "ण ?",
+    "choices": ["ଣ", "ନ", "ତ", "ଥ"],
+    "answer": "ଣ",
+    "explanation": "ପ୍ରାଣ (life), କ୍ଷଣ (moment), ରଣ (battle), ଗଣ (group)"
+  },
+  {
+    "question": "त ?",
+    "choices": ["ତ", "ଥ", "ଦ", "ଧ"],
+    "answer": "ତ",
+    "explanation": "ତୁମେ (you), ତାରା (star), ତାଲା (lock), ତୋଳାଣି (towel)"
+  },
+  {
+    "question": "थ ?",
+    "choices": ["ଥ", "ଦ", "ଧ", "ନ"],
+    "answer": "ଥ",
+    "explanation": "ଥାଳି (plate), ଥାମ (pillar), ଥିବା (to stay), ଥୁକ (spit)"
+  },
+  {
+    "question": "द ?",
+    "choices": ["ଦ", "ଧ", "ନ", "ପ"],
+    "answer": "ଦ",
+    "explanation": "ଦୁଧ (milk), ଦାମ (price), ଦୋକାନ (shop), ଦାନ୍ତ (tooth)"
+  },
+  {
+    "question": "ध ?",
+    "choices": ["ଧ", "ନ", "ଭ", "ମ"],
+    "answer": "ଧ",
+    "explanation": "ଧନ (wealth), ଧରିବା (to catch), ଧୂଆଁ (smoke), ଧାନ (paddy)"
+  },
+  {
+    "question": "न ?",
+    "choices": ["ନ", "ପ", "ଫ", "ବ"],
+    "answer": "ନ",
+    "explanation": "ନଦୀ (river), ନାମ (name), ନୀଳ (blue), ନାଚ (dance)"
+  },
+  {
+    "question": "प ?",
+    "choices": ["ପ", "ଫ", "ବ", "ଭ"],
+    "answer": "ପ",
+    "explanation": "ପାନ (betel leaf), ପକ୍ଷୀ (bird), ପୁତୁଳା (doll), ପାଗଳ (mad)"
+  },
+  {
+    "question": "फ ?",
+    "choices": ["ଫ", "ବ", "ଭ", "ମ"],
+    "answer": "ଫ",
+    "explanation": "ଫଳ (fruit), ଫୁଲ (flower), ଫାଙ୍କ (gap), ଫେରିବା (to return)"
+  },
+  {
+    "question": "ब ?",
+    "choices": ["ବ", "ଭ", "ମ", "ଯ"],
+    "answer": "ବ",
+    "explanation": "ବାପା (father), ବହି (book), ବାଡ଼ି (home), ବର୍ଷା (rain)"
+  },
+  {
+    "question": "भ ?",
+    "choices": ["ଭ", "ମ", "ଯ", "ର"],
+    "answer": "ଭ",
+    "explanation": "ଭାତ (rice), ଭାଇ (brother), ଭୟ (fear), ଭୁଲ (mistake)"
+  },
+  {
+    "question": "म ?",
+    "choices": ["ମ", "ଯ", "ର", "ଲ"],
+    "answer": "ମ",
+    "explanation": "ମା (mother), ମାଛ (fish), ମୁହଁ (face), ମେଘ (cloud)"
+  },
+  {
+    "question": "य ?",
+    "choices": ["ଯ", "ର", "ଲ", "ଶ"],
+    "answer": "ଯ",
+    "explanation": "ଯିବା (to go), ଯୁଦ୍ଧ (war), ଯମୁନା (Yamuna), ଯନ୍ତ୍ର (machine)"
+  },
+  {
+    "question": "र ?",
+    "choices": ["ର", "ଲ", "ଶ", "ଷ"],
+    "answer": "ର",
+    "explanation": "ରାତି (night), ରାସ୍ତା (road), ରାନ୍ଧଣା (cooking), ରାଗ (anger)"
+  },
+  {
+    "question": "ल ?",
+    "choices": ["ଲ", "ଶ", "ଷ", "ସ"],
+    "answer": "ଲ",
+    "explanation": "ଲେମ୍ବୁ (lemon), ଲାଲ (red), ଲାଠି (stick), ଲଜ୍ଜା (shame)"
+  },
+  {
+    "question": "श ?",
+    "choices": ["ଶ", "ଷ", "ସ", "ହ"],
+    "answer": "ଶ",
+    "explanation": "ଶବ୍ଦ (sound), ଶୀତ (winter), ଶିଖିବା (to learn), ଶକ୍ତି (power)"
+  },
+  {
+    "question": "ष ?",
+    "choices": ["ଷ", "ସ", "ହ", "କ୍ଷ"],
+    "answer": "ଷ",
+    "explanation": "ଷଡଯନ୍ତ୍ର (conspiracy), ଷଣ୍ଢ (bull), ଷାଠିଏ (sixty), ଷୋହଳ (sixteen)"
+  },
+  {
+    "question": "स ?",
+    "choices": ["ସ", "ହ", "କ୍ଷ", "ଡ଼"],
+    "answer": "ସ",
+    "explanation": "ସାପ (snake), ସୂର୍ଯ୍ୟ (sun), ସତ୍ୟ (truth), ସବୁ (all)"
+  },
+  {
+    "question": "ह ?",
+    "choices": ["ହ", "କ୍ଷ", "ଡ଼", "ଢ଼"],
+    "answer": "ହ",
+    "explanation": "ହାତ (hand), ହସ (laughter), ହଳଦୀ (turmeric), ହୃଦୟ (heart)"
+  },
+  {
+    "question": "क्ष ?",
+    "choices": ["କ୍ଷ", "ଡ଼", "ଢ଼", "ୟ"],
+    "answer": "କ୍ଷ",
+    "explanation": "କ୍ଷୁଧା (hunger), କ୍ଷମତା (power), କ୍ଷତି (loss), କ୍ଷେତ୍ର (field)"
+  },
+  {
+    "question": "ड़ ?",
+    "choices": ["ଡ଼", "ଢ଼", "ୟ", "ତ୍"],
+    "answer": "ଡ଼",
+    "explanation": "ଗାଡ଼ି (car), ଦଡ଼ି (rope), ବଡ଼ (big), ଛାଡ଼ିବା (to leave)"
+  },
+  {
+    "question": "ढ़ ?",
+    "choices": ["ଢ଼", "ୟ", "ତ୍", "ଂ"],
+    "answer": "ଢ଼",
+    "explanation": "ଗାଢ଼ (dark), ପଢ଼ିବା (to read), ଲଢ଼ିବା (to fight), ଆଢ଼ (embarrassed)"
+  },
+  {
+    "question": "य ?",
+    "choices": ["ୟ", "ତ୍", "ଂ", "ଃ"],
+    "answer": "ୟ",
+    "explanation": "ଖାଏ (eats), ଯାଏ (goes), ହୁଏ (is), ନେଏ (takes)"
+  },
+  {
+    "question": "ৎ ?",
+    "choices": ["ତ୍", "ଂ", "ଃ", "ଁ"],
+    "answer": "ତ୍",
+    "explanation": "ଉତ୍ (prefix), କତ୍ (cut), ଗତ୍ (gone), ଭତ୍ (sound)"
+  },
+  {
+    "question": "ं ?",
+    "choices": ["ଂ", "ଃ", "ଁ", "ଅ"],
+    "answer": "ଂ",
+    "explanation": "ସିଂହ (lion), ରଂଗ (color), ଭାଂଗିବା (to break), ଝଂ (sound)"
+  },
+  {
+    "question": "ः ?",
+    "choices": ["ଃ", "ଁ", "ଅ", "ଆ"],
+    "answer": "ଃ",
+    "explanation": "ଦୁଃଖ (sorrow), ପୁନଃ (again), ସ୍ଵଃ (self), ଅଃ (sun)"
+  },
+  {
+    "question": "ँ ?",
+    "choices": ["ଁ", "ଅ", "ଆ", "ଇ"],
+    "answer": "ଁ",
+    "explanation": "ଚାଁଦ (moon), ଗାଁ (village), ତେନ୍ତୁଳି (tamarind), ଖାଁଟି (pure)"
+  }
+]
