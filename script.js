@@ -36,7 +36,8 @@ const subjects = {
         displayName: 'Languages',
         themes: {
             'bengaliLetterRecognition': { displayName: 'Bengali Letter Recognition' },
-             'englishVocabulary': { displayName: 'English Vocabulary' }
+             'englishVocabulary': { displayName: 'English Vocabulary' },
+            'odiaLetterRecognition': { displayName: 'Odia Letter Recognition' }
         }
     }
     // Add more subjects as needed
