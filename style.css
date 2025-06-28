@@ -458,3 +458,15 @@ button:hover {
         padding: 0.8rem;
     }
 }
+
+/* This will automatically apply your JSON font settings */
+.quiz-container {
+  font-family: 'Noto Sans Oriya', 'Kalinga', sans-serif; /* Default fallback */
+  font-size: 1.2em;
+}
+
+/* Optional: If you want different fonts per theme */
+.odia-language .quiz-container {
+  font-family: 'Noto Sans Oriya', 'Kalinga', sans-serif;
+  font-size: 1.2em;
+}
