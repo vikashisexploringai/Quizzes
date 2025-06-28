@@ -1,10 +1,4 @@
-{
-  "theme": "odia-language",
-  "fontSettings": {
-    "family": "'Noto Sans Oriya', 'Kalinga', sans-serif",
-    "size": "1.2em"
-  },
-"questions": [
+[
   {
     "question": "अ ?",
     "choices": ["ଅ", "ଇ", "ଋ", "ଔ"],
@@ -312,4 +306,3 @@
     "explanation": "ଚାଁଦ (moon), ଗାଁ (village), ତେନ୍ତୁଳି (tamarind), ଖାଁଟି (pure)"
   }
 ]
-}
