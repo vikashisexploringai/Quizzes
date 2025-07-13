@@ -157,5 +157,16 @@
   ],
   "answer": "37.06° N",
   "explanation": "37.06° N. Indira Col is a high-altitude mountain pass in the Karakoram Range, located near the Siachen Glacier."
+  },
+  {
+  "question": "What is the longitude of India's Standard Meridian that defines Indian Standard Time (IST)?",
+  "choices": [
+    "75.0° E",
+    "80.3° E",
+    "82.5° E",
+    "85.7° E"
+  ],
+  "answer": "82.5° E",
+  "explanation": "82.5° E. This meridian passes through Mirzapur. India's longitudinal extent - 68°7' E to 97°25' E)."
   }
 ]
