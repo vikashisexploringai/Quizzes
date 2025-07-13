@@ -124,5 +124,38 @@
   "choices": ["52.5° S", "54.9° S", "56.2° S", "58.7° S"],
   "answer": "54.9° S",
   "explanation": "54.9° S. Navarino Island lies just south of the Beagle Channel and contains Puerto Williams - the world's southernmost permanent settlement."
+  },
+  {
+  "question": "What is the latitude of Indira Point, the southernmost tip of India?",
+  "choices": [
+    "6.78° N",
+    "7.95° N",
+    "8.07° N",
+    "9.22° N"
+  ],
+  "answer": "6.78° N",
+  "explanation": "6.78° N, just 150 km from Sumatra"
+  },
+  {
+  "question": "What is the latitude of mainland India's southernmost tip (Kanyakumari)?",
+  "choices": [
+    "7.37° N",
+    "8.08° N", 
+    "9.92° N",
+    "10.67° N"
+  ],
+  "answer": "8.08° N",
+  "explanation": "8.08° N. Kanyakumari (Cape Comorin) is the only place in India where you can watch sunrise and sunset over water."
+  },
+  {
+  "question": "What is the latitude of mainland India's northernmost point (Indira Col)?",
+  "choices": [
+    "35.67° N",
+    "37.06° N", 
+    "38.45° N",
+    "39.84° N"
+  ],
+  "answer": "37.06° N",
+  "explanation": "37.06° N. Indira Col is a high-altitude mountain pass in the Karakoram Range, located near the Siachen Glacier."
   }
 ]
