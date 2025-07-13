@@ -168,5 +168,16 @@
   ],
   "answer": "82.5° E",
   "explanation": "82.5° E. This meridian passes through Mirzapur. India's longitudinal extent - 68°7' E to 97°25' E)."
+  },
+  {
+  "question": "Which national capital lies exactly on the Equator ?",
+  "choices": [
+    "Nairobi, Kenya",
+    "Quito, Ecuador",
+    "Kampala, Uganda",
+    "Libreville, Gabon"
+  ],
+  "answer": "Quito, Ecuador",
+  "explanation": "Quito (0° N) is the only capital exactly on the Equator. Nearby capitals: Kampala (0.31° N), Libreville (0.39° N), Nairobi (1.16° S), Singapore(1.35° N)."
   }
 ]
