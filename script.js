@@ -29,7 +29,7 @@ const subjects = {
     'geography': {
         displayName: 'Geography',
         themes: {
-            'citiesLatitude': { displayName: 'Latitude of Important Cities' }
+            'citiesLatitude': { displayName: 'Important Latitudes and Longitudes' }
         }
     },
     'languages': {
