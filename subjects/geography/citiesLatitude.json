@@ -128,35 +128,35 @@
   {
   "question": "What is the latitude of Indira Point, the southernmost tip of India?",
   "choices": [
-    "6.78° N",
-    "7.95° N",
-    "8.07° N",
-    "9.22° N"
+    "6°45'N",
+    "7°43'N",
+    "8°15'N",
+    "9°22'N"
   ],
-  "answer": "6.78° N",
-  "explanation": "6.78° N, just 150 km from Sumatra"
+  "answer": "6°45'N,
+  "explanation": "6°45'N, just 150 km from Sumatra"
   },
   {
-  "question": "What is the latitude of mainland India's southernmost tip (Kanyakumari)?",
+  "question": "What is the latitude of mainland India's southernmost tip?",
   "choices": [
-    "7.37° N",
-    "8.08° N", 
-    "9.92° N",
-    "10.67° N"
+    "7°37'N",
+    "8°4'N", 
+    "9°52'N",
+    "10°40'N"
   ],
-  "answer": "8.08° N",
-  "explanation": "8.08° N. Kanyakumari (Cape Comorin) is the only place in India where you can watch sunrise and sunset over water."
+  "answer": "8°4'N",
+  "explanation": "8°4'N. Kanyakumari (Cape Comorin) is the only place in India where you can watch sunrise and sunset over water."
   },
   {
-  "question": "What is the latitude of mainland India's northernmost point (Indira Col)?",
+  "question": "What is the latitude of mainland India's northernmost point?",
   "choices": [
-    "35.67° N",
-    "37.06° N", 
-    "38.45° N",
-    "39.84° N"
+    "37°6'N",
+    "35°8'N", 
+    "38°7'N",
+    "36°7'N"
   ],
-  "answer": "37.06° N",
-  "explanation": "37.06° N. Indira Col is a high-altitude mountain pass in the Karakoram Range, located near the Siachen Glacier."
+  "answer": "37°6'N",
+  "explanation": "37°6'N. Indira Col is a high-altitude mountain pass in the Karakoram Range, located near the Siachen Glacier."
   },
   {
   "question": "What is the longitude of India's Standard Meridian that defines Indian Standard Time (IST)?",
@@ -167,7 +167,7 @@
     "85.7° E"
   ],
   "answer": "82.5° E",
-  "explanation": "82.5° E. This meridian passes through Mirzapur. India's longitudinal extent - 68°7' E to 97°25' E)."
+  "explanation": "82°30'N E. This meridian passes through Mirzapur. India's longitudinal extent - 68°7' E to 97°25' E)."
   },
   {
   "question": "Which national capital lies exactly on the Equator ?",
