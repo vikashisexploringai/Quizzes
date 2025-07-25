@@ -1,1 +1,260 @@
-
+[
+  {
+    "question": "अ ?",
+    "choices": ["અ", "આ", "ઇ", "ઈ"],
+    "answer": "અ",
+    "explanation": "અમલ (work), અનાર (pomegranate), અબજ (billion), અટક (stop)"
+  },
+  {
+    "question": "आ ?",
+    "choices": ["આ", "અ", "ઉ", "ઊ"],
+    "answer": "આ",
+    "explanation": "આમ (mango), આકાશ (sky), આંગળી (finger), આલુ (potato)"
+  },
+  {
+    "question": "इ ?",
+    "choices": ["ઇ", "ઈ", "ઉ", "ઋ"],
+    "answer": "ઇ",
+    "explanation": "ઇંદ્ર (Indra), ઇચ્છા (wish), ઇતિહાસ (history), ઇંગ્લિશ (English)"
+  },
+  {
+    "question": "ई ?",
+    "choices": ["ઈ", "ઇ", "એ", "ઐ"],
+    "answer": "ઈ",
+    "explanation": "ઈગલ (eagle), ઈશ્વર (god), ઈર્ષા (jealousy), ઈદ (Eid)"
+  },
+  {
+    "question": "उ ?",
+    "choices": ["ઉ", "ઊ", "ઓ", "ઔ"],
+    "answer": "ઉ",
+    "explanation": "ઉંચું (high), ઊંટ (camel), ઉંદર (rat), ઉત્તર (answer)"
+  },
+  {
+    "question": "ऊ ?",
+    "choices": ["ઊ", "ઉ", "ઋ", "એ"],
+    "answer": "ઊ",
+    "explanation": "ઊન (wool), ઊષા (dawn), ઊર્મિ (wave), ઊંડું (deep)"
+  },
+  {
+    "question": "ऋ ?",
+    "choices": ["ઋ", "એ", "ઐ", "ઓ"],
+    "answer": "ઋ",
+    "explanation": "ઋષિ (sage), ઋણ (debt), ઋતુ (season), ઋદ્ધિ (prosperity)"
+  },
+  {
+    "question": "ए ?",
+    "choices": ["એ", "ઐ", "ઓ", "ઔ"],
+    "answer": "એ",
+    "explanation": "એક (one), એમ (this), એલચી (cardamom), એપ્રિલ (April)"
+  },
+  {
+    "question": "ऐ ?",
+    "choices": ["ઐ", "ઔ", "ઉ", "ઇ"],
+    "answer": "ઐ",
+    "explanation": "ઐક્ય (unity), ઐશ્વર્ય (wealth), ઐતિહાસિક (historical), ઐંદ્રજાલિક (magical)"
+  },
+  {
+    "question": "ओ ?",
+    "choices": ["ઓ", "ઔ", "આ", "ઈ"],
+    "answer": "ઓ",
+    "explanation": "ઓજન (weight), ઓષધ (medicine), ઓળંગણ (courtyard), ઓઢણી (scarf)"
+  },
+  {
+    "question": "औ ?",
+    "choices": ["ઔ", "ઓ", "ઐ", "ઋ"],
+    "answer": "ઔ",
+    "explanation": "ઔષધ (medicine), ઔદાર્ય (generosity), ઔચિત્ય (propriety), ઔરસ (legitimate)"
+  },
+  {
+    "question": "क ?",
+    "choices": ["ક", "ખ", "ગ", "ઘ"],
+    "answer": "ક",
+    "explanation": "કેળા (banana), કિતાબ (book), કાળ (time), કાન (ear)"
+  },
+  {
+    "question": "ख ?",
+    "choices": ["ખ", "ઘ", "છ", "ઠ"],
+    "answer": "ખ",
+    "explanation": "ખેલ (game), ખોકાળ (hollow), ખુશ (happy), ખોરાક (food)"
+  },
+  {
+    "question": "ग ?",
+    "choices": ["ગ", "જ", "દ", "ધ"],
+    "answer": "ગ",
+    "explanation": "ગીત (song), ગાય (cow), ગાડી (car), ગમ્મત (fun)"
+  },
+  {
+    "question": "घ ?",
+    "choices": ["ઘ", "ભ", "મ", "ષ"],
+    "answer": "ઘ",
+    "explanation": "ઘર (house), ઘુવડ (owl), ઘોડો (horse), ઘડિયાળ (clock)"
+  },
+  {
+    "question": "च ?",
+    "choices": ["ચ", "છ", "જ", "ઝ"],
+    "answer": "ચ",
+    "explanation": "ચોખા (rice), ચશ્મા (glasses), ચંદ્ર (moon), ચિંતા (worry)"
+  },
+  {
+    "question": "छ ?",
+    "choices": ["છ", "ટ", "ઠ", "ડ"],
+    "answer": "છ",
+    "explanation": "છત્રી (umbrella), છોકરો (boy), નાનું (small), છાગલ (goat)"
+  },
+  {
+    "question": "ज ?",
+    "choices": ["જ", "ઝ", "ય", "ઞ"],
+    "answer": "જ",
+    "explanation": "જળ (water), જ્વર (fever), જૂતા (shoes), જંગલ (jungle)"
+  },
+  {
+    "question": "झ ?",
+    "choices": ["ઝ", "ઞ", "ઠ", "ડ"],
+    "answer": "ઝ",
+    "explanation": "ઝંડો (flag), ઝોલું (swing), ઝીણું (fine), ઝળક (shine)"
+  },
+  {
+    "question": "ट ?",
+    "choices": ["ટ", "ઠ", "ડ", "ઢ"],
+    "answer": "ટ",
+    "explanation": "ટકા (money), ટમાટર (tomato), ટેબલ (table), ટેલિફોન (telephone)"
+  },
+  {
+    "question": "ठ ?",
+    "choices": ["ઠ", "ડ", "ઢ", "ણ"],
+    "answer": "ઠ",
+    "explanation": "ઠાકોર (lord), ઠંડું (cold), ઠેકાણું (place), ઠોઠ (stubborn)"
+  },
+  {
+    "question": "ड ?",
+    "choices": ["ડ", "ઢ", "ણ", "ત"],
+    "answer": "ડ",
+    "explanation": "ડાક્તર (doctor), ડાળ (branch), ડુંગળી (onion), ડાબું (left)"
+  },
+  {
+    "question": "ढ ?",
+    "choices": ["ઢ", "ડ", "ણ", "થ"],
+    "answer": "ઢ",
+    "explanation": "ઢોલ (drum), ઢાલ (shield), ઢેફ (lazy), ઢાંકણ (lid)"
+  },
+  {
+    "question": "त ?",
+    "choices": ["ત", "થ", "દ", "ધ"],
+    "answer": "ત",
+    "explanation": "તમે (you), તારા (stars), તાળું (lock), તોલિયું (towel)"
+  },
+  {
+    "question": "थ ?",
+    "choices": ["થ", "દ", "ધ", "ન"],
+    "answer": "થ",
+    "explanation": "થાળી (plate), થંભ (pillar), થોભો (wait), થૂંક (spit)"
+  },
+  {
+    "question": "द ?",
+    "choices": ["દ", "ધ", "ન", "પ"],
+    "answer": "દ",
+    "explanation": "દૂધ (milk), દામ (price), દુકાન (shop), દાંત (tooth)"
+  },
+  {
+    "question": "ध ?",
+    "choices": ["ધ", "ન", "ભ", "મ"],
+    "answer": "ધ",
+    "explanation": "ધન (wealth), ધરણી (earth), ધુમાડો (smoke), ધાન (paddy)"
+  },
+  {
+    "question": "न ?",
+    "choices": ["ન", "પ", "ફ", "બ"],
+    "answer": "ન",
+    "explanation": "નદી (river), નામ (name), નીલું (blue), નાચ (dance)"
+  },
+  {
+    "question": "प ?",
+    "choices": ["પ", "ફ", "બ", "ભ"],
+    "answer": "પ",
+    "explanation": "પાન (betel leaf), પક્ષી (bird), પુતળી (doll), પાગલ (mad)"
+  },
+  {
+    "question": "फ ?",
+    "choices": ["ફ", "બ", "ભ", "મ"],
+    "answer": "ફ",
+    "explanation": "ફળ (fruit), ફૂલ (flower), ફાક (gap), ફરી (again)"
+  },
+  {
+    "question": "ब ?",
+    "choices": ["બ", "ભ", "મ", "ય"],
+    "answer": "બ",
+    "explanation": "બાપ (father), બુક (book), બારણું (door), બારિશ (rain)"
+  },
+  {
+    "question": "भ ?",
+    "choices": ["ભ", "મ", "ય", "ર"],
+    "answer": "ભ",
+    "explanation": "ભાત (rice), ભાઈ (brother), ભય (fear), ભૂલ (mistake)"
+  },
+  {
+    "question": "म ?",
+    "choices": ["મ", "ય", "ર", "લ"],
+    "answer": "મ",
+    "explanation": "મા (mother), માછલી (fish), મોં (face), મેઘ (cloud)"
+  },
+  {
+    "question": "य ?",
+    "choices": ["ય", "ર", "લ", "શ"],
+    "answer": "ય",
+    "explanation": "યુદ્ધ (war), યમુના (Yamuna), યંત્ર (machine), યાત્રા (journey)"
+  },
+  {
+    "question": "र ?",
+    "choices": ["ર", "લ", "શ", "ષ"],
+    "answer": "ર",
+    "explanation": "રાત (night), રસ્તો (road), રાંધણ (cooking), રીસ (anger)"
+  },
+  {
+    "question": "ल ?",
+    "choices": ["લ", "શ", "ષ", "સ"],
+    "answer": "લ",
+    "explanation": "લીંબુ (lemon), લાલ (red), લાકડી (stick), લાજ (shame)"
+  },
+  {
+    "question": "श ?",
+    "choices": ["શ", "ષ", "સ", "હ"],
+    "answer": "શ",
+    "explanation": "શબ્દ (sound), શિયાળો (winter), શીખવું (learn), શક્તિ (power)"
+  },
+  {
+    "question": "ष ?",
+    "choices": ["ષ", "સ", "હ", "ક્ષ"],
+    "answer": "ષ",
+    "explanation": "ષડ્યંત્ર (conspiracy), ષણ્ઢ (bull), ષટ્ (six), ષોડશ (sixteen)"
+  },
+  {
+    "question": "स ?",
+    "choices": ["સ", "હ", "ક્ષ", "ળ"],
+    "answer": "સ",
+    "explanation": "સાપ (snake), સૂર્ય (sun), સત્ય (truth), સૌ (all)"
+  },
+  {
+    "question": "ह ?",
+    "choices": ["હ", "ક્ષ", "ળ", "જ્ઞ"],
+    "answer": "હ",
+    "explanation": "હાથ (hand), હસવું (laugh), હળદર (turmeric), હૃદય (heart)"
+  },
+  {
+    "question": "क्ष ?",
+    "choices": ["ક્ષ", "ળ", "જ્ઞ", "ઋ"],
+    "answer": "ક્ષ",
+    "explanation": "ક્ષુધા (hunger), ક્ષમતા (capacity), ક્ષતિ (loss), ક્ષેત્ર (field)"
+  },
+  {
+    "question": "ळ ?",
+    "choices": ["ળ", "જ્ઞ", "ઋ", "એ"],
+    "answer": "ળ",
+    "explanation": "કાળો (black), વાળ (hair), માળા (garland), ફળ (fruit)"
+  },
+  {
+    "question": "ज्ञ ?",
+    "choices": ["જ્ઞ", "ઋ", "એ", "ઐ"],
+    "answer": "જ્ઞ",
+    "explanation": "જ્ઞાન (knowledge), યોગ્ય (appropriate), વિજ્ઞાન (science), ભજ્ઞ (worship)"
+  }
+]
