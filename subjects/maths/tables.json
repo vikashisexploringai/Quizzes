@@ -1,1 +1,1682 @@
-
+[
+  {
+    "question": "11 × 2",
+    "choices": ["22", "20", "24", "19"],
+    "answer": "22",
+    "explanation": "11 × 2 = 22"
+  },
+  {
+    "question": "11 × 3",
+    "choices": ["33", "30", "36", "31"],
+    "answer": "33",
+    "explanation": "11 × 3 = 33"
+  },
+  {
+    "question": "11 × 4",
+    "choices": ["44", "40", "48", "41"],
+    "answer": "44",
+    "explanation": "11 × 4 = 44"
+  },
+  {
+    "question": "11 × 5",
+    "choices": ["55", "50", "60", "51"],
+    "answer": "55",
+    "explanation": "11 × 5 = 55"
+  },
+  {
+    "question": "11 × 6",
+    "choices": ["66", "60", "72", "61"],
+    "answer": "66",
+    "explanation": "11 × 6 = 66"
+  },
+  {
+    "question": "11 × 7",
+    "choices": ["77", "70", "84", "71"],
+    "answer": "77",
+    "explanation": "11 × 7 = 77"
+  },
+  {
+    "question": "11 × 8",
+    "choices": ["88", "80", "96", "81"],
+    "answer": "88",
+    "explanation": "11 × 8 = 88"
+  },
+  {
+    "question": "11 × 9",
+    "choices": ["99", "90", "108", "91"],
+    "answer": "99",
+    "explanation": "11 × 9 = 99"
+  },
+  {
+    "question": "12 × 2",
+    "choices": ["24", "20", "28", "22"],
+    "answer": "24",
+    "explanation": "12 × 2 = 24"
+  },
+  {
+    "question": "12 × 3",
+    "choices": ["36", "30", "42", "32"],
+    "answer": "36",
+    "explanation": "12 × 3 = 36"
+  },
+  {
+    "question": "12 × 4",
+    "choices": ["48", "40", "56", "44"],
+    "answer": "48",
+    "explanation": "12 × 4 = 48"
+  },
+  {
+    "question": "12 × 5",
+    "choices": ["60", "50", "70", "55"],
+    "answer": "60",
+    "explanation": "12 × 5 = 60"
+  },
+  {
+    "question": "12 × 6",
+    "choices": ["72", "60", "84", "66"],
+    "answer": "72",
+    "explanation": "12 × 6 = 72"
+  },
+  {
+    "question": "12 × 7",
+    "choices": ["84", "70", "98", "77"],
+    "answer": "84",
+    "explanation": "12 × 7 = 84"
+  },
+  {
+    "question": "12 × 8",
+    "choices": ["96", "80", "112", "88"],
+    "answer": "96",
+    "explanation": "12 × 8 = 96"
+  },
+  {
+    "question": "12 × 9",
+    "choices": ["108", "90", "126", "99"],
+    "answer": "108",
+    "explanation": "12 × 9 = 108"
+  },
+  {
+    "question": "13 × 2",
+    "choices": ["26", "20", "32", "24"],
+    "answer": "26",
+    "explanation": "13 × 2 = 26"
+  },
+  {
+    "question": "13 × 3",
+    "choices": ["39", "30", "45", "36"],
+    "answer": "39",
+    "explanation": "13 × 3 = 39"
+  },
+  {
+    "question": "13 × 4",
+    "choices": ["52", "40", "60", "48"],
+    "answer": "52",
+    "explanation": "13 × 4 = 52"
+  },
+  {
+    "question": "13 × 5",
+    "choices": ["65", "50", "75", "60"],
+    "answer": "65",
+    "explanation": "13 × 5 = 65"
+  },
+  {
+    "question": "13 × 6",
+    "choices": ["78", "60", "90", "72"],
+    "answer": "78",
+    "explanation": "13 × 6 = 78"
+  },
+  {
+    "question": "13 × 7",
+    "choices": ["91", "70", "105", "84"],
+    "answer": "91",
+    "explanation": "13 × 7 = 91"
+  },
+  {
+    "question": "13 × 8",
+    "choices": ["104", "80", "120", "96"],
+    "answer": "104",
+    "explanation": "13 × 8 = 104"
+  },
+  {
+    "question": "13 × 9",
+    "choices": ["117", "90", "135", "108"],
+    "answer": "117",
+    "explanation": "13 × 9 = 117"
+  },
+  {
+    "question": "14 × 2",
+    "choices": ["28", "20", "36", "24"],
+    "answer": "28",
+    "explanation": "14 × 2 = 28"
+  },
+  {
+    "question": "14 × 3",
+    "choices": ["42", "30", "48", "36"],
+    "answer": "42",
+    "explanation": "14 × 3 = 42"
+  },
+  {
+    "question": "14 × 4",
+    "choices": ["56", "40", "64", "48"],
+    "answer": "56",
+    "explanation": "14 × 4 = 56"
+  },
+  {
+    "question": "14 × 5",
+    "choices": ["70", "50", "80", "60"],
+    "answer": "70",
+    "explanation": "14 × 5 = 70"
+  },
+  {
+    "question": "14 × 6",
+    "choices": ["84", "60", "96", "72"],
+    "answer": "84",
+    "explanation": "14 × 6 = 84"
+  },
+  {
+    "question": "14 × 7",
+    "choices": ["98", "70", "112", "84"],
+    "answer": "98",
+    "explanation": "14 × 7 = 98"
+  },
+  {
+    "question": "14 × 8",
+    "choices": ["112", "80", "128", "96"],
+    "answer": "112",
+    "explanation": "14 × 8 = 112"
+  },
+  {
+    "question": "14 × 9",
+    "choices": ["126", "90", "144", "108"],
+    "answer": "126",
+    "explanation": "14 × 9 = 126"
+  },
+  {
+    "question": "15 × 2",
+    "choices": ["30", "20", "40", "25"],
+    "answer": "30",
+    "explanation": "15 × 2 = 30"
+  },
+  {
+    "question": "15 × 3",
+    "choices": ["45", "30", "50", "40"],
+    "answer": "45",
+    "explanation": "15 × 3 = 45"
+  },
+  {
+    "question": "15 × 4",
+    "choices": ["60", "40", "70", "50"],
+    "answer": "60",
+    "explanation": "15 × 4 = 60"
+  },
+  {
+    "question": "15 × 5",
+    "choices": ["75", "50", "85", "60"],
+    "answer": "75",
+    "explanation": "15 × 5 = 75"
+  },
+  {
+    "question": "15 × 6",
+    "choices": ["90", "60", "100", "75"],
+    "answer": "90",
+    "explanation": "15 × 6 = 90"
+  },
+  {
+    "question": "15 × 7",
+    "choices": ["105", "70", "115", "90"],
+    "answer": "105",
+    "explanation": "15 × 7 = 105"
+  },
+  {
+    "question": "15 × 8",
+    "choices": ["120", "80", "130", "100"],
+    "answer": "120",
+    "explanation": "15 × 8 = 120"
+  },
+  {
+    "question": "15 × 9",
+    "choices": ["135", "90", "145", "110"],
+    "answer": "135",
+    "explanation": "15 × 9 = 135"
+  },
+  {
+    "question": "16 × 2",
+    "choices": ["32", "20", "40", "30"],
+    "answer": "32",
+    "explanation": "16 × 2 = 32"
+  },
+  {
+    "question": "16 × 3",
+    "choices": ["48", "30", "50", "40"],
+    "answer": "48",
+    "explanation": "16 × 3 = 48"
+  },
+  {
+    "question": "16 × 4",
+    "choices": ["64", "40", "70", "60"],
+    "answer": "64",
+    "explanation": "16 × 4 = 64"
+  },
+  {
+    "question": "16 × 5",
+    "choices": ["80", "50", "90", "70"],
+    "answer": "80",
+    "explanation": "16 × 5 = 80"
+  },
+  {
+    "question": "16 × 6",
+    "choices": ["96", "60", "110", "80"],
+    "answer": "96",
+    "explanation": "16 × 6 = 96"
+  },
+  {
+    "question": "16 × 7",
+    "choices": ["112", "70", "120", "100"],
+    "answer": "112",
+    "explanation": "16 × 7 = 112"
+  },
+  {
+    "question": "16 × 8",
+    "choices": ["128", "80", "140", "110"],
+    "answer": "128",
+    "explanation": "16 × 8 = 128"
+  },
+  {
+    "question": "16 × 9",
+    "choices": ["144", "90", "150", "120"],
+    "answer": "144",
+    "explanation": "16 × 9 = 144"
+  },
+  {
+    "question": "17 × 2",
+    "choices": ["34", "20", "40", "30"],
+    "answer": "34",
+    "explanation": "17 × 2 = 34"
+  },
+  {
+    "question": "17 × 3",
+    "choices": ["51", "30", "50", "40"],
+    "answer": "51",
+    "explanation": "17 × 3 = 51"
+  },
+  {
+    "question": "17 × 4",
+    "choices": ["68", "40", "70", "60"],
+    "answer": "68",
+    "explanation": "17 × 4 = 68"
+  },
+  {
+    "question": "17 × 5",
+    "choices": ["85", "50", "90", "70"],
+    "answer": "85",
+    "explanation": "17 × 5 = 85"
+  },
+  {
+    "question": "17 × 6",
+    "choices": ["102", "60", "110", "90"],
+    "answer": "102",
+    "explanation": "17 × 6 = 102"
+  },
+  {
+    "question": "17 × 7",
+    "choices": ["119", "70", "120", "100"],
+    "answer": "119",
+    "explanation": "17 × 7 = 119"
+  },
+  {
+    "question": "17 × 8",
+    "choices": ["136", "80", "140", "110"],
+    "answer": "136",
+    "explanation": "17 × 8 = 136"
+  },
+  {
+    "question": "17 × 9",
+    "choices": ["153", "90", "160", "120"],
+    "answer": "153",
+    "explanation": "17 × 9 = 153"
+  },
+  {
+    "question": "18 × 2",
+    "choices": ["36", "20", "40", "30"],
+    "answer": "36",
+    "explanation": "18 × 2 = 36"
+  },
+  {
+    "question": "18 × 3",
+    "choices": ["54", "30", "50", "40"],
+    "answer": "54",
+    "explanation": "18 × 3 = 54"
+  },
+  {
+    "question": "18 × 4",
+    "choices": ["72", "40", "70", "60"],
+    "answer": "72",
+    "explanation": "18 × 4 = 72"
+  },
+  {
+    "question": "18 × 5",
+    "choices": ["90", "50", "100", "70"],
+    "answer": "90",
+    "explanation": "18 × 5 = 90"
+  },
+  {
+    "question": "18 × 6",
+    "choices": ["108", "60", "110", "90"],
+    "answer": "108",
+    "explanation": "18 × 6 = 108"
+  },
+  {
+    "question": "18 × 7",
+    "choices": ["126", "70", "130", "100"],
+    "answer": "126",
+    "explanation": "18 × 7 = 126"
+  },
+  {
+    "question": "18 × 8",
+    "choices": ["144", "80", "150", "110"],
+    "answer": "144",
+    "explanation": "18 × 8 = 144"
+  },
+  {
+    "question": "18 × 9",
+    "choices": ["162", "90", "170", "120"],
+    "answer": "162",
+    "explanation": "18 × 9 = 162"
+  },
+  {
+    "question": "19 × 2",
+    "choices": ["38", "20", "40", "30"],
+    "answer": "38",
+    "explanation": "19 × 2 = 38"
+  },
+  {
+    "question": "19 × 3",
+    "choices": ["57", "30", "50", "40"],
+    "answer": "57",
+    "explanation": "19 × 3 = 57"
+  },
+  {
+    "question": "19 × 4",
+    "choices": ["76", "40", "70", "60"],
+    "answer": "76",
+    "explanation": "19 × 4 = 76"
+  },
+  {
+    "question": "19 × 5",
+    "choices": ["95", "50", "100", "70"],
+    "answer": "95",
+    "explanation": "19 × 5 = 95"
+  },
+  {
+    "question": "19 × 6",
+    "choices": ["114", "60", "110", "90"],
+    "answer": "114",
+    "explanation": "19 × 6 = 114"
+  },
+  {
+    "question": "19 × 7",
+    "choices": ["133", "70", "140", "100"],
+    "answer": "133",
+    "explanation": "19 × 7 = 133"
+  },
+  {
+    "question": "19 × 8",
+    "choices": ["152", "80", "160", "110"],
+    "answer": "152",
+    "explanation": "19 × 8 = 152"
+  },
+  {
+    "question": "19 × 9",
+    "choices": ["171", "90", "180", "120"],
+    "answer": "171",
+    "explanation": "19 × 9 = 171"
+  },
+  {
+    "question": "21 × 2",
+    "choices": ["42", "40", "44", "38"],
+    "answer": "42",
+    "explanation": "21 × 2 = 42"
+  },
+  {
+    "question": "21 × 3",
+    "choices": ["63", "60", "66", "61"],
+    "answer": "63",
+    "explanation": "21 × 3 = 63"
+  },
+  {
+    "question": "21 × 4",
+    "choices": ["84", "80", "88", "82"],
+    "answer": "84",
+    "explanation": "21 × 4 = 84"
+  },
+  {
+    "question": "21 × 5",
+    "choices": ["105", "100", "110", "101"],
+    "answer": "105",
+    "explanation": "21 × 5 = 105"
+  },
+  {
+    "question": "21 × 6",
+    "choices": ["126", "120", "132", "122"],
+    "answer": "126",
+    "explanation": "21 × 6 = 126"
+  },
+  {
+    "question": "21 × 7",
+    "choices": ["147", "140", "154", "142"],
+    "answer": "147",
+    "explanation": "21 × 7 = 147"
+  },
+  {
+    "question": "21 × 8",
+    "choices": ["168", "160", "176", "162"],
+    "answer": "168",
+    "explanation": "21 × 8 = 168"
+  },
+  {
+    "question": "21 × 9",
+    "choices": ["189", "180", "198", "182"],
+    "answer": "189",
+    "explanation": "21 × 9 = 189"
+  },
+  {
+    "question": "22 × 2",
+    "choices": ["44", "40", "48", "42"],
+    "answer": "44",
+    "explanation": "22 × 2 = 44"
+  },
+  {
+    "question": "22 × 3",
+    "choices": ["66", "60", "72", "64"],
+    "answer": "66",
+    "explanation": "22 × 3 = 66"
+  },
+  {
+    "question": "22 × 4",
+    "choices": ["88", "80", "96", "84"],
+    "answer": "88",
+    "explanation": "22 × 4 = 88"
+  },
+  {
+    "question": "22 × 5",
+    "choices": ["110", "100", "120", "105"],
+    "answer": "110",
+    "explanation": "22 × 5 = 110"
+  },
+  {
+    "question": "22 × 6",
+    "choices": ["132", "120", "144", "126"],
+    "answer": "132",
+    "explanation": "22 × 6 = 132"
+  },
+  {
+    "question": "22 × 7",
+    "choices": ["154", "140", "168", "147"],
+    "answer": "154",
+    "explanation": "22 × 7 = 154"
+  },
+  {
+    "question": "22 × 8",
+    "choices": ["176", "160", "192", "168"],
+    "answer": "176",
+    "explanation": "22 × 8 = 176"
+  },
+  {
+    "question": "22 × 9",
+    "choices": ["198", "180", "216", "189"],
+    "answer": "198",
+    "explanation": "22 × 9 = 198"
+  },
+  {
+    "question": "23 × 2",
+    "choices": ["46", "40", "52", "44"],
+    "answer": "46",
+    "explanation": "23 × 2 = 46"
+  },
+  {
+    "question": "23 × 3",
+    "choices": ["69", "60", "75", "66"],
+    "answer": "69",
+    "explanation": "23 × 3 = 69"
+  },
+  {
+    "question": "23 × 4",
+    "choices": ["92", "80", "100", "88"],
+    "answer": "92",
+    "explanation": "23 × 4 = 92"
+  },
+  {
+    "question": "23 × 5",
+    "choices": ["115", "100", "125", "110"],
+    "answer": "115",
+    "explanation": "23 × 5 = 115"
+  },
+  {
+    "question": "23 × 6",
+    "choices": ["138", "120", "150", "132"],
+    "answer": "138",
+    "explanation": "23 × 6 = 138"
+  },
+  {
+    "question": "23 × 7",
+    "choices": ["161", "140", "175", "154"],
+    "answer": "161",
+    "explanation": "23 × 7 = 161"
+  },
+  {
+    "question": "23 × 8",
+    "choices": ["184", "160", "200", "176"],
+    "answer": "184",
+    "explanation": "23 × 8 = 184"
+  },
+  {
+    "question": "23 × 9",
+    "choices": ["207", "180", "225", "198"],
+    "answer": "207",
+    "explanation": "23 × 9 = 207"
+  },
+  {
+    "question": "24 × 2",
+    "choices": ["48", "40", "56", "44"],
+    "answer": "48",
+    "explanation": "24 × 2 = 48"
+  },
+  {
+    "question": "24 × 3",
+    "choices": ["72", "60", "84", "69"],
+    "answer": "72",
+    "explanation": "24 × 3 = 72"
+  },
+  {
+    "question": "24 × 4",
+    "choices": ["96", "80", "112", "92"],
+    "answer": "96",
+    "explanation": "24 × 4 = 96"
+  },
+  {
+    "question": "24 × 5",
+    "choices": ["120", "100", "140", "115"],
+    "answer": "120",
+    "explanation": "24 × 5 = 120"
+  },
+  {
+    "question": "24 × 6",
+    "choices": ["144", "120", "168", "138"],
+    "answer": "144",
+    "explanation": "24 × 6 = 144"
+  },
+  {
+    "question": "24 × 7",
+    "choices": ["168", "140", "196", "161"],
+    "answer": "168",
+    "explanation": "24 × 7 = 168"
+  },
+  {
+    "question": "24 × 8",
+    "choices": ["192", "160", "224", "184"],
+    "answer": "192",
+    "explanation": "24 × 8 = 192"
+  },
+  {
+    "question": "24 × 9",
+    "choices": ["216", "180", "252", "207"],
+    "answer": "216",
+    "explanation": "24 × 9 = 216"
+  },
+  {
+    "question": "25 × 2",
+    "choices": ["50", "40", "60", "45"],
+    "answer": "50",
+    "explanation": "25 × 2 = 50"
+  },
+  {
+    "question": "25 × 3",
+    "choices": ["75", "60", "90", "70"],
+    "answer": "75",
+    "explanation": "25 × 3 = 75"
+  },
+  {
+    "question": "25 × 4",
+    "choices": ["100", "80", "120", "95"],
+    "answer": "100",
+    "explanation": "25 × 4 = 100"
+  },
+  {
+    "question": "25 × 5",
+    "choices": ["125", "100", "150", "120"],
+    "answer": "125",
+    "explanation": "25 × 5 = 125"
+  },
+  {
+    "question": "25 × 6",
+    "choices": ["150", "120", "180", "145"],
+    "answer": "150",
+    "explanation": "25 × 6 = 150"
+  },
+  {
+    "question": "25 × 7",
+    "choices": ["175", "140", "210", "170"],
+    "answer": "175",
+    "explanation": "25 × 7 = 175"
+  },
+  {
+    "question": "25 × 8",
+    "choices": ["200", "160", "240", "195"],
+    "answer": "200",
+    "explanation": "25 × 8 = 200"
+  },
+  {
+    "question": "25 × 9",
+    "choices": ["225", "180", "270", "220"],
+    "answer": "225",
+    "explanation": "25 × 9 = 225"
+  },
+  {
+    "question": "31 × 2",
+    "choices": ["62", "60", "64", "58"],
+    "answer": "62",
+    "explanation": "31 × 2 = 62"
+  },
+  {
+    "question": "31 × 3",
+    "choices": ["93", "90", "96", "91"],
+    "answer": "93",
+    "explanation": "31 × 3 = 93"
+  },
+  {
+    "question": "31 × 4",
+    "choices": ["124", "120", "128", "122"],
+    "answer": "124",
+    "explanation": "31 × 4 = 124"
+  },
+  {
+    "question": "31 × 5",
+    "choices": ["155", "150", "160", "153"],
+    "answer": "155",
+    "explanation": "31 × 5 = 155"
+  },
+  {
+    "question": "31 × 6",
+    "choices": ["186", "180", "192", "184"],
+    "answer": "186",
+    "explanation": "31 × 6 = 186"
+  },
+  {
+    "question": "31 × 7",
+    "choices": ["217", "210", "224", "215"],
+    "answer": "217",
+    "explanation": "31 × 7 = 217"
+  },
+  {
+    "question": "31 × 8",
+    "choices": ["248", "240", "256", "245"],
+    "answer": "248",
+    "explanation": "31 × 8 = 248"
+  },
+  {
+    "question": "31 × 9",
+    "choices": ["279", "270", "288", "275"],
+    "answer": "279",
+    "explanation": "31 × 9 = 279"
+  },
+  {
+    "question": "32 × 2",
+    "choices": ["64", "60", "68", "62"],
+    "answer": "64",
+    "explanation": "32 × 2 = 64"
+  },
+  {
+    "question": "32 × 3",
+    "choices": ["96", "90", "102", "94"],
+    "answer": "96",
+    "explanation": "32 × 3 = 96"
+  },
+  {
+    "question": "32 × 4",
+    "choices": ["128", "120", "136", "124"],
+    "answer": "128",
+    "explanation": "32 × 4 = 128"
+  },
+  {
+    "question": "32 × 5",
+    "choices": ["160", "150", "170", "155"],
+    "answer": "160",
+    "explanation": "32 × 5 = 160"
+  },
+  {
+    "question": "32 × 6",
+    "choices": ["192", "180", "204", "186"],
+    "answer": "192",
+    "explanation": "32 × 6 = 192"
+  },
+  {
+    "question": "32 × 7",
+    "choices": ["224", "210", "238", "217"],
+    "answer": "224",
+    "explanation": "32 × 7 = 224"
+  },
+  {
+    "question": "32 × 8",
+    "choices": ["256", "240", "272", "248"],
+    "answer": "256",
+    "explanation": "32 × 8 = 256"
+  },
+  {
+    "question": "32 × 9",
+    "choices": ["288", "270", "306", "279"],
+    "answer": "288",
+    "explanation": "32 × 9 = 288"
+  },
+  {
+    "question": "33 × 2",
+    "choices": ["66", "60", "72", "64"],
+    "answer": "66",
+    "explanation": "33 × 2 = 66"
+  },
+  {
+    "question": "33 × 3",
+    "choices": ["99", "90", "108", "96"],
+    "answer": "99",
+    "explanation": "33 × 3 = 99"
+  },
+  {
+    "question": "33 × 4",
+    "choices": ["132", "120", "144", "128"],
+    "answer": "132",
+    "explanation": "33 × 4 = 132"
+  },
+  {
+    "question": "33 × 5",
+    "choices": ["165", "150", "180", "160"],
+    "answer": "165",
+    "explanation": "33 × 5 = 165"
+  },
+  {
+    "question": "33 × 6",
+    "choices": ["198", "180", "216", "192"],
+    "answer": "198",
+    "explanation": "33 × 6 = 198"
+  },
+  {
+    "question": "33 × 7",
+    "choices": ["231", "210", "252", "224"],
+    "answer": "231",
+    "explanation": "33 × 7 = 231"
+  },
+  {
+    "question": "33 × 8",
+    "choices": ["264", "240", "288", "256"],
+    "answer": "264",
+    "explanation": "33 × 8 = 264"
+  },
+  {
+    "question": "33 × 9",
+    "choices": ["297", "270", "324", "288"],
+    "answer": "297",
+    "explanation": "33 × 9 = 297"
+  },
+  {
+    "question": "34 × 2",
+    "choices": ["68", "60", "76", "64"],
+    "answer": "68",
+    "explanation": "34 × 2 = 68"
+  },
+  {
+    "question": "34 × 3",
+    "choices": ["102", "90", "114", "99"],
+    "answer": "102",
+    "explanation": "34 × 3 = 102"
+  },
+  {
+    "question": "34 × 4",
+    "choices": ["136", "120", "152", "132"],
+    "answer": "136",
+    "explanation": "34 × 4 = 136"
+  },
+  {
+    "question": "34 × 5",
+    "choices": ["170", "150", "190", "165"],
+    "answer": "170",
+    "explanation": "34 × 5 = 170"
+  },
+  {
+    "question": "34 × 6",
+    "choices": ["204", "180", "228", "198"],
+    "answer": "204",
+    "explanation": "34 × 6 = 204"
+  },
+  {
+    "question": "34 × 7",
+    "choices": ["238", "210", "266", "231"],
+    "answer": "238",
+    "explanation": "34 × 7 = 238"
+  },
+  {
+    "question": "34 × 8",
+    "choices": ["272", "240", "304", "264"],
+    "answer": "272",
+    "explanation": "34 × 8 = 272"
+  },
+  {
+    "question": "34 × 9",
+    "choices": ["306", "270", "342", "297"],
+    "answer": "306",
+    "explanation": "34 × 9 = 306"
+  },
+  {
+    "question": "35 × 2",
+    "choices": ["70", "60", "80", "65"],
+    "answer": "70",
+    "explanation": "35 × 2 = 70"
+  },
+  {
+    "question": "35 × 3",
+    "choices": ["105", "90", "120", "100"],
+    "answer": "105",
+    "explanation": "35 × 3 = 105"
+  },
+  {
+    "question": "35 × 4",
+    "choices": ["140", "120", "160", "135"],
+    "answer": "140",
+    "explanation": "35 × 4 = 140"
+  },
+  {
+    "question": "35 × 5",
+    "choices": ["175", "150", "200", "170"],
+    "answer": "175",
+    "explanation": "35 × 5 = 175"
+  },
+  {
+    "question": "35 × 6",
+    "choices": ["210", "180", "240", "205"],
+    "answer": "210",
+    "explanation": "35 × 6 = 210"
+  },
+  {
+    "question": "35 × 7",
+    "choices": ["245", "210", "280", "240"],
+    "answer": "245",
+    "explanation": "35 × 7 = 245"
+  },
+  {
+    "question": "35 × 8",
+    "choices": ["280", "240", "320", "275"],
+    "answer": "280",
+    "explanation": "35 × 8 = 280"
+  },
+{
+    "question": "35 × 9",
+    "choices": ["315", "270", "360", "310"],
+    "answer": "315",
+    "explanation": "35 × 9 = 315"
+  },
+  {
+    "question": "41 × 2",
+    "choices": ["82", "80", "84", "78"],
+    "answer": "82",
+    "explanation": "41 × 2 = 82"
+  },
+  {
+    "question": "41 × 3",
+    "choices": ["123", "120", "126", "121"],
+    "answer": "123",
+    "explanation": "41 × 3 = 123"
+  },
+  {
+    "question": "41 × 4",
+    "choices": ["164", "160", "168", "162"],
+    "answer": "164",
+    "explanation": "41 × 4 = 164"
+  },
+  {
+    "question": "41 × 5",
+    "choices": ["205", "200", "210", "203"],
+    "answer": "205",
+    "explanation": "41 × 5 = 205"
+  },
+  {
+    "question": "41 × 6",
+    "choices": ["246", "240", "252", "244"],
+    "answer": "246",
+    "explanation": "41 × 6 = 246"
+  },
+  {
+    "question": "41 × 7",
+    "choices": ["287", "280", "294", "285"],
+    "answer": "287",
+    "explanation": "41 × 7 = 287"
+  },
+  {
+    "question": "41 × 8",
+    "choices": ["328", "320", "336", "324"],
+    "answer": "328",
+    "explanation": "41 × 8 = 328"
+  },
+  {
+    "question": "41 × 9",
+    "choices": ["369", "360", "378", "365"],
+    "answer": "369",
+    "explanation": "41 × 9 = 369"
+  },
+  {
+    "question": "42 × 2",
+    "choices": ["84", "80", "88", "82"],
+    "answer": "84",
+    "explanation": "42 × 2 = 84"
+  },
+  {
+    "question": "42 × 3",
+    "choices": ["126", "120", "132", "124"],
+    "answer": "126",
+    "explanation": "42 × 3 = 126"
+  },
+  {
+    "question": "42 × 4",
+    "choices": ["168", "160", "176", "164"],
+    "answer": "168",
+    "explanation": "42 × 4 = 168"
+  },
+  {
+    "question": "42 × 5",
+    "choices": ["210", "200", "220", "205"],
+    "answer": "210",
+    "explanation": "42 × 5 = 210"
+  },
+  {
+    "question": "42 × 6",
+    "choices": ["252", "240", "264", "248"],
+    "answer": "252",
+    "explanation": "42 × 6 = 252"
+  },
+  {
+    "question": "42 × 7",
+    "choices": ["294", "280", "308", "290"],
+    "answer": "294",
+    "explanation": "42 × 7 = 294"
+  },
+  {
+    "question": "42 × 8",
+    "choices": ["336", "320", "352", "332"],
+    "answer": "336",
+    "explanation": "42 × 8 = 336"
+  },
+  {
+    "question": "42 × 9",
+    "choices": ["378", "360", "396", "374"],
+    "answer": "378",
+    "explanation": "42 × 9 = 378"
+  },
+  {
+    "question": "43 × 2",
+    "choices": ["86", "80", "92", "84"],
+    "answer": "86",
+    "explanation": "43 × 2 = 86"
+  },
+  {
+    "question": "43 × 3",
+    "choices": ["129", "120", "135", "126"],
+    "answer": "129",
+    "explanation": "43 × 3 = 129"
+  },
+  {
+    "question": "43 × 4",
+    "choices": ["172", "160", "180", "168"],
+    "answer": "172",
+    "explanation": "43 × 4 = 172"
+  },
+  {
+    "question": "43 × 5",
+    "choices": ["215", "200", "225", "210"],
+    "answer": "215",
+    "explanation": "43 × 5 = 215"
+  },
+  {
+    "question": "43 × 6",
+    "choices": ["258", "240", "270", "252"],
+    "answer": "258",
+    "explanation": "43 × 6 = 258"
+  },
+  {
+    "question": "43 × 7",
+    "choices": ["301", "280", "315", "294"],
+    "answer": "301",
+    "explanation": "43 × 7 = 301"
+  },
+  {
+    "question": "43 × 8",
+    "choices": ["344", "320", "360", "336"],
+    "answer": "344",
+    "explanation": "43 × 8 = 344"
+  },
+  {
+    "question": "43 × 9",
+    "choices": ["387", "360", "405", "378"],
+    "answer": "387",
+    "explanation": "43 × 9 = 387"
+  },
+  {
+    "question": "44 × 2",
+    "choices": ["88", "80", "96", "84"],
+    "answer": "88",
+    "explanation": "44 × 2 = 88"
+  },
+  {
+    "question": "44 × 3",
+    "choices": ["132", "120", "144", "128"],
+    "answer": "132",
+    "explanation": "44 × 3 = 132"
+  },
+  {
+    "question": "44 × 4",
+    "choices": ["176", "160", "192", "172"],
+    "answer": "176",
+    "explanation": "44 × 4 = 176"
+  },
+  {
+    "question": "44 × 5",
+    "choices": ["220", "200", "240", "215"],
+    "answer": "220",
+    "explanation": "44 × 5 = 220"
+  },
+  {
+    "question": "44 × 6",
+    "choices": ["264", "240", "288", "258"],
+    "answer": "264",
+    "explanation": "44 × 6 = 264"
+  },
+  {
+    "question": "44 × 7",
+    "choices": ["308", "280", "336", "301"],
+    "answer": "308",
+    "explanation": "44 × 7 = 308"
+  },
+  {
+    "question": "44 × 8",
+    "choices": ["352", "320", "384", "344"],
+    "answer": "352",
+    "explanation": "44 × 8 = 352"
+  },
+  {
+    "question": "44 × 9",
+    "choices": ["396", "360", "432", "387"],
+    "answer": "396",
+    "explanation": "44 × 9 = 396"
+  },
+  {
+    "question": "45 × 2",
+    "choices": ["90", "80", "100", "85"],
+    "answer": "90",
+    "explanation": "45 × 2 = 90"
+  },
+  {
+    "question": "45 × 3",
+    "choices": ["135", "120", "150", "130"],
+    "answer": "135",
+    "explanation": "45 × 3 = 135"
+  },
+  {
+    "question": "45 × 4",
+    "choices": ["180", "160", "200", "175"],
+    "answer": "180",
+    "explanation": "45 × 4 = 180"
+  },
+  {
+    "question": "45 × 5",
+    "choices": ["225", "200", "250", "220"],
+    "answer": "225",
+    "explanation": "45 × 5 = 225"
+  },
+  {
+    "question": "45 × 6",
+    "choices": ["270", "240", "300", "265"],
+    "answer": "270",
+    "explanation": "45 × 6 = 270"
+  },
+  {
+    "question": "45 × 7",
+    "choices": ["315", "280", "350", "310"],
+    "answer": "315",
+    "explanation": "45 × 7 = 315"
+  },
+  {
+    "question": "45 × 8",
+    "choices": ["360", "320", "400", "355"],
+    "answer": "360",
+    "explanation": "45 × 8 = 360"
+  },
+  {
+    "question": "45 × 9",
+    "choices": ["405", "360", "450", "400"],
+    "answer": "405",
+    "explanation": "45 × 9 = 405"
+  },
+  {
+    "question": "26 × 2",
+    "choices": ["52", "50", "54", "48"],
+    "answer": "52",
+    "explanation": "26 × 2 = 52"
+  },
+  {
+    "question": "26 × 3",
+    "choices": ["78", "75", "81", "72"],
+    "answer": "78",
+    "explanation": "26 × 3 = 78"
+  },
+  {
+    "question": "26 × 4",
+    "choices": ["104", "100", "108", "102"],
+    "answer": "104",
+    "explanation": "26 × 4 = 104"
+  },
+  {
+    "question": "26 × 5",
+    "choices": ["130", "125", "135", "128"],
+    "answer": "130",
+    "explanation": "26 × 5 = 130"
+  },
+  {
+    "question": "26 × 6",
+    "choices": ["156", "150", "162", "154"],
+    "answer": "156",
+    "explanation": "26 × 6 = 156"
+  },
+  {
+    "question": "26 × 7",
+    "choices": ["182", "175", "189", "180"],
+    "answer": "182",
+    "explanation": "26 × 7 = 182"
+  },
+  {
+    "question": "26 × 8",
+    "choices": ["208", "200", "216", "204"],
+    "answer": "208",
+    "explanation": "26 × 8 = 208"
+  },
+  {
+    "question": "26 × 9",
+    "choices": ["234", "225", "243", "230"],
+    "answer": "234",
+    "explanation": "26 × 9 = 234"
+  },
+  {
+    "question": "27 × 2",
+    "choices": ["54", "50", "58", "52"],
+    "answer": "54",
+    "explanation": "27 × 2 = 54"
+  },
+  {
+    "question": "27 × 3",
+    "choices": ["81", "75", "87", "80"],
+    "answer": "81",
+    "explanation": "27 × 3 = 81"
+  },
+  {
+    "question": "27 × 4",
+    "choices": ["108", "100", "116", "104"],
+    "answer": "108",
+    "explanation": "27 × 4 = 108"
+  },
+  {
+    "question": "27 × 5",
+    "choices": ["135", "125", "145", "130"],
+    "answer": "135",
+    "explanation": "27 × 5 = 135"
+  },
+  {
+    "question": "27 × 6",
+    "choices": ["162", "150", "174", "160"],
+    "answer": "162",
+    "explanation": "27 × 6 = 162"
+  },
+  {
+    "question": "27 × 7",
+    "choices": ["189", "175", "203", "185"],
+    "answer": "189",
+    "explanation": "27 × 7 = 189"
+  },
+  {
+    "question": "27 × 8",
+    "choices": ["216", "200", "232", "210"],
+    "answer": "216",
+    "explanation": "27 × 8 = 216"
+  },
+  {
+    "question": "27 × 9",
+    "choices": ["243", "225", "261", "240"],
+    "answer": "243",
+    "explanation": "27 × 9 = 243"
+  },
+  {
+    "question": "28 × 2",
+    "choices": ["56", "50", "60", "54"],
+    "answer": "56",
+    "explanation": "28 × 2 = 56"
+  },
+  {
+    "question": "28 × 3",
+    "choices": ["84", "75", "90", "80"],
+    "answer": "84",
+    "explanation": "28 × 3 = 84"
+  },
+  {
+    "question": "28 × 4",
+    "choices": ["112", "100", "120", "108"],
+    "answer": "112",
+    "explanation": "28 × 4 = 112"
+  },
+  {
+    "question": "28 × 5",
+    "choices": ["140", "125", "150", "135"],
+    "answer": "140",
+    "explanation": "28 × 5 = 140"
+  },
+  {
+    "question": "28 × 6",
+    "choices": ["168", "150", "180", "165"],
+    "answer": "168",
+    "explanation": "28 × 6 = 168"
+  },
+  {
+    "question": "28 × 7",
+    "choices": ["196", "175", "210", "190"],
+    "answer": "196",
+    "explanation": "28 × 7 = 196"
+  },
+  {
+    "question": "28 × 8",
+    "choices": ["224", "200", "240", "220"],
+    "answer": "224",
+    "explanation": "28 × 8 = 224"
+  },
+  {
+    "question": "28 × 9",
+    "choices": ["252", "225", "270", "245"],
+    "answer": "252",
+    "explanation": "28 × 9 = 252"
+  },
+  {
+    "question": "29 × 2",
+    "choices": ["58", "50", "62", "56"],
+    "answer": "58",
+    "explanation": "29 × 2 = 58"
+  },
+  {
+    "question": "29 × 3",
+    "choices": ["87", "75", "93", "84"],
+    "answer": "87",
+    "explanation": "29 × 3 = 87"
+  },
+  {
+    "question": "29 × 4",
+    "choices": ["116", "100", "124", "112"],
+    "answer": "116",
+    "explanation": "29 × 4 = 116"
+  },
+  {
+    "question": "29 × 5",
+    "choices": ["145", "125", "155", "140"],
+    "answer": "145",
+    "explanation": "29 × 5 = 145"
+  },
+  {
+    "question": "29 × 6",
+    "choices": ["174", "150", "186", "170"],
+    "answer": "174",
+    "explanation": "29 × 6 = 174"
+  },
+  {
+    "question": "29 × 7",
+    "choices": ["203", "175", "217", "200"],
+    "answer": "203",
+    "explanation": "29 × 7 = 203"
+  },
+  {
+    "question": "29 × 8",
+    "choices": ["232", "200", "248", "225"],
+    "answer": "232",
+    "explanation": "29 × 8 = 232"
+  },
+  {
+    "question": "29 × 9",
+    "choices": ["261", "225", "279", "255"],
+    "answer": "261",
+    "explanation": "29 × 9 = 261"
+  },
+  {
+    "question": "37 × 2",
+    "choices": ["74", "70", "78", "72"],
+    "answer": "74",
+    "explanation": "37 × 2 = 74"
+  },
+  {
+    "question": "37 × 3",
+    "choices": ["111", "105", "117", "110"],
+    "answer": "111",
+    "explanation": "37 × 3 = 111"
+  },
+  {
+    "question": "37 × 4",
+    "choices": ["148", "140", "156", "144"],
+    "answer": "148",
+    "explanation": "37 × 4 = 148"
+  },
+  {
+    "question": "37 × 5",
+    "choices": ["185", "175", "195", "180"],
+    "answer": "185",
+    "explanation": "37 × 5 = 185"
+  },
+  {
+    "question": "37 × 6",
+    "choices": ["222", "210", "234", "220"],
+    "answer": "222",
+    "explanation": "37 × 6 = 222"
+  },
+  {
+    "question": "37 × 7",
+    "choices": ["259", "245", "273", "255"],
+    "answer": "259",
+    "explanation": "37 × 7 = 259"
+  },
+  {
+    "question": "37 × 8",
+    "choices": ["296", "280", "312", "290"],
+    "answer": "296",
+    "explanation": "37 × 8 = 296"
+  },
+  {
+    "question": "37 × 9",
+    "choices": ["333", "315", "351", "330"],
+    "answer": "333",
+    "explanation": "37 × 9 = 333"
+  },
+  {
+    "question": "38 × 2",
+    "choices": ["76", "70", "80", "74"],
+    "answer": "76",
+    "explanation": "38 × 2 = 76"
+  },
+  {
+    "question": "38 × 3",
+    "choices": ["114", "105", "120", "112"],
+    "answer": "114",
+    "explanation": "38 × 3 = 114"
+  },
+  {
+    "question": "38 × 4",
+    "choices": ["152", "140", "160", "150"],
+    "answer": "152",
+    "explanation": "38 × 4 = 152"
+  },
+  {
+    "question": "38 × 5",
+    "choices": ["190", "175", "200", "185"],
+    "answer": "190",
+    "explanation": "38 × 5 = 190"
+  },
+  {
+    "question": "38 × 6",
+    "choices": ["228", "210", "240", "225"],
+    "answer": "228",
+    "explanation": "38 × 6 = 228"
+  },
+  {
+    "question": "38 × 7",
+    "choices": ["266", "245", "280", "260"],
+    "answer": "266",
+    "explanation": "38 × 7 = 266"
+  },
+  {
+    "question": "38 × 8",
+    "choices": ["304", "280", "320", "300"],
+    "answer": "304",
+    "explanation": "38 × 8 = 304"
+  },
+  {
+    "question": "38 × 9",
+    "choices": ["342", "315", "360", "340"],
+    "answer": "342",
+    "explanation": "38 × 9 = 342"
+  },
+  {
+    "question": "39 × 2",
+    "choices": ["78", "70", "82", "76"],
+    "answer": "78",
+    "explanation": "39 × 2 = 78"
+  },
+  {
+    "question": "39 × 3",
+    "choices": ["117", "105", "123", "115"],
+    "answer": "117",
+    "explanation": "39 × 3 = 117"
+  },
+  {
+    "question": "39 × 4",
+    "choices": ["156", "140", "164", "152"],
+    "answer": "156",
+    "explanation": "39 × 4 = 156"
+  },
+  {
+    "question": "39 × 5",
+    "choices": ["195", "175", "205", "190"],
+    "answer": "195",
+    "explanation": "39 × 5 = 195"
+  },
+  {
+    "question": "39 × 6",
+    "choices": ["234", "210", "246", "230"],
+    "answer": "234",
+    "explanation": "39 × 6 = 234"
+  },
+  {
+    "question": "39 × 7",
+    "choices": ["273", "245", "287", "270"],
+    "answer": "273",
+    "explanation": "39 × 7 = 273"
+  },
+  {
+    "question": "39 × 8",
+    "choices": ["312", "280", "328", "310"],
+    "answer": "312",
+    "explanation": "39 × 8 = 312"
+  },
+  {
+    "question": "39 × 9",
+    "choices": ["351", "315", "363", "350"],
+    "answer": "351",
+    "explanation": "39 × 9 = 351"
+  },
+  {
+    "question": "46 × 2",
+    "choices": ["92", "90", "94", "88"],
+    "answer": "92",
+    "explanation": "46 × 2 = 92"
+  },
+  {
+    "question": "46 × 3",
+    "choices": ["138", "135", "141", "132"],
+    "answer": "138",
+    "explanation": "46 × 3 = 138"
+  },
+  {
+    "question": "46 × 4",
+    "choices": ["184", "180", "188", "176"],
+    "answer": "184",
+    "explanation": "46 × 4 = 184"
+  },
+  {
+    "question": "46 × 5",
+    "choices": ["230", "225", "235", "220"],
+    "answer": "230",
+    "explanation": "46 × 5 = 230"
+  },
+  {
+    "question": "46 × 6",
+    "choices": ["276", "270", "282", "264"],
+    "answer": "276",
+    "explanation": "46 × 6 = 276"
+  },
+  {
+    "question": "46 × 7",
+    "choices": ["322", "315", "329", "308"],
+    "answer": "322",
+    "explanation": "46 × 7 = 322"
+  },
+  {
+    "question": "46 × 8",
+    "choices": ["368", "360", "376", "352"],
+    "answer": "368",
+    "explanation": "46 × 8 = 368"
+  },
+  {
+    "question": "46 × 9",
+    "choices": ["414", "405", "423", "396"],
+    "answer": "414",
+    "explanation": "46 × 9 = 414"
+  },
+  {
+    "question": "47 × 2",
+    "choices": ["94", "90", "98", "92"],
+    "answer": "94",
+    "explanation": "47 × 2 = 94"
+  },
+  {
+    "question": "47 × 3",
+    "choices": ["141", "135", "147", "138"],
+    "answer": "141",
+    "explanation": "47 × 3 = 141"
+  },
+  {
+    "question": "47 × 4",
+    "choices": ["188", "180", "196", "184"],
+    "answer": "188",
+    "explanation": "47 × 4 = 188"
+  },
+  {
+    "question": "47 × 5",
+    "choices": ["235", "225", "245", "230"],
+    "answer": "235",
+    "explanation": "47 × 5 = 235"
+  },
+  {
+    "question": "47 × 6",
+    "choices": ["282", "270", "294", "276"],
+    "answer": "282",
+    "explanation": "47 × 6 = 282"
+  },
+  {
+    "question": "47 × 7",
+    "choices": ["329", "315", "343", "322"],
+    "answer": "329",
+    "explanation": "47 × 7 = 329"
+  },
+  {
+    "question": "47 × 8",
+    "choices": ["376", "360", "392", "368"],
+    "answer": "376",
+    "explanation": "47 × 8 = 376"
+  },
+  {
+    "question": "47 × 9",
+    "choices": ["423", "405", "441", "414"],
+    "answer": "423",
+    "explanation": "47 × 9 = 423"
+  },
+  {
+    "question": "48 × 2",
+    "choices": ["96", "90", "100", "94"],
+    "answer": "96",
+    "explanation": "48 × 2 = 96"
+  },
+  {
+    "question": "48 × 3",
+    "choices": ["144", "135", "150", "141"],
+    "answer": "144",
+    "explanation": "48 × 3 = 144"
+  },
+  {
+    "question": "48 × 4",
+    "choices": ["192", "180", "200", "188"],
+    "answer": "192",
+    "explanation": "48 × 4 = 192"
+  },
+  {
+    "question": "48 × 5",
+    "choices": ["240", "225", "250", "235"],
+    "answer": "240",
+    "explanation": "48 × 5 = 240"
+  },
+  {
+    "question": "48 × 6",
+    "choices": ["288", "270", "300", "282"],
+    "answer": "288",
+    "explanation": "48 × 6 = 288"
+  },
+  {
+    "question": "48 × 7",
+    "choices": ["336", "315", "350", "329"],
+    "answer": "336",
+    "explanation": "48 × 7 = 336"
+  },
+  {
+    "question": "48 × 8",
+    "choices": ["384", "360", "400", "376"],
+    "answer": "384",
+    "explanation": "48 × 8 = 384"
+  },
+  {
+    "question": "48 × 9",
+    "choices": ["432", "405", "450", "423"],
+    "answer": "432",
+    "explanation": "48 × 9 = 432"
+  },
+  {
+    "question": "49 × 2",
+    "choices": ["98", "90", "100", "96"],
+    "answer": "98",
+    "explanation": "49 × 2 = 98"
+  },
+  {
+    "question": "49 × 3",
+    "choices": ["147", "135", "153", "144"],
+    "answer": "147",
+    "explanation": "49 × 3 = 147"
+  },
+  {
+    "question": "49 × 4",
+    "choices": ["196", "180", "204", "192"],
+    "answer": "196",
+    "explanation": "49 × 4 = 196"
+  },
+  {
+    "question": "49 × 5",
+    "choices": ["245", "225", "255", "240"],
+    "answer": "245",
+    "explanation": "49 × 5 = 245"
+  },
+  {
+    "question": "49 × 6",
+    "choices": ["294", "270", "306", "288"],
+    "answer": "294",
+    "explanation": "49 × 6 = 294"
+  },
+  {
+    "question": "49 × 7",
+    "choices": ["343", "315", "357", "336"],
+    "answer": "343",
+    "explanation": "49 × 7 = 343"
+  },
+  {
+    "question": "49 × 8",
+    "choices": ["392", "360", "408", "384"],
+    "answer": "392",
+    "explanation": "49 × 8 = 392"
+  },
+  {
+    "question": "49 × 9",
+    "choices": ["441", "405", "459", "432"],
+    "answer": "441",
+    "explanation": "49 × 9 = 441"
+  }
+]
