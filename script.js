@@ -40,6 +40,12 @@ const subjects = {
             'odiaLetterRecognition': { displayName: 'Odia Letter Recognition' },
             'gujaratiLetterRecognition': { displayName: 'Gujarati Letter Recognition' }
         }
+    },
+    'maths': {
+        displayName: 'Maths',
+        themes: {
+            'tables': { displayName: 'Tables' }
+        }
     }
     // Add more subjects as needed
 };
