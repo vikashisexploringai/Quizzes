@@ -5,6 +5,8 @@ let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 let selectedQuestions = [];
+let startTime;
+let stopwatchInterval;
 
 // Available subjects and their themes (updated structure)
 const subjects = {
@@ -64,6 +66,22 @@ document.addEventListener('DOMContentLoaded', function() {
         initializeQuizPage();
     }
 });
+
+function startStopwatch() {
+  startTime = Date.now();
+  stopwatchInterval = setInterval(updateStopwatch, 1000);
+}
+
+function updateStopwatch() {
+  const elapsed = Math.floor((Date.now() - startTime) / 1000);
+  const minutes = Math.floor(elapsed / 60).toString().padStart(2, '0');
+  const seconds = (elapsed % 60).toString().padStart(2, '0');
+  document.getElementById('stopwatch').textContent = `${minutes}:${seconds}`;
+}
+
+function stopStopwatch() {
+  clearInterval(stopwatchInterval);
+}
 
 // SUBJECT SELECTION PAGE FUNCTIONS
 function setupSubjectSelection() {
@@ -198,6 +216,7 @@ function startQuiz(questionCount) {
     score = 0;
     
     displayQuestion();
+    startStopwatch(); // Start timer when quiz begins
 }
 
 function displayQuestion() {
@@ -267,6 +286,10 @@ function nextQuestion() {
 }
 
 function showResults() {
+    stopStopwatch();
+const finalTime = document.getElementById('stopwatch').textContent;
+document.getElementById('score').innerHTML += 
+  `<br><small>Time: ${finalTime}</small>`;
     const quizContainer = document.getElementById('quiz-container');
     const questionContainer = document.querySelector('.question-container');
     const explanationContainer = document.getElementById('explanation-container');
