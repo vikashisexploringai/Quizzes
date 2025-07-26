@@ -471,9 +471,27 @@ button:hover {
   font-size: 1.2em;
 }
 
+/* === STOPWATCH 2.0 === */
 .timer-container {
-  text-align: right;
-  margin-bottom: 1rem;
-  font-size: 1.2rem;
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+#stopwatch {
+  font-size: 1.8rem;
+  font-weight: 600;
   color: var(--accent-color);
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  border-radius: 50px;
+  background: rgba(248, 187, 34, 0.15); /* 15% opacity accent color */
+}
+
+/* Optional (delete if unwanted) */
+#stopwatch {
+  animation: gentleGlow 2s infinite alternate;
+}
+@keyframes gentleGlow {
+  from { opacity: 1; }
+  to { opacity: 0.85; }
 }
