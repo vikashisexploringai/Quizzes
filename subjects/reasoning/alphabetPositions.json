@@ -1,0 +1,158 @@
+[
+  {
+    "question": "A",
+    "choices": ["1", "2", "26", "3"],
+    "answer": "1",
+    "explanation": "A is the 1st letter of the alphabet"
+  },
+  {
+    "question": "B",
+    "choices": ["1", "2", "3", "4"],
+    "answer": "2",
+    "explanation": "B is the 2nd letter of the alphabet"
+  },
+  {
+    "question": "C",
+    "choices": ["5", "3", "4", "2"],
+    "answer": "3",
+    "explanation": "C is the 3rd letter of the alphabet"
+  },
+  {
+    "question": "D",
+    "choices": ["2", "5", "4", "6"],
+    "answer": "4",
+    "explanation": "D is the 4th letter of the alphabet"
+  },
+  {
+    "question": "E",
+    "choices": ["7", "5", "6", "4"],
+    "answer": "5",
+    "explanation": "E is the 5th letter of the alphabet"
+  },
+  {
+    "question": "F",
+    "choices": ["5", "6", "8", "7"],
+    "answer": "6",
+    "explanation": "F is the 6th letter of the alphabet"
+  },
+  {
+    "question": "G",
+    "choices": ["5", "7", "9", "6"],
+    "answer": "7",
+    "explanation": "G is the 7th letter of the alphabet"
+  },
+  {
+    "question": "H",
+    "choices": ["9", "8", "7", "10"],
+    "answer": "8",
+    "explanation": "H is the 8th letter of the alphabet"
+  },
+  {
+    "question": "I",
+    "choices": ["8", "6", "7", "9"],
+    "answer": "9",
+    "explanation": "I is the 9th letter of the alphabet"
+  },
+  {
+    "question": "J",
+    "choices": ["12", "10", "9", "11"],
+    "answer": "10",
+    "explanation": "J is the 10th letter of the alphabet"
+  },
+  {
+    "question": "K",
+    "choices": ["12", "11", "10", "9"],
+    "answer": "11",
+    "explanation": "K is the 11th letter of the alphabet"
+  },
+  {
+    "question": "L",
+    "choices": ["11", "13", "12", "10"],
+    "answer": "12",
+    "explanation": "L is the 12th letter of the alphabet"
+  },
+  {
+    "question": "M",
+    "choices": ["14", "12", "13", "11"],
+    "answer": "13",
+    "explanation": "M is the 13th letter of the alphabet"
+  },
+  {
+    "question": "N",
+    "choices": ["15", "14", "12", "13"],
+    "answer": "14",
+    "explanation": "N is the 14th letter of the alphabet"
+  },
+  {
+    "question": "O",
+    "choices": ["14", "15", "16", "13"],
+    "answer": "15",
+    "explanation": "O is the 15th letter of the alphabet"
+  },
+  {
+    "question": "P",
+    "choices": ["17", "15", "16", "14"],
+    "answer": "16",
+    "explanation": "P is the 16th letter of the alphabet"
+  },
+  {
+    "question": "Q",
+    "choices": ["18", "16", "17", "15"],
+    "answer": "17",
+    "explanation": "Q is the 17th letter of the alphabet"
+  },
+  {
+    "question": "R",
+    "choices": ["17", "19", "18", "16"],
+    "answer": "18",
+    "explanation": "R is the 18th letter of the alphabet"
+  },
+  {
+    "question": "S",
+    "choices": ["18", "20", "19", "17"],
+    "answer": "19",
+    "explanation": "S is the 19th letter of the alphabet"
+  },
+  {
+    "question": "T",
+    "choices": ["19", "21", "20", "18"],
+    "answer": "20",
+    "explanation": "T is the 20th letter of the alphabet"
+  },
+  {
+    "question": "U",
+    "choices": ["20", "22", "21", "19"],
+    "answer": "21",
+    "explanation": "U is the 21st letter of the alphabet"
+  },
+  {
+    "question": "V",
+    "choices": ["23", "21", "22", "20"],
+    "answer": "22",
+    "explanation": "V is the 22nd letter of the alphabet"
+  },
+  {
+    "question": "W",
+    "choices": ["21", "23", "22", "24"],
+    "answer": "23",
+    "explanation": "W is the 23rd letter of the alphabet"
+  },
+  {
+    "question": "X",
+    "choices": ["25", "23", "24", "22"],
+    "answer": "24",
+    "explanation": "X is the 24th letter of the alphabet"
+  },
+  {
+    "question": "Y",
+    "choices": ["24", "26", "25", "23"],
+    "answer": "25",
+    "explanation": "Y is the 25th letter of the alphabet"
+  },
+  {
+    "question": "Z",
+    "choices": ["25", "1", "26", "24"],
+    "answer": "26",
+    "explanation": "Z is the 26th letter of the alphabet"
+  }
+]
