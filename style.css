@@ -470,3 +470,10 @@ button:hover {
   font-family: 'Noto Sans Oriya', 'Kalinga', sans-serif;
   font-size: 1.2em;
 }
+
+.timer-container {
+  text-align: right;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  color: var(--accent-color);
+}
