@@ -47,7 +47,9 @@ const subjects = {
         displayName: 'Maths',
         themes: {
             'tables': { displayName: 'Tables' },
-            'squares': { displayName: 'Squares'},
+            'squares': { displayName: 'Squares till 50'},
+            'squares2': { displayName: 'Squares 31 to 40'},
+            'squares3': { displayName: 'Squares 41 to 50'},
             'cubes': {displayName: 'Cubes'}
         }
     }
