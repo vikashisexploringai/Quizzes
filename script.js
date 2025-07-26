@@ -52,6 +52,12 @@ const subjects = {
             'squares3': { displayName: 'Squares 41 to 50'},
             'cubes': {displayName: 'Cubes'}
         }
+    },
+    'reasoning': {
+        displayName: 'verbalReasoning',
+        themes: {
+            'alphabetPositions': { displayName: 'Alphabet Positions' }
+        }
     }
     // Add more subjects as needed
 };
