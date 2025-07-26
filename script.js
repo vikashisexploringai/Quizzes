@@ -54,7 +54,7 @@ const subjects = {
         }
     },
     'reasoning': {
-        displayName: 'verbalReasoning',
+        displayName: 'Verabal Reasoning',
         themes: {
             'alphabetPositions': { displayName: 'Alphabet Positions' }
         }
