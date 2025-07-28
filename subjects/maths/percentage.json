@@ -1,116 +1,62 @@
 [
   {
-  "questions": [
-    {
-      "question": "A district has 10,24,000 inhabitants. If the population increases at the rate of 2.5% per annum, find the number of inhabitants at the end of three years.",
-      "choices": [
-        "11,20,736",
-        "11,02,736",
-        "10,75,840",
-        "10,64,850"
-      ],
-      "answer": "11,20,736",
-      "explanation": "11,20,736"
-    },
-    {
-      "question": "Which of the following is the least?",
-      "choices": [
-        "9% of 845",
-        "12% of 620",
-        "10% of 720",
-        "15% of 555"
-      ],
-      "answer": "12% of 620",
-      "explanation": "12% of 620"
-    },
-    {
-      "question": "In an examination, 35% students failed in one subject and 42% failed in another subject, while 15% failed in both the subjects. If 2500 students appeared at the examination, how many passed in only one subject?",
-      "choices": [
-        "1050",
-        "1750",
-        "750",
-        "425"
-      ],
-      "answer": "425",
-      "explanation": "425"
-    },
-    {
-      "question": "If 80% of the students in a school are boys and the number of girls is 160, what is the total number of students in the school?",
-      "choices": [
-        "800",
-        "1000",
-        "640",
-        "400"
-      ],
-      "answer": "1000",
-      "explanation": "1000"
-    },
-    {
-      "question": "In a survey, it was found that in a constituency, 55% of voters are male and the rest are female. 40% of the male voters are illiterate and 40% of what percentage of female voters are literate?",
-      "choices": [
-        "18%",
-        "36%",
-        "42%",
-        "8.4%"
-      ],
-      "answer": "8.4%",
-      "explanation": "8.4%"
-    },
-    {
-      "question": "A man spends 75% of his income. If his income increases by 20% and his expenditure increases by 10%, then find his percentage increase in savings.",
-      "choices": [
-        "10%",
-        "25%",
-        "50%",
-        "75%"
-      ],
-      "answer": "50%",
-      "explanation": "50%"
-    },
-    {
-      "question": "In a class of 130 students, 60 passed in Physics, 70 passed in Chemistry, and 30 passed in both. How many students failed in both subjects?",
-      "choices": [
-        "20",
-        "30",
-        "40",
-        "50"
-      ],
-      "answer": "20",
-      "explanation": "20"
-    },
-    {
-      "question": "The virus count in a culture decreases by 5% per hour. If the count is initially 2.3 x 10^7, find the count after 24 hours.",
-      "choices": [
-        "6.8 x 10^6",
-        "7.4 x 10^6",
-        "7.8 x 10^6",
-        "8.2 x 10^6"
-      ],
-      "answer": "7.4 x 10^6",
-      "explanation": "7.4 x 10^6"
-    },
-    {
-      "question": "In a national level examination, 47% of students received 61-80% marks, 23% received 81-100% marks, and the remaining 30% received 41-60% marks. If 195 students received 41-60% marks, how many students took the examination?",
-      "choices": [
-        "450",
-        "600",
-        "650",
-        "720"
-      ],
-      "answer": "650",
-      "explanation": "650"
-    },
-    {
-      "question": "The price of a computer is ₹22,200. What will be the price after a 25% reduction?",
-      "choices": [
-        "₹16,650",
-        "₹17,760",
-        "₹18,870",
-        "₹19,980"
-      ],
-      "answer": "₹16,650",
-      "explanation": "₹16,650"
-    }
-  ]
-}
+    "question": "A district has 10,24,000 inhabitants. If the population increases at the rate of 2.5% per annum, find the number of inhabitants at the end of three years.",
+    "choices": ["11,20,736", "11,02,736", "10,75,840", "10,64,850"],
+    "answer": "11,20,736",
+    "explanation": "Population after 3 years = 10,24,000 × (1.025)³ = 11,20,736"
+  },
+  {
+    "question": "Which of the following is the least?",
+    "choices": ["9% of 845", "12% of 620", "10% of 720", "15% of 555"],
+    "answer": "12% of 620",
+    "explanation": "Calculations: 9% of 845=76.05, 12% of 620=74.4, 10% of 720=72, 15% of 555=83.25 → 74.4 is smallest"
+  },
+  {
+    "question": "In an examination, 35% students failed in one subject and 42% failed in another subject, while 15% failed in both. If 2500 students appeared, how many passed in only one subject?",
+    "choices": ["1050", "1750", "750", "425"],
+    "answer": "425",
+    "explanation": "Failed only first subject: 35%-15%=20%, Failed only second subject: 42%-15%=27% → Total passed one subject: (20%+27%)×2500=425"
+  },
+  {
+    "question": "If 80% of students are boys and number of girls is 160, what is the total number of students?",
+    "choices": ["800", "1000", "640", "400"],
+    "answer": "1000",
+    "explanation": "20% = 160 → Total = 160 × (100/20) = 1000"
+  },
+  {
+    "question": "In a constituency, 55% voters are male. 40% male voters are illiterate. What percentage of female voters are literate?",
+    "choices": ["18%", "36%", "42%", "8.4%"],
+    "answer": "8.4%",
+    "explanation": "45% female voters. If 40% of 55% male voters are illiterate, then 60% are literate. Percentage of literate female voters = (100% - 40%) of 45% = 8.4%"
+  },
+  {
+    "question": "A man spends 75% of income. Income increases by 20% and expenditure by 10%. Find percentage increase in savings.",
+    "choices": ["10%", "25%", "50%", "75%"],
+    "answer": "50%",
+    "explanation": "Original savings=25%, New income=120%, New expenditure=75%×1.1=82.5% → New savings=37.5% → 50% increase"
+  },
+  {
+    "question": "In a class of 130, 60 passed Physics, 70 passed Chemistry, 30 passed both. How many failed both?",
+    "choices": ["20", "30", "40", "50"],
+    "answer": "30",
+    "explanation": "Failed both = Total - (Physics only + Chemistry only + Both) = 130 - (30 + 40 + 30) = 30"
+  },
+  {
+    "question": "Virus count decreases by 5% per hour. Initial count is 2.3×10⁷. Find count after 24 hours.",
+    "choices": ["6.8×10⁶", "7.4×10⁶", "7.8×10⁶", "8.2×10⁶"],
+    "answer": "7.4×10⁶",
+    "explanation": "Final count = 2.3×10⁷ × (0.95)²⁴ ≈ 7.4×10⁶"
+  },
+  {
+    "question": "47% got 61-80%, 23% got 81-100%, 30% got 41-60%. If 195 got 41-60%, how many took exam?",
+    "choices": ["450", "600", "650", "720"],
+    "answer": "650",
+    "explanation": "30% = 195 → Total = 195 × (100/30) = 650"
+  },
+  {
+    "question": "Price of computer is ₹22,200. What will be price after 25% reduction?",
+    "choices": ["₹16,650", "₹17,760", "₹18,870", "₹19,980"],
+    "answer": "₹16,650",
+    "explanation": "Reduced price = 22,200 × 0.75 = ₹16,650"
+  }
 ]
