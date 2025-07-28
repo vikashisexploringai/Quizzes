@@ -50,7 +50,8 @@ const subjects = {
             'squares': { displayName: 'Squares till 50'},
             'squares2': { displayName: 'Squares 31 to 40'},
             'squares3': { displayName: 'Squares 41 to 50'},
-            'cubes': {displayName: 'Cubes'}
+            'cubes': {displayName: 'Cubes'},
+            'percentage': {displayName: 'Percentage'}
         }
     },
     'reasoning': {
