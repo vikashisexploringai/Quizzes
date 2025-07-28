@@ -58,5 +58,125 @@
     "choices": ["₹16,650", "₹17,760", "₹18,870", "₹19,980"],
     "answer": "₹16,650",
     "explanation": "Reduced price = 22,200 × 0.75 = ₹16,650"
+  },
+  {
+    "question": "Shiva invests ₹1,53,000, which is 30% of her annual income, in mutual funds. What is her monthly income (in ₹)?",
+    "choices": ["42,500", "45,800", "55,600", "52,300"],
+    "answer": "42,500",
+    "explanation": "Annual income = ₹1,53,000 ÷ 0.30 = ₹5,10,000. Monthly income = ₹5,10,000 ÷ 12 = ₹42,500"
+  },
+  {
+    "question": "If the income of A is 50% less than the income of B, then B's income is what percent more than the income of A?",
+    "choices": ["100%", "75%", "50%", "125%"],
+    "answer": "100%",
+    "explanation": "Let B's income = 100. Then A's income = 50. Difference = 100 - 50 = 50. Percentage more = (50/50) × 100 = 100%"
+  },
+  {
+    "question": "The population of a village was 130000. It increased by 15% in the first year and by 20% in the second year. What is the population after two years?",
+    "choices": ["179,400", "156,000", "149,500", "175,500"],
+    "answer": "179,400",
+    "explanation": "After first year: 130,000 × 1.15 = 149,500. After second year: 149,500 × 1.20 = 179,400"
+  },
+  {
+    "question": "A number is 20% more than 130. The number is:",
+    "choices": ["156", "143", "148", "153"],
+    "answer": "156",
+    "explanation": "130 × 1.20 = 156 (Note: Corrected choices to match the answer)"
+  },
+  {
+    "question": "The population of a town increases 8% annually. If its present population is 1,42,560, what was the population one year ago?",
+    "choices": ["1,32,000", "1,33,000", "1,31,000", "1,30,000"],
+    "answer": "1,32,000",
+    "explanation": "Original population = 1,42,560 ÷ 1.08 = 1,32,000"
+  },
+  {
+    "question": "What will be the difference in population 3 years ago and 2 years ago of a town, whose current population is 180000 and which is increasing at a rate of 25% every year?",
+    "choices": ["23,040", "23,390", "22,290", "22,490"],
+    "answer": "23,040",
+    "explanation": "2 years ago: 180,000 ÷ (1.25)² = 115,200. 3 years ago: 180,000 ÷ (1.25)³ = 92,160. Difference = 115,200 - 92,160 = 23,040"
+  },
+  {
+    "question": "The price of fuel decreases by 25%, 60% and 10% in three successive months. What is the percentage change in the price of fuel in the fourth month as compared to its original price?",
+    "choices": ["Decreases by 73%", "Decreases by 56.79%", "Increases by 61.02%", "Decreases by 59.84%"],
+    "answer": "Decreases by 73%",
+    "explanation": "Final price = Original × 0.75 × 0.40 × 0.90 = 0.27 × Original. Decrease = (1 - 0.27) × 100 = 73%"
+  },
+  {
+    "question": "In an election with two candidates, one secured 44% of votes and lost by 1440 votes. Total votes polled were:",
+    "choices": ["12,000", "15,000", "13,000", "14,000"],
+    "answer": "12,000",
+    "explanation": "Winning candidate got 56%. Difference = 12% = 1,440 votes. Total votes = (1,440 ÷ 12) × 100 = 12,000"
+  },
+  {
+    "question": "A product's price increases by 10% in the first year and 20% in the second year. The overall percentage increase is:",
+    "choices": ["32%", "28%", "36%", "30%"],
+    "answer": "32%",
+    "explanation": "Net effect = 1.10 × 1.20 = 1.32 → 32% increase"
+  },
+  {
+    "question": "A 20% price reduction in sugar lets a buyer get 2.5 kg more for ₹160. Original price per kg was:",
+    "choices": ["₹16", "₹12", "₹20", "₹15"],
+    "answer": "₹16",
+    "explanation": "Savings from discount = ₹160 × 0.20 = ₹32. This buys 2.5 kg → Reduced price/kg = ₹32 ÷ 2.5 = ₹12.80. Original price = ₹12.80 ÷ 0.80 = ₹16"
+  },
+  {
+    "question": "Shiva invests ₹1,53,000, which is 30% of her annual income, in mutual funds. What is her monthly income (in ₹)?",
+    "choices": ["42,500", "45,800", "55,600", "52,300"],
+    "answer": "42,500",
+    "explanation": "Annual income = ₹1,53,000 ÷ 0.30 = ₹5,10,000. Monthly income = ₹5,10,000 ÷ 12 = ₹42,500"
+  },
+  {
+    "question": "If A's income is 50% less than B's income, then B's income is what percent more than A's income?",
+    "choices": ["100%", "75%", "50%", "125%"],
+    "answer": "100%",
+    "explanation": "Let B's income = 100. Then A's income = 50. Difference = 50. Percentage more = (50/50)×100 = 100%"
+  },
+  {
+    "question": "A village population was 1,30,000. After 15% increase in first year and 20% in second year, what is the population?",
+    "choices": ["1,79,400", "1,56,000", "1,49,500", "1,75,500"],
+    "answer": "1,79,400",
+    "explanation": "Year 1: 1,30,000 × 1.15 = 1,49,500. Year 2: 1,49,500 × 1.20 = 1,79,400"
+  },
+  {
+    "question": "A number is 20% more than 130. The number is:",
+    "choices": ["156", "143", "148", "153"],
+    "answer": "156",
+    "explanation": "130 × 1.20 = 156 (Note: Corrected choices to match answer)"
+  },
+  {
+    "question": "A town's population increases 8% annually. Current population is 1,42,560. What was it one year ago?",
+    "choices": ["1,32,000", "1,33,000", "1,31,000", "1,30,000"],
+    "answer": "1,32,000",
+    "explanation": "Original population = 1,42,560 ÷ 1.08 = 1,32,000"
+  },
+  {
+    "question": "For a town (current population: 1,80,000, growing at 25% yearly), difference between population 3 years ago and 2 years ago is:",
+    "choices": ["23,040", "23,390", "22,290", "22,490"],
+    "answer": "23,040",
+    "explanation": "2 years ago: 1,80,000 ÷ 1.25² = 1,15,200. 3 years ago: 1,80,000 ÷ 1.25³ = 92,160. Difference = 23,040"
+  },
+  {
+    "question": "After successive monthly fuel price decreases of 25%, 60% and 10%, the final price compared to original is:",
+    "choices": ["73% decrease", "56.79% decrease", "61.02% increase", "59.84% decrease"],
+    "answer": "73% decrease",
+    "explanation": "Final price = Original × 0.75 × 0.40 × 0.90 = 0.27 × Original → 73% decrease"
+  },
+  {
+    "question": "In a two-candidate election, loser got 44% and lost by 1,440 votes. Total votes were:",
+    "choices": ["12,000", "15,000", "13,000", "14,000"],
+    "answer": "12,000",
+    "explanation": "Winner got 56%. Difference = 12% = 1,440. Total votes = (1,440 ÷ 12) × 100 = 12,000"
+  },
+  {
+    "question": "After 10% price increase in first year and 20% in second year, the overall percentage increase is:",
+    "choices": ["32%", "28%", "36%", "30%"],
+    "answer": "32%",
+    "explanation": "Net effect = 1.10 × 1.20 = 1.32 → 32% increase"
+  },
+  {
+    "question": "A 20% sugar price reduction lets buyer get 2.5kg more for ₹160. Original price/kg was:",
+    "choices": ["₹16", "₹12", "₹20", "₹15"],
+    "answer": "₹16",
+    "explanation": "Savings = ₹160 × 0.20 = ₹32 buys 2.5kg → New price/kg = ₹12.80. Original price = ₹12.80 ÷ 0.80 = ₹16"
   }
-]
+  ]
