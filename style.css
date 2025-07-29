@@ -1,5 +1,5 @@
-/* Base Styles */
 :root {
+    /* Color Variables */
     --primary-bg: #1a1a2e;
     --secondary-bg: #16213e;
     --tertiary-bg: #0f3460;
@@ -8,11 +8,18 @@
     --incorrect-color: #c62828;
     --text-color: #e6e6e6;
     --text-secondary: #b8b8b8;
+    --neon-pink: #ff00ea;
+    --neon-purple: #8a00ff;
+    --neon-yellow: #FFFF00;
+    
+    /* Spacing & Effects */
     --border-radius: 10px;
     --box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     --transition: all 0.3s ease;
+    --transition-speed: 0.25s;
 }
 
+/* Base Styles */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -43,6 +50,7 @@ body {
     margin: 1rem auto;
 }
 
+/* Typography */
 h1, h2, h3 {
     color: var(--accent-color);
     margin-bottom: 1.5rem;
@@ -73,38 +81,7 @@ button:hover {
     transform: translateY(-2px);
 }
 
-/* Subject and Theme Selection Pages */
-.subject-buttons, .theme-buttons, .count-buttons {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    margin-top: 2rem;
-}
-
-#next-button {
-    width: 100%;
-    background-color: #f8bb22;  /* Bright yellow color */
-    color: #1a1a2e;            /* Dark text for contrast */
-    font-weight: bold;
-    margin-top: 1rem;
-    padding: 1rem;
-    border-radius: 5px;
-    border: none;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
-
-#next-button:hover {
-    background-color: #e6a917;  /* Slightly darker yellow on hover */
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-/* Quiz Page Styles */
-#question-count-selection, #quiz-container, #result-container {
-    transition: var(--transition);
-}
-
+/* Quiz Components */
 #quiz-container {
     display: none;
 }
@@ -132,9 +109,11 @@ button:hover {
 #question-text {
     font-size: 1.3rem;
     margin-bottom: 2rem;
-    color: var(--text-color);
+    color: var(--neon-yellow);
+    text-shadow: 0 0 0.5rem rgba(255, 255, 0, 0.7);
 }
 
+/* Options Styling */
 .options-container {
     display: flex;
     flex-direction: column;
@@ -142,378 +121,23 @@ button:hover {
     margin: 2rem 0;
 }
 
-.options-container button {
-    text-align: left;
-    padding: 1.2rem;
-    position: relative;
-    overflow: hidden;
-}
-
-.options-container button::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(255, 255, 255, 0.1);
-    transform: translateX(-100%);
-    transition: transform 0.3s ease;
-}
-
-.options-container button:hover::after {
-    transform: translateX(0);
-}
-
-.explanation-container {
-    margin-top: 2rem;
-    padding: 1.5rem;
-    background-color: var(--tertiary-bg);
-    border-radius: var(--border-radius);
-    animation: fadeIn 0.5s ease;
-}
-
-#explanation-text {
-    margin-bottom: 1.5rem;
-    color: var(--text-secondary);
-}
-
-#next-button {
-    margin-top: 1rem;
-    font-weight: bold;
-}
-
-.result-container {
-    text-align: center;
-    animation: fadeIn 0.5s ease;
-}
-
-.result-container h2 {
-    margin-bottom: 1rem;
-}
-
-.result-container p {
-    font-size: 1.2rem;
-    margin-bottom: 2rem;
-}
-
-.result-container button {
-    margin: 0.5rem auto;
-    max-width: 300px;
-}
-
-/* Answer Feedback Styles */
-.correct {
-    background-color: var(--correct-color) !important;
-    color: white;
-}
-
-.incorrect {
-    background-color: var(--incorrect-color) !important;
-    color: white;
-}
-
-/* Animations */
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(10px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .container {
-        padding: 1.5rem;
-    }
-    
-    h1 {
-        font-size: 1.8rem;
-    }
-    
-    button {
-        padding: 0.9rem;
-        font-size: 1rem;
-    }
-}
-
-@media (max-width: 480px) {
-    .container {
-        padding: 1rem;
-    }
-    
-    h1 {
-        font-size: 1.5rem;
-    }
-    
-    #question-text {
-        font-size: 1.1rem;
-    }
-    
-    .options-container button {
-        padding: 1rem;
-    }
-}
-
-/* Utility Classes */
-.hidden {
-    display: none !important;
-}
-
-.text-center {
-    text-align: center;
-}
-
-.mt-1 { margin-top: 0.5rem; }
-.mt-2 { margin-top: 1rem; }
-.mt-3 { margin-top: 1.5rem; }
-.mt-4 { margin-top: 2rem; }
-
-.mb-1 { margin-bottom: 0.5rem; }
-.mb-2 { margin-bottom: 1rem; }
-.mb-3 { margin-bottom: 1.5rem; }
-.mb-4 { margin-bottom: 2rem; }
-
-/* Loading Animation (for JSON loading) */
-.loading-spinner {
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    border: 4px solid rgba(255, 255, 255, 0.3);
-    border-radius: 50%;
-    border-top-color: var(--accent-color);
-    animation: spin 1s ease-in-out infinite;
-    margin: 2rem auto;
-}
-
-@keyframes spin {
-    to { transform: rotate(360deg); }
-}
-
-.loading-text {
-    text-align: center;
-    color: var(--text-secondary);
-    margin-top: 1rem;
-}
-
-/* Result Page Styles */
-.result-container {
-    text-align: center;
-    animation: fadeIn 0.5s ease;
-    padding: 2rem;
-}
-
-.result-card {
-    background-color: var(--tertiary-bg);
-    border-radius: var(--border-radius);
-    padding: 2rem;
-    box-shadow: var(--box-shadow);
-}
-
-.score-display {
-    margin: 2rem 0;
-}
-
-.score-circle {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    background: conic-gradient(var(--accent-color) 0%, 
-                transparent 0%);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto 1rem;
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: var(--accent-color);
-    border: 5px solid var(--secondary-bg);
-}
-
-.performance-feedback {
-    margin: 2rem 0;
-}
-
-.progress-meter {
-    width: 100%;
-    height: 10px;
-    background-color: var(--secondary-bg);
-    border-radius: 5px;
-    margin-top: 1rem;
-    overflow: hidden;
-}
-
-.progress-fill {
-    height: 100%;
-    background-color: var(--accent-color);
-    width: 0%;
-    transition: width 1s ease;
-}
-
-.action-buttons {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    margin-top: 2rem;
-}
-
-.btn-restart {
-    background-color: var(--accent-color);
-    color: #1a1a2e;
-}
-
-.btn-new-theme {
-    background-color: #4a6fa5;
-}
-
-.btn-new-subject {
-    background-color: #6a4a9c;
-}
-
-/* Performance message colors based on score */
-.great-score { color: #4caf50; }
-.good-score { color: #8bc34a; }
-.average-score { color: #ffc107; }
-.poor-score { color: #ff5722; }
-
-@keyframes fillAnimation {
-    from { width: 0%; }
-    to { width: var(--fill-percentage); }
-}
-
-/* Result Container Styles */
-.result-container {
-    background-color: var(--secondary-bg);
-    border-radius: var(--border-radius);
-    padding: 2rem;
-    margin-top: 2rem;
-    text-align: center;
-    animation: fadeIn 0.5s ease;
-    width: 100%;
-}
-
-.result-container h2 {
-    color: var(--accent-color);
-    margin-bottom: 1.5rem;
-}
-
-.result-container p {
-    font-size: 1.2rem;
-    margin-bottom: 2rem;
-}
-
-.score-display {
-    font-size: 2rem;
-    font-weight: bold;
-    margin: 1.5rem 0;
-    color: var(--accent-color);
-}
-
-.action-buttons {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    margin-top: 2rem;
-}
-
-.btn-restart {
-    background-color: var(--accent-color);
-    color: #1a1a2e;
-    font-weight: bold;
-}
-
-.btn-new-theme {
-    background-color: #4a6fa5;
-}
-
-.btn-new-subject {
-    background-color: #6a4a9c;
-}
-
-/* Performance Rating */
-.performance-rating {
-    margin: 1.5rem 0;
-    font-size: 1.3rem;
-}
-
-.great { color: #4caf50; }
-.good { color: #8bc34a; }
-.average { color: #ffc107; }
-.poor { color: #ff5722; }
-
-/* Animations */
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-
-@media (max-width: 600px) {
-    .result-container {
-        padding: 1.5rem;
-    }
-    
-    .score-display {
-        font-size: 1.5rem;
-    }
-    
-    .action-buttons button {
-        padding: 0.8rem;
-    }
-}
-
-/* This will automatically apply your JSON font settings */
-.quiz-container {
-  font-family: 'Noto Sans Oriya', 'Kalinga', sans-serif; /* Default fallback */
-  font-size: 1.2em;
-}
-
-/* Optional: If you want different fonts per theme */
-.odia-language .quiz-container {
-  font-family: 'Noto Sans Oriya', 'Kalinga', sans-serif;
-  font-size: 1.2em;
-}
-
-/* === STOPWATCH 2.0 === */
-.timer-container {
-  text-align: center;
-  margin: 1.5rem 0;
-}
-
-#stopwatch {
-  font-size: 1.8rem;
-  font-weight: 600;
-  color: var(--accent-color);
-  display: inline-block;
-  padding: 0.5rem 1.25rem;
-  border-radius: 50px;
-  background: rgba(248, 187, 34, 0.15); /* 15% opacity accent color */
-}
-
-/* Optional (delete if unwanted) */
-#stopwatch {
-  animation: gentleGlow 2s infinite alternate;
-}
-@keyframes gentleGlow {
-  from { opacity: 1; }
-  to { opacity: 0.85; }
-}
-
-
-/* Add these updates to your existing CSS */
-
-/* Enhanced Option Buttons */
 .option-button {
     background: rgba(40, 0, 80, 0.8);
-    color: #f0f0f0; /* Brighter text */
-    padding: 1rem;
-    border: 1px solid rgba(179, 0, 255, 0.3); /* Purple border */
-    border-radius: 0.75rem;
+    color: #f0f0f0;
+    padding: 1.2rem;
+    border: 1px solid rgba(179, 0, 255, 0.3);
+    border-radius: var(--border-radius);
     font-size: 1rem;
     font-weight: 600;
     cursor: pointer;
-    transition: all var(--transition-speed) ease;
+    transition: var(--transition);
+    text-align: left;
+    position: relative;
+    overflow: hidden;
     box-shadow: 
         0 0.25rem 0.75rem rgba(0, 0, 0, 0.3),
-        inset 0 0 0.5rem rgba(255, 255, 255, 0.1); /* Inner glow */
-    text-shadow: 0 0 4px rgba(0, 0, 0, 0.5); /* Text shadow for better readability */
+        inset 0 0 0.5rem rgba(255, 255, 255, 0.1);
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
 }
 
 .option-button:hover {
@@ -525,11 +149,28 @@ button:hover {
     border-color: rgba(179, 0, 255, 0.5);
 }
 
-/* Selected/Correct/Incorrect States */
+.option-button::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+}
+
+.option-button:hover::after {
+    transform: translateX(0);
+}
+
+/* Answer States */
 .option-button.correct {
     background: linear-gradient(145deg, #00c853, #009624);
     color: white;
     border-color: #00e676;
+    box-shadow: 0 0 1.5rem rgba(0, 200, 83, 0.5);
 }
 
 .option-button.incorrect {
@@ -538,9 +179,117 @@ button:hover {
     border-color: #ff1744;
 }
 
-/* For the currently selected option */
 .option-button.selected {
-    background: rgba(70, 0, 140, 0.9);
-    border: 1px solid var(--neon-pink);
-    box-shadow: 0 0 1rem rgba(255, 0, 234, 0.4);
+    background: rgba(100, 0, 200, 0.9);
+    border: 2px solid var(--neon-pink);
+    box-shadow: 0 0 1.5rem rgba(255, 0, 234, 0.6);
+    transform: scale(1.02);
+    z-index: 1;
 }
+
+.option-button.celebrate {
+    animation: celebrate 0.6s ease;
+}
+
+/* Explanation & Navigation */
+.explanation-container {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: rgba(30, 0, 60, 0.9);
+    border-radius: var(--border-radius);
+    border: 1px solid var(--neon-pink);
+    animation: fadeIn 0.5s ease;
+}
+
+#explanation-text {
+    color: #ffffff;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+#next-button {
+    background: linear-gradient(145deg, var(--neon-pink), var(--neon-purple));
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 1rem;
+    padding: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#next-button:hover {
+    background: linear-gradient(145deg, #e600d3, #7a00dd);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Results Section */
+.result-container {
+    text-align: center;
+    animation: fadeIn 0.5s ease;
+    padding: 2rem;
+    background-color: var(--secondary-bg);
+    border-radius: var(--border-radius);
+    margin-top: 2rem;
+    display: none;
+}
+
+.result-container h2 {
+    color: var(--accent-color);
+    margin-bottom: 1.5rem;
+}
+
+.result-container p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.action-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+/* Timer */
+.timer-container {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+#stopwatch {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: var(--accent-color);
+    display: inline-block;
+    padding: 0.5rem 1.25rem;
+    border-radius: 50px;
+    background: rgba(248, 187, 34, 0.15);
+    animation: gentleGlow 2s infinite alternate;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes celebrate {
+    0% { transform: scale(1); }
+    25% { transform: scale(1.1); }
+    50% { transform: rotate(5deg) scale(1.1); }
+    75% { transform: rotate(-5deg) scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+@keyframes gentleGlow {
+    from { opacity: 1; }
+    to { opacity: 0.85; }
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 1rem rgba(255, 0, 234, 0.6); }
+    100% { box-shadow: 0 
