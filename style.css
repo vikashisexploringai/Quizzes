@@ -495,3 +495,52 @@ button:hover {
   from { opacity: 1; }
   to { opacity: 0.85; }
 }
+
+
+/* Add these updates to your existing CSS */
+
+/* Enhanced Option Buttons */
+.option-button {
+    background: rgba(40, 0, 80, 0.8);
+    color: #f0f0f0; /* Brighter text */
+    padding: 1rem;
+    border: 1px solid rgba(179, 0, 255, 0.3); /* Purple border */
+    border-radius: 0.75rem;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all var(--transition-speed) ease;
+    box-shadow: 
+        0 0.25rem 0.75rem rgba(0, 0, 0, 0.3),
+        inset 0 0 0.5rem rgba(255, 255, 255, 0.1); /* Inner glow */
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.5); /* Text shadow for better readability */
+}
+
+.option-button:hover {
+    background: rgba(60, 0, 120, 0.9);
+    transform: translateY(-0.15rem);
+    box-shadow: 
+        0 0.5rem 1.25rem rgba(0, 0, 0, 0.4),
+        inset 0 0 0.75rem rgba(255, 255, 255, 0.15);
+    border-color: rgba(179, 0, 255, 0.5);
+}
+
+/* Selected/Correct/Incorrect States */
+.option-button.correct {
+    background: linear-gradient(145deg, #00c853, #009624);
+    color: white;
+    border-color: #00e676;
+}
+
+.option-button.incorrect {
+    background: linear-gradient(145deg, #d50000, #9b0000);
+    color: white;
+    border-color: #ff1744;
+}
+
+/* For the currently selected option */
+.option-button.selected {
+    background: rgba(70, 0, 140, 0.9);
+    border: 1px solid var(--neon-pink);
+    box-shadow: 0 0 1rem rgba(255, 0, 234, 0.4);
+}
