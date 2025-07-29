@@ -1,0 +1,152 @@
+[
+  {
+    "question": "1/3 = ?",
+    "choices": ["33.33%", "30%", "35%", "25%"],
+    "answer": "33.33%",
+    "explanation": "33⅓%"
+  },
+  {
+    "question": "1/6 = ?",
+    "choices": ["16.67%", "15%", "20%", "12.5%"],
+    "answer": "16.67%",
+    "explanation": "16⅔%"
+  },
+  {
+    "question": "1/7 = ?",
+    "choices": ["14.29%", "15%", "12.5%", "10%"],
+    "answer": "14.29%",
+    "explanation": "14²⁄₇%"
+  },
+  {
+    "question": "1/8 = ?",
+    "choices": ["12.5%", "15%", "10%", "8%"],
+    "answer": "12.5%",
+    "explanation": "12½%"
+  },
+  {
+    "question": "1/9 = ?",
+    "choices": ["11.11%", "10%", "12.5%", "9%"],
+    "answer": "11.11%",
+    "explanation": "11⅑%"
+  },
+  {
+    "question": "1/11 = ?",
+    "choices": ["9.09%", "10%", "11%", "8%"],
+    "answer": "9.09%",
+    "explanation": "9¹⁄₁₁%"
+  },
+  {
+    "question": "1/12 = ?",
+    "choices": ["8.33%", "10%", "12%", "6%"],
+    "answer": "8.33%",
+    "explanation": "8⅓%"
+  },
+  {
+    "question": "1/13 = ?",
+    "choices": ["7.69%", "8%", "7%", "6.5%"],
+    "answer": "7.69%",
+    "explanation": "7⁹⁄₁₃%"
+  },
+  {
+    "question": "1/14 = ?",
+    "choices": ["7.14%", "8%", "6%", "5%"],
+    "answer": "7.14%",
+    "explanation": "7¹⁄₇%"
+  },
+  {
+    "question": "1/15 = ?",
+    "choices": ["6.67%", "7%", "5%", "8%"],
+    "answer": "6.67%",
+    "explanation": "6⅔%"
+  },
+  {
+    "question": "1/16 = ?",
+    "choices": ["6.25%", "5%", "8%", "10%"],
+    "answer": "6.25%",
+    "explanation": "6¼%"
+  },
+  {
+    "question": "1/17 = ?",
+    "choices": ["5.88%", "6%", "5%", "7%"],
+    "answer": "5.88%",
+    "explanation": "5¹⁵⁄₁₇%"
+  },
+  {
+    "question": "1/18 = ?",
+    "choices": ["5.56%", "6%", "5%", "4%"],
+    "answer": "5.56%",
+    "explanation": "5⁵⁄₉%"
+  },
+  {
+    "question": "1/19 = ?",
+    "choices": ["5.26%", "6%", "5%", "4%"],
+    "answer": "5.26%",
+    "explanation": "5⁵⁄₁₉%"
+  },
+  {
+    "question": "1/20 = ?",
+    "choices": ["5%", "6%", "4%", "3%"],
+    "answer": "5%",
+    "explanation": "5%"
+  },
+  {
+    "question": "1/21 = ?",
+    "choices": ["4.76%", "5%", "4%", "3%"],
+    "answer": "4.76%",
+    "explanation": "4¹⁶⁄₂₁%"
+  },
+  {
+    "question": "1/22 = ?",
+    "choices": ["4.55%", "5%", "4%", "3%"],
+    "answer": "4.55%",
+    "explanation": "4⁶⁄₁₁%"
+  },
+  {
+    "question": "1/23 = ?",
+    "choices": ["4.35%", "5%", "4%", "3%"],
+    "answer": "4.35%",
+    "explanation": "4⁸⁄₂₃%"
+  },
+  {
+    "question": "1/24 = ?",
+    "choices": ["4.17%", "5%", "4%", "3%"],
+    "answer": "4.17%",
+    "explanation": "4⅙%"
+  },
+  {
+    "question": "1/25 = ?",
+    "choices": ["4%", "5%", "3%", "2%"],
+    "answer": "4%",
+    "explanation": "4%"
+  },
+  {
+    "question": "1/40 = ?",
+    "choices": ["2.5%", "3%", "2%", "1%"],
+    "answer": "2.5%",
+    "explanation": "2½%"
+  },
+  {
+    "question": "3/8 = ?",
+    "choices": ["37.5%", "40%", "35%", "30%"],
+    "answer": "37.5%",
+    "explanation": "37½%"
+  },
+  {
+    "question": "5/8 = ?",
+    "choices": ["62.5%", "60%", "65%", "70%"],
+    "answer": "62.5%",
+    "explanation": "62½%"
+  },
+  {
+    "question": "4/7 = ?",
+    "choices": ["57.14%", "60%", "55%", "50%"],
+    "answer": "57.14%",
+    "explanation": "57¹⁄₇%"
+  },
+  {
+    "question": "7/8 = ?",
+    "choices": ["87.5%", "90%", "85%", "80%"],
+    "answer": "87.5%",
+    "explanation": "87½%"
+  }
+]
