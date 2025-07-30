@@ -20,8 +20,8 @@
   {
     "question": "If 80% of students are boys and number of girls is 160, what is the total number of students?",
     "choices": ["800", "1000", "640", "400"],
-    "answer": "1000",
-    "explanation": "20% = 160 → Total = 160 × (100/20) = 1000"
+    "answer": "800",
+    "explanation": "20% = 160 → Total = 160 × (100/20) = 800"
   },
   {
     "question": "In a constituency, 55% voters are male. 40% male voters are illiterate. What percentage of female voters are literate?",
