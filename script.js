@@ -265,45 +265,29 @@ function checkAnswer(selectedOption, correctAnswer) {
     const options = document.querySelectorAll('#options-container button');
     const explanationContainer = document.getElementById('explanation-container');
     const explanationText = document.getElementById('explanation-text');
-    const nextButton = document.getElementById('next-button');
-
-    // Disable all options first
+    const question = selectedQuestions[currentQuestionIndex];
+    
+    // Disable all options
     options.forEach(option => {
         option.disabled = true;
-        option.classList.remove('selected', 'correct', 'incorrect');
-    });
-
-    // Process each option's state
-    options.forEach(option => {
-        // Mark the user's selection
-        if (option.textContent === selectedOption) {
-            option.classList.add('selected');
-        }
-
-        // Mark the correct answer (whether selected or not)
         if (option.textContent === correctAnswer) {
             option.classList.add('correct');
-        } 
-        // Mark incorrect selection (only if this was the wrong choice)
-        else if (option.textContent === selectedOption) {
+        } else if (option.textContent === selectedOption && selectedOption !== correctAnswer) {
             option.classList.add('incorrect');
         }
     });
-
+    
     // Update score if correct
     if (selectedOption === correctAnswer) {
         score++;
-        // Add celebration effect for correct answers
-        document.querySelector('.selected').classList.add('celebrate');
     }
-
+    
     // Show explanation
-    explanationText.textContent = questions[currentQuestionIndex].explanation || 'No explanation available.';
+    explanationText.textContent = question.explanation || 'No explanation available.';
     explanationContainer.style.display = 'block';
     
     // Set up next question button
-    nextButton.onclick = nextQuestion;
-    nextButton.focus(); // Auto-focus for keyboard navigation
+    document.getElementById('next-button').onclick = nextQuestion;
 }
 
 function nextQuestion() {
