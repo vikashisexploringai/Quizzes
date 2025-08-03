@@ -1,5 +1,4 @@
-{
-  "questions": [
+[
     {
       "question": "If 60 is increased by 33.33%, what is the result?",
       "choices": ["80", "75", "85", "90"],
@@ -109,4 +108,3 @@
       "explanation": "11.11% of 90 is 10 (90 × 0.1111 ≈ 10). So, 90 - 10 = 80."
     }
   ]
-}
