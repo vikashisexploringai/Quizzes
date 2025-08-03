@@ -1,182 +1,112 @@
-[
-  {
-    "question": "A district has 10,24,000 inhabitants. If the population increases at the rate of 2.5% per annum, find the number of inhabitants at the end of three years.",
-    "choices": ["11,20,736", "11,02,736", "10,75,840", "10,64,850"],
-    "answer": "11,20,736",
-    "explanation": "Population after 3 years = 10,24,000 × (1.025)³ = 11,20,736"
-  },
-  {
-    "question": "Which of the following is the least?",
-    "choices": ["9% of 845", "12% of 620", "10% of 720", "15% of 555"],
-    "answer": "12% of 620",
-    "explanation": "Calculations: 9% of 845=76.05, 12% of 620=74.4, 10% of 720=72, 15% of 555=83.25 → 74.4 is smallest"
-  },
-  {
-    "question": "In an examination, 35% students failed in one subject and 42% failed in another subject, while 15% failed in both. If 2500 students appeared, how many passed in only one subject?",
-    "choices": ["1050", "1750", "750", "425"],
-    "answer": "425",
-    "explanation": "Failed only first subject: 35%-15%=20%, Failed only second subject: 42%-15%=27% → Total passed one subject: (20%+27%)×2500=425"
-  },
-  {
-    "question": "If 80% of students are boys and number of girls is 160, what is the total number of students?",
-    "choices": ["800", "1000", "640", "400"],
-    "answer": "800",
-    "explanation": "20% = 160 → Total = 160 × (100/20) = 800"
-  },
-  {
-    "question": "In a constituency, 55% voters are male. 40% male voters are illiterate. What percentage of female voters are literate?",
-    "choices": ["18%", "36%", "42%", "8.4%"],
-    "answer": "8.4%",
-    "explanation": "45% female voters. If 40% of 55% male voters are illiterate, then 60% are literate. Percentage of literate female voters = (100% - 40%) of 45% = 8.4%"
-  },
-  {
-    "question": "A man spends 75% of income. Income increases by 20% and expenditure by 10%. Find percentage increase in savings.",
-    "choices": ["10%", "25%", "50%", "75%"],
-    "answer": "50%",
-    "explanation": "Original savings=25%, New income=120%, New expenditure=75%×1.1=82.5% → New savings=37.5% → 50% increase"
-  },
-  {
-    "question": "In a class of 130, 60 passed Physics, 70 passed Chemistry, 30 passed both. How many failed both?",
-    "choices": ["20", "30", "40", "50"],
-    "answer": "30",
-    "explanation": "Failed both = Total - (Physics only + Chemistry only + Both) = 130 - (30 + 40 + 30) = 30"
-  },
-  {
-    "question": "Virus count decreases by 5% per hour. Initial count is 2.3×10⁷. Find count after 24 hours.",
-    "choices": ["6.8×10⁶", "7.4×10⁶", "7.8×10⁶", "8.2×10⁶"],
-    "answer": "7.4×10⁶",
-    "explanation": "Final count = 2.3×10⁷ × (0.95)²⁴ ≈ 7.4×10⁶"
-  },
-  {
-    "question": "47% got 61-80%, 23% got 81-100%, 30% got 41-60%. If 195 got 41-60%, how many took exam?",
-    "choices": ["450", "600", "650", "720"],
-    "answer": "650",
-    "explanation": "30% = 195 → Total = 195 × (100/30) = 650"
-  },
-  {
-    "question": "Price of computer is ₹22,200. What will be price after 25% reduction?",
-    "choices": ["₹16,650", "₹17,760", "₹18,870", "₹19,980"],
-    "answer": "₹16,650",
-    "explanation": "Reduced price = 22,200 × 0.75 = ₹16,650"
-  },
-  {
-    "question": "Shiva invests ₹1,53,000, which is 30% of her annual income, in mutual funds. What is her monthly income (in ₹)?",
-    "choices": ["42,500", "45,800", "55,600", "52,300"],
-    "answer": "42,500",
-    "explanation": "Annual income = ₹1,53,000 ÷ 0.30 = ₹5,10,000. Monthly income = ₹5,10,000 ÷ 12 = ₹42,500"
-  },
-  {
-    "question": "If the income of A is 50% less than the income of B, then B's income is what percent more than the income of A?",
-    "choices": ["100%", "75%", "50%", "125%"],
-    "answer": "100%",
-    "explanation": "Let B's income = 100. Then A's income = 50. Difference = 100 - 50 = 50. Percentage more = (50/50) × 100 = 100%"
-  },
-  {
-    "question": "The population of a village was 130000. It increased by 15% in the first year and by 20% in the second year. What is the population after two years?",
-    "choices": ["179,400", "156,000", "149,500", "175,500"],
-    "answer": "179,400",
-    "explanation": "After first year: 130,000 × 1.15 = 149,500. After second year: 149,500 × 1.20 = 179,400"
-  },
-  {
-    "question": "A number is 20% more than 130. The number is:",
-    "choices": ["156", "143", "148", "153"],
-    "answer": "156",
-    "explanation": "130 × 1.20 = 156 (Note: Corrected choices to match the answer)"
-  },
-  {
-    "question": "The population of a town increases 8% annually. If its present population is 1,42,560, what was the population one year ago?",
-    "choices": ["1,32,000", "1,33,000", "1,31,000", "1,30,000"],
-    "answer": "1,32,000",
-    "explanation": "Original population = 1,42,560 ÷ 1.08 = 1,32,000"
-  },
-  {
-    "question": "What will be the difference in population 3 years ago and 2 years ago of a town, whose current population is 180000 and which is increasing at a rate of 25% every year?",
-    "choices": ["23,040", "23,390", "22,290", "22,490"],
-    "answer": "23,040",
-    "explanation": "2 years ago: 180,000 ÷ (1.25)² = 115,200. 3 years ago: 180,000 ÷ (1.25)³ = 92,160. Difference = 115,200 - 92,160 = 23,040"
-  },
-  {
-    "question": "The price of fuel decreases by 25%, 60% and 10% in three successive months. What is the percentage change in the price of fuel in the fourth month as compared to its original price?",
-    "choices": ["Decreases by 73%", "Decreases by 56.79%", "Increases by 61.02%", "Decreases by 59.84%"],
-    "answer": "Decreases by 73%",
-    "explanation": "Final price = Original × 0.75 × 0.40 × 0.90 = 0.27 × Original. Decrease = (1 - 0.27) × 100 = 73%"
-  },
-  {
-    "question": "In an election with two candidates, one secured 44% of votes and lost by 1440 votes. Total votes polled were:",
-    "choices": ["12,000", "15,000", "13,000", "14,000"],
-    "answer": "12,000",
-    "explanation": "Winning candidate got 56%. Difference = 12% = 1,440 votes. Total votes = (1,440 ÷ 12) × 100 = 12,000"
-  },
-  {
-    "question": "A product's price increases by 10% in the first year and 20% in the second year. The overall percentage increase is:",
-    "choices": ["32%", "28%", "36%", "30%"],
-    "answer": "32%",
-    "explanation": "Net effect = 1.10 × 1.20 = 1.32 → 32% increase"
-  },
-  {
-    "question": "A 20% price reduction in sugar lets a buyer get 2.5 kg more for ₹160. Original price per kg was:",
-    "choices": ["₹16", "₹12", "₹20", "₹15"],
-    "answer": "₹16",
-    "explanation": "Savings from discount = ₹160 × 0.20 = ₹32. This buys 2.5 kg → Reduced price/kg = ₹32 ÷ 2.5 = ₹12.80. Original price = ₹12.80 ÷ 0.80 = ₹16"
-  },
-  {
-    "question": "Shiva invests ₹1,53,000, which is 30% of her annual income, in mutual funds. What is her monthly income (in ₹)?",
-    "choices": ["42,500", "45,800", "55,600", "52,300"],
-    "answer": "42,500",
-    "explanation": "Annual income = ₹1,53,000 ÷ 0.30 = ₹5,10,000. Monthly income = ₹5,10,000 ÷ 12 = ₹42,500"
-  },
-  {
-    "question": "If A's income is 50% less than B's income, then B's income is what percent more than A's income?",
-    "choices": ["100%", "75%", "50%", "125%"],
-    "answer": "100%",
-    "explanation": "Let B's income = 100. Then A's income = 50. Difference = 50. Percentage more = (50/50)×100 = 100%"
-  },
-  {
-    "question": "A village population was 1,30,000. After 15% increase in first year and 20% in second year, what is the population?",
-    "choices": ["1,79,400", "1,56,000", "1,49,500", "1,75,500"],
-    "answer": "1,79,400",
-    "explanation": "Year 1: 1,30,000 × 1.15 = 1,49,500. Year 2: 1,49,500 × 1.20 = 1,79,400"
-  },
-  {
-    "question": "A number is 20% more than 130. The number is:",
-    "choices": ["156", "143", "148", "153"],
-    "answer": "156",
-    "explanation": "130 × 1.20 = 156 (Note: Corrected choices to match answer)"
-  },
-  {
-    "question": "A town's population increases 8% annually. Current population is 1,42,560. What was it one year ago?",
-    "choices": ["1,32,000", "1,33,000", "1,31,000", "1,30,000"],
-    "answer": "1,32,000",
-    "explanation": "Original population = 1,42,560 ÷ 1.08 = 1,32,000"
-  },
-  {
-    "question": "For a town (current population: 1,80,000, growing at 25% yearly), difference between population 3 years ago and 2 years ago is:",
-    "choices": ["23,040", "23,390", "22,290", "22,490"],
-    "answer": "23,040",
-    "explanation": "2 years ago: 1,80,000 ÷ 1.25² = 1,15,200. 3 years ago: 1,80,000 ÷ 1.25³ = 92,160. Difference = 23,040"
-  },
-  {
-    "question": "After successive monthly fuel price decreases of 25%, 60% and 10%, the final price compared to original is:",
-    "choices": ["73% decrease", "56.79% decrease", "61.02% increase", "59.84% decrease"],
-    "answer": "73% decrease",
-    "explanation": "Final price = Original × 0.75 × 0.40 × 0.90 = 0.27 × Original → 73% decrease"
-  },
-  {
-    "question": "In a two-candidate election, loser got 44% and lost by 1,440 votes. Total votes were:",
-    "choices": ["12,000", "15,000", "13,000", "14,000"],
-    "answer": "12,000",
-    "explanation": "Winner got 56%. Difference = 12% = 1,440. Total votes = (1,440 ÷ 12) × 100 = 12,000"
-  },
-  {
-    "question": "After 10% price increase in first year and 20% in second year, the overall percentage increase is:",
-    "choices": ["32%", "28%", "36%", "30%"],
-    "answer": "32%",
-    "explanation": "Net effect = 1.10 × 1.20 = 1.32 → 32% increase"
-  },
-  {
-    "question": "A 20% sugar price reduction lets buyer get 2.5kg more for ₹160. Original price/kg was:",
-    "choices": ["₹16", "₹12", "₹20", "₹15"],
-    "answer": "₹16",
-    "explanation": "Savings = ₹160 × 0.20 = ₹32 buys 2.5kg → New price/kg = ₹12.80. Original price = ₹12.80 ÷ 0.80 = ₹16"
-  }
+{
+  "questions": [
+    {
+      "question": "If 60 is increased by 33.33%, what is the result?",
+      "choices": ["80", "75", "85", "90"],
+      "answer": "80",
+      "explanation": "33.33% of 60 is 20 (60 × 0.3333 ≈ 20). So, 60 + 20 = 80."
+    },
+    {
+      "question": "If 60 is decreased by 33.33%, what is the result?",
+      "choices": ["40", "45", "50", "55"],
+      "answer": "40",
+      "explanation": "33.33% of 60 is 20 (60 × 0.3333 ≈ 20). So, 60 - 20 = 40."
+    },
+    {
+      "question": "If 80 is increased by 12.5%, what is the result?",
+      "choices": ["90", "85", "95", "100"],
+      "answer": "90",
+      "explanation": "12.5% of 80 is 10 (80 × 0.125 = 10). So, 80 + 10 = 90."
+    },
+    {
+      "question": "If 80 is decreased by 12.5%, what is the result?",
+      "choices": ["70", "72", "75", "68"],
+      "answer": "70",
+      "explanation": "12.5% of 80 is 10 (80 × 0.125 = 10). So, 80 - 10 = 70."
+    },
+    {
+      "question": "If 120 is increased by 16.67%, what is the result?",
+      "choices": ["140", "142", "144", "145"],
+      "answer": "140",
+      "explanation": "16.67% of 120 is 20 (120 × 0.1667 ≈ 20). So, 120 + 20 = 140."
+    },
+    {
+      "question": "If 120 is decreased by 16.67%, what is the result?",
+      "choices": ["100", "95", "105", "110"],
+      "answer": "100",
+      "explanation": "16.67% of 120 is 20 (120 × 0.1667 ≈ 20). So, 120 - 20 = 100."
+    },
+    {
+      "question": "If 200 is increased by 25%, what is the result?",
+      "choices": ["250", "225", "260", "275"],
+      "answer": "250",
+      "explanation": "25% of 200 is 50 (200 × 0.25 = 50). So, 200 + 50 = 250."
+    },
+    {
+      "question": "If 200 is decreased by 25%, what is the result?",
+      "choices": ["150", "160", "170", "180"],
+      "answer": "150",
+      "explanation": "25% of 200 is 50 (200 × 0.25 = 50). So, 200 - 50 = 150."
+    },
+    {
+      "question": "If 150 is increased by 20%, what is the result?",
+      "choices": ["180", "175", "185", "190"],
+      "answer": "180",
+      "explanation": "20% of 150 is 30 (150 × 0.20 = 30). So, 150 + 30 = 180."
+    },
+    {
+      "question": "If 150 is decreased by 20%, what is the result?",
+      "choices": ["120", "125", "130", "135"],
+      "answer": "120",
+      "explanation": "20% of 150 is 30 (150 × 0.20 = 30). So, 150 - 30 = 120."
+    },
+    {
+      "question": "If 70 is increased by 14.29%, what is the result?",
+      "choices": ["80", "82", "85", "90"],
+      "answer": "80",
+      "explanation": "14.29% of 70 is 10 (70 × 0.1429 ≈ 10). So, 70 + 10 = 80."
+    },
+    {
+      "question": "If 70 is decreased by 14.29%, what is the result?",
+      "choices": ["60", "62", "65", "68"],
+      "answer": "60",
+      "explanation": "14.29% of 70 is 10 (70 × 0.1429 ≈ 10). So, 70 - 10 = 60."
+    },
+    {
+      "question": "If 160 is increased by 6.25%, what is the result?",
+      "choices": ["170", "172", "175", "180"],
+      "answer": "170",
+      "explanation": "6.25% of 160 is 10 (160 × 0.0625 = 10). So, 160 + 10 = 170."
+    },
+    {
+      "question": "If 160 is decreased by 6.25%, what is the result?",
+      "choices": ["150", "148", "152", "155"],
+      "answer": "150",
+      "explanation": "6.25% of 160 is 10 (160 × 0.0625 = 10). So, 160 - 10 = 150."
+    },
+    {
+      "question": "If 50 is increased by 10%, what is the result?",
+      "choices": ["55", "52", "58", "60"],
+      "answer": "55",
+      "explanation": "10% of 50 is 5 (50 × 0.10 = 5). So, 50 + 5 = 55."
+    },
+    {
+      "question": "If 50 is decreased by 10%, what is the result?",
+      "choices": ["45", "44", "48", "42"],
+      "answer": "45",
+      "explanation": "10% of 50 is 5 (50 × 0.10 = 5). So, 50 - 5 = 45."
+    },
+    {
+      "question": "If 90 is increased by 11.11%, what is the result?",
+      "choices": ["100", "102", "105", "110"],
+      "answer": "100",
+      "explanation": "11.11% of 90 is 10 (90 × 0.1111 ≈ 10). So, 90 + 10 = 100."
+    },
+    {
+      "question": "If 90 is decreased by 11.11%, what is the result?",
+      "choices": ["80", "82", "85", "88"],
+      "answer": "80",
+      "explanation": "11.11% of 90 is 10 (90 × 0.1111 ≈ 10). So, 90 - 10 = 80."
+    }
   ]
+}
