@@ -51,7 +51,7 @@ const subjects = {
             'squares2': { displayName: 'Squares 31 to 40'},
             'squares3': { displayName: 'Squares 41 to 50'},
             'cubes': {displayName: 'Cubes'},
-            'percentage': {displayName: 'Percentage'},
+            'percentage': {displayName: 'Percentage Basic Questions'},
             'standardPercentage': {displayName: 'Standard Percentages'}
         }
     },
