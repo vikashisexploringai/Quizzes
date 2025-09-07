@@ -60,7 +60,13 @@ const subjects = {
         themes: {
             'alphabetPositions': { displayName: 'Alphabet Positions' }
         }
-    }
+    },
+    'bihar': {
+        displayName: 'Bihar Specific',
+        themes: {
+            'biharSpecific': { displayName: 'Bihar Specific' }
+        }
+        }
     // Add more subjects as needed
 };
 
