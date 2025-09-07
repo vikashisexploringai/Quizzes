@@ -1,1 +1,14 @@
-
+[
+  {
+    "question": "What is the approximate east-west length, in kilometers, of the state of Bihar?",
+    "choices": ["120 km", "280 km", "483 km", "650 km"],
+    "answer": "483 km",
+    "explanation": "The state of Bihar has an east-west length of approximately 483 kilometers (300 miles)."
+  },
+  {
+    "question": "What is the approximate north-south width, in kilometers, of the state of Bihar?",
+    "choices": ["120 km", "280 km", "345 km", "440 km"],
+    "answer": "345 km",
+    "explanation": "The state of Bihar has a north-south width of approximately 345 kilometers (214 miles)."
+  }
+]
