@@ -65,5 +65,16 @@
     ],
     "answer": "The population density is 950 persons per square km",
     "explanation": "Highest density state with 1,106 persons per square km."
+  },
+  {
+    "question": "Which of the following is NOT correct as per the 2011 Census for Bihar?",
+    "choices": [
+      "The Scheduled Caste (SC) population is 15.9% of the total population",
+      "The Scheduled Tribe (ST) population is 1.3% of the total population",
+      "The district with the highest SC population is Aurangabad",
+      "The district with the highest ST population is West Champaran"
+    ],
+    "answer": "The district with the highest SC population is Aurangabad",
+    "explanation": "Gaya. These district facts are based on absolute numbers not percentage."
   }
   ]
