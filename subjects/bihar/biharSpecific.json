@@ -26,12 +26,12 @@
     "question": "Which of the following statements about the latitudinal and longitudinal extent of Bihar is NOT correct?",
     "choices": [
       "The northernmost point is in West Champaran at approximately 27°31' N",
-      "The southernmost point is in Gaya at approximately 24°20' N",
+      "The southernmost point is in Aurangabad at approximately 24°20' N",
       "The westernmost point is in Kaimur at approximately 83°19' E",
       "The easternmost point is in Kishanganj at approximately 88°17' E"
     ],
-    "answer": "The southernmost point is in Gaya at approximately 24°20' N",
-    "explanation": "Dumaria and Imamganj are two southernmost blocks in Gaya dist."
+    "answer": "The southernmost point is in Aurangabad at approximately 24°20' N",
+    "explanation": "Southernmost point is in Gaya district. Dumaria and Imamganj are two southernmost blocks in Gaya dist."
   },
   {
     "question": "Which of the following statements about the area of Bihar is NOT correct?",
@@ -64,6 +64,6 @@
       "Patna has the highest percentage of urban population and Samastipur has the lowest"
     ],
     "answer": "The population density is 950 persons per square km",
-    "explanation": "1,106 persons per square km."
+    "explanation": "Highest density state with 1,106 persons per square km."
   }
   ]
