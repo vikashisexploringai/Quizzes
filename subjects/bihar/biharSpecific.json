@@ -19,8 +19,8 @@
       "The eastern border is around 200 km away from the sea",
       "Road density is 3167 km/1000 sq km."
     ],
-    "answer": "The average height from the sea is 53 m",
-    "explanation": "Bihar shares the longest land border with Nepal among Indian states."
+    "answer": "The average height from the sea is 73 m",
+    "explanation": "53 m. Bihar shares the longest land border with Nepal among Indian states."
   },
   {
     "question": "Which of the following statements about the latitudinal and longitudinal extent of Bihar is NOT correct?",
@@ -54,5 +54,16 @@
     ],
     "answer": "Consisting of 8.6% of India's population, Bihar is the 5th largest state population-wise",
     "explanation": "3rd largest. Madhepura grew with highest decadal growth rate of 31.2%."
+  },
+  {
+    "question": "Which of the following is NOT correct as per the 2011 Census for Bihar?",
+    "choices": [
+      "The population density is 950 persons per square km",
+      "Sheohar has the highest population density and Kaimur has the lowest",
+      "The urban population is 11.3% of the total population",
+      "Patna has the highest percentage of urban population and Samastipur has the lowest"
+    ],
+    "answer": "The population density is 950 persons per square km",
+    "explanation": "1,106 persons per square km."
   }
   ]
