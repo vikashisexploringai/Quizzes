@@ -32,5 +32,16 @@
     ],
     "answer": "The southernmost point is in Gaya at approximately 24°20' N",
     "explanation": "Dumaria and Imamganj are two southernmost blocks in Gaya dist."
+  },
+  {
+    "question": "Which of the following statements about the area of Bihar is NOT correct?",
+    "choices": [
+      "Bihar covers an area of 94,163 square kilometers",
+      "It is the 14th largest state by area in India",
+      "Sheohar is the smallest district by area",
+      "West Champaran is the largest district by area"
+    ],
+    "answer": "It is the 14th largest state by area in India",
+    "explanation": "12th, covering 2.86% of India's total geographical area."
   }
-  ]
+]
