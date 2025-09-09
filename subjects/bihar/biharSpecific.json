@@ -21,5 +21,16 @@
     ],
     "answer": "The average height from the sea is 53 m",
     "explanation": "Bihar shares the longest land border with Nepal among Indian states."
+  },
+  {
+    "question": "Which of the following statements about the latitudinal and longitudinal extent of Bihar is NOT correct?",
+    "choices": [
+      "The northernmost point is in West Champaran at approximately 27°31' N",
+      "The southernmost point is in Gaya at approximately 24°20' N",
+      "The westernmost point is in Kaimur at approximately 83°19' E",
+      "The easternmost point is in Kishanganj at approximately 88°17' E"
+    ],
+    "answer": "The southernmost point is in Gaya at approximately 24°20' N",
+    "explanation": "Dumaria and Imamganj are two southernmost blocks in Gaya dist."
   }
   ]
