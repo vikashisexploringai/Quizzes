@@ -43,5 +43,16 @@
     ],
     "answer": "It is the 14th largest state by area in India",
     "explanation": "12th, covering 2.86% of India's total geographical area."
+  },
+  {
+    "question": "Which of the following is NOT correct as per the 2011 Census for Bihar?",
+    "choices": [
+      "Population is 10.41 Crore",
+      "Consisting of 8.6% of India's population, Bihar is the 5th largest state population-wise",
+      "Patna has the largest population and Sheikhpura has the lowest",
+      "Decadal population growth rate is 25.4%"
+    ],
+    "answer": "Consisting of 8.6% of India's population, Bihar is the 5th largest state population-wise",
+    "explanation": "3rd largest. Madhepura grew with highest decadal growth rate of 31.2%."
   }
-]
+  ]
