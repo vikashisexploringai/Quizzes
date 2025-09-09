@@ -76,5 +76,16 @@
     ],
     "answer": "The district with the highest SC population is Aurangabad",
     "explanation": "Gaya. These district facts are based on absolute numbers not percentage."
+  },
+  {
+    "question": "Which of the following is NOT correct as per the 2011 Census for Bihar?",
+    "choices": [
+      "The sex ratio is 918, with the highest in Gopalganj (1021) and the lowest in Munger (876)",
+      "The literacy rate is 61.8%, with male literacy at 71.2% and female literacy at 51.5%",
+      "Rohtas has the highest overall, male, and female literacy rates",
+      "Purnia has the lowest overall, male, and female literacy rates"
+    ],
+    "answer": "Purnia has the lowest overall, male, and female literacy rates",
+    "explanation": " Purnia has the lowest overall and male literacy rates but Saharsa has the lowest female literacy rates"
   }
   ]
