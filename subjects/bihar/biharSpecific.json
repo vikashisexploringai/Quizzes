@@ -98,5 +98,17 @@
     ],
     "answer": "Bihar has 85 Members of the Legislative Council (MLCs)",
     "explanation": "75 MLCs"
+  },
+  {
+    "question": "Which of the following administrative facts about Bihar is NOT correct?",
+    "choices": [
+      "Bihar is divided into 13 divisions",
+      "Bihar has 38 districts",
+      "Bihar has 101 subdivisions",
+      "Bihar has 534 blocks"
+    ],
+    "answer": "Bihar is divided into 13 divisions",
+    "explanation": "9 divisions: Tirhut, Darbhanga, Koshi, Purnia, Bhagalpur, Munger, Magadh, Patna, and Saran"
   }
+]
 ]
