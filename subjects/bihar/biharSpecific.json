@@ -87,5 +87,16 @@
     ],
     "answer": "Purnia has the lowest overall, male, and female literacy rates",
     "explanation": " Purnia has the lowest overall and male literacy rates but Saharsa has the lowest female literacy rates"
+  },
+  {
+    "question": "Which of the following statements about Bihar's parliamentary and legislative representation is NOT correct?",
+    "choices": [
+      "Bihar has 40 Lok Sabha MPs, with 6 seats reserved for Scheduled Castes (SC)",
+      "Bihar has 16 Rajya Sabha MPs",
+      "Bihar has 243 MLAs, with 38 seats reserved for SCs, and Manihari (Katihar) and Katoria (Banka) reserved for STs",
+      "Bihar has 85 Members of the Legislative Council (MLCs)"
+    ],
+    "answer": "Bihar has 85 Members of the Legislative Council (MLCs)",
+    "explanation": "75 MLCs"
   }
-  ]
+]
