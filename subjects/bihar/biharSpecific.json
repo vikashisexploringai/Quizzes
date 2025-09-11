@@ -109,5 +109,16 @@
     ],
     "answer": "Bihar is divided into 13 divisions",
     "explanation": "9 divisions: Tirhut, Darbhanga, Koshi, Purnia, Bhagalpur, Munger, Magadh, Patna, and Saran"
+  },
+  {
+    "question": "Which of the following geographical statements about Bihar is NOT correct?",
+    "choices": [
+      "Kanwar Taal in Begusarai, formed by the Gandak river, is Asia's largest oxbow lake and Bihar's only Ramsar site",
+      "The Kharagpur hills in Jamui, Banka, and Munger are part of the Koderma plateau",
+      "The highest peak in Bihar is the Someshwar Fort in West Champaran",
+      "Gogabeel in Katihar district is an oxbow lake and Bihar's first community reserve"
+    ],
+    "answer": "Kanwar Taal in Begusarai, formed by the Gandak river, is Asia's largest oxbow lake and Bihar's only Ramsar site",
+    "explanation": "Nagi dam and Nakti dam are another two. "
   }
 ]
