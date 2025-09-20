@@ -64,7 +64,14 @@ const subjects = {
     'bihar': {
         displayName: 'Bihar Specific',
         themes: {
-            'biharSpecific': { displayName: 'Bihar Specific' }
+            'biharSpecific': { displayName: 'Bihar Specific' } 
+        }
+        },
+    'gst': {
+        displayName: 'CGST',
+        themes: {
+            'forms': { displayName: 'Forms' },
+            'sections': { displayName: 'Sections' }
         }
         }
     // Add more subjects as needed
