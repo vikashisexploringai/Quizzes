@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which form is used by a regular taxpayer to file their monthly GST return?",
+    "choices": ["GSTR-1", "GSTR-3B", "GSTR-4", "GSTR-9"],
+    "answer": "GSTR-3B",
+    "explanation": "GSTR-3B is a simplified monthly self-declaration return form. It is used to declare summary details of outward supplies, input tax credit claimed, and payment of tax liability."
+  },
+  {
+    "question": "Which form must be filed to declare details of all outward supplies (sales) made in a month?",
+    "choices": ["GSTR-2A", "GSTR-3B", "GSTR-1", "GSTR-9"],
+    "answer": "GSTR-1",
+    "explanation": "GSTR-1 is a monthly or quarterly return that contains details of all taxable goods and/or services sold (outward supplies) by the taxpayer. The data auto-populates in the recipient's GSTR-2A."
+  },
+  {
+    "question": "Which form is the annual return that must be filed by every regular GST taxpayer?",
+    "choices": ["GSTR-8", "GSTR-9C", "GSTR-9", "GSTR-10"],
+    "answer": "GSTR-9",
+    "explanation": "GSTR-9 is an annual return that consolidates the details declared in monthly/quarterly returns (GSTR-1, GSTR-3B) for a financial year. It must be filed by December 31st of the following year."
+  },
+  {
+    "question": "Which form is used by a composition dealer to file their quarterly return?",
+    "choices": ["GSTR-4", "GSTR-9A", "CMP-08", "GSTR-1"],
+    "answer": "CMP-08",
+    "explanation": "CMP-08 is the form used by taxpayers registered under the Composition Scheme to pay their quarterly tax. They must also file an annual return in GSTR-4."
+  },
+  {
+    "question": "Which form is a reconciliation statement and must be filed by taxpayers whose annual turnover exceeds a specified limit?",
+    "choices": ["GSTR-9", "GSTR-9A", "GSTR-9C", "GSTR-10"],
+    "answer": "GSTR-9C",
+    "explanation": "GSTR-9C is a reconciliation statement between the annual returns in GSTR-9 and the audited financial statements. It must be certified by a Chartered Accountant or Cost Accountant."
+  },
+  {
+    "question": "Which form is automatically generated for a recipient based on the supplier's GSTR-1?",
+    "choices": ["GSTR-2A", "GSTR-2B", "GSTR-3B", "GSTR-1"],
+    "answer": "GSTR-2A",
+    "explanation": "GSTR-2A is a dynamic, read-only form that is auto-populated with the details of inward supplies (purchases) based on what your suppliers have declared in their GSTR-1. It helps in verifying input tax credit (ITC)."
+  },
+  {
+    "question": "Which form must be filed to apply for the cancellation of GST registration?",
+    "choices": ["GSTR-10", "GST REG-16", "GST REG-20", "GSTR-9"],
+    "answer": "GST REG-16",
+    "explanation": "GST REG-16 is the application form for cancellation of GST registration. This is filed when a business ceases to exist or is no longer liable to pay GST."
+  },
+  {
+    "question": "Which form is the final return to be filed upon cancellation of GST registration?",
+    "choices": ["GSTR-10", "GST REG-16", "GSTR-9", "GSTR-4"],
+    "answer": "GSTR-10",
+    "explanation": "GSTR-10 is known as the Final Return. It is required to be filed by a taxpayer whose GST registration has been surrendered or cancelled. It details stock and other liabilities."
+  },
+  {
+    "question": "Which form is used by a non-resident taxable person to file their return?",
+    "choices": ["GSTR-5", "GSTR-6", "GSTR-5A", "GSTR-11"],
+    "answer": "GSTR-5",
+    "explanation": "GSTR-5 is the return that must be filed by a Non-Resident Taxable Person (a foreigner supplying goods/services in India but without a fixed place of business)."
+  },
+  {
+    "question": "Which form is used by an Input Service Distributor (ISD) to distribute input tax credit?",
+    "choices": ["GSTR-6", "GSTR-5", "GSTR-3B", "GSTR-1"],
+    "answer": "GSTR-6",
+    "explanation": "GSTR-6 is a monthly return filed by an Input Service Distributor (ISD). It contains details of input tax credit received and distributed by them to their branches (recipients)."
+  }
+]
