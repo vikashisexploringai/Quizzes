@@ -131,5 +131,17 @@
     ],
     "answer": "The provinces of Bihar and Orissa were separated from Bengal on April 1, 1912",
     "explanation": "The correct date for the separation of Bihar and Orissa from the Bengal Presidency is **March 22, 1912**."
+  },
+  {
+    "question": "Which of the following statements about the First Buddhist Council is NOT correct?",
+    "choices": [
+      "It was held during the reign of King Ajatashatru",
+      "It was held under the chairmanship of Mahakasyapa",
+      "It was held at Rajgriha (Rajgir)",
+      "Its main consequence was the creation of the two major sects, Mahayana and Theravada"
+    ],
+    "answer": "Its main consequence was the creation of the two major sects, Mahayana and Theravada",
+    "explanation": "The First Buddhist Council, held around 483 BCE shortly after the Buddha's death, resulted into compilation of Buddha's teachings into the Sutta Pitaka (containing the discourses) and the Vinaya Pitaka (containing the monastic rules). The major schism into Mahayana and Theravada (or other early schools like Sthaviravāda and Mahāsāṃghika) occurred much later, over several centuries."
   }
-  ]
+]
+]
