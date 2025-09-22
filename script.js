@@ -19,7 +19,7 @@ const subjects = {
             'contemporaryHistory': { displayName: 'Contemporary History' },
             'indianRulers': { displayName: 'Indian Rulers Timeline' },
             'britishGovernors': { displayName: 'Governor Generals and Viceroys' },
-            'ancientAndMedievalPersonalities': { displayName: 'Ancient and Medieval Personalities' }
+            'ancientAndMedievalHistory': { displayName: 'Ancient and Medieval History' }
         }
     },
     'polity': {
