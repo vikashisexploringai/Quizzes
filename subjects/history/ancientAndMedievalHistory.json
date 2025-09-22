@@ -1,5 +1,48 @@
 [
-  
+  {
+    "question": "When was the First Buddhist Council held?",
+    "choices": [
+      "During the reign of King Ajatashatru (c. 483 BCE)",
+      "During the reign of King Kalasoka (c. 383 BCE)",
+      "During the reign of Emperor Ashoka (c. 250 BCE)",
+      "During the reign of King Kanishka (c. 1st century CE)"
+    ],
+    "answer": "During the reign of King Ajatashatru (c. 483 BCE)",
+    "explanation": "The First Buddhist Council was held around 483 BCE at Rajgriha (Rajgir) during the reign of King Ajatashatru. It was convened shortly after Buddha's Parinirvana and was presided over by Mahakasyapa. The main purpose was to preserve Buddha's teachings by reciting and codifying the Sutta (discourses) and Vinaya (monastic rules). Ananda recited the Suttas and Upali recited the Vinaya. This council laid the foundation for the preservation of Buddhist scriptures."
+  },
+  {
+    "question": "When was the Second Buddhist Council held?",
+    "choices": [
+      "During the reign of King Ajatashatru (c. 483 BCE)",
+      "During the reign of King Kalasoka (c. 383 BCE)",
+      "During the reign of Emperor Ashoka (c. 250 BCE)",
+      "During the reign of King Kanishka (c. 1st century CE)"
+    ],
+    "answer": "During the reign of King Kalasoka (c. 383 BCE)",
+    "explanation": "The Second Buddhist Council was held around 383 BCE at Vaishali during the reign of King Kalasoka. It was convened to discuss ten points of monastic discipline (Vinaya) and was presided over by Elder Sabakami. The council resulted in the first major schism between the orthodox Sthaviravadins and the reformist Mahasanghikas (not directly into Theravada and Mahayana, which developed later)."
+  },
+  {
+    "question": "When was the Third Buddhist Council held?",
+    "choices": [
+      "During the reign of King Ajatashatru (c. 483 BCE)",
+      "During the reign of King Kalasoka (c. 383 BCE)",
+      "During the reign of Emperor Ashoka (c. 250 BCE)",
+      "During the reign of King Kanishka (c. 1st century CE)"
+    ],
+    "answer": "During the reign of Emperor Ashoka (c. 250 BCE)",
+    "explanation": "The Third Buddhist Council was held around 250 BCE at Pataliputra (modern Patna) during Emperor Ashoka's reign. Presided over by Moggaliputta Tissa, its main purpose was to purify the Sangha from corrupt monks and refute heretical views, though it also helped compile the Abhidhamma Pitaka."
+  },
+  {
+    "question": "When was the Fourth Buddhist Council held?",
+    "choices": [
+      "During the reign of King Ajatashatru (c. 483 BCE)",
+      "During the reign of King Kalasoka (c. 383 BCE)",
+      "During the reign of Emperor Ashoka (c. 250 BCE)",
+      "During the reign of King Kanishka (c. 1st century CE)"
+    ],
+    "answer": "During the reign of King Kanishka (c. 1st century CE)",
+    "explanation": "The Fourth Buddhist Council was held in the 1st century CE in Kashmir under King Kanishka's patronage. Chaired by Vasumitra with Ashvaghosh as his deputy, it compiled the Mahavibhasha commentary and systematized Sarvastivadin Abhidharma texts. While the Hinayana-Mahayana division had already begun earlier, this council saw a more formal and institutional separation between the two major Buddhist traditions."
+  },
   {
     "question": "Which century did Panini, the Sanskrit grammarian, belong to?",
     "choices": ["4th BCE", "2nd BCE", "1st CE", "3rd CE"],
