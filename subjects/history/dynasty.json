@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What was the period of rule of the Haryanka dynasty?",
+    "choices": [
+      "c. 544 BCE – 413 BCE",
+      "c. 413 BCE – 345 BCE",
+      "c. 345 BCE – 321 BCE",
+      "c. 321 BCE – 185 BCE"
+    ],
+    "answer": "c. 544 BCE – 413 BCE",
+    "explanation": "The Haryanka dynasty ruled from c. 544 BCE to 413 BCE. Its first three rulers were Bimbisara, Ajatashatru, and Udayin (who shifted the capital to Pataliputra). The last ruler was Nagadasaka."
+  },
+  {
+    "question": "What was the period of rule of the Shishunaga dynasty?",
+    "choices": [
+      "c. 544 BCE – 413 BCE",
+      "c. 413 BCE – 345 BCE",
+      "c. 345 BCE – 321 BCE",
+      "c. 185 BCE – 73 BCE"
+    ],
+    "answer": "c. 413 BCE – 345 BCE",
+    "explanation": "The Shishunaga dynasty ruled from c. 413 BCE to c. 345 BCE. Its rulers included Shishunaga, Kalashoka, Nandivardhana, and Mahanandin, who was killed by his illegitimate son, Mahapadma Nanda."
+  },
+  {
+    "question": "What was the period of rule of the Nanda dynasty?",
+    "choices": [
+      "c. 413 BCE – 345 BCE",
+      "c. 345 BCE – 321 BCE",
+      "c. 321 BCE – 185 BCE",
+      "c. 185 BCE – 73 BCE"
+    ],
+    "answer": "c. 345 BCE – 321 BCE",
+    "explanation": "The Nanda Dynasty ruled from c. 345 BCE to c. 321 BCE. Founded by Mahapadma Nanda, it was known for its vast wealth. The last ruler, Dhana Nanda, was overthrown by Chandragupta Maurya."
+  },
+  {
+    "question": "What was the period of rule of the Mauryan Empire?",
+    "choices": [
+      "c. 544 BCE – 413 BCE",
+      "c. 345 BCE – 321 BCE",
+      "c. 321 BCE – 185 BCE",
+      "c. 73 BCE – 28 BCE"
+    ],
+    "answer": "c. 321 BCE – 185 BCE",
+    "explanation": "The Mauryan Empire ruled from c. 321 BCE to c. 185 BCE. Founded by Chandragupta Maurya, its first four rulers were Chandragupta, Bindusara, Ashoka, and Dasharatha. The last ruler was Brihadratha."
+  },
+  {
+    "question": "What was the period of rule of the Shunga dynasty?",
+    "choices": [
+      "c. 321 BCE – 185 BCE",
+      "c. 185 BCE – 73 BCE",
+      "c. 73 BCE – 28 BCE",
+      "c. 413 BCE – 345 BCE"
+    ],
+    "answer": "c. 185 BCE – 73 BCE",
+    "explanation": "The Shunga Dynasty ruled from c. 185 BCE to c. 73 BCE. It was founded by Pushyamitra Shunga after assassinating the last Mauryan ruler. The last ruler was Devbhuti. Besnagar(Vidisha) was additional capital."
+  },
+  {
+    "question": "What was the period of rule of the Kanva dynasty?",
+    "choices": [
+      "c. 345 BCE – 321 BCE",
+      "c. 185 BCE – 73 BCE",
+      "c. 73 BCE – 28 BCE",
+      "c. 321 BCE – 185 BCE"
+    ],
+    "answer": "c. 73 BCE – 28 BCE",
+    "explanation": "The Kanva Dynasty ruled from c. 73 BCE to c. 28 BCE. It was founded by Vasudeva Kanva, who overthrew the Shunga dynasty. By this time, the kingdom of Magadha had significantly reduced in size. Besnagar(Vidisha) was additional capital."
+  }
+]
