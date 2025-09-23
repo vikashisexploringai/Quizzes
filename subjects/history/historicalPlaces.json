@@ -20,5 +20,27 @@
     ],
     "answer": "Udayagiri Caves, Odisha",
     "explanation": "The Hathigumpha, meaning 'Elephant Cave', is located in the Udayagiri hills near Bhubaneswar, Odisha. It is famous for the Hathigumpha inscription, a lengthy Prakrit inscription in the Brahmi script commissioned by King Kharavela of the Mahameghavahana dynasty, who ruled Kalinga in the 1st century BCE. The inscription provides a detailed account of his reign."
+  },
+  {
+    "question": "Where was the ancient city of Pragjyotishpura located?",
+    "choices": [
+      "Near the banks of the Ganga River in Uttar Pradesh",
+      "In the region of present-day Kannauj, Uttar Pradesh",
+      "In the Kamarupa kingdom, near present-day Guwahati, Assam",
+      "In the delta of the Krishna River, Andhra Pradesh"
+    ],
+    "answer": "In the Kamarupa kingdom, near present-day Guwahati, Assam",
+    "explanation": "Pragjyotishpura was the ancient capital of the Kamarupa kingdom, located in the region of present-day Guwahati, Assam. The city is mentioned in the Mahabharata and the Ramayana and was a significant political and cultural center in ancient Assam."
+  },
+  {
+    "question": "Which district is the ancient city of Manyakhet (Malkhed) located in?",
+    "choices": [
+      "Bagalkot district, Karnataka",
+      "Kalaburagi district, Karnataka",
+      "Raichur district, Karnataka",
+      "Bidar district, Karnataka"
+    ],
+    "answer": "Kalaburagi district, Karnataka",
+    "explanation": "Manyakhet, today known as Malkhed, is located in the present-day Kalaburagi district of Karnataka. It served as the capital of the powerful Rashtrakuta Empire between the 8th and 10th centuries CE. The city is situated near the Kagina River, a tributary of the Bhima River."
   }
-]
+  ]
