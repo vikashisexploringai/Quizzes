@@ -255,7 +255,7 @@ function displayQuestion() {
     const explanationContainer = document.getElementById('explanation-container');
     
     // Update progress bar
-    const progress = ((currentQuestionIndex) / selectedQuestions.length) * 100;
+    const progress = ((currentQuestionIndex + 1) / selectedQuestions.length) * 100;
     document.getElementById('progress-bar').style.width = `${progress}%`;
     
     // Hide explanation and show question
