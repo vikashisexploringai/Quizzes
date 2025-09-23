@@ -1,0 +1,24 @@
+[
+  {
+    "question": "Which district is Bharhut village situated in?",
+    "choices": [
+      "Satna district, Madhya Pradesh",
+      "Khurda district, Odisha",
+      "Gaya district, Bihar",
+      "Ujjain district, Madhya Pradesh"
+    ],
+    "answer": "Satna district, Madhya Pradesh",
+    "explanation": "Bharhut is a village located in the Satna district of Madhya Pradesh, India. It is renowned for the Bharhut Stupa, an ancient Buddhist site. The stupa's sculptural remains, now primarily in the Indian Museum in Kolkata, are famous for their early Indian art, dating back to the Shunga period (c. 2nd century BCE)."
+  },
+  {
+    "question": "Where is the Hathigumpha located?",
+    "choices": [
+      "Ellora Caves, Maharashtra",
+      "Udayagiri Caves, Odisha",
+      "Ajanta Caves, Maharashtra",
+      "Elephanta Caves, Maharashtra"
+    ],
+    "answer": "Udayagiri Caves, Odisha",
+    "explanation": "The Hathigumpha, meaning 'Elephant Cave', is located in the Udayagiri hills near Bhubaneswar, Odisha. It is famous for the Hathigumpha inscription, a lengthy Prakrit inscription in the Brahmi script commissioned by King Kharavela of the Mahameghavahana dynasty, who ruled Kalinga in the 1st century BCE. The inscription provides a detailed account of his reign."
+  }
+]
