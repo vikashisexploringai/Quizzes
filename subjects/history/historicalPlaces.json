@@ -108,5 +108,60 @@
     ],
     "answer": "The Maluku Islands (Moluccas) in Indonesia",
     "explanation": "The 'Spice Islands' historically refer to the Maluku Islands (also known as the Moluccas) in present-day Indonesia. These islands, particularly Ternate, Tidore, Ambon, and the Banda Islands, were the world's sole source of nutmeg, mace, and cloves for centuries. Their immense economic value was the primary driver for European exploration and colonization in Asia, leading to the voyages of explorers like Vasco da Gama and Ferdinand Magellan."
+  },
+  {
+    "question": "Which present-day city in Kerala was historically known as the important port of Quilon?",
+    "choices": [
+      "Kochi",
+      "Kozhikode",
+      "Kollam",
+      "Thiruvananthapuram"
+    ],
+    "answer": "Kollam",
+    "explanation": "Quilon is the historical name for present-day Kollam, a coastal city in Kerala. It was a major international port on the Malabar Coast, prominent in the spice trade with Chinese, Arab, and Roman merchants. It served as the capital of the ancient Venad kingdom and was one of the earliest centers of Christianity in India."
+  },
+  {
+    "question": "In which modern district is the ancient Chola capital of Gangaikondacholapuram located?",
+    "choices": [
+      "Thanjavur District",
+      "Tiruchirapalli District", 
+      "Ariyalur District",
+      "Tiruppur District"
+    ],
+    "answer": "Ariyalur District",
+    "explanation": "Gangaikondacholapuram is located in the present-day Ariyalur District of Tamil Nadu. It was built by Rajendra Chola I (11th century CE) as his new capital to commemorate his victorious expedition to the Ganges. The city features the magnificent Brihadisvara Temple, a UNESCO World Heritage Site, and lies near the Kollidam River (a distributary of the Kaveri)."
+  },
+  {
+    "question": "Which modern city in Tamil Nadu was historically known as the Chola port of Nagapatam?",
+    "choices": [
+      "Nagapattinam",
+      "Karaikal", 
+      "Cuddalore",
+      "Puducherry"
+    ],
+    "answer": "Nagapattinam",
+    "explanation": "Nagapatam is the historical name for present-day Nagapattinam, a city in the Nagapattinam District of Tamil Nadu. It served as the primary port of the Chola Empire, located on the Coromandel Coast. This strategically important port facilitated the Cholas' naval expeditions to Southeast Asia and later became a significant base for European colonial powers like the Portuguese and Dutch."
+  },
+  {
+    "question": "In which district is the historical Chalukyan capital of Kalyani (modern Basavakalyan) located?",
+    "choices": [
+      "Vijayapura District",
+      "Kalaburagi District", 
+      "Bidar District",
+      "Bagalkot District"
+    ],
+    "answer": "Bidar District",
+    "explanation": "Kalyani, known today as Basavakalyan, is located in the Bidar District of Karnataka. It served as the capital of the Western Chalukyas (Kalyani Chalukyas) from the 10th to the 12th centuries CE. The city was a major center of power in the Deccan and an important site for the development of the Sharana movement during the rule of the Kalachuris who succeeded the Chalukyas."
+  },
+  {
+    "question": "Anuradhapura was the ancient capital of which island kingdom?",
+    "choices": [
+      "Malay Kingdom of Srivijaya",
+      "Kingdom of Lanka (Sri Lanka)",
+      "Khmer Empire of Cambodia",
+      "Majapahit Empire of Java"
+    ],
+    "answer": "Kingdom of Lanka (Sri Lanka)",
+    "explanation": "Anuradhapura was the capital of the Kingdom of Lanka (Sri Lanka) for over a millennium (4th century BCE to 11th century CE). It was a major center of Theravada Buddhism and is famous for its well-preserved ruins of ancient monasteries, palaces, and stupas, including the sacred Sri Maha Bodhi tree."
   }
   ]
