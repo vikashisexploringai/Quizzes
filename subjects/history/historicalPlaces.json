@@ -240,5 +240,126 @@
     ],
     "answer": "Bihar Sharif",
     "explanation": "Uddandapura, also known as Odantapuri, was a major Buddhist monastic university located near modern-day Bihar Sharif in the Nalanda district of Bihar. It was established in the 7th century CE by the Pala Emperor Gopala I and was one of the five great Mahaviharas of ancient India, playing a crucial role in the development of Vajrayana Buddhism."
-  }
+  },
+  {
+    "question": "The city of Waihind, an important capital of the Hindu Shahi kingdom, is located near which modern city?",
+    "choices": [
+      "Peshawar, Pakistan",
+      "Kabul, Afghanistan",
+      "Attock, Pakistan",
+      "Jalalabad, Afghanistan"
+    ],
+    "answer": "Attock, Pakistan",
+    "explanation": "Waihind (also known as Udabhanda) was the capital of the Hindu Shahi kingdom, located near modern Attock in Punjab, Pakistan. Situated on the right bank of the Indus River, it served as a major center of power and a strategic frontier post defending India from invasions from the northwest."
+  },
+  {
+    "question": "In which district is the historic fort of Kalinjar located?",
+    "choices": [
+      "Banda District, Uttar Pradesh",
+      "Chitrakoot District, Uttar Pradesh",
+      "Satna District, Madhya Pradesh",
+      "Rewa District, Madhya Pradesh"
+    ],
+    "answer": "Banda District, Uttar Pradesh",
+    "explanation": "Kalinjar Fort is located in the Banda District of Uttar Pradesh. This ancient hill fortress has great strategic importance and is associated with the Chandela dynasty. The fort contains notable temples and inscriptions, and it witnessed several historical battles, including Mahmud of Ghazni's attack and Sher Shah Suri's death."
+  },
+  {
+    "question": "In which district are the famous Khajuraho temples located?",
+    "choices": [
+      "Tikamgarh District, Madhya Pradesh",
+      "Chhatarpur District, Madhya Pradesh",
+      "Panna District, Madhya Pradesh",
+      "Satna District, Madhya Pradesh"
+    ],
+    "answer": "Chhatarpur District, Madhya Pradesh",
+    "explanation": "The Khajuraho Group of Monuments is located in Chhatarpur District, Madhya Pradesh. Built by the Chandela dynasty between 950-1050 CE, these UNESCO World Heritage Site temples are famous for their nagara-style architecture and exquisite erotic sculptures. The temples are dedicated to Hindu and Jain deities."
+  },
+  {
+    "question": "In which district is the Sun Temple at Konark located?",
+    "choices": [
+      "Puri District, Odisha",
+      "Cuttack District, Odisha",
+      "Khordha District, Odisha",
+      "Jajpur District, Odisha"
+    ],
+    "answer": "Puri District, Odisha",
+    "explanation": "The Sun Temple at Konark is located in Puri District, Odisha. Built in the 13th century by King Narasimhadeva I of the Eastern Ganga dynasty, this UNESCO World Heritage Site is designed as a gigantic chariot of the Sun God with 24 wheels and 7 horses. It represents the peak of Kalinga architecture."
+  },
+  {
+    "question": "In which district are the Dilwara Jain Temples located?",
+    "choices": [
+      "Udaipur District, Rajasthan",
+      "Sirohi District, Rajasthan", 
+      "Mount Abu District, Rajasthan",
+      "Pali District, Rajasthan"
+    ],
+    "answer": "Sirohi District, Rajasthan",
+    "explanation": "The Dilwara Jain Temples are located in Mount Abu, which falls under Sirohi District, Rajasthan. Built between the 11th and 13th centuries by the Chalukya dynasty, these marble temples are renowned for their extraordinary architectural detail and intricate carvings. They are dedicated to Jain Tirthankaras."
+  },
+  {
+    "question": "The historical region of Khorasan was primarily located across which modern countries?",
+    "choices": [
+      "Iran, Afghanistan, and Turkmenistan",
+      "Iraq, Syria, and Turkey",
+      "Pakistan, Afghanistan, and India",
+      "Saudi Arabia, Yemen, and Oman"
+    ],
+    "answer": "Iran, Afghanistan, and Turkmenistan",
+    "explanation": "Khorasan was a historical region spanning northeastern Iran, southern Turkmenistan, and northern Afghanistan. Meaning 'Land of the Sun,' it was a major cultural and political center of the Persian Empire and later the Islamic Caliphate. Many Islamic scholars and rulers who invaded India came from this region."
+  },
+  {
+    "question": "The historical region of Turan, often mentioned in Persian literature, corresponds to which area?",
+    "choices": [
+      "Central Asia, north of Persia",
+      "The Arabian Peninsula",
+      "The Caucasus region",
+      "Anatolia (modern Turkey)"
+    ],
+    "answer": "Central Asia, north of Persia",
+    "explanation": "Turan was a historical region in Central Asia, located north of Persia (Iran). In Persian literature, it often referred to the lands of nomadic tribes, particularly the Turks. The term symbolizes the traditional rivalry between the settled Persian civilization and the nomadic steppe cultures to their north."
+  },
+  {
+    "question": "What is the modern name of the historic town of Tabarhind?",
+    "choices": [
+      "Bhatinda",
+      "Sirhind",
+      "Tarn Taran",
+      "Sangrur"
+    ],
+    "answer": "Bhatinda",
+    "explanation": "Tabarhind is the ancient name of modern Bathinda (also spelled Bhatinda) in Punjab. It was an important strategic town with a famous fort, now known as Qila Mubarak. The town witnessed significant historical events, including Prithviraj Chauhan's battles and Guru Gobind Singh's visit."
+  },
+  {
+  "question": "In which district did the historic Battles of Tarain (1191-1192 CE) take place?",
+  "choices": [
+    "Karnal District, Haryana",
+    "Kurukshetra District, Haryana",
+    "Kaithal District, Haryana",
+    "Jind District, Haryana"
+  ],
+  "answer": "Karnal District, Haryana",
+  "explanation": "The Battles of Tarain were fought near the town of Taraori, which is located in the present-day Karnal District of Haryana. These two decisive battles between Prithviraj Chauhan and Muhammad Ghori marked a turning point in Indian history, leading to the establishment of the Delhi Sultanate."
+}
+  {
+    "question": "In which district is the historic town of Bayana, known for its fort and early Sultanate architecture, located?",
+    "choices": [
+      "Bharatpur District, Rajasthan",
+      "Karauli District, Rajasthan",
+      "Sawai Madhopur District, Rajasthan", 
+      "Dholpur District, Rajasthan"
+    ],
+    "answer": "Bharatpur District, Rajasthan",
+    "explanation": "Bayana is located in Bharatpur District, Rajasthan. It was an important town during the early Delhi Sultanate period, known for its strong fort and early Indo-Islamic architecture. The town has several significant monuments including the Ukha Mandir and numerous mosques from the 12th-14th centuries."
+  },
+{
+  "question": "The historic capital of Sonargaon is situated near which modern-day metropolis?",
+  "choices": [
+    "Kolkata, India",
+    "Dhaka, Bangladesh",
+    "Chittagong, Bangladesh",
+    "Guwahati, India"
+  ],
+  "answer": "Dhaka, Bangladesh",
+  "explanation": "Sonargaon, the historic capital of the Bengal Sultanate, is located near the modern-day metropolis of Dhaka, Bangladesh. Situated on the banks of the Old Brahmaputra River, it served as a major administrative center and a prosperous port, famous for its production of high-quality Muslin cloth."
+}
   ]
