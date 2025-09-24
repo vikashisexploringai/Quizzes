@@ -209,14 +209,36 @@
   "explanation": "Champaner is located in the Panchmahal district of Gujarat. It served as the capital of the Gujarat Sultanate in the 15th-16th centuries under Mahmud Begada. The Champaner-Pavagadh Archaeological Park is a UNESCO World Heritage Site featuring a complete pre-Mughal Islamic city with fortifications, palaces, and mosques blending Hindu and Islamic architecture."
   },
   {
-    "question": "Which modern city in Gujarat was known as the ancient capital Anhilwara?",
+    "question": "The ancient port of Tamralipti was situated near which modern-day city in West Bengal?",
     "choices": [
-      "Ahmedabad",
-      "Patan",
-      "Vadodara",
-      "Rajkot"
+      "Kolkata",
+      "Tamluk",
+      "Digha",
+      "Haldia"
     ],
-    "answer": "Patan",
-    "explanation": "Anhilwara is the historical name for present-day Patan in Gujarat. It served as the capital of the Solanki (Chalukya) dynasty, which ruled Gujarat from the 10th to the 13th centuries CE. The city was a major center of trade and learning and is famous for the Rani ki Vav, an intricately constructed stepwell that is a UNESCO World Heritage Site."
+    "answer": "Tamluk",
+    "explanation": "Tamralipti was an ancient port city located near present-day Tamluk in the Purba Medinipur district of West Bengal. Situated near the mouth of the Ganges River, it served as a vital trade hub connecting India to Southeast Asia and Sri Lanka. It was a prominent port during the Mauryan and Gupta periods and an important center for Buddhist learning and maritime trade."
+  },
+  {
+    "question": "What is the modern name of the historic Chinese port city known to ancient Indian traders as Canton or Kanfu?",
+    "choices": [
+      "Beijing",
+      "Shanghai",
+      "Guangzhou",
+      "Xiamen"
+    ],
+    "answer": "Guangzhou",
+    "explanation": "Canton, known to Arab and Indian traders as Kanfu, is the historical name for the modern Chinese city of Guangzhou. It was a major terminus of the maritime Silk Road and an important trading partner for Indian merchants since ancient times. Located on the Pearl River in southern China, it was a key port for trade between India, Southeast Asia, and China."
+  },
+  {
+    "question": "The ancient monastic university of Uddandapura (Odantapuri) was located near which modern-day town in Bihar?",
+    "choices": [
+      "Gaya",
+      "Bihar Sharif",
+      "Rajgir",
+      "Bhagalpur"
+    ],
+    "answer": "Bihar Sharif",
+    "explanation": "Uddandapura, also known as Odantapuri, was a major Buddhist monastic university located near modern-day Bihar Sharif in the Nalanda district of Bihar. It was established in the 7th century CE by the Pala Emperor Gopala I and was one of the five great Mahaviharas of ancient India, playing a crucial role in the development of Vajrayana Buddhism."
   }
   ]
