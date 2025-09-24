@@ -163,5 +163,60 @@
     ],
     "answer": "Kingdom of Lanka (Sri Lanka)",
     "explanation": "Anuradhapura was the capital of the Kingdom of Lanka (Sri Lanka) for over a millennium (4th century BCE to 11th century CE). It was a major center of Theravada Buddhism and is famous for its well-preserved ruins of ancient monasteries, palaces, and stupas, including the sacred Sri Maha Bodhi tree."
+  },
+  {
+    "question": "Which modern town in Karnataka was known as the capital of the Hoysala Empire under the name Dwarsamudra?",
+    "choices": [
+      "Badami",
+      "Halebidu",
+      "Mysore",
+      "Shravanabelagola"
+    ],
+    "answer": "Halebidu",
+    "explanation": "Dwarsamudra (meaning 'Gateway to the Sea') is the historical name for present-day Halebidu in Karnataka's Hassan district. It served as the magnificent capital of the Hoysala Empire from the 11th to the 14th centuries CE. The city is famous for its exquisite Hoysala architecture, particularly the Hoysaleswara Temple dedicated to Lord Shiva."
+  },
+  {
+    "question": "In which district is the historic temple town of Belur, another Hoysala capital, located?",
+    "choices": [
+      "Hassan District",
+      "Mysore District",
+      "Chikmagalur District",
+      "Shivamogga District"
+    ],
+    "answer": "Hassan District",
+    "explanation": "Belur is located in the Hassan district of Karnataka. It served as the early capital of the Hoysala Empire before Dwarsamudra (Halebidu). The city is renowned for the Chennakesava Temple, a masterpiece of Hoysala architecture built in the 12th century by King Vishnuvardhana to commemorate his victory over the Cholas."
+  },
+  {
+    "question": "In which district is the important Jain pilgrimage center of Shravanabelagola located?",
+    "choices": [
+      "Tumkur District",
+      "Hassan District",
+      "Mandel District",
+      "Chamarajanagar District"
+    ],
+    "answer": "Hassan District",
+    "explanation": "Shravanabelagola is situated in the Hassan district of Karnataka. The name means 'the white pond of the ascetic'. It is one of the most important Jain pilgrimage sites in India, famous for the 57-foot high monolithic statue of Lord Bahubali (Gommateshwara) erected in the 10th century CE during the rule of the Western Ganga dynasty."
+  },
+  {
+  "question": "In which district is the historic city of Champaner, a UNESCO World Heritage Site, located?",
+  "choices": [
+    "Kutch District",
+    "Panchmahal District",
+    "Vadodara District",
+    "Banaskantha District"
+  ],
+  "answer": "Panchmahal District",
+  "explanation": "Champaner is located in the Panchmahal district of Gujarat. It served as the capital of the Gujarat Sultanate in the 15th-16th centuries under Mahmud Begada. The Champaner-Pavagadh Archaeological Park is a UNESCO World Heritage Site featuring a complete pre-Mughal Islamic city with fortifications, palaces, and mosques blending Hindu and Islamic architecture."
+  },
+  {
+    "question": "Which modern city in Gujarat was known as the ancient capital Anhilwara?",
+    "choices": [
+      "Ahmedabad",
+      "Patan",
+      "Vadodara",
+      "Rajkot"
+    ],
+    "answer": "Patan",
+    "explanation": "Anhilwara is the historical name for present-day Patan in Gujarat. It served as the capital of the Solanki (Chalukya) dynasty, which ruled Gujarat from the 10th to the 13th centuries CE. The city was a major center of trade and learning and is famous for the Rani ki Vav, an intricately constructed stepwell that is a UNESCO World Heritage Site."
   }
   ]
