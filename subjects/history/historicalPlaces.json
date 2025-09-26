@@ -8,7 +8,7 @@
       "Ujjain district, Madhya Pradesh"
     ],
     "answer": "Satna district, Madhya Pradesh",
-    "explanation": "Bharhut is a village located in the Satna district of Madhya Pradesh, India. It is renowned for the Bharhut Stupa, an ancient Buddhist site. The stupa's sculptural remains, now primarily in the Indian Museum in Kolkata, are famous for their early Indian art, dating back to the Shunga period (c. 2nd century BCE)."
+    "explanation": "Village in Satna district, Madhya Pradesh, renowned for Bharhut Stupa, ancient Buddhist site, sculptural remains famous for early Indian art, dating back to Shunga period (c. 2nd century BCE), remains primarily displayed in Indian Museum, Kolkata."
   },
   {
     "question": "Where is the Hathigumpha located?",
@@ -19,7 +19,7 @@
       "Elephanta Caves, Maharashtra"
     ],
     "answer": "Udayagiri Caves, Odisha",
-    "explanation": "The Hathigumpha, meaning 'Elephant Cave', is located in the Udayagiri hills near Bhubaneswar, Odisha. It is famous for the Hathigumpha inscription, a lengthy Prakrit inscription in the Brahmi script commissioned by King Kharavela of the Mahameghavahana dynasty, who ruled Kalinga in the 1st century BCE. The inscription provides a detailed account of his reign."
+    "explanation": "Cave in Udayagiri hills near Bhubaneswar, Odisha, famous for Hathigumpha inscription, lengthy Prakrit inscription in Brahmi script, commissioned by King Kharavela of Mahameghavahana dynasty, ruled Kalinga in 1st century BCE, inscription provides detailed account of his reign."
   },
   {
     "question": "Where was the ancient city of Pragjyotishpura located?",
@@ -30,7 +30,7 @@
       "In the delta of the Krishna River, Andhra Pradesh"
     ],
     "answer": "In the Kamarupa kingdom, near present-day Guwahati, Assam",
-    "explanation": "Pragjyotishpura was the ancient capital of the Kamarupa kingdom, located in the region of present-day Guwahati, Assam. The city is mentioned in the Mahabharata and the Ramayana and was a significant political and cultural center in ancient Assam."
+    "explanation": "Ancient capital of Kamarupa kingdom, located near present-day Guwahati, Assam, mentioned in Mahabharata and Ramayana, significant political and cultural center in ancient Assam, situated on banks of Brahmaputra River."
   },
   {
     "question": "Which district is the ancient city of Manyakhet (Malkhed) located in?",
@@ -41,18 +41,18 @@
       "Bidar district, Karnataka"
     ],
     "answer": "Kalaburagi district, Karnataka",
-    "explanation": "Manyakhet, today known as Malkhed, is located in the present-day Kalaburagi district of Karnataka. It served as the capital of the powerful Rashtrakuta Empire between the 8th and 10th centuries CE. The city is situated near the Kagina River, a tributary of the Bhima River."
+    "explanation": "Ancient city in Kalaburagi district, Karnataka, today known as Malkhed, served as capital of Rashtrakuta Empire between 8th and 10th centuries CE, situated near Kagina River, tributary of Bhima River, major center of power and learning."
   },
   {
-  "question": "The Vengi region, a significant political center in ancient India, corresponds to which modern area?",
-  "choices": [
-    "The Konkan coast of Maharashtra",
-    "The Malwa plateau in Madhya Pradesh",
-    "The Krishna-Godavari delta in coastal Andhra Pradesh",
-    "The Brahmputra valley in Assam"
-  ],
-  "answer": "The Krishna-Godavari delta in coastal Andhra Pradesh",
-  "explanation": "The Vengi region was located in the fertile delta between the Krishna and Godavari rivers, corresponding to the coastal Andhra region of present-day Andhra Pradesh. It served as the capital of the Eastern Chalukya dynasty (7th-11th centuries CE). Its strategic coastal location in the Krishna-Godavari delta made it a prosperous kingdom and a point of contention between major powers like the Cholas and the Chalukyas of Kalyani."
+    "question": "The Vengi region, a significant political center in ancient India, corresponds to which modern area?",
+    "choices": [
+      "The Konkan coast of Maharashtra",
+      "The Malwa plateau in Madhya Pradesh",
+      "The Krishna-Godavari delta in coastal Andhra Pradesh",
+      "The Brahmputra valley in Assam"
+    ],
+    "answer": "The Krishna-Godavari delta in coastal Andhra Pradesh",
+    "explanation": "Historical region in Krishna-Godavari delta, coastal Andhra Pradesh, served as capital of Eastern Chalukya dynasty (7th-11th centuries CE), strategically located between major powers, point of contention between Cholas and Chalukyas of Kalyani, prosperous agricultural and trade region."
   },
   {
     "question": "The ancient region of 'Lata', which was a distinct administrative unit under various empires, is situated in which modern state?",
@@ -63,7 +63,7 @@
       "Maharashtra"
     ],
     "answer": "Gujarat",
-    "explanation": "Lata was an ancient region corresponding to southern Gujarat and the northern Konkan coast in present-day India. It was bounded by the Mahi River in the north and the Kim River in the south. An important province under the Satavahanas, Traikutakas, Gurjara-Pratiharas, and the Rashtrakutas, its capital was often at Navsari. The area is part of the modern state of Gujarat."
+    "explanation": "Ancient region in present-day Gujarat, corresponding to southern Gujarat and northern Konkan coast, bounded by Mahi River in north and Kim River in south, important province under Satavahanas, Traikutakas, Gurjara-Pratiharas, and Rashtrakutas, capital often at Navsari."
   },
   {
     "question": "The ancient region known as 'Kataha' (Kadaram or Kedah) was a powerful kingdom and a crucial port. Where was it located?",
@@ -74,7 +74,7 @@
       "On the island of Sumatra, Indonesia"
     ],
     "answer": "In the Malay Peninsula (present-day Malaysia)",
-    "explanation": "Kataha, known to the Chinese as Kedah and in Tamil inscriptions as Kadaram, was a significant kingdom and port city located on the Malay Peninsula, in present-day Malaysia. It was a central node in the maritime trade routes between India and China and a prominent outpost of the Srivijaya Empire. It was frequently mentioned in South Indian records, especially during the Chola Empire's raids in the 11th century."
+    "explanation": "Ancient kingdom on Malay Peninsula, present-day Malaysia, known as Kataha in Sanskrit, Kadaram in Tamil inscriptions, Kedah in Malay, crucial port in maritime trade routes between India and China, prominent outpost of Srivijaya Empire, frequently mentioned in South Indian records during Chola raids."
   },
   {
     "question": "The region of 'Tondaimandalam' was the core territory of which major South Indian dynasty?",
@@ -85,7 +85,7 @@
       "The Satavahanas"
     ],
     "answer": "The Early Pallavas",
-    "explanation": "Tondaimandalam refers to the historical region in southern India with its core around the city of Kanchipuram in present-day Tamil Nadu. It was the heartland of the early Pallava dynasty (c. 3rd to 9th centuries CE). The name is derived from the legendary founder Tondaiman Ilam Tiraiyan. Later, it became the northern part of the Chola Empire and corresponds roughly to the northern Tamil Nadu coastal plains."
+    "explanation": "Historical region in southern India, core around Kanchipuram in Tamil Nadu, heartland of early Pallava dynasty (c. 3rd to 9th centuries CE), name derived from legendary founder Tondaiman Ilam Tiraiyan, later became northern part of Chola Empire, corresponds to northern Tamil Nadu coastal plains."
   },
   {
     "question": "Which group of islands in Southeast Asia was historically famous as the 'Spice Islands' due to their exclusive production of valuable spices?",
@@ -96,7 +96,7 @@
       "The Ryukyu Islands of Japan"
     ],
     "answer": "The Maluku Islands (Moluccas) in Indonesia",
-    "explanation": "The 'Spice Islands' historically refer to the Maluku Islands (also known as the Moluccas) in present-day Indonesia. These islands, particularly Ternate, Tidore, Ambon, and the Banda Islands, were the world's sole source of nutmeg, mace, and cloves for centuries. Their immense economic value was the primary driver for European exploration and colonization in Asia, leading to the voyages of explorers like Vasco da Gama and Ferdinand Magellan."
+    "explanation": "Island group in present-day Indonesia, historically known as Spice Islands, specifically Maluku Islands (Moluccas), world's sole source of nutmeg, mace, and cloves for centuries, immense economic value drove European exploration and colonization, islands include Ternate, Tidore, Ambon, and Banda Islands."
   },
   {
     "question": "Which present-day city in Kerala was historically known as the important port of Quilon?",
@@ -107,40 +107,40 @@
       "Thiruvananthapuram"
     ],
     "answer": "Kollam",
-    "explanation": "Quilon is the historical name for present-day Kollam, a coastal city in Kerala. It was a major international port on the Malabar Coast, prominent in the spice trade with Chinese, Arab, and Roman merchants. It served as the capital of the ancient Venad kingdom and was one of the earliest centers of Christianity in India."
+    "explanation": "Present-day city of Kollam in Kerala, historically known as Quilon, major international port on Malabar Coast, prominent in spice trade with Chinese, Arab, and Roman merchants, served as capital of ancient Venad kingdom, one of earliest centers of Christianity in India."
   },
   {
     "question": "In which modern district is the ancient Chola capital of Gangaikondacholapuram located?",
     "choices": [
       "Thanjavur District",
-      "Tiruchirapalli District", 
+      "Tiruchirapalli District",
       "Ariyalur District",
       "Tiruppur District"
     ],
     "answer": "Ariyalur District",
-    "explanation": "Gangaikondacholapuram is located in the present-day Ariyalur District of Tamil Nadu. It was built by Rajendra Chola I (11th century CE) as his new capital to commemorate his victorious expedition to the Ganges. The city features the magnificent Brihadisvara Temple, a UNESCO World Heritage Site, and lies near the Kollidam River (a distributary of the Kaveri)."
+    "explanation": "Ancient Chola capital in present-day Ariyalur District, Tamil Nadu, built by Rajendra Chola I (11th century CE) as new capital, commemorated victorious expedition to Ganges, features magnificent Brihadisvara Temple, UNESCO World Heritage Site, located near Kollidam River, distributary of Kaveri."
   },
   {
     "question": "Which modern city in Tamil Nadu was historically known as the Chola port of Nagapatam?",
     "choices": [
       "Nagapattinam",
-      "Karaikal", 
+      "Karaikal",
       "Cuddalore",
       "Puducherry"
     ],
     "answer": "Nagapattinam",
-    "explanation": "Nagapatam is the historical name for present-day Nagapattinam, a city in the Nagapattinam District of Tamil Nadu. It served as the primary port of the Chola Empire, located on the Coromandel Coast. This strategically important port facilitated the Cholas' naval expeditions to Southeast Asia and later became a significant base for European colonial powers like the Portuguese and Dutch."
+    "explanation": "Present-day city of Nagapattinam in Tamil Nadu, historically known as Nagapatam, primary port of Chola Empire on Coromandel Coast, strategically important port facilitated Chola naval expeditions to Southeast Asia, later became significant base for European colonial powers like Portuguese and Dutch."
   },
   {
     "question": "In which district is the historical Chalukyan capital of Kalyani (modern Basavakalyan) located?",
     "choices": [
       "Vijayapura District",
-      "Kalaburagi District", 
+      "Kalaburagi District",
       "Bidar District",
       "Bagalkot District"
     ],
     "answer": "Bidar District",
-    "explanation": "Kalyani, known today as Basavakalyan, is located in the Bidar District of Karnataka. It served as the capital of the Western Chalukyas (Kalyani Chalukyas) from the 10th to the 12th centuries CE. The city was a major center of power in the Deccan and an important site for the development of the Sharana(Virashaiva) movement during the rule of the Kalachuris who succeeded the Chalukyas."
+    "explanation": "Historical city in Bidar District, Karnataka, known today as Basavakalyan, served as capital of Western Chalukyas (Kalyani Chalukyas) from 10th to 12th centuries CE, major center of power in Deccan, important site for development of Sharana (Virashaiva) movement during Kalachuri rule."
   },
   {
     "question": "Anuradhapura was the ancient capital of which island kingdom?",
@@ -151,7 +151,7 @@
       "Majapahit Empire of Java"
     ],
     "answer": "Kingdom of Lanka (Sri Lanka)",
-    "explanation": "Anuradhapura was the capital of the Kingdom of Lanka (Sri Lanka) for over a millennium (4th century BCE to 11th century CE). It was a major center of Theravada Buddhism and is famous for its well-preserved ruins of ancient monasteries, palaces, and stupas, including the sacred Sri Maha Bodhi tree."
+    "explanation": "Ancient capital of Kingdom of Lanka (Sri Lanka) for over millennium (4th century BCE to 11th century CE), major center of Theravada Buddhism, famous for well-preserved ruins of ancient monasteries, palaces, and stupas, including sacred Sri Maha Bodhi tree."
   },
   {
     "question": "Which modern town in Karnataka was known as the capital of the Hoysala Empire under the name Dwarsamudra?",
@@ -162,7 +162,7 @@
       "Shravanabelagola"
     ],
     "answer": "Halebidu",
-    "explanation": "Dwarsamudra (meaning 'Gateway to the Sea') is the historical name for present-day Halebidu in Karnataka's Hassan district. It served as the magnificent capital of the Hoysala Empire from the 11th to the 14th centuries CE. The city is famous for its exquisite Hoysala architecture, particularly the Hoysaleswara Temple dedicated to Lord Shiva."
+    "explanation": "Modern town of Halebidu in Karnataka's Hassan district, historically known as Dwarsamudra (meaning 'Gateway to the Sea'), served as magnificent capital of Hoysala Empire from 11th to 14th centuries CE, famous for exquisite Hoysala architecture, particularly Hoysaleswara Temple dedicated to Lord Shiva."
   },
   {
     "question": "In which district is the historic temple town of Belur, another Hoysala capital, located?",
@@ -173,7 +173,7 @@
       "Shivamogga District"
     ],
     "answer": "Hassan District",
-    "explanation": "Belur is located in the Hassan district of Karnataka. It served as the early capital of the Hoysala Empire before Dwarsamudra (Halebidu). The city is renowned for the Chennakesava Temple, a masterpiece of Hoysala architecture built in the 12th century by King Vishnuvardhana to commemorate his victory over the Cholas."
+    "explanation": "Historic temple town in Hassan district of Karnataka, served as early capital of Hoysala Empire before Dwarsamudra (Halebidu), renowned for Chennakesava Temple, masterpiece of Hoysala architecture built in 12th century by King Vishnuvardhana to commemorate victory over Cholas."
   },
   {
     "question": "In which district is the important Jain pilgrimage center of Shravanabelagola located?",
@@ -184,18 +184,18 @@
       "Chamarajanagar District"
     ],
     "answer": "Hassan District",
-    "explanation": "Shravanabelagola is situated in the Hassan district of Karnataka. The name means 'the white pond of the ascetic'. It is one of the most important Jain pilgrimage sites in India, famous for the 57-foot high monolithic statue of Lord Bahubali (Gommateshwara) erected in the 10th century CE during the rule of the Western Ganga dynasty."
+    "explanation": "Jain pilgrimage center in Hassan district of Karnataka, name means 'the white pond of the ascetic', one of most important Jain pilgrimage sites in India, famous for 57-foot high monolithic statue of Lord Bahubali (Gommateshwara) erected in 10th century CE during rule of Western Ganga dynasty."
   },
   {
-  "question": "In which district is the historic city of Champaner, a UNESCO World Heritage Site, located?",
-  "choices": [
-    "Kutch District",
-    "Panchmahal District",
-    "Vadodara District",
-    "Banaskantha District"
-  ],
-  "answer": "Panchmahal District",
-  "explanation": "Champaner is located in the Panchmahal district of Gujarat. It served as the capital of the Gujarat Sultanate in the 15th-16th centuries under Mahmud Begada. The Champaner-Pavagadh Archaeological Park is a UNESCO World Heritage Site featuring a complete pre-Mughal Islamic city with fortifications, palaces, and mosques blending Hindu and Islamic architecture."
+    "question": "In which district is the historic city of Champaner, a UNESCO World Heritage Site, located?",
+    "choices": [
+      "Kutch District",
+      "Panchmahal District",
+      "Vadodara District",
+      "Banaskantha District"
+    ],
+    "answer": "Panchmahal District",
+    "explanation": "Historic city in Panchmahal district of Gujarat, served as capital of Gujarat Sultanate in 15th-16th centuries under Mahmud Begada, Champaner-Pavagadh Archaeological Park is UNESCO World Heritage Site, features complete pre-Mughal Islamic city with fortifications, palaces, and mosques blending Hindu and Islamic architecture."
   },
   {
     "question": "The ancient port of Tamralipti was situated near which modern-day city in West Bengal?",
@@ -206,7 +206,7 @@
       "Haldia"
     ],
     "answer": "Tamluk",
-    "explanation": "Tamralipti was an ancient port city located near present-day Tamluk in the Purba Medinipur district of West Bengal. Situated near the mouth of the Ganges River, it served as a vital trade hub connecting India to Southeast Asia and Sri Lanka. It was a prominent port during the Mauryan and Gupta periods and an important center for Buddhist learning and maritime trade."
+    "explanation": "Ancient port city near present-day Tamluk in Purba Medinipur district, West Bengal, situated near mouth of Ganges River, served as vital trade hub connecting India to Southeast Asia and Sri Lanka, prominent port during Mauryan and Gupta periods, important center for Buddhist learning and maritime trade."
   },
   {
     "question": "What is the modern name of the historic Chinese port city known to ancient Indian traders as Canton or Kanfu?",
@@ -217,7 +217,7 @@
       "Xiamen"
     ],
     "answer": "Guangzhou",
-    "explanation": "Canton, known to Arab and Indian traders as Kanfu, is the historical name for the modern Chinese city of Guangzhou. It was a major terminus of the maritime Silk Road and an important trading partner for Indian merchants since ancient times. Located on the Pearl River in southern China, it was a key port for trade between India, Southeast Asia, and China."
+    "explanation": "Modern Chinese city of Guangzhou, historically known as Canton to Europeans and Kanfu to Arab and Indian traders, major terminus of maritime Silk Road, important trading partner for Indian merchants since ancient times, located on Pearl River in southern China, key port for trade between India, Southeast Asia, and China."
   },
   {
     "question": "The ancient monastic university of Uddandapura (Odantapuri) was located near which modern-day town in Bihar?",
@@ -228,7 +228,7 @@
       "Bhagalpur"
     ],
     "answer": "Bihar Sharif",
-    "explanation": "Uddandapura, also known as Odantapuri, was a major Buddhist monastic university located near modern-day Bihar Sharif in the Nalanda district of Bihar. It was established in the 7th century CE by the Pala Emperor Gopala I and was one of the five great Mahaviharas of ancient India, playing a crucial role in the development of Vajrayana Buddhism."
+    "explanation": "Ancient monastic university located near modern-day Bihar Sharif in Nalanda district, Bihar, established in 7th century CE by Pala Emperor Gopala I, one of five great Mahaviharas of ancient India, played crucial role in development of Vajrayana Buddhism."
   },
   {
     "question": "The city of Waihind, an important capital of the Hindu Shahi kingdom, is located near which modern city?",
@@ -239,7 +239,7 @@
       "Jalalabad, Afghanistan"
     ],
     "answer": "Attock, Pakistan",
-    "explanation": "Waihind (also known as Udabhanda) was the capital of the Hindu Shahi kingdom, located near modern Attock in Punjab, Pakistan. Situated on the right bank of the Indus River, it served as a major center of power and a strategic frontier post defending India from invasions from the northwest."
+    "explanation": "Ancient city near modern Attock in Punjab, Pakistan, also known as Udabhanda, capital of Hindu Shahi kingdom, situated on right bank of Indus River, major center of power and strategic frontier post defending India from invasions from northwest."
   },
   {
     "question": "In which district is the historic fort of Kalinjar located?",
@@ -250,7 +250,7 @@
       "Rewa District, Madhya Pradesh"
     ],
     "answer": "Banda District, Uttar Pradesh",
-    "explanation": "Kalinjar Fort is located in the Banda District of Uttar Pradesh. This ancient hill fortress has great strategic importance and is associated with the Chandela dynasty. The fort contains notable temples and inscriptions, and it witnessed several historical battles, including Mahmud of Ghazni's attack and Sher Shah Suri's death."
+    "explanation": "Historic fort in Banda District, Uttar Pradesh, ancient hill fortress with great strategic importance, associated with Chandela dynasty, contains notable temples and inscriptions, witnessed several historical battles including Mahmud of Ghazni's attack and Sher Shah Suri's death."
   },
   {
     "question": "In which district are the famous Khajuraho temples located?",
@@ -261,7 +261,7 @@
       "Satna District, Madhya Pradesh"
     ],
     "answer": "Chhatarpur District, Madhya Pradesh",
-    "explanation": "The Khajuraho Group of Monuments is located in Chhatarpur District, Madhya Pradesh. Built by the Chandela dynasty between 950-1050 CE, these UNESCO World Heritage Site temples are famous for their nagara-style architecture and exquisite erotic sculptures. The temples are dedicated to Hindu and Jain deities."
+    "explanation": "Temple complex in Chhatarpur District, Madhya Pradesh, built by Chandela dynasty between 950-1050 CE, UNESCO World Heritage Site, famous for nagara-style architecture and exquisite erotic sculptures, temples dedicated to Hindu and Jain deities."
   },
   {
     "question": "In which district is the Sun Temple at Konark located?",
@@ -272,18 +272,18 @@
       "Jajpur District, Odisha"
     ],
     "answer": "Puri District, Odisha",
-    "explanation": "The Sun Temple at Konark is located in Puri District, Odisha. Built in the 13th century by King Narasimhadeva I of the Eastern Ganga dynasty, this UNESCO World Heritage Site is designed as a gigantic chariot of the Sun God with 24 wheels and 7 horses. It represents the peak of Kalinga architecture."
+    "explanation": "Sun Temple located in Puri District, Odisha, built in 13th century by King Narasimhadeva I of Eastern Ganga dynasty, UNESCO World Heritage Site, designed as gigantic chariot of Sun God with 24 wheels and 7 horses, represents peak of Kalinga architecture."
   },
   {
     "question": "In which district are the Dilwara Jain Temples located?",
     "choices": [
       "Udaipur District, Rajasthan",
-      "Sirohi District, Rajasthan", 
+      "Sirohi District, Rajasthan",
       "Mount Abu District, Rajasthan",
       "Pali District, Rajasthan"
     ],
     "answer": "Sirohi District, Rajasthan",
-    "explanation": "The Dilwara Jain Temples are located in Mount Abu, which falls under Sirohi District, Rajasthan. Built between the 11th and 13th centuries by the Chalukya dynasty, these marble temples are renowned for their extraordinary architectural detail and intricate carvings. They are dedicated to Jain Tirthankaras."
+    "explanation": "Jain temples located in Mount Abu, which falls under Sirohi District, Rajasthan, built between 11th and 13th centuries by Chalukya dynasty, marble temples renowned for extraordinary architectural detail and intricate carvings, dedicated to Jain Tirthankaras."
   },
   {
     "question": "The historical region of Khorasan was primarily located across which modern countries?",
@@ -294,7 +294,7 @@
       "Saudi Arabia, Yemen, and Oman"
     ],
     "answer": "Iran, Afghanistan, and Turkmenistan",
-    "explanation": "Khorasan was a historical region spanning northeastern Iran, southern Turkmenistan, and northern Afghanistan. Meaning 'Land of the Sun,' it was a major cultural and political center of the Persian Empire and later the Islamic Caliphate. Many Islamic scholars and rulers who invaded India came from this region."
+    "explanation": "Historical region spanning northeastern Iran, southern Turkmenistan, and northern Afghanistan, meaning 'Land of the Sun', major cultural and political center of Persian Empire and later Islamic Caliphate, many Islamic scholars and rulers who invaded India came from this region."
   },
   {
     "question": "The historical region of Turan, often mentioned in Persian literature, corresponds to which area?",
@@ -305,7 +305,7 @@
       "Anatolia (modern Turkey)"
     ],
     "answer": "Central Asia, north of Persia",
-    "explanation": "Turan was a historical region in Central Asia, located north of Persia (Iran). In Persian literature, it often referred to the lands of nomadic tribes, particularly the Turks. The term symbolizes the traditional rivalry between the settled Persian civilization and the nomadic steppe cultures to their north."
+    "explanation": "Historical region in Central Asia, located north of Persia (Iran), in Persian literature often referred to lands of nomadic tribes, particularly Turks, term symbolizes traditional rivalry between settled Persian civilization and nomadic steppe cultures to their north."
   },
   {
     "question": "What is the modern name of the historic town of Tabarhind?",
@@ -316,41 +316,41 @@
       "Sangrur"
     ],
     "answer": "Bhatinda",
-    "explanation": "Tabarhind is the ancient name of modern Bathinda (also spelled Bhatinda) in Punjab. It was an important strategic town with a famous fort, now known as Qila Mubarak. The town witnessed significant historical events, including Prithviraj Chauhan's battles and Guru Gobind Singh's visit."
+    "explanation": "Modern town of Bathinda (also spelled Bhatinda) in Punjab, historically known as Tabarhind, important strategic town with famous fort now known as Qila Mubarak, witnessed significant historical events including Prithviraj Chauhan's battles and Guru Gobind Singh's visit."
   },
   {
-  "question": "In which district did the historic Battles of Tarain (1191-1192 CE) take place?",
-  "choices": [
-    "Karnal District, Haryana",
-    "Kurukshetra District, Haryana",
-    "Kaithal District, Haryana",
-    "Jind District, Haryana"
-  ],
-  "answer": "Karnal District, Haryana",
-  "explanation": "The Battles of Tarain were fought near the town of Taraori, which is located in the present-day Karnal District of Haryana. These two decisive battles between Prithviraj Chauhan and Muhammad Ghori marked a turning point in Indian history, leading to the establishment of the Delhi Sultanate."
-},
+    "question": "In which district did the historic Battles of Tarain (1191-1192 CE) take place?",
+    "choices": [
+      "Karnal District, Haryana",
+      "Kurukshetra District, Haryana",
+      "Kaithal District, Haryana",
+      "Jind District, Haryana"
+    ],
+    "answer": "Karnal District, Haryana",
+    "explanation": "Historic battles fought near town of Taraori in present-day Karnal District, Haryana, two decisive battles between Prithviraj Chauhan and Muhammad Ghori, marked turning point in Indian history, led to establishment of Delhi Sultanate."
+  },
   {
     "question": "In which district is the historic town of Bayana, known for its fort and early Sultanate architecture, located?",
     "choices": [
       "Bharatpur District, Rajasthan",
       "Karauli District, Rajasthan",
-      "Sawai Madhopur District, Rajasthan", 
+      "Sawai Madhopur District, Rajasthan",
       "Dholpur District, Rajasthan"
     ],
     "answer": "Bharatpur District, Rajasthan",
-    "explanation": "Bayana is located in Bharatpur District, Rajasthan. It was an important town during the early Delhi Sultanate period, known for its strong fort and early Indo-Islamic architecture. The town has several significant monuments including the Ukha Mandir and numerous mosques from the 12th-14th centuries."
+    "explanation": "Historic town in Bharatpur District, Rajasthan, important town during early Delhi Sultanate period, known for strong fort and early Indo-Islamic architecture, several significant monuments including Ukha Mandir and numerous mosques from 12th-14th centuries."
   },
-{
-  "question": "The historic capital of Sonargaon is situated near which modern-day metropolis?",
-  "choices": [
-    "Kolkata, India",
-    "Dhaka, Bangladesh",
-    "Chittagong, Bangladesh",
-    "Guwahati, India"
-  ],
-  "answer": "Dhaka, Bangladesh",
-  "explanation": "Sonargaon, the historic capital of the Bengal Sultanate, is located near the modern-day metropolis of Dhaka, Bangladesh. Situated on the banks of the Old Brahmaputra River, it served as a major administrative center and a prosperous port, famous for its production of high-quality Muslin cloth."
-},
+  {
+    "question": "The historic capital of Sonargaon is situated near which modern-day metropolis?",
+    "choices": [
+      "Kolkata, India",
+      "Dhaka, Bangladesh",
+      "Chittagong, Bangladesh",
+      "Guwahati, India"
+    ],
+    "answer": "Dhaka, Bangladesh",
+    "explanation": "Historic capital located near modern-day metropolis of Dhaka, Bangladesh, served as capital of Bengal Sultanate, situated on banks of Old Brahmaputra River, major administrative center and prosperous port, famous for production of high-quality Muslin cloth."
+  },
   {
     "question": "The historic capitals of Lakhnauti and Gaur are located in which present-day Indian district?",
     "choices": [
@@ -360,7 +360,7 @@
       "Birbhum District, West Bengal"
     ],
     "answer": "Malda District, West Bengal",
-    "explanation": "Both Lakhnauti and Gaur were successive capitals of medieval Bengal, located near the India-Bangladesh border in the present-day Malda district of West Bengal. They formed part of a large urban complex on the banks of the Ganges River and were major political centers under the Sena, Palas, and the Bengal Sultanate."
+    "explanation": "Historic capitals located in present-day Malda district, West Bengal, near India-Bangladesh border, formed part of large urban complex on banks of Ganges River, major political centers under Sena, Palas, and Bengal Sultanate."
   },
   {
     "question": "In which district is Ranthambore Fort located?",
@@ -371,7 +371,7 @@
       "Bundi District, Rajasthan"
     ],
     "answer": "Sawai Madhopur District, Rajasthan",
-    "explanation": "Ranthambore Fort is located in Sawai Madhopur District, Rajasthan. This hill fort was a strategically important stronghold of the Chauhan rulers and later the Mughals. It's now part of Ranthambore National Park, famous for its tiger population. The fort contains temples, tanks, and palaces within its massive walls."
+    "explanation": "Historic fort in Sawai Madhopur District, Rajasthan, strategically important stronghold of Chauhan rulers and later Mughals, now part of Ranthambore National Park famous for tiger population, contains temples, tanks, and palaces within massive walls."
   },
   {
     "question": "In which district is the historic town of Sirhind located?",
@@ -382,7 +382,7 @@
       "Rupnagar District, Punjab"
     ],
     "answer": "Fatehgarh Sahib District, Punjab",
-    "explanation": "Sirhind is located in Fatehgarh Sahib District, Punjab. It was an important medieval town on the Grand Trunk Road and served as the capital of the Mughal province of Sirhind. The town is historically significant for the martyrdom of Guru Gobind Singh's younger sons and has several Mughal-era monuments."
+    "explanation": "Historic town in Fatehgarh Sahib District, Punjab, important medieval town on Grand Trunk Road, served as capital of Mughal province of Sirhind, historically significant for martyrdom of Guru Gobind Singh's younger sons, several Mughal-era monuments."
   },
   {
     "question": "The historical region of Berar corresponds to which modern Indian state?",
@@ -393,7 +393,7 @@
       "Andhra Pradesh"
     ],
     "answer": "Maharashtra",
-    "explanation": "Berar was a historical region located in present-day Maharashtra, with parts in Madhya Pradesh. Also known as Vidarbha, it was ruled by various dynasties including the Satavahanas, Vakatakas, and later became a subah (province) of the Mughal Empire. The region corresponds to the Amravati and Nagpur divisions of modern Maharashtra."
+    "explanation": "Historical region located in present-day Maharashtra, with parts in Madhya Pradesh, also known as Vidarbha, ruled by various dynasties including Satavahanas, Vakatakas, later became subah (province) of Mughal Empire, corresponds to Amravati and Nagpur divisions of modern Maharashtra."
   },
   {
     "question": "In which district is the massive Kumbhalgarh Fort located?",
@@ -404,7 +404,7 @@
       "Sirohi District, Rajasthan"
     ],
     "answer": "Rajsamand District, Rajasthan",
-    "explanation": "Kumbhalgarh Fort is located in Rajsamand District, Rajasthan. Built in the 15th century by Rana Kumbha of Mewar, this UNESCO World Heritage Site is protected by a 36-km long wall, the second-longest continuous wall in the world. The fort served as a safe refuge for the rulers of Mewar during times of danger."
+    "explanation": "Massive fort in Rajsamand District, Rajasthan, built in 15th century by Rana Kumbha of Mewar, UNESCO World Heritage Site, protected by 36-km long wall (second-longest continuous wall in world), served as safe refuge for rulers of Mewar during times of danger."
   },
   {
     "question": "The historical kingdom of Pegu was located in which modern country?",
@@ -415,18 +415,18 @@
       "Laos"
     ],
     "answer": "Myanmar",
-    "explanation": "Pegu (Bago) was a historical kingdom located in present-day Myanmar (Burma). It was the capital of the Hanthawaddy Kingdom of the Mon people and later served as an important provincial capital during the Toungoo and Konbaung dynasties. The city is famous for its Buddhist monuments including the Shwemawdaw Pagoda."
+    "explanation": "Historical kingdom located in present-day Myanmar (Burma), capital of Hanthawaddy Kingdom of Mon people, later important provincial capital during Toungoo and Konbaung dynasties, famous for Buddhist monuments including Shwemawdaw Pagoda."
   },
   {
-  "question": "Which town did Emperor Krishnadeva Raya found near the Vijayanagara capital in memory of his mother, Nagamamba Devi?",
-  "choices": [
-    "Nagalapura",
-    "Hospet",
-    "Anegundi",
-    "Kamalapura"
-  ],
-  "answer": "Nagalapura",
-  "explanation": "Krishnadeva Raya, the emperor of the Vijayanagara Empire, founded the town of Nagalapura near his capital specifically in memory of his mother, Nagamamba Devi. This act demonstrates the practice of patronage and memorialization common among rulers of the period."
+    "question": "Which town did Emperor Krishnadeva Raya found near the Vijayanagara capital in memory of his mother, Nagamamba Devi?",
+    "choices": [
+      "Nagalapura",
+      "Hospet",
+      "Anegundi",
+      "Kamalapura"
+    ],
+    "answer": "Nagalapura",
+    "explanation": "Town founded by Emperor Krishnadeva Raya near Vijayanagara capital, established in memory of his mother Nagamamba Devi, demonstrates practice of patronage and memorialization common among rulers of period."
   },
   {
     "question": "Which modern city in Gujarat was known as the ancient capital Anhilwara?",
@@ -437,7 +437,7 @@
       "Rajkot"
     ],
     "answer": "Patan",
-    "explanation": "Anhilwara is the historical name for present-day Patan in Gujarat. It served as the capital of the Solanki (Chalukya) dynasty, which ruled Gujarat from the 10th to the 13th centuries CE. The city was a major center of trade and learning and is famous for the Rani ki Vav, an intricately constructed stepwell that is a UNESCO World Heritage Site."
+    "explanation": "Modern city of Patan in Gujarat, historically known as Anhilwara, served as capital of Solanki (Chalukya) dynasty which ruled Gujarat from 10th to 13th centuries CE, major center of trade and learning, famous for Rani ki Vav stepwell, UNESCO World Heritage Site."
   },
   {
     "question": "The ancient region of Bactria was primarily located across which modern countries?",
@@ -448,7 +448,7 @@
       "Turkmenistan, Kazakhstan, and Kyrgyzstan"
     ],
     "answer": "Afghanistan, Uzbekistan, and Tajikistan",
-    "explanation": "Bactria was an ancient region spanning northern Afghanistan, southern Uzbekistan, and southwestern Tajikistan. Centered around the Amu Darya River, it was a prosperous Hellenistic kingdom after Alexander the Great's conquest and later became a center of Buddhist culture along the Silk Road. It was known as 'Bahlika' in ancient Indian texts."
+    "explanation": "Ancient region spanning northern Afghanistan, southern Uzbekistan, and southwestern Tajikistan, area corresponds to modern cities like Mazar-e-Sharif (near ancient capital Balkh) in Afghanistan, Termez in Uzbekistan, and Dushanbe in Tajikistan, centered around Amu Darya River, prosperous Hellenistic kingdom after Alexander's conquest, center of Buddhist culture along Silk Road, known as 'Bahlika' in ancient Indian texts."
   },
   {
     "question": "The historical term Abyssinia refers to which modern-day country?",
@@ -459,7 +459,7 @@
       "Yemen"
     ],
     "answer": "Ethiopia",
-    "explanation": "Abyssinia is the historical name for the Ethiopian Empire, located in the Horn of Africa. It had significant trade and cultural connections with India through ancient maritime routes. The region is mentioned in Indian texts, and several Indian rulers, particularly in the Deccan, employed Abyssinian (Habshi) soldiers and administrators."
+    "explanation": "Historical name for Ethiopian Empire, located in Horn of Africa, had significant trade and cultural connections with India through ancient maritime routes, mentioned in Indian texts, several Indian rulers particularly in Deccan employed Abyssinian (Habshi) soldiers and administrators."
   },
   {
     "question": "The term Suvarnadvipa in ancient Indian texts primarily referred to which region?",
@@ -470,7 +470,7 @@
       "The Philippine Islands"
     ],
     "answer": "Sumatra and Java in Indonesia",
-    "explanation": "Suvarnadvipa, meaning 'Island of Gold', primarily referred to the Indonesian islands of Sumatra and Java in ancient Indian literature. It was a major destination for Indian traders, colonists, and scholars. The powerful Srivijaya Empire, a great center of Buddhist learning, was based in this region and maintained strong ties with Indian kingdoms like the Palas."
+    "explanation": "Term meaning 'Island of Gold' primarily referred to Indonesian islands of Sumatra and Java in ancient Indian literature, major destination for Indian traders, colonists, and scholars, powerful Srivijaya Empire based in this region, great center of Buddhist learning, maintained strong ties with Indian kingdoms like Palas."
   },
   {
     "question": "The fortified city of Siri, built by the Khilji dynasty, is located near which modern metropolis?",
@@ -481,19 +481,8 @@
       "Near Kolkata"
     ],
     "answer": "Near Delhi",
-    "explanation": "Siri was the second of the seven historical cities of Delhi, built by Alauddin Khilji in the early 14th century. Its ruins are located in present-day South Delhi, near the modern Siri Fort area. It served as a fortified capital to protect against Mongol invasions and was known for its strong defenses and the 'Siri Kotla' fort."
+    "explanation": "Fortified city near modern Delhi, second of seven historical cities of Delhi, built by Alauddin Khilji in early 14th century, ruins located in present-day South Delhi near modern Siri Fort area, served as fortified capital to protect against Mongol invasions, known for strong defenses and 'Siri Kotla' fort."
   },
-  {
-  "question": "The ancient region of Bactria was primarily located across which modern countries?",
-  "choices": [
-    "Afghanistan, Uzbekistan, and Tajikistan",
-    "Iran, Iraq, and Turkey",
-    "Pakistan, Afghanistan, and Iran",
-    "Turkmenistan, Kazakhstan, and Kyrgyzstan"
-  ],
-  "answer": "Afghanistan, Uzbekistan, and Tajikistan",
-  "explanation": "Bactria was an ancient region spanning northern Afghanistan, southern Uzbekistan, and southwestern Tajikistan. Its area corresponds to modern cities like Mazar-e-Sharif (near the ancient capital Balkh) in Afghanistan, Termez in Uzbekistan, and Dushanbe in Tajikistan. Centered around the Amu Darya River, it was a prosperous Hellenistic kingdom after Alexander the Great's conquest and later became a center of Buddhist culture along the Silk Road. It was known as 'Bahlika' in ancient Indian texts."
-},
   {
     "question": "The fort of Deogiri (Daulatabad) is located in which present-day district?",
     "choices": [
@@ -503,7 +492,7 @@
       "Ahmednagar District, Maharashtra"
     ],
     "answer": "Aurangabad District, Maharashtra",
-    "explanation": "Deogiri Fort, later renamed Daulatabad by Muhammad bin Tughlaq, is located in Aurangabad District, Maharashtra. It was the capital of the Yadava dynasty and later briefly the capital of the Delhi Sultanate under Tughlaq. The formidable hill fort is famous for its complex defenses and strategic location."
+    "explanation": "Fort located in Aurangabad District, Maharashtra, originally Deogiri, capital of Yadava dynasty, renamed Daulatabad by Muhammad bin Tughlaq, briefly capital of Delhi Sultanate under Tughlaq, formidable hill fort famous for complex defenses and strategic location."
   },
   {
     "question": "The medieval town of Kara, a significant administrative center, was located in which modern district?",
@@ -514,7 +503,7 @@
       "Fatehpur District, Uttar Pradesh"
     ],
     "answer": "Kaushambi District, Uttar Pradesh",
-    "explanation": "Kara (or Kada) was a major medieval town located in present-day Kaushambi District, Uttar Pradesh, on the banks of the Ganges. It served as an important provincial capital (iqta) of the Delhi Sultanate. Notable figures like Malik Chajju and Jalaluddin Khilji held this region before ascending to power."
+    "explanation": "Medieval town located in Kaushambi District, Uttar Pradesh, on banks of Ganges River, served as important provincial capital (iqta) of Delhi Sultanate, notable figures like Malik Chajju and Jalaluddin Khilji held this region before ascending to power."
   },
   {
     "question": "The historical town of Manikpur was a significant center located in which modern district?",
@@ -525,7 +514,7 @@
       "Sultanpur District, Uttar Pradesh"
     ],
     "answer": "Pratapgarh District, Uttar Pradesh",
-    "explanation": "Manikpur is a historical town located in Pratapgarh District, Uttar Pradesh, situated on the banks of the Ganges. It was an important river port and administrative center during the Delhi Sultanate and Mughal periods, often mentioned alongside Kara as a key strategic and economic hub."
+    "explanation": "Historical town located in Pratapgarh District, Uttar Pradesh, situated on banks of Ganges River, important river port and administrative center during Delhi Sultanate and Mughal periods, often mentioned alongside Kara as key strategic and economic hub."
   },
   {
     "question": "The term 'Mabar' used by medieval historians referred to which region in South India?",
@@ -536,7 +525,7 @@
       "The Raichur Doab"
     ],
     "answer": "The Coromandel Coast, particularly the Madurai region",
-    "explanation": "Mabar was the name used by medieval Arab geographers and Delhi Sultanate chroniclers for the Coromandel Coast, specifically referring to the region around Madurai in Tamil Nadu ruled by the Pandya dynasty. It was famous for its pearl fisheries and was a target of Malik Kafur's raids in the 14th century."
+    "explanation": "Term used by medieval Arab geographers and Delhi Sultanate chroniclers for Coromandel Coast, specifically referring to region around Madurai in Tamil Nadu ruled by Pandya dynasty, famous for pearl fisheries, target of Malik Kafur's raids in 14th century."
   },
   {
     "question": "The small kingdom of Baglana was located in the present-day state of?",
@@ -547,19 +536,19 @@
       "Karnataka"
     ],
     "answer": "Maharashtra",
-    "explanation": "Baglana was a small but strategically located kingdom in the Satpura hills, corresponding to the Baglan region of present-day Nashik District in Maharashtra. It was situated between the Deccan Sultanates and the Mughal Empire, often maintaining a precarious independence by paying tribute to larger powers."
+    "explanation": "Small kingdom located in present-day Maharashtra, strategically located in Satpura hills, corresponding to Baglan region of Nashik District, situated between Deccan Sultanates and Mughal Empire, often maintained precarious independence by paying tribute to larger powers."
   },
-{
-  "question": "Which city in Haryana was established by Firuz Shah Tughlaq?",
-  "choices": [
-    "Panipat",
-    "Hisar",
-    "Karnal",
-    "Faridabad"
-  ],
-  "answer": "Hisar",
-  "explanation": "Hisar was established by Firuz Shah Tughlaq in 1354 CE and named 'Hisar-e-Firoza'. The city served as an important administrative and military center for the Delhi Sultanate, featuring a citadel, a palace, and several mosques built by the Sultan."
-},
+  {
+    "question": "Which city in Haryana was established by Firuz Shah Tughlaq?",
+    "choices": [
+      "Panipat",
+      "Hisar",
+      "Karnal",
+      "Faridabad"
+    ],
+    "answer": "Hisar",
+    "explanation": "City in Haryana established by Firuz Shah Tughlaq in 1354 CE, named 'Hisar-e-Firoza', served as important administrative and military center for Delhi Sultanate, featured citadel, palace, and several mosques built by Sultan."
+  },
   {
     "question": "Firuzabad, the new capital founded by Firuz Shah Tughlaq, is located near which modern metropolis?",
     "choices": [
@@ -569,7 +558,7 @@
       "Near Jaunpur"
     ],
     "answer": "Near Delhi",
-    "explanation": "Firuzabad was the fifth city of Delhi, founded by Firuz Shah Tughlaq on the banks of the Yamuna River. Its ruins are located near the modern residential area of Hauz Khas in South Delhi. The city contained Firuz Shah's royal palace, the famous Ashokan Pillar he transported from Topra, and a large reservoir known as Hauz Khas."
+    "explanation": "New capital founded by Firuz Shah Tughlaq near modern Delhi, fifth city of Delhi, located on banks of Yamuna River, ruins near modern Hauz Khas in South Delhi, contained Firuz Shah's royal palace, Ashokan Pillar transported from Topra, large reservoir known as Hauz Khas."
   },
   {
     "question": "Samarqand was the capital of the empire of which famous ruler?",
@@ -580,7 +569,7 @@
       "Darius I"
     ],
     "answer": "Timur (Tamerlane)",
-    "explanation": "Samarqand, in present-day Uzbekistan, was the capital of the Timurid Empire founded by Timur (Tamerlane) in the 14th century. He transformed it into a magnificent city and a center of Islamic culture and learning, adorning it with grand mosques, madrasas, and mausoleums, most notably the Registan square."
+    "explanation": "City in present-day Uzbekistan, capital of Timurid Empire founded by Timur (Tamerlane) in 14th century, transformed into magnificent city and center of Islamic culture and learning, adorned with grand mosques, madrasas, and mausoleums, notably Registan square."
   },
   {
     "question": "The historic port of Cambay (Khambhat) is located in which district of Gujarat?",
@@ -591,7 +580,7 @@
       "Vadodara District"
     ],
     "answer": "Anand District",
-    "explanation": "The historic port of Cambay (now Khambhat) is located in Anand District, Gujarat, at the head of the Gulf of Khambhat. It was one of the most important Indian ports from the ancient through the medieval periods, famous for its trade with the Arab world and for its unique agate carvings. The port eventually silted up due to sedimentation."
+    "explanation": "Historic port located in Anand District, Gujarat, at head of Gulf of Khambhat, one of most important Indian ports from ancient through medieval periods, famous for trade with Arab world and unique agate carvings, port eventually silted up due to sedimentation."
   },
   {
     "question": "The historic fort town of Mudkal, site of a famous battle, is located in which present-day district?",
@@ -602,7 +591,7 @@
       "Koppal District, Karnataka"
     ],
     "answer": "Raichur District, Karnataka",
-    "explanation": "Mudkal (or Mudgal) is a historic fort town located in the Raichur District of Karnataka. It was the site of the Battle of Mudkal (1366 CE), a significant conflict between the Vijayanagara Empire and the Bahmani Sultanate. The town features a large fort with Persian and Kannada inscriptions, reflecting its strategic importance in the Deccan."
+    "explanation": "Historic fort town located in Raichur District, Karnataka, site of Battle of Mudkal (1366 CE), significant conflict between Vijayanagara Empire and Bahmani Sultanate, features large fort with Persian and Kannada inscriptions, reflects strategic importance in Deccan."
   },
   {
     "question": "The medieval fort of Bankapur is located in which present-day district of Karnataka?",
@@ -613,19 +602,19 @@
       "Dharwad District, Karnataka"
     ],
     "answer": "Haveri District, Karnataka",
-    "explanation": "Bankapur is a historic fort town located in the Haveri District of Karnataka. It was an important stronghold during the medieval period, contested by the Kadambas, Vijayanagara Empire, Bahmani Sultanate, and the Adil Shahis. The town is also known for its Jain heritage and was an early center of the Lingayat movement."
+    "explanation": "Medieval fort located in Haveri District, Karnataka, important stronghold during medieval period, contested by Kadambas, Vijayanagara Empire, Bahmani Sultanate, and Adil Shahis, town known for Jain heritage, early center of Lingayat movement."
   },
-{
-  "question": "The fortress of Kherla was strategically located in which present-day district?",
-  "choices": [
-    "Betul District, Madhya Pradesh",
-    "Chhindwara District, Madhya Pradesh",
-    "Narsinghpur District, Madhya Pradesh",
-    "Seoni District, Madhya Pradesh"
-  ],
-  "answer": "Betul District, Madhya Pradesh",
-  "explanation": "Kherla was a strategically important hill fortress located in present-day Betul District of Madhya Pradesh. It guarded the traditional border of the Gondwana region and was a contested stronghold, controlled by the Gond kingdoms, the Delhi Sultanate, and the Mughals due to its commanding position on the Satpura range."
-},
+  {
+    "question": "The fortress of Kherla was strategically located in which present-day district?",
+    "choices": [
+      "Betul District, Madhya Pradesh",
+      "Chhindwara District, Madhya Pradesh",
+      "Narsinghpur District, Madhya Pradesh",
+      "Seoni District, Madhya Pradesh"
+    ],
+    "answer": "Betul District, Madhya Pradesh",
+    "explanation": "Strategic hill fortress located in Betul District, Madhya Pradesh, guarded traditional border of Gondwana region, contested stronghold controlled by Gond kingdoms, Delhi Sultanate, and Mughals, commanding position on Satpura range."
+  },
   {
     "question": "The ancient port of Chaul is located in which present-day district of Maharashtra?",
     "choices": [
@@ -635,7 +624,7 @@
       "Thane District"
     ],
     "answer": "Raigad District",
-    "explanation": "Chaul (now Revdanda) is a historic port located in the Raigad District of Maharashtra, situated at the confluence of the Kundalika River and the Arabian Sea. It was an important trading center from the Satavahana period onwards and remained a significant port during the Bahmani Sultanate. Later, it became a major Portuguese trading post and military base, with ruins of forts and churches still visible."
+    "explanation": "Ancient port located in Raigad District, Maharashtra, now Revdanda, situated at confluence of Kundalika River and Arabian Sea, important trading center from Satavahana period onwards, significant port during Bahmani Sultanate, later major Portuguese trading post and military base, ruins of forts and churches visible."
   },
   {
     "question": "The medieval port of Dabhol (Dabul) is situated in which present-day district?",
@@ -646,7 +635,7 @@
       "Palghar District, Maharashtra"
     ],
     "answer": "Ratnagiri District, Maharashtra",
-    "explanation": "Dabhol (modern Dabul) is a historic port town located in the Ratnagiri District of Maharashtra, on the northern bank of the Vashishti River estuary. It flourished as a significant port under the Bahmani Sultanate and later the Adil Shahis of Bijapur, before becoming a Portuguese trading post. The port was famously mentioned in Vasco da Gama's navigation logs during his second voyage to India."
+    "explanation": "Medieval port located in Ratnagiri District, Maharashtra, on northern bank of Vashishti River estuary, flourished as significant port under Bahmani Sultanate and later Adil Shahis of Bijapur, before becoming Portuguese trading post, famously mentioned in Vasco da Gama's navigation logs during second voyage to India."
   },
   {
     "question": "The historic battle site of Haldighati is located in which present-day district?",
@@ -657,7 +646,7 @@
       "Bhilwara District, Rajasthan"
     ],
     "answer": "Rajsamand District, Rajasthan",
-    "explanation": "Haldighati is a mountain pass located in Rajsamand District, Rajasthan. It was the site of the famous 1576 CE battle between Maharana Pratap of Mewar and the Mughal forces led by Man Singh I of Amber. The pass gets its name from the yellow-colored soil that resembles turmeric (haldi)."
+    "explanation": "Historic battle site located in Rajsamand District, Rajasthan, mountain pass site of famous 1576 CE battle between Maharana Pratap of Mewar and Mughal forces led by Man Singh I of Amber, pass gets name from yellow-colored soil resembling turmeric (haldi)."
   },
   {
     "question": "The decisive Battle of Khanwa was fought in which present-day district?",
@@ -668,7 +657,7 @@
       "Dholpur District, Rajasthan"
     ],
     "answer": "Bharatpur District, Rajasthan",
-    "explanation": "The Battle of Khanwa (1527 CE) was fought in present-day Bharatpur District, Rajasthan. This decisive battle between Babur and Rana Sanga of Mewar consolidated Mughal power in India. The battlefield is located near the village of Khanwa, where Babur famously vowed to abstain from wine (the 'Khanwa Covenant') before the battle."
+    "explanation": "Decisive battle fought in Bharatpur District, Rajasthan, Battle of Khanwa (1527 CE) between Babur and Rana Sanga of Mewar consolidated Mughal power in India, battlefield near village of Khanwa, where Babur famously vowed to abstain from wine (Khanwa Covenant) before battle."
   },
   {
     "question": "The Mughal capital of Fatehpur Sikri is located in which present-day district?",
@@ -679,7 +668,7 @@
       "Firozabad District, Uttar Pradesh"
     ],
     "answer": "Agra District, Uttar Pradesh",
-    "explanation": "Fatehpur Sikri is located in Agra District, Uttar Pradesh. Built by Emperor Akbar in the 16th century, it served as the Mughal capital from 1571 to 1585. The city is a UNESCO World Heritage Site, famous for its blend of Hindu and Islamic architecture, including the Buland Darwaza, Jama Masjid, and palaces for Akbar's courtiers."
+    "explanation": "Mughal capital located in Agra District, Uttar Pradesh, built by Emperor Akbar in 16th century, served as Mughal capital from 1571 to 1585, UNESCO World Heritage Site, famous for blend of Hindu and Islamic architecture, including Buland Darwaza, Jama Masjid, and palaces for Akbar's courtiers."
   },
   {
     "question": "The historic town of Chanderi, famous for its textiles, is located in which district?",
@@ -690,7 +679,7 @@
       "Sagar District, Madhya Pradesh"
     ],
     "answer": "Ashoknagar District, Madhya Pradesh",
-    "explanation": "Chanderi is located in Ashoknagar District, Madhya Pradesh. Situated on the borders of Malwa and Bundelkhand, it was a strategically important town controlled by various dynasties including the Malwa Sultans, Khiljis, and Bundelas. The town is famous for its ancient fort and traditional Chanderi sarees."
+    "explanation": "Historic town located in Ashoknagar District, Madhya Pradesh, situated on borders of Malwa and Bundelkhand, strategically important town controlled by various dynasties including Malwa Sultans, Khiljis, and Bundelas, famous for ancient fort and traditional Chanderi sarees."
   },
   {
     "question": "The Battle of Chandawar (Chandwar), where Jaichand was defeated, was fought in which present-day district?",
@@ -701,7 +690,7 @@
       "Kasganj District, Uttar Pradesh"
     ],
     "answer": "Etawah District, Uttar Pradesh",
-    "explanation": "The Battle of Chandawar (1194 CE) was fought in present-day Etawah District, Uttar Pradesh, on the banks of the Yamuna River. Muhammad Ghori defeated and killed Jayachandra (Jaichand), the Gahadavala king of Kannauj. This battle effectively ended Hindu rule in the Ganges heartland and paved the way for the establishment of the Delhi Sultanate."
+    "explanation": "Battle fought in Etawah District, Uttar Pradesh, on banks of Yamuna River, Battle of Chandawar (1194 CE) where Muhammad Ghori defeated and killed Jayachandra (Jaichand), Gahadavala king of Kannauj, effectively ended Hindu rule in Ganges heartland, paved way for establishment of Delhi Sultanate."
   },
   {
     "question": "The historical port kingdom of Achin (Aceh) was located on which island?",
@@ -712,7 +701,7 @@
       "Sulawesi, Indonesia"
     ],
     "answer": "Sumatra, Indonesia",
-    "explanation": "Achin, known today as Aceh, was a powerful independent Sultanate located at the northern tip of the island of Sumatra in Indonesia. It was a major center of Islamic learning and trade, and one of the first places in the archipelago to receive Islam. It maintained significant trade and diplomatic relations with the Ottoman Empire and other Indian Ocean powers."
+    "explanation": "Historical port kingdom located on island of Sumatra, Indonesia, known today as Aceh, powerful independent Sultanate at northern tip of Sumatra, major center of Islamic learning and trade, one of first places in archipelago to receive Islam, maintained significant trade and diplomatic relations with Ottoman Empire and other Indian Ocean powers."
   },
   {
     "question": "The historic Strait of Malacca is named after a state in which modern country?",
@@ -723,17 +712,28 @@
       "Thailand"
     ],
     "answer": "Malaysia",
-    "explanation": "The Strait of Malacca is named after the Malacca Sultanate, which was centered in present-day Malacca state, Malaysia. The strait is one of the world's most important shipping lanes, connecting the Indian Ocean to the South China Sea. The port of Malacca was a crucial entrepôt in the spice trade and a center for the spread of Islam in Southeast Asia."
+    "explanation": "Historic strait named after Malacca Sultanate, centered in present-day Malacca state, Malaysia, one of world's most important shipping lanes connecting Indian Ocean to South China Sea, port of Malacca crucial entrepôt in spice trade, center for spread of Islam in Southeast Asia."
   },
   {
-  "question": "The early Bengal Sultanate capitals of Pandua and Gaur (Lakhnauti) are located in which present-day Indian district?",
+    "question": "The early Bengal Sultanate capitals of Pandua and Gaur (Lakhnauti) are located in which present-day Indian district?",
+    "choices": [
+      "Malda District, West Bengal",
+      "Murshidabad District, West Bengal",
+      "Nadia District, West Bengal",
+      "Birbhum District, West Bengal"
+    ],
+    "answer": "Malda District, West Bengal",
+    "explanation": "Early Bengal Sultanate capitals located in Malda District, West Bengal, near India-Bangladesh border, Pandua served as first capital of independent Bengal Sultanate founded by Shamsuddin Ilyas Shah, Sultan Sikandar Shah built massive Adina Mosque in Pandua, during invasions by Delhi Sultan Firuz Shah Tughlaq, Ilyas Shah and son Sikandar Shah strategically retreated from Pandua to fort of Ekdala (in present-day Bogura, Bangladesh) to defend Bengal's independence, capital later shifted back to older city of Gaur, remained premier capital through Ilyas Shahi and subsequent Hussain Shahi dynasty, one of largest medieval cities in subcontinent."
+  },
+  {
+  "question": "The historic city of Shiraz, a major center of Persian culture and learning, is located in which modern country?",
   "choices": [
-    "Malda District, West Bengal",
-    "Murshidabad District, West Bengal",
-    "Nadia District, West Bengal",
-    "Birbhum District, West Bengal"
+    "Iran",
+    "Iraq",
+    "Afghanistan",
+    "Turkey"
   ],
-  "answer": "Malda District, West Bengal",
-  "explanation": "Both Pandua (Firuzabad) and Gaur (Lakhnauti) are located in Malda District, West Bengal, near the India-Bangladesh border. Pandua served as the first capital of the independent Bengal Sultanate founded by Shamsuddin Ilyas Shah. Sultan Sikandar Shah built the massive Adina Mosque in Pandua. During invasions by the Delhi Sultan Firuz Shah Tughlaq, Ilyas Shah and his son Sikandar Shah strategically retreated from Pandua to the fort of Ekdala (in present-day Bogura, Bangladesh) to successfully defend Bengal's independence. The capital was later shifted back to the older city of Gaur, which remained the premier capital through the Ilyas Shahi and subsequent Hussain Shahi dynasty, becoming one of the largest medieval cities in the subcontinent."
+  "answer": "Iran",
+  "explanation": "Historic city in present-day Iran, major medieval Islamic cultural and literary center, famous for poets Hafez and Saadi, had significant cultural connections with the Indian subcontinent, influenced Indo-Persian literature, art, and architecture, influence prominent during the Delhi Sultanate and Mughal periods, many Indian scholars studied there, its architectural styles influenced Mughal garden designs."
 }
 ]
