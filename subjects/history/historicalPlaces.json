@@ -867,5 +867,71 @@
   ],
   "answer": "Ganga River",
   "explanation": "Historic fort in present-day Mirzapur district, Uttar Pradesh, located on the banks of the Ganga River, strategically important for controlling the river route, occupied by Sher Shah Suri who gained it by treaty from the Mughal governor in 1530 CE, served as a key stronghold for the Sur Empire, later used by the British as a military garrison."
+},
+  {
+  "question": "The battlefield of Samel (Sammel), where Sher Shah Suri defeated the Rajput confederacy, is located in which present-day district?",
+  "choices": [
+    "Jodhpur District, Rajasthan",
+    "Jaisalmer District, Rajasthan",
+    "Barmer District, Rajasthan",
+    "Pali District, Rajasthan"
+  ],
+  "answer": "Pali District, Rajasthan",
+  "explanation": "Historic battlefield in present-day Pali district, Rajasthan, site of the Battle of Samel (1544 CE) where Sher Shah Suri defeated the Rajput confederacy led by Maldeo Rathore of Marwar, also known as the Battle of Giri-Sumel, strategically important conflict that secured Sher Shah's control over western India and demonstrated his military tactics against Rajput cavalry."
+},
+  {
+  "question": "The fort of Umarkot is historically significant as the birthplace of which Mughal emperor?",
+  "choices": [
+    "Akbar",
+    "Jahangir",
+    "Humayun",
+    "Aurangzeb"
+  ],
+  "answer": "Akbar",
+  "explanation": "Historic fort in present-day Umarkot district, Sindh province, Pakistan, strategically located in the Thar Desert, birthplace of the Mughal emperor Akbar in 1542 CE while his father Humayun was fleeing from Sher Shah Suri, later annexed by the Mughal Empire under Akbar's reign, served as an important desert outpost on the route connecting Sindh with Gujarat and Rajasthan."
+},
+  {
+  "question": "The town of Kalanaur is historically significant for which major Mughal event?",
+  "choices": [
+    "Birthplace of Akbar",
+    "Coronation of Akbar",
+    "Death of Humayun",
+    "Signing of a treaty with Sher Shah Suri"
+  ],
+  "answer": "Coronation of Akbar",
+  "explanation": "Historic town in present-day Gurdaspur district, Punjab, India, significant as the site where Akbar was proclaimed Mughal emperor in 1556 CE at the age of 13, following the death of his father Humayun, the coronation was conducted by Bairam Khan who served as Akbar's regent, marked the beginning of Akbar's long and prosperous reign that expanded the Mughal Empire across India."
+},
+  {
+  "question": "The historic capital of Amber was the seat of which Rajput dynasty?",
+  "choices": [
+    "Kachhwaha Dynasty",
+    "Rathore Dynasty",
+    "Sisodia Dynasty",
+    "Bhati Dynasty"
+  ],
+  "answer": "Kachhwaha Dynasty",
+  "explanation": "Historic city and fort in present-day Jaipur district, Rajasthan, served as the capital of the Kachhwaha Rajputs from the 11th century until 1727 CE, known for its magnificent Amber Fort palace complex built by Raja Man Singh I, strategically located on the ancient trade route to Delhi, the Kachhwaha rulers were key allies of the Mughal Empire, later shifted their capital to the newly planned city of Jaipur."
+},
+  {
+  "question": "The historic region of Hadoti in Rajasthan was primarily associated with which Rajput dynasty?",
+  "choices": [
+    "Hada Chauhan Dynasty",
+    "Rathore Dynasty", 
+    "Kachhwaha Dynasty",
+    "Sisodia Dynasty"
+  ],
+  "answer": "Hada Chauhan Dynasty",
+  "explanation": "Historic region in present-day southeastern Rajasthan comprising the districts of Kota, Bundi, Jhalawar and Baran, named after the Hada branch of the Chauhan Rajputs who established their kingdom in the 12th century, known for its distinctive school of painting (Hadoti style), magnificent water palaces and forts including the Kota Fort and Bundi Palace, situated between the Malwa plateau and the Aravalli Range."
+},
+  {
+  "question": "The fort of Chawand served as the last capital of which Rajput kingdom?",
+  "choices": [
+    "Mewar Kingdom",
+    "Marwar Kingdom",
+    "Bikaner Kingdom", 
+    "Jaisalmer Kingdom"
+  ],
+  "answer": "Mewar Kingdom",
+  "explanation": "Historic hill fort in present-day Rajsamand district, Rajasthan, served as the last capital of the Mewar Kingdom under Rana Pratap Singh after the loss of Chittorgarh to the Mughals in 1568 CE, strategically located in the Aravalli Range where Rana Pratap continued his resistance against Mughal emperor Akbar, remained Mewar's capital until Rana Amar Singh I shifted it back to Udaipur after making peace with Jahangir in 1615 CE."
 }
 ]
