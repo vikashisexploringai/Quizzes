@@ -647,5 +647,60 @@
     ],
     "answer": "Ratnagiri District, Maharashtra",
     "explanation": "Dabhol (modern Dabul) is a historic port town located in the Ratnagiri District of Maharashtra, on the northern bank of the Vashishti River estuary. It flourished as a significant port under the Bahmani Sultanate and later the Adil Shahis of Bijapur, before becoming a Portuguese trading post. The port was famously mentioned in Vasco da Gama's navigation logs during his second voyage to India."
+  },
+  {
+    "question": "The historic battle site of Haldighati is located in which present-day district?",
+    "choices": [
+      "Rajsamand District, Rajasthan",
+      "Udaipur District, Rajasthan",
+      "Pali District, Rajasthan",
+      "Bhilwara District, Rajasthan"
+    ],
+    "answer": "Rajsamand District, Rajasthan",
+    "explanation": "Haldighati is a mountain pass located in Rajsamand District, Rajasthan. It was the site of the famous 1576 CE battle between Maharana Pratap of Mewar and the Mughal forces led by Man Singh I of Amber. The pass gets its name from the yellow-colored soil that resembles turmeric (haldi)."
+  },
+  {
+    "question": "The decisive Battle of Khanwa was fought in which present-day district?",
+    "choices": [
+      "Bharatpur District, Rajasthan",
+      "Alwar District, Rajasthan",
+      "Sawai Madhopur District, Rajasthan",
+      "Dholpur District, Rajasthan"
+    ],
+    "answer": "Bharatpur District, Rajasthan",
+    "explanation": "The Battle of Khanwa (1527 CE) was fought in present-day Bharatpur District, Rajasthan. This decisive battle between Babur and Rana Sanga of Mewar consolidated Mughal power in India. The battlefield is located near the village of Khanwa, where Babur famously vowed to abstain from wine (the 'Khanwa Covenant') before the battle."
+  },
+  {
+    "question": "The Mughal capital of Fatehpur Sikri is located in which present-day district?",
+    "choices": [
+      "Agra District, Uttar Pradesh",
+      "Mathura District, Uttar Pradesh",
+      "Hathras District, Uttar Pradesh",
+      "Firozabad District, Uttar Pradesh"
+    ],
+    "answer": "Agra District, Uttar Pradesh",
+    "explanation": "Fatehpur Sikri is located in Agra District, Uttar Pradesh. Built by Emperor Akbar in the 16th century, it served as the Mughal capital from 1571 to 1585. The city is a UNESCO World Heritage Site, famous for its blend of Hindu and Islamic architecture, including the Buland Darwaza, Jama Masjid, and palaces for Akbar's courtiers."
+  },
+  {
+    "question": "The historic town of Chanderi, famous for its textiles, is located in which district?",
+    "choices": [
+      "Ashoknagar District, Madhya Pradesh",
+      "Guna District, Madhya Pradesh",
+      "Vidisha District, Madhya Pradesh",
+      "Sagar District, Madhya Pradesh"
+    ],
+    "answer": "Ashoknagar District, Madhya Pradesh",
+    "explanation": "Chanderi is located in Ashoknagar District, Madhya Pradesh. Situated on the borders of Malwa and Bundelkhand, it was a strategically important town controlled by various dynasties including the Malwa Sultans, Khiljis, and Bundelas. The town is famous for its ancient fort and traditional Chanderi sarees."
+  },
+  {
+    "question": "The Battle of Chandawar (Chandwar), where Jaichand was defeated, was fought in which present-day district?",
+    "choices": [
+      "Etawah District, Uttar Pradesh",
+      "Firozabad District, Uttar Pradesh",
+      "Mainpuri District, Uttar Pradesh",
+      "Kasganj District, Uttar Pradesh"
+    ],
+    "answer": "Etawah District, Uttar Pradesh",
+    "explanation": "The Battle of Chandawar (1194 CE) was fought in present-day Etawah District, Uttar Pradesh, on the banks of the Yamuna River. Muhammad Ghori defeated and killed Jayachandra (Jaichand), the Gahadavala king of Kannauj. This battle effectively ended Hindu rule in the Ganges heartland and paved the way for the establishment of the Delhi Sultanate."
   }
 ]
