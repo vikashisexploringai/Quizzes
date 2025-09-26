@@ -659,17 +659,17 @@
     "answer": "Bharatpur District, Rajasthan",
     "explanation": "Decisive battle fought in Bharatpur District, Rajasthan, Battle of Khanwa (1527 CE) between Babur and Rana Sanga of Mewar consolidated Mughal power in India, battlefield near village of Khanwa, where Babur famously vowed to abstain from wine (Khanwa Covenant) before battle."
   },
-  {
-    "question": "The Mughal capital of Fatehpur Sikri is located in which present-day district?",
-    "choices": [
-      "Agra District, Uttar Pradesh",
-      "Mathura District, Uttar Pradesh",
-      "Hathras District, Uttar Pradesh",
-      "Firozabad District, Uttar Pradesh"
-    ],
-    "answer": "Agra District, Uttar Pradesh",
-    "explanation": "Mughal capital located in Agra District, Uttar Pradesh, built by Emperor Akbar in 16th century, served as Mughal capital from 1571 to 1585, UNESCO World Heritage Site, famous for blend of Hindu and Islamic architecture, including Buland Darwaza, Jama Masjid, and palaces for Akbar's courtiers."
-  },
+ {
+  "question": "The Mughal capital of Fatehpur Sikri is located in which present-day district?",
+  "choices": [
+    "Agra District, Uttar Pradesh",
+    "Mathura District, Uttar Pradesh",
+    "Hathras District, Uttar Pradesh",
+    "Firozabad District, Uttar Pradesh"
+  ],
+  "answer": "Agra District, Uttar Pradesh",
+  "explanation": "Mughal capital located in Agra District, Uttar Pradesh, built by Emperor Akbar in 16th century, served as Mughal capital from 1571 to 1585, UNESCO World Heritage Site, famous for blend of Hindu and Islamic architecture, including Buland Darwaza, Jama Masjid, Ibadatkhana (House of Worship) for religious debates, and palaces for Akbar's courtiers."
+},
   {
     "question": "The historic town of Chanderi, famous for its textiles, is located in which district?",
     "choices": [
@@ -933,5 +933,16 @@
   ],
   "answer": "Mewar Kingdom",
   "explanation": "Historic hill fort in present-day Rajsamand district, Rajasthan, served as the last capital of the Mewar Kingdom under Rana Pratap Singh after the loss of Chittorgarh to the Mughals in 1568 CE, strategically located in the Aravalli Range where Rana Pratap continued his resistance against Mughal emperor Akbar, remained Mewar's capital until Rana Amar Singh I shifted it back to Udaipur after making peace with Jahangir in 1615 CE."
+},
+  {
+  "question": "The fort of Naldurg is located in which present-day district?",
+  "choices": [
+    "Osmanabad District, Maharashtra",
+    "Bijapur District, Karnataka",
+    "Bidar District, Karnataka",
+    "Latur District, Maharashtra"
+  ],
+  "answer": "Osmanabad District, Maharashtra",
+  "explanation": "Historic fort in present-day Osmanabad district, Maharashtra, strategically located on the border between Maharashtra and Karnataka, built during the Bahmani Sultanate period, later controlled by the Adil Shahis of Bijapur and the Mughals, known for its unique water gate and massive fortifications, played important role in Deccan military history as a frontier fortress."
 }
 ]
