@@ -790,5 +790,16 @@
     ],
     "answer": "Near Junagadh",
     "explanation": "Town in present-day Gujarat founded by Sultan Mahmud Begada of the Gujarat Sultanate, established after his conquest of Girnar Fort in 1472 CE, located near present-day Junagadh, named after his son Sultan Muzaffar Shah II (whose original name was Khalil Khan but also known as Mustafa), served as an administrative center in the Saurashtra region."
-  }
+  },
+  {
+  "question": "The historic fort city of Mandu is located in which present-day Indian district?",
+  "choices": [
+    "Dhar District, Madhya Pradesh",
+    "Indore District, Madhya Pradesh",
+    "Ujjain District, Madhya Pradesh",
+    "Jhabua District, Madhya Pradesh"
+  ],
+  "answer": "Dhar District, Madhya Pradesh",
+  "explanation": "Historic fort city in present-day Dhar district, Madhya Pradesh, situated on the Vindhya Range plateau, served as the capital of the Malwa Sultanate under the Ghuri and Khalji dynasties, famous for its Afghan architecture including Jahaz Mahal, Hindola Mahal, and Rani Rupmati's Pavilion, renowned for its romantic association with Sultan Baz Bahadur and Rani Rupmati."
+}
 ]
