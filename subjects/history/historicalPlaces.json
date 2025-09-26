@@ -735,5 +735,29 @@
   ],
   "answer": "Iran",
   "explanation": "Historic city in present-day Iran, major medieval Islamic cultural and literary center, famous for poets Hafez and Saadi, had significant cultural connections with the Indian subcontinent, influenced Indo-Persian literature, art, and architecture, influence prominent during the Delhi Sultanate and Mughal periods, many Indian scholars studied there, its architectural styles influenced Mughal garden designs."
-}
+},
+  [
+  {
+    "question": "The historic kingdom of Kamata or Kamatapur had its capital located in which present-day Indian state?",
+    "choices": [
+      "Assam",
+      "West Bengal",
+      "Bihar",
+      "Odisha"
+    ],
+    "answer": "Assam",
+    "explanation": "Historic kingdom in present-day Assam, capital was at Kamatapur (near present-day Cooch Behar), ruled by the Khen dynasty from 13th to 15th century which succeeded the Pala dynasty of Kamarupa, kingdom stretched from the Karatoya River to Bhutan hills, later conquered by the Sultan of Bengal Alauddin Hussain Shah in 1498 CE."
+  },
+  {
+    "question": "The Ahom kingdom, which ruled for 600 years, was centered in which region of present-day India?",
+    "choices": [
+      "Assam",
+      "Manipur",
+      "Nagaland",
+      "Tripura"
+    ],
+    "answer": "Assam",
+    "explanation": "Historic kingdom in present-day Assam, established in the Brahmaputra Valley by Sukaphaa in 1228 CE, ruled for nearly 600 years until British annexation in 1826, capital at various sites including Charaideo, Garhgaon, and finally Jorhat, known for unique administrative system called Paik, military prowess, and assimilation of Tai and local cultures."
+  }
+]
 ]
