@@ -484,14 +484,14 @@
     "explanation": "Siri was the second of the seven historical cities of Delhi, built by Alauddin Khilji in the early 14th century. Its ruins are located in present-day South Delhi, near the modern Siri Fort area. It served as a fortified capital to protect against Mongol invasions and was known for its strong defenses and the 'Siri Kotla' fort."
   },
   {
-  "question": "The ancient city of Ahichchhatra, associated with the region of Katehar, is located in which present-day district?",
+  "question": "The ancient region of Bactria was primarily located across which modern countries?",
   "choices": [
-    "Bareilly District, Uttar Pradesh",
-    "Sitapur District, Uttar Pradesh",
-    "Shahjahanpur District, Uttar Pradesh",
-    "Badaun District, Uttar Pradesh"
+    "Afghanistan, Uzbekistan, and Tajikistan",
+    "Iran, Iraq, and Turkey",
+    "Pakistan, Afghanistan, and Iran",
+    "Turkmenistan, Kazakhstan, and Kyrgyzstan"
   ],
-  "answer": "Bareilly District, Uttar Pradesh",
-  "explanation": "Ahichchhatra is an ancient archaeological site located in Bareilly District, Uttar Pradesh. It was the capital of the Northern Panchala kingdom mentioned in the Mahabharata. The region around it was historically known as Katehar, which later became the core of the Rohilkhand region. The site has revealed significant remains from the Mahajanapada period through the Gupta era, including fortifications and temples."
-  }
+  "answer": "Afghanistan, Uzbekistan, and Tajikistan",
+  "explanation": "Bactria was an ancient region spanning northern Afghanistan, southern Uzbekistan, and southwestern Tajikistan. Its area corresponds to modern cities like Mazar-e-Sharif (near the ancient capital Balkh) in Afghanistan, Termez in Uzbekistan, and Dushanbe in Tajikistan. Centered around the Amu Darya River, it was a prosperous Hellenistic kingdom after Alexander the Great's conquest and later became a center of Buddhist culture along the Silk Road. It was known as 'Bahlika' in ancient Indian texts."
+}
   ]
