@@ -823,5 +823,49 @@
   ],
   "answer": "Pakhtunkhwa (Pakistan)",
   "explanation": "Historic geographical term in Pashto language, 'Roh' meaning 'mountain' or 'highland', from which 'Rohilla' (people of the mountains) is derived, linguistically and geographically related to the modern name 'Pakhtunkhwa' (meaning 'land of the Pashtuns') in Pakistan, both terms refer to the mountainous homeland of the Pashtun people. In the Indian context, 'Roh' specifically came to refer to the region of Rohilkhand in modern Uttar Pradesh (covering districts like Bareilly, Moradabad, Rampur, Badaun, and Shahjahanpur), where Pashtuns settled in the 18th century."
+},
+  {
+  "question": "Agra was founded as the capital of the Delhi Sultanate by which ruler?",
+  "choices": [
+    "Sikandar Lodi",
+    "Alauddin Khalji",
+    "Muhammad bin Tughlaq",
+    "Iltutmish"
+  ],
+  "answer": "Sikandar Lodi",
+  "explanation": "Historic city in present-day Uttar Pradesh, founded as the capital of the Delhi Sultanate by Sultan Sikandar Lodi in 1504 CE, previously existed as a minor settlement but was developed into a major administrative center, later became the premier capital of the Mughal Empire under Akbar, Jahangir and Shah Jahan, famous for Taj Mahal, Agra Fort and Fatehpur Sikri."
+},
+  {
+  "question": "The region of Farghana (Fergana Valley), the birthplace of Babur, is located across which modern countries?",
+  "choices": [
+    "Uzbekistan, Tajikistan, and Kyrgyzstan",
+    "Afghanistan, Turkmenistan, and Iran", 
+    "Kazakhstan, Uzbekistan, and Turkmenistan",
+    "Tajikistan, Afghanistan, and Pakistan"
+  ],
+  "answer": "Uzbekistan, Tajikistan, and Kyrgyzstan",
+  "explanation": "Historic valley region in Central Asia spanning present-day Uzbekistan, Tajikistan, and Kyrgyzstan, birthplace of Babur who founded the Mughal Empire in India, strategically important location on the Silk Road, known for its fertility and horse breeding, was part of the Timurid Empire before Babur's conquests led him to Kabul and eventually to India."
+},
+  {
+  "question": "The city of Dinpanah in Delhi was founded by which Mughal emperor?",
+  "choices": [
+    "Babur",
+    "Humayun",
+    "Akbar",
+    "Jahangir"
+  ],
+  "answer": "Humayun",
+  "explanation": "Historic city in present-day Delhi, founded by the second Mughal emperor Humayun in 1533 CE as his new capital, name meaning 'Refuge of Faith', located near the Yamuna River where Humayun's Tomb now stands, served as the Mughal capital until Sher Shah Suri captured it and built his own city of Shergarh on the same site, later absorbed into the expanding urban complex of Shahjahanabad."
+},
+  {
+  "question": "The strategically important fort of Chunar is located on the banks of which river?",
+  "choices": [
+    "Ganga River",
+    "Yamuna River",
+    "Son River",
+    "Gomti River"
+  ],
+  "answer": "Ganga River",
+  "explanation": "Historic fort in present-day Mirzapur district, Uttar Pradesh, located on the banks of the Ganga River, strategically important for controlling the river route, occupied by Sher Shah Suri who gained it by treaty from the Mughal governor in 1530 CE, served as a key stronghold for the Sur Empire, later used by the British as a military garrison."
 }
 ]
