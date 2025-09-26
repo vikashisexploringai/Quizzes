@@ -625,5 +625,27 @@
   ],
   "answer": "Betul District, Madhya Pradesh",
   "explanation": "Kherla was a strategically important hill fortress located in present-day Betul District of Madhya Pradesh. It guarded the traditional border of the Gondwana region and was a contested stronghold, controlled by the Gond kingdoms, the Delhi Sultanate, and the Mughals due to its commanding position on the Satpura range."
-}
+},
+  {
+    "question": "The ancient port of Chaul is located in which present-day district of Maharashtra?",
+    "choices": [
+      "Raigad District",
+      "Ratnagiri District",
+      "Sindhudurg District",
+      "Thane District"
+    ],
+    "answer": "Raigad District",
+    "explanation": "Chaul (now Revdanda) is a historic port located in the Raigad District of Maharashtra, situated at the confluence of the Kundalika River and the Arabian Sea. It was an important trading center from the Satavahana period onwards and remained a significant port during the Bahmani Sultanate. Later, it became a major Portuguese trading post and military base, with ruins of forts and churches still visible."
+  },
+  {
+    "question": "The medieval port of Dabhol (Dabul) is situated in which present-day district?",
+    "choices": [
+      "Ratnagiri District, Maharashtra",
+      "Sindhudurg District, Maharashtra",
+      "Raigad District, Maharashtra",
+      "Palghar District, Maharashtra"
+    ],
+    "answer": "Ratnagiri District, Maharashtra",
+    "explanation": "Dabhol (modern Dabul) is a historic port town located in the Ratnagiri District of Maharashtra, on the northern bank of the Vashishti River estuary. It flourished as a significant port under the Bahmani Sultanate and later the Adil Shahis of Bijapur, before becoming a Portuguese trading post. The port was famously mentioned in Vasco da Gama's navigation logs during his second voyage to India."
+  }
 ]
