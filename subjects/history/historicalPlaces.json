@@ -350,5 +350,82 @@
   ],
   "answer": "Dhaka, Bangladesh",
   "explanation": "Sonargaon, the historic capital of the Bengal Sultanate, is located near the modern-day metropolis of Dhaka, Bangladesh. Situated on the banks of the Old Brahmaputra River, it served as a major administrative center and a prosperous port, famous for its production of high-quality Muslin cloth."
-}
-  ]
+},
+  {
+    "question": "The historic capitals of Lakhnauti and Gaur are located in which present-day Indian district?",
+    "choices": [
+      "Murshidabad District, West Bengal",
+      "Malda District, West Bengal",
+      "Nadia District, West Bengal",
+      "Birbhum District, West Bengal"
+    ],
+    "answer": "Malda District, West Bengal",
+    "explanation": "Both Lakhnauti and Gaur were successive capitals of medieval Bengal, located near the India-Bangladesh border in the present-day Malda district of West Bengal. They formed part of a large urban complex on the banks of the Ganges River and were major political centers under the Sena, Palas, and the Bengal Sultanate."
+  },
+  {
+    "question": "In which district is Ranthambore Fort located?",
+    "choices": [
+      "Bharatpur District, Rajasthan",
+      "Karauli District, Rajasthan",
+      "Sawai Madhopur District, Rajasthan",
+      "Bundi District, Rajasthan"
+    ],
+    "answer": "Sawai Madhopur District, Rajasthan",
+    "explanation": "Ranthambore Fort is located in Sawai Madhopur District, Rajasthan. This hill fort was a strategically important stronghold of the Chauhan rulers and later the Mughals. It's now part of Ranthambore National Park, famous for its tiger population. The fort contains temples, tanks, and palaces within its massive walls."
+  },
+  {
+    "question": "In which district is the historic town of Sirhind located?",
+    "choices": [
+      "Patiala District, Punjab",
+      "Fatehgarh Sahib District, Punjab",
+      "Ludhiana District, Punjab",
+      "Rupnagar District, Punjab"
+    ],
+    "answer": "Fatehgarh Sahib District, Punjab",
+    "explanation": "Sirhind is located in Fatehgarh Sahib District, Punjab. It was an important medieval town on the Grand Trunk Road and served as the capital of the Mughal province of Sirhind. The town is historically significant for the martyrdom of Guru Gobind Singh's younger sons and has several Mughal-era monuments."
+  },
+  {
+    "question": "The historical region of Berar corresponds to which modern Indian state?",
+    "choices": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": "Maharashtra",
+    "explanation": "Berar was a historical region located in present-day Maharashtra, with parts in Madhya Pradesh. Also known as Vidarbha, it was ruled by various dynasties including the Satavahanas, Vakatakas, and later became a subah (province) of the Mughal Empire. The region corresponds to the Amravati and Nagpur divisions of modern Maharashtra."
+  },
+  {
+    "question": "In which district is the massive Kumbhalgarh Fort located?",
+    "choices": [
+      "Udaipur District, Rajasthan",
+      "Rajsamand District, Rajasthan",
+      "Pali District, Rajasthan",
+      "Sirohi District, Rajasthan"
+    ],
+    "answer": "Rajsamand District, Rajasthan",
+    "explanation": "Kumbhalgarh Fort is located in Rajsamand District, Rajasthan. Built in the 15th century by Rana Kumbha of Mewar, this UNESCO World Heritage Site is protected by a 36-km long wall, the second-longest continuous wall in the world. The fort served as a safe refuge for the rulers of Mewar during times of danger."
+  },
+  {
+    "question": "The historical kingdom of Pegu was located in which modern country?",
+    "choices": [
+      "Thailand",
+      "Myanmar",
+      "Cambodia",
+      "Laos"
+    ],
+    "answer": "Myanmar",
+    "explanation": "Pegu (Bago) was a historical kingdom located in present-day Myanmar (Burma). It was the capital of the Hanthawaddy Kingdom of the Mon people and later served as an important provincial capital during the Toungoo and Konbaung dynasties. The city is famous for its Buddhist monuments including the Shwemawdaw Pagoda."
+  },
+  {
+  "question": "Which town did Emperor Krishnadeva Raya found near the Vijayanagara capital in memory of his mother, Nagamamba Devi?",
+  "choices": [
+    "Nagalapura",
+    "Hospet",
+    "Anegundi",
+    "Kamalapura"
+  ],
+  "answer": "Nagalapura",
+  "explanation": "Krishnadeva Raya, the emperor of the Vijayanagara Empire, founded the town of Nagalapura near his capital specifically in memory of his mother, Nagamamba Devi. This act demonstrates the practice of patronage and memorialization common among rulers of the period."
+  }
+]
