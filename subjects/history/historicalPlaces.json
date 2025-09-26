@@ -702,5 +702,27 @@
     ],
     "answer": "Etawah District, Uttar Pradesh",
     "explanation": "The Battle of Chandawar (1194 CE) was fought in present-day Etawah District, Uttar Pradesh, on the banks of the Yamuna River. Muhammad Ghori defeated and killed Jayachandra (Jaichand), the Gahadavala king of Kannauj. This battle effectively ended Hindu rule in the Ganges heartland and paved the way for the establishment of the Delhi Sultanate."
+  },
+  {
+    "question": "The historical port kingdom of Achin (Aceh) was located on which island?",
+    "choices": [
+      "Java, Indonesia",
+      "Sumatra, Indonesia",
+      "Borneo, Indonesia",
+      "Sulawesi, Indonesia"
+    ],
+    "answer": "Sumatra, Indonesia",
+    "explanation": "Achin, known today as Aceh, was a powerful independent Sultanate located at the northern tip of the island of Sumatra in Indonesia. It was a major center of Islamic learning and trade, and one of the first places in the archipelago to receive Islam. It maintained significant trade and diplomatic relations with the Ottoman Empire and other Indian Ocean powers."
+  },
+  {
+    "question": "The historic Strait of Malacca is named after a state in which modern country?",
+    "choices": [
+      "Indonesia",
+      "Malaysia",
+      "Singapore",
+      "Thailand"
+    ],
+    "answer": "Malaysia",
+    "explanation": "The Strait of Malacca is named after the Malacca Sultanate, which was centered in present-day Malacca state, Malaysia. The strait is one of the world's most important shipping lanes, connecting the Indian Ocean to the South China Sea. The port of Malacca was a crucial entrepôt in the spice trade and a center for the spread of Islam in Southeast Asia."
   }
 ]
