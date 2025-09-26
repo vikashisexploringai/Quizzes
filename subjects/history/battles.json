@@ -72,6 +72,12 @@
     "explanation": "The Second Battle of Panipat in 1556 established Akbar's rule over the Mughal Empire."
   },
   {
+    "question": "When did the Battle of Talikota occur?",
+    "choices": ["23 Jan 1555", "23 Jan 1560", "23 Jan 1565", "23 Jan 1570"],
+    "answer": "23 Jan 1565",
+    "explanation": "The Battle of Talikota (also called Rakkasa-Tangadi or Bannihatti) was fought on 23 January 1565. This decisive clash between the Vijayanagara Empire and the combined Deccan Sultanates led to the empire's downfall."
+},
+  {
     "question": "When did the Battle of Swally occur?",
     "choices": ["Nov 1610", "Nov 1612", "Nov 1614", "Nov 1616"],
     "answer": "Nov 1612",
