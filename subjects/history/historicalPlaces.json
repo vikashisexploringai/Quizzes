@@ -944,5 +944,38 @@
   ],
   "answer": "Osmanabad District, Maharashtra",
   "explanation": "Historic fort in present-day Osmanabad district, Maharashtra, strategically located on the border between Maharashtra and Karnataka, built during the Bahmani Sultanate period, later controlled by the Adil Shahis of Bijapur and the Mughals, known for its unique water gate and massive fortifications, played important role in Deccan military history as a frontier fortress."
+},
+  {
+  "question": "Which present-day city was originally founded by Malik Ambar as Khadki?",
+  "choices": [
+    "Aurangabad",
+    "Pune",
+    "Ahmednagar",
+    "Solapur"
+  ],
+  "answer": "Aurangabad",
+  "explanation": "Historic city in present-day Maharashtra, founded by Malik Ambar, the Abyssinian regent of the Ahmadnagar Sultanate, in 1610 CE, served as his capital and was named Khadki, strategically important as a base for Malik Ambar's innovative guerrilla warfare against the Mughals, later became the Mughal capital of the Deccan under Aurangzeb who renamed it Aurangabad."
+},
+  {
+  "question": "The city of Naurashpur was founded by which Deccan Sultan?",
+  "choices": [
+    "Ibrahim Adil Shah II of Bijapur",
+    "Muhammad Quli Qutb Shah of Golconda",
+    "Burhan Nizam Shah II of Ahmadnagar",
+    "Qutb-ud-din Mubarak Shah of Khandesh"
+  ],
+  "answer": "Ibrahim Adil Shah II of Bijapur",
+  "explanation": "Historic city founded by Ibrahim Adil Shah II of the Bijapur Sultanate, named Naurashpur in honour of his title 'Naurash' (meaning 'New Age'), intended to be a new capital and cultural center, known for its architectural projects and patronage of the arts, though it did not permanently replace Bijapur as the primary capital of the Sultanate."
+},
+  {
+  "question": "The city of Hyderabad was founded by which ruler?",
+  "choices": [
+    "Muhammad Quli Qutb Shah",
+    "Ibrahim Quli Qutb Shah",
+    "Quli Qutb-ul-Mulk",
+    "Abul Hasan Qutb Shah"
+  ],
+  "answer": "Muhammad Quli Qutb Shah",
+  "explanation": "Historic city in present-day Telangana, founded by Muhammad Quli Qutb Shah, the fifth ruler of the Golconda Sultanate, in 1591 CE, established as a new capital to address overcrowding in Golconda Fort, famous for its iconic Charminar monument built by the same founder, designed as a planned city with grid pattern streets and advanced water supply systems, served as capital of Qutb Shahi dynasty and later of the Nizams of Hyderabad."
 }
 ]
