@@ -592,5 +592,38 @@
     ],
     "answer": "Anand District",
     "explanation": "The historic port of Cambay (now Khambhat) is located in Anand District, Gujarat, at the head of the Gulf of Khambhat. It was one of the most important Indian ports from the ancient through the medieval periods, famous for its trade with the Arab world and for its unique agate carvings. The port eventually silted up due to sedimentation."
-  }
+  },
+  {
+    "question": "The historic fort town of Mudkal, site of a famous battle, is located in which present-day district?",
+    "choices": [
+      "Raichur District, Karnataka",
+      "Vijayapura District, Karnataka",
+      "Kalaburagi District, Karnataka",
+      "Koppal District, Karnataka"
+    ],
+    "answer": "Raichur District, Karnataka",
+    "explanation": "Mudkal (or Mudgal) is a historic fort town located in the Raichur District of Karnataka. It was the site of the Battle of Mudkal (1366 CE), a significant conflict between the Vijayanagara Empire and the Bahmani Sultanate. The town features a large fort with Persian and Kannada inscriptions, reflecting its strategic importance in the Deccan."
+  },
+  {
+    "question": "The medieval fort of Bankapur is located in which present-day district of Karnataka?",
+    "choices": [
+      "Haveri District, Karnataka",
+      "Shivamogga District, Karnataka",
+      "Davanagere District, Karnataka",
+      "Dharwad District, Karnataka"
+    ],
+    "answer": "Haveri District, Karnataka",
+    "explanation": "Bankapur is a historic fort town located in the Haveri District of Karnataka. It was an important stronghold during the medieval period, contested by the Kadambas, Vijayanagara Empire, Bahmani Sultanate, and the Adil Shahis. The town is also known for its Jain heritage and was an early center of the Lingayat movement."
+  },
+{
+  "question": "The fortress of Kherla was strategically located in which present-day district?",
+  "choices": [
+    "Betul District, Madhya Pradesh",
+    "Chhindwara District, Madhya Pradesh",
+    "Narsinghpur District, Madhya Pradesh",
+    "Seoni District, Madhya Pradesh"
+  ],
+  "answer": "Betul District, Madhya Pradesh",
+  "explanation": "Kherla was a strategically important hill fortress located in present-day Betul District of Madhya Pradesh. It guarded the traditional border of the Gondwana region and was a contested stronghold, controlled by the Gond kingdoms, the Delhi Sultanate, and the Mughals due to its commanding position on the Satpura range."
+}
 ]
