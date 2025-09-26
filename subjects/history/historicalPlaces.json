@@ -493,5 +493,104 @@
   ],
   "answer": "Afghanistan, Uzbekistan, and Tajikistan",
   "explanation": "Bactria was an ancient region spanning northern Afghanistan, southern Uzbekistan, and southwestern Tajikistan. Its area corresponds to modern cities like Mazar-e-Sharif (near the ancient capital Balkh) in Afghanistan, Termez in Uzbekistan, and Dushanbe in Tajikistan. Centered around the Amu Darya River, it was a prosperous Hellenistic kingdom after Alexander the Great's conquest and later became a center of Buddhist culture along the Silk Road. It was known as 'Bahlika' in ancient Indian texts."
-}
-  ]
+},
+  {
+    "question": "The fort of Deogiri (Daulatabad) is located in which present-day district?",
+    "choices": [
+      "Nashik District, Maharashtra",
+      "Aurangabad District, Maharashtra",
+      "Pune District, Maharashtra",
+      "Ahmednagar District, Maharashtra"
+    ],
+    "answer": "Aurangabad District, Maharashtra",
+    "explanation": "Deogiri Fort, later renamed Daulatabad by Muhammad bin Tughlaq, is located in Aurangabad District, Maharashtra. It was the capital of the Yadava dynasty and later briefly the capital of the Delhi Sultanate under Tughlaq. The formidable hill fort is famous for its complex defenses and strategic location."
+  },
+  {
+    "question": "The medieval town of Kara, a significant administrative center, was located in which modern district?",
+    "choices": [
+      "Prayagraj District, Uttar Pradesh",
+      "Kaushambi District, Uttar Pradesh",
+      "Pratapgarh District, Uttar Pradesh",
+      "Fatehpur District, Uttar Pradesh"
+    ],
+    "answer": "Kaushambi District, Uttar Pradesh",
+    "explanation": "Kara (or Kada) was a major medieval town located in present-day Kaushambi District, Uttar Pradesh, on the banks of the Ganges. It served as an important provincial capital (iqta) of the Delhi Sultanate. Notable figures like Malik Chajju and Jalaluddin Khilji held this region before ascending to power."
+  },
+  {
+    "question": "The historical town of Manikpur was a significant center located in which modern district?",
+    "choices": [
+      "Pratapgarh District, Uttar Pradesh",
+      "Kaushambi District, Uttar Pradesh",
+      "Prayagraj District, Uttar Pradesh",
+      "Sultanpur District, Uttar Pradesh"
+    ],
+    "answer": "Pratapgarh District, Uttar Pradesh",
+    "explanation": "Manikpur is a historical town located in Pratapgarh District, Uttar Pradesh, situated on the banks of the Ganges. It was an important river port and administrative center during the Delhi Sultanate and Mughal periods, often mentioned alongside Kara as a key strategic and economic hub."
+  },
+  {
+    "question": "The term 'Mabar' used by medieval historians referred to which region in South India?",
+    "choices": [
+      "The Coromandel Coast, particularly the Madurai region",
+      "The Malabar Coast of Kerala",
+      "The Telangana region",
+      "The Raichur Doab"
+    ],
+    "answer": "The Coromandel Coast, particularly the Madurai region",
+    "explanation": "Mabar was the name used by medieval Arab geographers and Delhi Sultanate chroniclers for the Coromandel Coast, specifically referring to the region around Madurai in Tamil Nadu ruled by the Pandya dynasty. It was famous for its pearl fisheries and was a target of Malik Kafur's raids in the 14th century."
+  },
+  {
+    "question": "The small kingdom of Baglana was located in the present-day state of?",
+    "choices": [
+      "Gujarat",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Karnataka"
+    ],
+    "answer": "Maharashtra",
+    "explanation": "Baglana was a small but strategically located kingdom in the Satpura hills, corresponding to the Baglan region of present-day Nashik District in Maharashtra. It was situated between the Deccan Sultanates and the Mughal Empire, often maintaining a precarious independence by paying tribute to larger powers."
+  },
+{
+  "question": "Which city in Haryana was established by Firuz Shah Tughlaq?",
+  "choices": [
+    "Panipat",
+    "Hisar",
+    "Karnal",
+    "Faridabad"
+  ],
+  "answer": "Hisar",
+  "explanation": "Hisar was established by Firuz Shah Tughlaq in 1354 CE and named 'Hisar-e-Firoza'. The city served as an important administrative and military center for the Delhi Sultanate, featuring a citadel, a palace, and several mosques built by the Sultan."
+},
+  {
+    "question": "Firuzabad, the new capital founded by Firuz Shah Tughlaq, is located near which modern metropolis?",
+    "choices": [
+      "Near Delhi",
+      "Near Agra",
+      "Near Lahore",
+      "Near Jaunpur"
+    ],
+    "answer": "Near Delhi",
+    "explanation": "Firuzabad was the fifth city of Delhi, founded by Firuz Shah Tughlaq on the banks of the Yamuna River. Its ruins are located near the modern residential area of Hauz Khas in South Delhi. The city contained Firuz Shah's royal palace, the famous Ashokan Pillar he transported from Topra, and a large reservoir known as Hauz Khas."
+  },
+  {
+    "question": "Samarqand was the capital of the empire of which famous ruler?",
+    "choices": [
+      "Genghis Khan",
+      "Timur (Tamerlane)",
+      "Babur",
+      "Darius I"
+    ],
+    "answer": "Timur (Tamerlane)",
+    "explanation": "Samarqand, in present-day Uzbekistan, was the capital of the Timurid Empire founded by Timur (Tamerlane) in the 14th century. He transformed it into a magnificent city and a center of Islamic culture and learning, adorning it with grand mosques, madrasas, and mausoleums, most notably the Registan square."
+  },
+  {
+    "question": "The historic port of Cambay (Khambhat) is located in which district of Gujarat?",
+    "choices": [
+      "Anand District",
+      "Kheda District",
+      "Bharuch District",
+      "Vadodara District"
+    ],
+    "answer": "Anand District",
+    "explanation": "The historic port of Cambay (now Khambhat) is located in Anand District, Gujarat, at the head of the Gulf of Khambhat. It was one of the most important Indian ports from the ancient through the medieval periods, famous for its trade with the Arab world and for its unique agate carvings. The port eventually silted up due to sedimentation."
+  }
+]
