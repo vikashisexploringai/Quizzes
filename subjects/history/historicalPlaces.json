@@ -724,5 +724,16 @@
     ],
     "answer": "Malaysia",
     "explanation": "The Strait of Malacca is named after the Malacca Sultanate, which was centered in present-day Malacca state, Malaysia. The strait is one of the world's most important shipping lanes, connecting the Indian Ocean to the South China Sea. The port of Malacca was a crucial entrepôt in the spice trade and a center for the spread of Islam in Southeast Asia."
-  }
+  },
+  {
+  "question": "The early Bengal Sultanate capitals of Pandua and Gaur (Lakhnauti) are located in which present-day Indian district?",
+  "choices": [
+    "Malda District, West Bengal",
+    "Murshidabad District, West Bengal",
+    "Nadia District, West Bengal",
+    "Birbhum District, West Bengal"
+  ],
+  "answer": "Malda District, West Bengal",
+  "explanation": "Both Pandua (Firuzabad) and Gaur (Lakhnauti) are located in Malda District, West Bengal, near the India-Bangladesh border. Pandua served as the first capital of the independent Bengal Sultanate founded by Shamsuddin Ilyas Shah. Sultan Sikandar Shah built the massive Adina Mosque in Pandua. During invasions by the Delhi Sultan Firuz Shah Tughlaq, Ilyas Shah and his son Sikandar Shah strategically retreated from Pandua to the fort of Ekdala (in present-day Bogura, Bangladesh) to successfully defend Bengal's independence. The capital was later shifted back to the older city of Gaur, which remained the premier capital through the Ilyas Shahi and subsequent Hussain Shahi dynasty, becoming one of the largest medieval cities in the subcontinent."
+}
 ]
