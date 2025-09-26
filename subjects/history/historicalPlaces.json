@@ -758,6 +758,38 @@
     ],
     "answer": "Assam",
     "explanation": "Historic kingdom in present-day Assam, established in the Brahmaputra Valley by Sukaphaa in 1228 CE, ruled for nearly 600 years until British annexation in 1826, capital at various sites including Charaideo, Garhgaon, and finally Jorhat, known for unique administrative system called Paik, military prowess, and assimilation of Tai and local cultures."
+  },
+      {
+    "question": "The town of Sidhpur in Gujarat was destroyed by which ruler?",
+    "choices": [
+      "Ahmad Shah I of Gujarat",
+      "Mahmud Begada of Gujarat",
+      "Alauddin Khalji",
+      "Qutb-ud-din Aibak"
+    ],
+    "answer": "Ahmad Shah I of Gujarat",
+    "explanation": "Historic town in present-day Patan district, Gujarat, known for its Rudra Mahalaya temple, was destroyed by Sultan Ahmad Shah I of the Gujarat Sultanate in the early 15th century as part of his military campaigns, later developed as a Muslim pilgrimage site due to the tomb of Sufi saint Saiyad Sahib located there."
+  },
+    {
+  "question": "What is the present-day name of the city of Mustafabad, founded by Mahmud Begada after his conquest of Girnar Fort?",
+  "choices": [
+    "Junagadh",
+    "Vanthali",
+    "Keshod",
+    "Visavadar"
+  ],
+  "answer": "Junagadh",
+  "explanation": "Historic city in present-day Gujarat, founded by Sultan Mahmud Begada of the Gujarat Sultanate after his conquest of Girnar Fort in 1472 CE and named Mustafabad, is the modern city of Junagadh. It served as an important administrative center and capital of the Babi dynasty in the Saurashtra region, famous for the Uparkot Fort and Ashokan rock edicts."
+},
+    {
+    "question": "The historical town of Mustafabad, founded by Mahmud Begada, is located near which present-day city in Gujarat?",
+    "choices": [
+      "Near Junagadh",
+      "Near Ahmedabad", 
+      "Near Vadodara",
+      "Near Bhavnagar"
+    ],
+    "answer": "Near Junagadh",
+    "explanation": "Town in present-day Gujarat founded by Sultan Mahmud Begada of the Gujarat Sultanate, established after his conquest of Girnar Fort in 1472 CE, located near present-day Junagadh, named after his son Sultan Muzaffar Shah II (whose original name was Khalil Khan but also known as Mustafa), served as an administrative center in the Saurashtra region."
   }
-]
 ]
