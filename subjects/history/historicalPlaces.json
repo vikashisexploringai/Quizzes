@@ -427,5 +427,71 @@
   ],
   "answer": "Nagalapura",
   "explanation": "Krishnadeva Raya, the emperor of the Vijayanagara Empire, founded the town of Nagalapura near his capital specifically in memory of his mother, Nagamamba Devi. This act demonstrates the practice of patronage and memorialization common among rulers of the period."
+  },
+  {
+    "question": "Which modern city in Gujarat was known as the ancient capital Anhilwara?",
+    "choices": [
+      "Ahmedabad",
+      "Patan",
+      "Vadodara",
+      "Rajkot"
+    ],
+    "answer": "Patan",
+    "explanation": "Anhilwara is the historical name for present-day Patan in Gujarat. It served as the capital of the Solanki (Chalukya) dynasty, which ruled Gujarat from the 10th to the 13th centuries CE. The city was a major center of trade and learning and is famous for the Rani ki Vav, an intricately constructed stepwell that is a UNESCO World Heritage Site."
+  },
+  {
+    "question": "The ancient region of Bactria was primarily located across which modern countries?",
+    "choices": [
+      "Afghanistan, Uzbekistan, and Tajikistan",
+      "Iran, Iraq, and Turkey",
+      "Pakistan, Afghanistan, and Iran",
+      "Turkmenistan, Kazakhstan, and Kyrgyzstan"
+    ],
+    "answer": "Afghanistan, Uzbekistan, and Tajikistan",
+    "explanation": "Bactria was an ancient region spanning northern Afghanistan, southern Uzbekistan, and southwestern Tajikistan. Centered around the Amu Darya River, it was a prosperous Hellenistic kingdom after Alexander the Great's conquest and later became a center of Buddhist culture along the Silk Road. It was known as 'Bahlika' in ancient Indian texts."
+  },
+  {
+    "question": "The historical term Abyssinia refers to which modern-day country?",
+    "choices": [
+      "Egypt",
+      "Ethiopia",
+      "Sudan",
+      "Yemen"
+    ],
+    "answer": "Ethiopia",
+    "explanation": "Abyssinia is the historical name for the Ethiopian Empire, located in the Horn of Africa. It had significant trade and cultural connections with India through ancient maritime routes. The region is mentioned in Indian texts, and several Indian rulers, particularly in the Deccan, employed Abyssinian (Habshi) soldiers and administrators."
+  },
+  {
+    "question": "The term Suvarnadvipa in ancient Indian texts primarily referred to which region?",
+    "choices": [
+      "Sumatra and Java in Indonesia",
+      "Sri Lanka",
+      "The Malay Peninsula",
+      "The Philippine Islands"
+    ],
+    "answer": "Sumatra and Java in Indonesia",
+    "explanation": "Suvarnadvipa, meaning 'Island of Gold', primarily referred to the Indonesian islands of Sumatra and Java in ancient Indian literature. It was a major destination for Indian traders, colonists, and scholars. The powerful Srivijaya Empire, a great center of Buddhist learning, was based in this region and maintained strong ties with Indian kingdoms like the Palas."
+  },
+  {
+    "question": "The fortified city of Siri, built by the Khilji dynasty, is located near which modern metropolis?",
+    "choices": [
+      "Near Delhi",
+      "Near Agra",
+      "Near Dhaka",
+      "Near Kolkata"
+    ],
+    "answer": "Near Delhi",
+    "explanation": "Siri was the second of the seven historical cities of Delhi, built by Alauddin Khilji in the early 14th century. Its ruins are located in present-day South Delhi, near the modern Siri Fort area. It served as a fortified capital to protect against Mongol invasions and was known for its strong defenses and the 'Siri Kotla' fort."
+  },
+  {
+  "question": "The ancient city of Ahichchhatra, associated with the region of Katehar, is located in which present-day district?",
+  "choices": [
+    "Bareilly District, Uttar Pradesh",
+    "Sitapur District, Uttar Pradesh",
+    "Shahjahanpur District, Uttar Pradesh",
+    "Badaun District, Uttar Pradesh"
+  ],
+  "answer": "Bareilly District, Uttar Pradesh",
+  "explanation": "Ahichchhatra is an ancient archaeological site located in Bareilly District, Uttar Pradesh. It was the capital of the Northern Panchala kingdom mentioned in the Mahabharata. The region around it was historically known as Katehar, which later became the core of the Rohilkhand region. The site has revealed significant remains from the Mahajanapada period through the Gupta era, including fortifications and temples."
   }
-]
+  ]
