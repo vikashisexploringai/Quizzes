@@ -1065,5 +1065,159 @@
   ],
   "answer": "Mayiladuthurai District, Tamil Nadu",
   "explanation": "Historic port city in present-day Mayiladuthurai District, Tamil Nadu, ancient capital of the Early Chola kingdom, also known as Kaveripattinam as it was located near the mouth of the Kaveri River, mentioned in Sangam literature like Silappatikaram, served as a major trading port with connections to Southeast Asia and the Roman Empire."
+},
+  {
+  "question": "The Bhal region in Gujarat spans across which group of districts?",
+  "choices": [
+    "Ahmedabad, Bhavnagar, and Anand",
+    "Kutch, Banaskantha, and Patan",
+    "Surat, Navsari, and Valsad", 
+    "Rajkot, Jamnagar, and Porbandar"
+  ],
+  "answer": "Ahmedabad, Bhavnagar, and Anand",
+  "explanation": "Historic geographical region in present-day Gujarat, located on the eastern side of the Gulf of Khambhat, characterized by flat fertile plains, includes areas of Ahmedabad, Bhavnagar, and Anand districts, known for its agricultural productivity, particularly cotton and groundnut cultivation, historically part of the Solanki and later Mughal administrative units."
+},
+  {
+    "question": "The Indus Valley Civilization port city of Lothal is located in which present-day district?",
+    "choices": [
+      "Bhavnagar District, Gujarat",
+      "Ahmedabad District, Gujarat",
+      "Anand District, Gujarat",
+      "Kutch District, Gujarat"
+    ],
+    "answer": "Bhavnagar District, Gujarat",
+    "explanation": "Archaeological site in present-day Bhavnagar district, Gujarat, Indus Valley Civilization port city dating to 2400 BCE, famous for its dockyard, bead-making factory, and organized town planning, one of the most important Harappan sites demonstrating maritime trade connections with Mesopotamia."
+  },
+  {
+    "question": "The Indus Valley Civilization city of Dholavira is located in which present-day district?",
+    "choices": [
+      "Kutch District, Gujarat",
+      "Jamnagar District, Gujarat",
+      "Rajkot District, Gujarat",
+      "Surendranagar District, Gujarat"
+    ],
+    "answer": "Kutch District, Gujarat",
+    "explanation": "Archaeological site in present-day Kutch district, Gujarat, one of the five largest Harappan cities dating to 3000-1500 BCE, famous for its sophisticated water conservation system, large-scale fortifications, and unique signboard with Indus script, UNESCO World Heritage Site located on Khadir Bet island in the Rann of Kutch."
+  },
+  {
+    "question": "The Indus Valley Civilization site of Rakhigarhi is located in which present-day district?",
+    "choices": [
+      "Hisar District, Haryana",
+      "Rohtak District, Haryana",
+      "Jind District, Haryana",
+      "Sirsa District, Haryana"
+    ],
+    "answer": "Hisar District, Haryana",
+    "explanation": "Archaeological site in present-day Hisar district, Haryana, one of the largest Indus Valley Civilization sites spanning over 350 hectares, dating to 2600-1900 BCE, contains evidence of all three phases of Harappan culture, recent DNA studies from skeletons here provide important insights into Harappan population genetics."
+  },
+  {
+  "question": "The historical site of Kampli, associated with the Vijayanagara Empire, is located in which present-day district?",
+  "choices": [
+    "Ballari District, Karnataka",
+    "Koppal District, Karnataka", 
+    "Vijayapura District, Karnataka",
+    "Raichur District, Karnataka"
+  ],
+  "answer": "Ballari District, Karnataka",
+  "explanation": "Historical town in present-day Ballari district, Karnataka, located near the Tungabhadra River, served as an important secondary capital and strategic outpost of the Vijayanagara Empire, features ancient temples and fortifications, part of the larger Vijayanagara archaeological complex."
+},
+  {
+  "question": "The strategic island of Anjediva is located near the coast of which present-day town?",
+  "choices": [
+    "Karwar, Karnataka",
+    "Mormugao, Goa",
+    "Malpe, Karnataka",
+    "Bhatkal, Karnataka"
+  ],
+  "answer": "Karwar, Karnataka",
+  "explanation": "Historic island in present-day Karnataka, located approximately 4 km off the coast of Karwar in Uttara Kannada district, strategically important for naval control of the Arabian Sea, used by Portuguese as a military and naval base since 1505 CE, featured a fort and church, currently houses a Indian Navy station."
+},
+  {
+  "question": "The historical town of Sipri (now Shivpuri) is located in which present-day district?",
+  "choices": [
+    "Shivpuri District, Madhya Pradesh",
+    "Gwalior District, Madhya Pradesh",
+    "Jhansi District, Uttar Pradesh",
+    "Morena District, Madhya Pradesh"
+  ],
+  "answer": "Shivpuri District, Madhya Pradesh",
+  "explanation": "Historic town in present-day Shivpuri district, Madhya Pradesh, originally known as Sipri, served as the summer capital of the Scindia rulers of Gwalior, strategically located on the Agra-Bombay road, notable as the place where Tatya Tope, a key leader of the 1857 rebellion, was captured and hanged by the British, features the Shivpuri National Park and historic monuments including the Scindia Chhatris (cenotaphs)."
+},
+  {
+  "question": "The ancient city of Dharanikota or Dhanyakataka is located near which present-day city?",
+  "choices": [
+    "Near Amaravati, Andhra Pradesh",
+    "Near Vijayawada, Andhra Pradesh",
+    "Near Guntur, Andhra Pradesh",
+    "Near Machilipatnam, Andhra Pradesh"
+  ],
+  "answer": "Near Amaravati, Andhra Pradesh",
+  "explanation": "Historic city in present-day Guntur district, Andhra Pradesh, located on the banks of the Krishna River near Amaravati, served as capital of the Satavahana dynasty and important Buddhist center, site of the great Mahachaitya stupa at Amaravati, major learning center from 3rd century BCE to 3rd century CE, known for its distinctive Amaravati school of sculpture."
+},
+  {
+  "question": "The ancient Buddhist site of Nagarjunakonda is located on an island in which reservoir?",
+  "choices": [
+    "Nagarjuna Sagar Reservoir",
+    "Srisailam Reservoir",
+    "Pulichintala Reservoir",
+    "Pochampadu Reservoir"
+  ],
+  "answer": "Nagarjuna Sagar Reservoir",
+  "explanation": "Historic Buddhist site in present-day Palnadu district, Andhra Pradesh, located on an island in the Nagarjuna Sagar Reservoir formed by damming the Krishna River, was a major Buddhist center and capital of the Ikshvaku dynasty during 3rd-4th century CE, named after Buddhist philosopher Nagarjuna, known for its monasteries, stupas, and exquisite marble sculptures, most structures were relocated to higher ground before the reservoir's creation."
+},
+  {
+    "question": "The ancient Mahajanapada of Madra was primarily located in which present-day Indian state?",
+    "choices": [
+      "Punjab",
+      "Haryana",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "answer": "Punjab",
+    "explanation": "Ancient kingdom in present-day Punjab, with its capital at Sagala (modern Sialkot in Pakistan), mentioned in Mahabharata as the kingdom of Princess Madri (mother of Nakula and Sahadeva), located between the Chenab and Ravi rivers, known for its fierce warriors and distinct cultural practices."
+  },
+  {
+    "question": "The ancient Mahajanapada of Matsya was centered in which present-day Indian state?",
+    "choices": [
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Haryana",
+      "Madhya Pradesh"
+    ],
+    "answer": "Rajasthan",
+    "explanation": "Ancient kingdom in present-day Rajasthan, with its capital at Viratnagar (modern Bairat near Jaipur), mentioned in Mahabharata as the kingdom where Pandavas spent their final year of exile, located in the Jaipur-Alwar-Bharatpur region, known for its association with King Virata and the Matsya tribe."
+  },
+  {
+    "question": "The ancient Mahajanapada of Panchala was located across which present-day states?",
+    "choices": [
+      "Uttar Pradesh and Uttarakhand",
+      "Bihar and Jharkhand",
+      "Madhya Pradesh and Rajasthan",
+      "Haryana and Punjab"
+    ],
+    "answer": "Uttar Pradesh and Uttarakhand",
+    "explanation": "Ancient kingdom spanning present-day western Uttar Pradesh and parts of Uttarakhand, divided into Uttara-Panchala (northern) with capital at Ahichchhatra (Bareilly) and Dakshina-Panchala (southern) with capital at Kampilya (Farrukhabad), mentioned in Mahabharata as the kingdom of Draupadi, important Vedic learning center."
+  },
+  {
+  "question": "The archaeological site of Atranjikhera, associated with the Panchala kingdom, is located in which present-day district?",
+  "choices": [
+    "Etah District, Uttar Pradesh",
+    "Kasganj District, Uttar Pradesh", 
+    "Farrukhabad District, Uttar Pradesh",
+    "Mainpuri District, Uttar Pradesh"
+  ],
+  "answer": "Etah District, Uttar Pradesh",
+  "explanation": "Archaeological site in present-day Etah district, Uttar Pradesh, located on the banks of the Kali River, reveals continuous habitation from Painted Grey Ware period (circa 1200 BCE) through Mughal era, identified with ancient Panchala kingdom, important for understanding early historic urbanization in the Ganga valley."
+},
+  {
+  "question": "The ancient city of Banavasi, the capital of the Kadamba dynasty, is located in which present-day district?",
+  "choices": [
+    "Uttara Kannada District, Karnataka",
+    "Shivamogga District, Karnataka",
+    "Dakshina Kannada District, Karnataka",
+    "Udupi District, Karnataka"
+  ],
+  "answer": "Uttara Kannada District, Karnataka",
+  "explanation": "Historic city in present-day Uttara Kannada district, Karnataka, served as the capital of the Kadamba dynasty (4th-6th century CE), the first native kingdom to rule Karnataka, known for its Madhukeshwara Temple (dedicated to Lord Shiva), one of the oldest cities in Karnataka located near the Varada River."
 }
 ]
