@@ -977,5 +977,93 @@
   ],
   "answer": "Muhammad Quli Qutb Shah",
   "explanation": "Historic city in present-day Telangana, founded by Muhammad Quli Qutb Shah, the fifth ruler of the Golconda Sultanate, in 1591 CE, established as a new capital to address overcrowding in Golconda Fort, famous for its iconic Charminar monument built by the same founder, designed as a planned city with grid pattern streets and advanced water supply systems, served as capital of Qutb Shahi dynasty and later of the Nizams of Hyderabad."
+},
+  {
+  "question": "The city of Rajmahal, which served as the capital of the Bengal Subah under the Mughal Empire, is located in which present-day district?",
+  "choices": [
+    "Sahibganj District, Jharkhand",
+    "Murshidabad District, West Bengal",
+    "Malda District, West Bengal",
+    "Godda District, Jharkhand"
+  ],
+  "answer": "Sahibganj District, Jharkhand",
+  "explanation": "Historic city in present-day Jharkhand, served as the capital of the Bengal Subah under the Mughal Empire in the 16th and 17th centuries, strategically located on the banks of the Ganges River, founded by Raja Man Singh I after his appointment as Mughal governor of Bengal, later served as capital under Shah Shuja (son of Emperor Shah Jahan), eventually replaced by Murshidabad as the regional capital."
+},
+  {
+    "question": "The historic city of Bukhara, a major center on the Silk Road, is located in which modern country?",
+    "choices": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Turkmenistan",
+      "Tajikistan"
+    ],
+    "answer": "Uzbekistan",
+    "explanation": "Historic city in present-day Uzbekistan, major Silk Road trading center and cultural hub, known for its Islamic architecture and learning centers, birthplace of Imam Bukhari, had significant cultural and trade connections with medieval India, particularly during the Delhi Sultanate and Mughal periods."
+  },
+  {
+    "question": "The battlefield of Dharmat is located near which present-day city?",
+    "choices": [
+      "Near Ujjain, Madhya Pradesh",
+      "Near Indore, Madhya Pradesh",
+      "Near Bhopal, Madhya Pradesh",
+      "Near Gwalior, Madhya Pradesh"
+    ],
+    "answer": "Near Ujjain, Madhya Pradesh",
+    "explanation": "Historic battlefield in present-day Madhya Pradesh, located near Ujjain, site of the 1658 CE battle between Aurangzeb and the combined forces of Dara Shikoh and Raja Jaswant Singh of Marwar, strategically important prelude to the War of Mughal Succession, Aurangzeb's victory here strengthened his position before the decisive Battle of Samugarh."
+  },
+  {
+    "question": "The battlefield of Samugarh is located near which present-day city?",
+    "choices": [
+      "Near Agra, Uttar Pradesh",
+      "Near Delhi",
+      "Near Mathura, Uttar Pradesh",
+      "Near Gwalior, Madhya Pradesh"
+    ],
+    "answer": "Near Agra, Uttar Pradesh",
+    "explanation": "Historic battlefield in present-day Uttar Pradesh, located near Agra, site of the decisive 1658 CE Battle of Samugarh during the War of Mughal Succession, where Aurangzeb defeated his brother Dara Shikoh, leading to Aurangzeb's capture of Agra Fort and eventual accession to the Mughal throne."
+  },
+  {
+    "question": "Anandpur Sahib, one of the holiest Sikh pilgrimage sites, is located in which present-day district?",
+    "choices": [
+      "Rupnagar District, Punjab",
+      "SAS Nagar District, Punjab",
+      "Hoshiarpur District, Punjab",
+      "Fatehgarh Sahib District, Punjab"
+    ],
+    "answer": "Rupnagar District, Punjab",
+    "explanation": "Historic city in present-day Rupnagar District, Punjab, founded by Guru Tegh Bahadur in 1665 CE, significant as the place where Guru Gobind Singh established the Khalsa Panth in 1699 CE, site of several battles between Sikhs and Mughal forces, one of the Five Takhts (seats of authority) in Sikhism."
+  },
+{
+  "question": "Talwandi Sabo, also known as Guru ki Kanshi, is located in which present-day district?",
+  "choices": [
+    "Bathinda District, Punjab",
+    "Moga District, Punjab",
+    "Faridkot District, Punjab",
+    "Muktsar District, Punjab"
+  ],
+  "answer": "Bathinda District, Punjab",
+  "explanation": "Historic town in present-day Bathinda District, Punjab, India, known as Talwandi Sabo or Guru ki Kanshi (the 'Kashi' or learning center of the Gurus), significant as the site where Guru Gobind Singh stayed for nine months and prepared the final version of the Guru Granth Sahib, now an important Sikh pilgrimage site with several historic gurdwaras."
+},
+  {
+    "question": "The region of Khwarizm was historically famous as a center for what?",
+    "choices": [
+      "Mathematics and astronomy",
+      "Textile production",
+      "Shipbuilding",
+      "Mining and metallurgy"
+    ],
+    "answer": "Mathematics and astronomy",
+    "explanation": "Historic region in present-day Uzbekistan and Turkmenistan, famous as a major center of Islamic learning, particularly mathematics and astronomy, produced renowned scholars like Al-Khwarizmi (founder of algebra) and Al-Biruni, had significant intellectual exchanges with Indian scholars, particularly during the Ghaznavid and Delhi Sultanate periods."
+  },
+ {
+  "question": "The ancient port city of Puhar (Poompuhar), also known as Kaveripattinam, is located in which present-day district?",
+  "choices": [
+    "Mayiladuthurai District, Tamil Nadu",
+    "Nagapattinam District, Tamil Nadu",
+    "Thanjavur District, Tamil Nadu",
+    "Tiruvvarur District, Tamil Nadu"
+  ],
+  "answer": "Mayiladuthurai District, Tamil Nadu",
+  "explanation": "Historic port city in present-day Mayiladuthurai District, Tamil Nadu, ancient capital of the Early Chola kingdom, also known as Kaveripattinam as it was located near the mouth of the Kaveri River, mentioned in Sangam literature like Silappatikaram, served as a major trading port with connections to Southeast Asia and the Roman Empire."
 }
 ]
