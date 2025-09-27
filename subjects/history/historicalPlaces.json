@@ -1045,16 +1045,16 @@
   "explanation": "Historic town in present-day Bathinda District, Punjab, India, known as Talwandi Sabo or Guru ki Kanshi (the 'Kashi' or learning center of the Gurus), significant as the site where Guru Gobind Singh stayed for nine months and prepared the final version of the Guru Granth Sahib, now an important Sikh pilgrimage site with several historic gurdwaras."
 },
   {
-    "question": "The region of Khwarizm was historically famous as a center for what?",
-    "choices": [
-      "Mathematics and astronomy",
-      "Textile production",
-      "Shipbuilding",
-      "Mining and metallurgy"
-    ],
-    "answer": "Mathematics and astronomy",
-    "explanation": "Historic region in present-day Uzbekistan and Turkmenistan, famous as a major center of Islamic learning, particularly mathematics and astronomy, produced renowned scholars like Al-Khwarizmi (founder of algebra) and Al-Biruni, had significant intellectual exchanges with Indian scholars, particularly during the Ghaznavid and Delhi Sultanate periods."
-  },
+  "question": "The historic region of Khwarizm, a major center of Islamic learning, was primarily located in which modern country?",
+  "choices": [
+    "Uzbekistan",
+    "Iran",
+    "Afghanistan",
+    "Turkmenistan"
+  ],
+  "answer": "Uzbekistan",
+  "explanation": "Historic region in present-day Uzbekistan, with parts extending into Turkmenistan, famous as a major center of Islamic learning, particularly mathematics and astronomy, produced renowned scholars like Al-Khwarizmi (founder of algebra) and Al-Biruni, had significant intellectual exchanges with Indian scholars, particularly during the Ghaznavid and Delhi Sultanate periods."
+},
  {
   "question": "The ancient port city of Puhar (Poompuhar), also known as Kaveripattinam, is located in which present-day district?",
   "choices": [
