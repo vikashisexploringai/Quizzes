@@ -16,9 +16,10 @@
             </div>
         </div>
 
+        <!-- Practice Mode Container -->
         <div id="quiz-container" style="display: none;">
             <div class="timer-container">
-        <span id="stopwatch">00:00</span>
+                <span id="stopwatch">00:00</span>
             </div>
             <div class="progress-container">
                 <div class="progress-bar" id="progress-bar"></div>
@@ -35,7 +36,40 @@
                 <h2>Quiz Completed!</h2>
                 <p>Your score: <span id="score">0</span>/<span id="total">0</span></p>
                 <button onclick="location.reload()">Take Another Quiz</button>
+                <button onclick="window.location.href='mode.html'">Choose Different Mode</button>
                 <button onclick="window.location.href='index.html'">Choose Different Subject</button>
+            </div>
+        </div>
+
+        <!-- Revision Mode Container -->
+        <div id="revision-container" style="display: none;">
+            <div class="progress-container">
+                <div class="progress-bar" id="revision-progress-bar"></div>
+            </div>
+            
+            <div class="flashcard-container">
+                <div class="flashcard" id="flashcard">
+                    <div class="flashcard-front">
+                        <div class="card-content" id="front-content"></div>
+                        <div class="hint">Click to reveal answer</div>
+                    </div>
+                    <div class="flashcard-back">
+                        <div class="card-content" id="back-content"></div>
+                        <div class="explanation-text" id="flashcard-explanation"></div>
+                        <div class="hint">Click to see question</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="revision-controls">
+                <button class="btn-revision" id="prev-card">← Previous</button>
+                <button class="btn-revision" id="flip-card">Flip Card</button>
+                <button class="btn-revision" id="next-card">Next →</button>
+            </div>
+
+            <div class="revision-nav">
+                <button class="btn-revision-nav" onclick="window.location.href='mode.html'">Change Mode</button>
+                <button class="btn-revision-nav" onclick="window.location.href='index.html'">Change Subject</button>
             </div>
         </div>
     </div>
