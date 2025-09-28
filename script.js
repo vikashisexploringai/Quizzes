@@ -1,6 +1,7 @@
 // Global variables
 let currentSubject = '';
 let currentTheme = '';
+let currentMode = '';
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
@@ -87,6 +88,8 @@ document.addEventListener('DOMContentLoaded', function() {
         setupSubjectSelection();
     } else if (path === 'theme.html') {
         setupThemeSelection();
+    } else if (path === 'mode.html') {
+        setupModeSelection();
     } else if (path === 'quiz.html') {
         initializeQuizPage();
     }
@@ -161,11 +164,11 @@ function setupThemeSelection() {
 function selectTheme(theme) {
     currentTheme = theme;
     localStorage.setItem('selectedTheme', theme);
-    window.location.href = 'quiz.html';
+    window.location.href = 'mode.html';
 }
 
-// QUIZ PAGE FUNCTIONS
-function initializeQuizPage() {
+// MODE SELECTION PAGE FUNCTIONS
+function setupModeSelection() {
     const subject = localStorage.getItem('selectedSubject');
     const theme = localStorage.getItem('selectedTheme');
     
@@ -176,6 +179,53 @@ function initializeQuizPage() {
     
     currentSubject = subject;
     currentTheme = theme;
+    
+    // Set the mode selection title
+    const subjectName = subjects[subject].displayName;
+    const themeName = subjects[subject].themes[theme].displayName;
+    document.getElementById('theme-title-mode').textContent = `${subjectName}: ${themeName}`;
+    
+    const modeButtonsContainer = document.getElementById('mode-buttons');
+    modeButtonsContainer.innerHTML = '';
+    
+    // Create mode selection buttons
+    const modes = [
+        { id: 'practice', name: 'Practice Mode', description: 'Test yourself with interactive questions and scoring' },
+        { id: 'revision', name: 'Revision Mode', description: 'Learn with flashcards - perfect for quick review' }
+    ];
+    
+    modes.forEach(mode => {
+        const button = document.createElement('button');
+        button.innerHTML = `
+            <strong>${mode.name}</strong>
+            <br>
+            <small>${mode.description}</small>
+        `;
+        button.onclick = () => selectMode(mode.id);
+        modeButtonsContainer.appendChild(button);
+    });
+}
+
+function selectMode(mode) {
+    currentMode = mode;
+    localStorage.setItem('selectedMode', mode);
+    window.location.href = 'quiz.html';
+}
+
+// QUIZ PAGE FUNCTIONS
+function initializeQuizPage() {
+    const subject = localStorage.getItem('selectedSubject');
+    const theme = localStorage.getItem('selectedTheme');
+    const mode = localStorage.getItem('selectedMode');
+    
+    if (!subject || !theme || !mode) {
+        window.location.href = 'index.html';
+        return;
+    }
+    
+    currentSubject = subject;
+    currentTheme = theme;
+    currentMode = mode;
     
     // Set the quiz title using the display names
     const subjectName = subjects[subject].displayName;
@@ -200,7 +250,7 @@ function initializeQuizPage() {
         .catch(error => {
             console.error('Error loading questions:', error);
             alert('Failed to load questions. Please try again.');
-            window.location.href = 'theme.html';
+            window.location.href = 'mode.html';
         });
 }
 
@@ -233,17 +283,32 @@ function setupQuestionCountSelection() {
 
 function startQuiz(questionCount) {
     document.getElementById('question-count-selection').style.display = 'none';
-    document.getElementById('quiz-container').style.display = 'block';
     
     // Shuffle questions and select the requested number
     selectedQuestions = shuffleArray([...questions]).slice(0, questionCount);
     currentQuestionIndex = 0;
     score = 0;
     
+    // Start the appropriate mode
+    if (currentMode === 'practice') {
+        startPracticeMode();
+    } else if (currentMode === 'revision') {
+        startRevisionMode();
+    }
+}
+
+function startPracticeMode() {
+    document.getElementById('quiz-container').style.display = 'block';
     displayQuestion();
     startStopwatch(); // Start timer when quiz begins
 }
 
+function startRevisionMode() {
+    document.getElementById('revision-container').style.display = 'block';
+    setupRevisionMode();
+}
+
+// PRACTICE MODE FUNCTIONS
 function displayQuestion() {
     if (currentQuestionIndex >= selectedQuestions.length) {
         showResults();
@@ -312,9 +377,10 @@ function nextQuestion() {
 
 function showResults() {
     stopStopwatch();
-const finalTime = document.getElementById('stopwatch').textContent;
-document.getElementById('score').innerHTML += 
-  `<br><small>Time: ${finalTime}</small>`;
+    const finalTime = document.getElementById('stopwatch').textContent;
+    document.getElementById('score').innerHTML += 
+      `<br><small>Time: ${finalTime}</small>`;
+    
     const quizContainer = document.getElementById('quiz-container');
     const questionContainer = document.querySelector('.question-container');
     const explanationContainer = document.getElementById('explanation-container');
@@ -333,13 +399,92 @@ document.getElementById('score').innerHTML +=
     document.getElementById('total').textContent = selectedQuestions.length;
     
     // Add event listeners to buttons (more reliable than inline onclick)
-    document.querySelector('#result-container button:nth-child(3)').onclick = function() {
+    const buttons = document.querySelectorAll('#result-container button');
+    buttons[0].onclick = function() {
         location.reload();
     };
     
-    document.querySelector('#result-container button:nth-child(4)').onclick = function() {
+    buttons[1].onclick = function() {
+        window.location.href = 'mode.html';
+    };
+    
+    buttons[2].onclick = function() {
         window.location.href = 'index.html';
     };
+}
+
+// REVISION MODE FUNCTIONS
+function setupRevisionMode() {
+    const flashcard = document.getElementById('flashcard');
+    const frontContent = document.getElementById('front-content');
+    const backContent = document.getElementById('back-content');
+    const explanationText = document.getElementById('flashcard-explanation');
+    const prevBtn = document.getElementById('prev-card');
+    const nextBtn = document.getElementById('next-card');
+    const flipBtn = document.getElementById('flip-card');
+    const progressBar = document.getElementById('revision-progress-bar');
+
+    function updateCard() {
+        const question = selectedQuestions[currentQuestionIndex];
+        frontContent.textContent = question.question;
+        backContent.textContent = question.answer;
+        explanationText.textContent = question.explanation || 'No explanation available.';
+        
+        // Reset card to front view
+        flashcard.classList.remove('flipped');
+        
+        // Update progress bar
+        const progress = ((currentQuestionIndex + 1) / selectedQuestions.length) * 100;
+        progressBar.style.width = `${progress}%`;
+        
+        // Update button states
+        prevBtn.disabled = currentQuestionIndex === 0;
+        nextBtn.disabled = currentQuestionIndex === selectedQuestions.length - 1;
+    }
+
+    function flipCard() {
+        flashcard.classList.toggle('flipped');
+    }
+
+    function nextCard() {
+        if (currentQuestionIndex < selectedQuestions.length - 1) {
+            currentQuestionIndex++;
+            updateCard();
+        }
+    }
+
+    function prevCard() {
+        if (currentQuestionIndex > 0) {
+            currentQuestionIndex--;
+            updateCard();
+        }
+    }
+
+    // Event listeners
+    flashcard.addEventListener('click', flipCard);
+    flipBtn.addEventListener('click', flipCard);
+    nextBtn.addEventListener('click', nextCard);
+    prevBtn.addEventListener('click', prevCard);
+
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+        switch(e.key) {
+            case 'ArrowLeft':
+                prevCard();
+                break;
+            case 'ArrowRight':
+                nextCard();
+                break;
+            case ' ':
+            case 'Enter':
+                e.preventDefault();
+                flipCard();
+                break;
+        }
+    });
+
+    // Initialize first card
+    updateCard();
 }
 
 // UTILITY FUNCTIONS
